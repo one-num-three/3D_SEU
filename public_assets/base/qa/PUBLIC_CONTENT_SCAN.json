@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "checked_paths": [
+    "ATTRIBUTION.txt",
+    "README.md",
+    "SEU_OSM_BASE_v01.blend",
+    "manifest.json",
+    "AGENTS.md",
+    "SEU_OSM_BASE_v01.glb",
+    "qa/INDEPENDENT_REBUILD_QA.json",
+    "qa/MODEL_BUILD_QA.json",
+    "qa/MODEL_REOPEN_QA.json",
+    "qa/DATA_BUILD_QA.json",
+    "data/mesh_geometry.local.json",
+    "data/PROVENANCE.json",
+    "data/base.local.json",
+    "data/base.wgs84.geojson",
+    "data/CRS.json",
+    "scripts/build_models.py",
+    "scripts/build_data.py",
+    "scripts/validate_models.py",
+    "sources/osm/campus_margin_map.json",
+    "scripts/vendor/geos_small.py",
+    "scripts/vendor/coordinate_transform.py"
+  ],
+  "hits": [],
+  "blend_decompressed_for_scan": true,
+  "glb_json_checked": true,
+  "source_osm_user_uid_metadata": "Public upstream OSM contributor metadata retained, not private project IDs",
+  "scan_categories": [
+    "workstation absolute paths",
+    "private artifact identifiers",
+    "private gallery credentials or host",
+    "private notes and message identifiers"
+  ]
+}

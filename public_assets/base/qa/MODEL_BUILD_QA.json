@@ -1,0 +1,30 @@
+{
+  "status": "PASS_BUILT",
+  "collection": "PUBLIC_OSM_BASE",
+  "mesh_objects": 600,
+  "materials": 3,
+  "images": 0,
+  "fonts_used": 0,
+  "external_libraries": 0,
+  "model_coordinate_convention": {
+    "blend": "Z up local metres; X grid east Y grid north",
+    "glb": "glTF Y up (Blender exporter): X=localX Y=localZ Z=-localY; sameorigin"
+  },
+  "geometry_counts": {
+    "campus_boundary": 1,
+    "building_outline": 201,
+    "road_area": 398
+  },
+  "artifacts": [
+    {
+      "path": "SEU_OSM_BASE_v01.blend",
+      "bytes": 1154388,
+      "sha256": "523f37b012df55f7dd005792f5d7d400b2fa831dcbaa95bb5f0fcb6563a26d77"
+    },
+    {
+      "path": "SEU_OSM_BASE_v01.glb",
+      "bytes": 3981544,
+      "sha256": "6edaafb72a940f81b7c876247265d0200157310ebae9eb1970d93545592db8e2"
+    }
+  ]
+}
