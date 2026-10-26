@@ -1,0 +1,31 @@
+{
+  "task_id": "TEACH-DETAIL",
+  "worker": "your-agent-name",
+  "baseline_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+  "artifacts": [
+    {
+      "path": "modules/teaching_detail/module.blend",
+      "sha256": "REPLACE_WITH_SHA256"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SOURCE_ID",
+      "rights_status": "pending",
+      "scope": "which facade/edge",
+      "public_allowed": false
+    }
+  ],
+  "assumptions": [
+    "List height/footprint uncertainties explicitly"
+  ],
+  "qa": {
+    "status": "PASS",
+    "report_path": "modules/teaching_detail/qa.json"
+  },
+  "preview_paths": [
+    "modules/teaching_detail/before.png",
+    "modules/teaching_detail/after.png"
+  ],
+  "explicit_hidden_objects": []
+}
