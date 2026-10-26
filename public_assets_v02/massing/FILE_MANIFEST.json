@@ -1,0 +1,182 @@
+[
+  {
+    "path": "AGENTS.md",
+    "bytes": 634,
+    "sha256": "eee098b77a1f0b2f0e2f70a99d9da831c92f75719995d9aca6ed3acdf9fdd716"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4610,
+    "sha256": "ede99608e18f65501623bd6d1abb816c4789195f1a01db1e5b322e7ef271bf9f"
+  },
+  {
+    "path": "SEU_OSM_MASSING_v02.blend",
+    "bytes": 479865,
+    "sha256": "9c4fda8dbab5e3fa803d6e3790f10e5bb5df6930baaa9f96170487aed771aac8"
+  },
+  {
+    "path": "SEU_OSM_MASSING_v02.glb",
+    "bytes": 1387396,
+    "sha256": "5aac74b3efb4921c9631dc51a27c0cb1be121a6f807e424c232f6f1378bed829"
+  },
+  {
+    "path": "config.json",
+    "bytes": 955,
+    "sha256": "d296d492bd74bb400d75daaf9d4fb57a758b6b34835c44b009594b9ae5ffc2dc"
+  },
+  {
+    "path": "data/EXCLUSIONS.json",
+    "bytes": 1934,
+    "sha256": "e71584f1253ef168f2a14a12b2e8b53a32e6b1eb7e95d205ff8e0b5f78df34ca"
+  },
+  {
+    "path": "data/massing.local.json",
+    "bytes": 500885,
+    "sha256": "f741496594faa0ed04c54ad343ea4766bc762394a8577e2adac3158d90503372"
+  },
+  {
+    "path": "data/mesh_geometry.local.json",
+    "bytes": 991403,
+    "sha256": "ff24f18084b46baf05aece797f371ff8bd02eaa670ec31ab100278e4a4e6f7e4"
+  },
+  {
+    "path": "handoff.json",
+    "bytes": 1046,
+    "sha256": "fbb4c69ea231739fa62e4e610ce2881b1b8d9bebdadf1caf6243d02fd3ba4c5d"
+  },
+  {
+    "path": "qa/ATLAS_01.png",
+    "bytes": 431247,
+    "sha256": "9812d37eb551164675f31cd28c6b9697e9473cf3c7c20627ba24a45d6986fddc"
+  },
+  {
+    "path": "qa/ATLAS_02.png",
+    "bytes": 495683,
+    "sha256": "8c09f181471a4189f80b552a53054236d51b47511538d38652af1baec1c9e9a4"
+  },
+  {
+    "path": "qa/ATLAS_03.png",
+    "bytes": 376034,
+    "sha256": "9de52aabc4ff0f2c1e21a3c16a66866f41e857f5a7f2007aba3d40677c9f40b0"
+  },
+  {
+    "path": "qa/ATLAS_04.png",
+    "bytes": 428722,
+    "sha256": "b331c7c4ace430149e9900716494dc6e0029fb7c8eac5b07bbffc3781533dee0"
+  },
+  {
+    "path": "qa/ATLAS_05.png",
+    "bytes": 462621,
+    "sha256": "361c0d3d082caed2c8dd3328430d80318c30d6a87a8853a3c6827af3e090b716"
+  },
+  {
+    "path": "qa/ATLAS_06.png",
+    "bytes": 193976,
+    "sha256": "77095dca0960c0e4df2e23db211922002f1d35449e6815c24ea52ba0cc0b0976"
+  },
+  {
+    "path": "qa/DATA_QA.json",
+    "bytes": 1305,
+    "sha256": "4b8c4130e13b51e73b22ecab4853403dec4ca9ee3e9f49e1550f079ba6d5f5bd"
+  },
+  {
+    "path": "qa/HEIGHT_STATUS_OVERVIEW.png",
+    "bytes": 484009,
+    "sha256": "cd64c49a512b86d86c90c553d25230ed1c45eb32855e1e4fc89db1d98ea3aebd"
+  },
+  {
+    "path": "qa/MODEL_BUILD_QA.json",
+    "bytes": 755,
+    "sha256": "bfd62ae60d4f596786c996927982594c88963b92d4fa28b4ceef9c8a4b5e2195"
+  },
+  {
+    "path": "qa/MODEL_REOPEN_QA.json",
+    "bytes": 49311,
+    "sha256": "56e1acbd0fa0b31f4f38259fe5034bddebea935392065ae221d899fa7fea87a9"
+  },
+  {
+    "path": "qa/PARTIAL_REUSE_DIFFERENCE_QA.json",
+    "bytes": 74322,
+    "sha256": "d30563891a81166695442b337c2da9353523fef919bd75f8d395ac77a7c39985"
+  },
+  {
+    "path": "qa/PER_POLYGON_AUDIT.json",
+    "bytes": 56577,
+    "sha256": "5e4c26fa15b8a48a7a5acedb39c44602fd0e6f033d93e26fd1c2a2653e5a2cd5"
+  },
+  {
+    "path": "qa/PUBLIC_CONTENT_SCAN.json",
+    "bytes": 230,
+    "sha256": "980d2d727e62ad18432c379a0f693590d586f175ac8ef5d5b4de5d6aa2213286"
+  },
+  {
+    "path": "qa/VISUAL_REVIEW.json",
+    "bytes": 1069,
+    "sha256": "b0de6248edf5acd93807ed2818e5c94e78b6b61a6560b90ae4357d84f0a08a58"
+  },
+  {
+    "path": "scripts/apply_partial_masks.py",
+    "bytes": 5965,
+    "sha256": "1c02eb8f620b17c47611389c5a6e678ce348da8e014c367fdd4e33e61ca31fe3"
+  },
+  {
+    "path": "scripts/build_data.py",
+    "bytes": 5554,
+    "sha256": "f86192aa9bef8e3b9634c7132db86e7a81406a7fad1793ef61fdaeb6b7ebd91a"
+  },
+  {
+    "path": "scripts/build_models.py",
+    "bytes": 4545,
+    "sha256": "89c3a9cb0d2c0612384d32c0056a8eb4edfdc680e81cd8e0cbcc25a43181a08d"
+  },
+  {
+    "path": "scripts/overview.py",
+    "bytes": 2226,
+    "sha256": "5e064da0053ad13a6aa24f0353c96207c462f4d30f1157daa4320b436e6f5516"
+  },
+  {
+    "path": "scripts/review_atlas.py",
+    "bytes": 1760,
+    "sha256": "ceba96f01634f9e7ca3235456b27a7998cc44e6e363aa9984719bf93e77ac707"
+  },
+  {
+    "path": "scripts/validate_models.py",
+    "bytes": 1540,
+    "sha256": "54906fc55d9c5ad6c641473c9d535dc510647ccff7f01cf0a11d8f75bb31b83d"
+  },
+  {
+    "path": "scripts/vendor/coordinate_transform.py",
+    "bytes": 8666,
+    "sha256": "4ea909fa1bdf1351432e654c97bd00fa45462ed0b029f62f9c4ed4cc0817bab2"
+  },
+  {
+    "path": "scripts/vendor/geos_small.py",
+    "bytes": 1697,
+    "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+  },
+  {
+    "path": "sources/CRS.json",
+    "bytes": 552,
+    "sha256": "286ed22ac82d28e20f7e75207bbaa711b3502ce1be8a5921a1f9d8ff4f12391b"
+  },
+  {
+    "path": "sources/base.local.json",
+    "bytes": 1412519,
+    "sha256": "8398adfab1ba516000a0d4cf7d3898e40eef8b75c632c5607629e262b5b6e33b"
+  },
+  {
+    "path": "sources/campus_margin_map.json",
+    "bytes": 1679925,
+    "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee"
+  },
+  {
+    "path": "sources/mesh_geometry.local.json",
+    "bytes": 3266918,
+    "sha256": "5d274563006b0df42aba37f635fd80ff1036145b6403018c9152ee56c7deb265"
+  },
+  {
+    "path": "sources/partial_reuse_masks.local.geojson",
+    "bytes": 114000,
+    "sha256": "988da0fe098191c97d8cb1319794f0180d49e2d7d97ac91c23401d802e73d9a0"
+  }
+]

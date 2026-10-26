@@ -1,0 +1,40 @@
+{
+  "exclude_ids": [
+    "SEU_B_OSMWAY_299961586",
+    "SEU_B_OSMWAY_299961591",
+    "SEU_B_OSMWAY_299961592",
+    "SEU_B_OSMWAY_299961595",
+    "SEU_B_OSMWAY_299961605",
+    "SEU_B_OSMWAY_299961615",
+    "SEU_B_OSMWAY_299961617",
+    "SEU_B_OSMWAY_299961622",
+    "SEU_B_OSMWAY_630686644"
+  ],
+  "deferred_ids": [
+    "SEU_B_OSMWAY_998738587",
+    "SEU_B_OSMWAY_1056927516",
+    "SEU_B_OSMWAY_1056927517",
+    "SEU_B_OSMWAY_1056927518",
+    "SEU_B_OSMWAY_1056927519",
+    "SEU_B_OSMWAY_1056927521"
+  ],
+  "additional_reused_ids": [
+    "SEU_B_OSMWAY_1056927538",
+    "SEU_B_OSMWAY_1056927536",
+    "SEU_B_OSMWAY_549677715",
+    "SEU_B_OSMWAY_1056927534",
+    "SEU_B_OSMWAY_1056927537",
+    "SEU_B_OSMWAY_300030310"
+  ],
+  "default_height_m": {
+    "dormitory": 18,
+    "school": 12,
+    "university": 15,
+    "retail": 4,
+    "hotel": 15,
+    "yes": 4,
+    "construction": 0.35
+  },
+  "floor_height_m": 3.2,
+  "uncertain_passage_display_height_m": 0.35
+}

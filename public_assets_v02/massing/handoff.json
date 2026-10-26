@@ -1,0 +1,32 @@
+{
+  "status": "READY_FOR_INTEGRATION",
+  "module_blend": "SEU_OSM_MASSING_v02.blend",
+  "module_glb": "SEU_OSM_MASSING_v02.glb",
+  "collection": "PUBLIC_OSM_MASSING_V02",
+  "objects": 194,
+  "source_polygons_represented": 180,
+  "raised_mass_components": 180,
+  "low_marker_components": 14,
+  "raised_breakdown": {
+    "whole_source_estimated_masses": 166,
+    "partial_source_broad_end_masses": 14
+  },
+  "excluded_source_polygons": 21,
+  "excluded_breakdown": {
+    "existing_detailed_9_plus_reused6": 15,
+    "deferred": 6
+  },
+  "coordinates": "same as base v0.1; source XY never moved",
+  "qa": [
+    "qa/DATA_QA.json",
+    "qa/MODEL_REOPEN_QA.json",
+    "qa/PARTIAL_REUSE_DIFFERENCE_QA.json",
+    "qa/HEIGHT_STATUS_OVERVIEW.png"
+  ],
+  "limitations": [
+    "Not194 buildings; these are components referring to180 source polygons.",
+    "Unmapped courtyards remain unknown; source and reuse-mask holes preserved.",
+    "Heights are conceptual; levels times3.2m remains estimated.",
+    "Low markers do not establish passage clearance."
+  ]
+}
