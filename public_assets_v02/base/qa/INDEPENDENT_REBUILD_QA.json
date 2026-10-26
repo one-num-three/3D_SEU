@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "offline": true,
+  "independent_directory": true,
+  "same_host_system_libraries": true,
+  "outputs": [
+    {
+      "path": "data/mesh_geometry.local.json",
+      "byte_identical": true
+    },
+    {
+      "path": "data/PROVENANCE.json",
+      "byte_identical": true
+    },
+    {
+      "path": "data/base.local.json",
+      "byte_identical": true
+    },
+    {
+      "path": "data/base.wgs84.geojson",
+      "byte_identical": true
+    },
+    {
+      "path": "data/CRS.json",
+      "byte_identical": true
+    }
+  ]
+}

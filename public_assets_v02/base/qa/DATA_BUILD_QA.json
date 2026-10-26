@@ -1,0 +1,20 @@
+{
+  "status": "PASS_OSM_ONLY_REBUILD",
+  "counts": {
+    "campus_boundary": 1,
+    "building_outline": 201,
+    "road_area": 398
+  },
+  "feature_count": 600,
+  "triangle_count": 19214,
+  "max_triangulation_area_error_m2": 3.2378011383116245e-10,
+  "source_way_references_resolve": true,
+  "building_vertex_source": "exact source-node transformation, no manual footprint editing",
+  "skipped": [],
+  "not_checked": [
+    "survey accuracy",
+    "building ground/upper separation",
+    "actual road widths",
+    "current completion or official building names"
+  ]
+}
