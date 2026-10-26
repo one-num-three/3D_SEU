@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "items": [
+    {
+      "path": "assets/SEU_campus_massing_v02.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 75534524
+    },
+    {
+      "path": "detail/seu_teaching_gym_detail_v01.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 23686068
+    },
+    {
+      "path": "base/SEU_OSM_BASE_v01.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 7295356
+    },
+    {
+      "path": "massing/SEU_OSM_MASSING_v02.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 2780776
+    },
+    {
+      "path": "reused_detail/seu_reused_buildings_v02.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 42740032
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "independent_directory": true,
+  "only_public_inputs": true,
+  "byte_identical_generated_data": {
+    "data/massing.local.json": true,
+    "data/mesh_geometry.local.json": true,
+    "data/EXCLUSIONS.json": true
+  },
+  "cross_platform_tested": false
+}

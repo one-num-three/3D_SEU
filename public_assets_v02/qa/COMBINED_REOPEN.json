@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "combined_mesh_count": 2166,
+  "source_base_mesh_count": 600,
+  "retained_v01_detail_mesh_count": 239,
+  "additional_reused_detail_mesh_count": 1133,
+  "massing_and_marker_mesh_count": 194,
+  "glb_roundtrip_every_object_bbox_max_error_m": 0.0,
+  "unit_scale_m": 1,
+  "source_blend_no_images_texts_libraries": true,
+  "blend_sha256": "0726193566af8ea737ef7dbe8c2b22fcc38b8e651c77843b6128e6100366ad06",
+  "glb_sha256": "554ef11586dd7f2b690af5c4bc0518d269ca16f2c6a65e2d726428fef6c92f58",
+  "detail_triangle_geometry_validation": "../detail/VALIDATION_REPORT.json",
+  "base_geometry_validation": "../base/qa/MODEL_REOPEN_QA.json",
+  "scope": "2166 source meshes; separate detailed modules already have triangle/geometry validations; not survey accuracy"
+}

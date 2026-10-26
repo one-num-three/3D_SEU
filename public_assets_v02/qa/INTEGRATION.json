@@ -1,0 +1,28 @@
+{
+  "mesh_objects": 2166,
+  "images": 0,
+  "font_objects": 0,
+  "bbox_local_m": [
+    [
+      -929.8988647460938,
+      930.0010986328125
+    ],
+    [
+      -795.2435302734375,
+      798.6849975585938
+    ],
+    [
+      -0.3199999928474426,
+      87.0
+    ]
+  ],
+  "blend_sha256": "0726193566af8ea737ef7dbe8c2b22fcc38b8e651c77843b6128e6100366ad06",
+  "glb_sha256": "554ef11586dd7f2b690af5c4bc0518d269ca16f2c6a65e2d726428fef6c92f58",
+  "units": "meters",
+  "axis_blend": "Z-up",
+  "axis_glb": "glTF Y-up, reversible exporter conversion",
+  "not_full_R3D": true,
+  "stage": "campus concept massing plus reused detail, not complete reconstruction",
+  "append_runtime_unused_library_records": 4,
+  "saved_asset_external_libraries": 0
+}
