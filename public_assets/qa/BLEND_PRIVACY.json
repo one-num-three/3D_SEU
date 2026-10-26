@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "items": [
+    {
+      "path": "assets/SEU_base_teaching_gym_v01.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 30582396
+    },
+    {
+      "path": "detail/seu_teaching_gym_detail_v01.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 23686068
+    },
+    {
+      "path": "base/SEU_OSM_BASE_v01.blend",
+      "private_marker_hits": [],
+      "bytes_scanned": 7295356
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "mesh_objects": 839,
+  "images": 0,
+  "font_objects": 0,
+  "external_libraries": 2,
+  "bbox_local_m": [
+    [
+      -929.8988647460938,
+      930.0010986328125
+    ],
+    [
+      -795.2435302734375,
+      798.6849975585938
+    ],
+    [
+      -0.019999999552965164,
+      27.279998779296875
+    ]
+  ],
+  "blend_sha256": "e276aa52da81ac782f212ac9a6af70e23d38fb048039e520e3fcbd5ffb1225c5",
+  "glb_sha256": "fb31a6ea1b96992282b22bad35e054cb31cfb214db886062cf034187a0a1a5bf",
+  "units": "meters",
+  "axis_blend": "Z-up",
+  "axis_glb": "glTF Y-up, reversible exporter conversion",
+  "not_full_R3D": true
+}
