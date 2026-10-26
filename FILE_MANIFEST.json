@@ -1,5 +1,5 @@
 {
-  "stage": "framework_v0.1_with_independently_manifested_public_assets",
+  "stage": "framework_v0.1_with_independently_manifested_v01_v02_assets",
   "license": "MIT",
   "files": [
     {
@@ -29,8 +29,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "1bc3e209e14e8ab4bb8d85933e99d40c82f8b2f17775ffa93bf2c8cd2a7d30cc",
-      "bytes": 3587
+      "sha256": "1b4ca04411f3608b335d8a81d4894f3dca66a1e4886fbcc78d74a4a5c4c0d392",
+      "bytes": 4256
     },
     {
       "path": "docs/CANDIDATE_SCAN.json",
@@ -84,9 +84,9 @@
     },
     {
       "path": "tools/validate_candidate.py",
-      "sha256": "115885f0f1283f19d402d3ebb3362e5d7919f79a7dc62abe9d3049497f872034",
-      "bytes": 2256
+      "sha256": "47f07f47cb077ee648359adc1187f857589d3b0c9d6b7f2795a5593b3fd3717a",
+      "bytes": 2326
     }
   ],
-  "scope": "Framework files only; public_assets/ is independently covered by public_assets/ASSET_MANIFEST.json."
+  "scope": "Framework files only; public_assets/ and public_assets_v02/ each have an independent ASSET_MANIFEST.json."
 }

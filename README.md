@@ -1,4 +1,4 @@
-# 3D_SEU 校园3D资产与AI协作框架 v0.1
+# 3D_SEU 校园3D资产与AI协作框架
 
 仓库：https://github.com/one-num-three/3D_SEU
 
@@ -6,7 +6,17 @@
 
 本框架代码与文档采用 [MIT License](LICENSE)，Copyright (c) 2026 3D_SEU contributors。第三方地理数据、影像、字体及模型资产不因本LICENSE被重新授权；见 [NOTICE.md](NOTICE.md)。
 
-## 已提供的真实3D资产
+## 全校体块样板 v0.2
+
+[查看v0.2资产与逐源轮廓状态](public_assets_v02/README.md)：已保留的教学/体育馆及其他已有细部，加其余建筑估高体块；高度/未映射庭院尚未实测。v0.1仍保留。
+
+![v0.2全览](public_assets_v02/previews/CAMPUS_OBLIQUE.png)
+
+[整体GLB](public_assets_v02/assets/SEU_campus_massing_v02.glb) · [Blender源文件](public_assets_v02/assets/SEU_campus_massing_v02.blend) · [201源轮廓状态清单](public_assets_v02/BUILDING_STATUS.json)
+
+数据ODbL、原创视觉CC BY4.0、代码MIT；v0.2由public_assets_v02/ASSET_MANIFEST.json独立校验，不以框架或v0.1清单冒充全仓库清单。
+
+## 已提供的真实3D资产 v0.1
 
 [打开资产目录](public_assets/README.md)：全校OSM建筑/道路基底＋已做教1–8和体育馆。包含可编辑Blend、GLB、源数据库、重建脚本和许可，非完整校园最终模型。
 
