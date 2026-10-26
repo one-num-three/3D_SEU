@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "decompressed_blend_scan": true,
+  "text_sources_scan": true,
+  "prohibited_categories": [
+    "private gallery hosts",
+    "workstation absolute paths"
+  ],
+  "no_textures_fonts_external_libraries": true
+}

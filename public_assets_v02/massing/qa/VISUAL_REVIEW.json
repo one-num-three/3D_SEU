@@ -1,0 +1,14 @@
+{
+  "review": "All 186 initial candidate cards in six atlas pages visually inspected; exclusions may reduce final set without changing geometry.",
+  "findings": [
+    "Concave source notches and narrow links retained; no enclosing convex hull substitution.",
+    "No source inner rings; no building multipolygon relation in raw snapshot. Two sports-pitch multipolygons exist but are not massed.",
+    "Five passage/connector candidates lowered to explicit markers; construction marker also remains low.",
+    "No visible source-road through-route silently given full-height wall. Estimated-width edge touches are retained with uncertainty."
+  ],
+  "not_verified": [
+    "Undocumented courtyards, actual floors/heights and passage clearance",
+    "Absolute position or current real-world completion"
+  ],
+  "final_partial_review": "Re-reviewed largest partial sources on atlas: wide end blocks identified despite low global 2A/P. Six source remainders partitioned into 14 broad masses plus low rims; two narrow rings remain low. Full height/status overview inspected."
+}

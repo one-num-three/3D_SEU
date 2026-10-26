@@ -1,0 +1,29 @@
+{
+  "source_polygon_count": 201,
+  "included_polygon_objects": 194,
+  "excluded": 21,
+  "classification_counts": {
+    "estimated_massing_not_surveyed": 181,
+    "undifferentiated_open_relationship_low_marker": 5,
+    "narrow_difference_marker_not_full_wall": 8
+  },
+  "height_source_counts": {
+    "OSM building:levels multiplied by assumed 3.2m/floor": 91,
+    "conservative low projection marker: passage/connector undifferentiated": 5,
+    "building_type_default": 90,
+    "narrow remainder low projection marker": 8
+  },
+  "holes_count": 2,
+  "source_boundaries_unchanged": "Full sources unchanged; partial sources are clipped by explicit reused geometry masks, never moved",
+  "limitations": [
+    "Source simple way polygons do not distinguish untagged courtyards or roof vs ground. No hidden courtyard inferred.",
+    "Low markers are not claims of actual low buildings or measured passage clearance.",
+    "Each polygon audited computationally; visual atlas provided for human review, not a surveyed validation."
+  ],
+  "partial_source_ids": 8,
+  "partial_piece_count": 307,
+  "low_marker_count": 14,
+  "raised_massing_object_count": 180,
+  "preserves_source_and_reuse_mask_holes": true,
+  "unmapped_real_courtyards": "unknown; source polygons alone do not verify real-world courtyard openness"
+}

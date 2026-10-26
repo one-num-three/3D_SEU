@@ -1,0 +1,2266 @@
+[
+  {
+    "source_stable_id": "SEU_B_OSMWAY_300030302",
+    "source_area_m2": 958.2903191489697,
+    "reused_mask_intersection_m2": 901.3509845204493,
+    "remaining_area_m2": 56.73089890437495,
+    "mask_enclosed_open_rings_preserved": 1,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.20843572414582923,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_300030302__REMAINDER_01",
+        "area_m2": 56.73089890437507,
+        "width_proxy_2A_perimeter_m": 0.3707738890806067,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 1,
+        "triangulation_error_m2": 3.623767952376511e-13
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 0.0
+  },
+  {
+    "source_stable_id": "SEU_B_OSMWAY_300030305",
+    "source_area_m2": 7465.026832027966,
+    "reused_mask_intersection_m2": 6802.385938056615,
+    "remaining_area_m2": 662.6408939713428,
+    "mask_enclosed_open_rings_preserved": 0,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.0,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_01",
+        "area_m2": 73.55139419394293,
+        "width_proxy_2A_perimeter_m": 3.400471589270355,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 1.4210854715202004e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_02",
+        "area_m2": 60.19773733703796,
+        "width_proxy_2A_perimeter_m": 3.073624130310104,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 2.1316282072803006e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_03",
+        "area_m2": 127.21312215275279,
+        "width_proxy_2A_perimeter_m": 4.991526750099,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_04",
+        "area_m2": 175.22374437794582,
+        "width_proxy_2A_perimeter_m": 5.471486478609203,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 5.684341886080802e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_05",
+        "area_m2": 34.74684356197597,
+        "width_proxy_2A_perimeter_m": 0.37480441052004915,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.684341886080802e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_06",
+        "area_m2": 0.49494248403698143,
+        "width_proxy_2A_perimeter_m": 0.18483970083493703,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_07",
+        "area_m2": 0.4928917265604143,
+        "width_proxy_2A_perimeter_m": 0.18435052621313888,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_08",
+        "area_m2": 30.388757499294275,
+        "width_proxy_2A_perimeter_m": 0.364624912314587,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 8.881784197001252e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_09",
+        "area_m2": 0.4955143344313373,
+        "width_proxy_2A_perimeter_m": 0.18497596139515227,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_10",
+        "area_m2": 0.48892995123252014,
+        "width_proxy_2A_perimeter_m": 0.18340319391525148,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_11",
+        "area_m2": 148.26625701968345,
+        "width_proxy_2A_perimeter_m": 1.6258494116513307,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 8.526512829121202e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_12",
+        "area_m2": 0.4916422512291788,
+        "width_proxy_2A_perimeter_m": 0.1840520843799385,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_13",
+        "area_m2": 0.49675742031952497,
+        "width_proxy_2A_perimeter_m": 0.1852719465969374,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_14",
+        "area_m2": 8.178250886143287,
+        "width_proxy_2A_perimeter_m": 0.5665414457730179,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.552713678800501e-15
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_15",
+        "area_m2": 0.49189576245887284,
+        "width_proxy_2A_perimeter_m": 0.18411266103269874,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_16",
+        "area_m2": 0.49453311843043035,
+        "width_proxy_2A_perimeter_m": 0.184742118384664,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "area_m2": 0.0011363328155342058,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011364442904897047,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_19",
+        "area_m2": 0.03236365540794683,
+        "width_proxy_2A_perimeter_m": 0.04597696524163705,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_20",
+        "area_m2": 0.030041200991035258,
+        "width_proxy_2A_perimeter_m": 0.042660825678510456,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011361122031012594,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_22",
+        "area_m2": 0.03238401195541344,
+        "width_proxy_2A_perimeter_m": 0.04590844714647699,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_23",
+        "area_m2": 0.030040404035529683,
+        "width_proxy_2A_perimeter_m": 0.04266031378831395,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011363054138654616,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011368149672861172,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_26",
+        "area_m2": 0.03236369283367479,
+        "width_proxy_2A_perimeter_m": 0.04597674903371495,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_27",
+        "area_m2": 0.030040833757120945,
+        "width_proxy_2A_perimeter_m": 0.04266052113903518,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0011360856208975012,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011365951062645436,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_30",
+        "area_m2": 0.03236331450684852,
+        "width_proxy_2A_perimeter_m": 0.04597660191175008,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_31",
+        "area_m2": 0.030041365199618017,
+        "width_proxy_2A_perimeter_m": 0.0426609717972783,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.001136094567318922,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011366414616137788,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_34",
+        "area_m2": 0.03236373355478614,
+        "width_proxy_2A_perimeter_m": 0.04597682015975057,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 6.938893903907228e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_35",
+        "area_m2": 0.030040714288749104,
+        "width_proxy_2A_perimeter_m": 0.042660575006851074,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011363122514338434,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.001136423723652321,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_38",
+        "area_m2": 0.0323633443228786,
+        "width_proxy_2A_perimeter_m": 0.045976683015550954,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_39",
+        "area_m2": 0.02093604804255097,
+        "width_proxy_2A_perimeter_m": 0.03390365297399703,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011793405785319006,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011801927891455476,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_42",
+        "area_m2": 0.024502963564810396,
+        "width_proxy_2A_perimeter_m": 0.039722948698109495,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_43",
+        "area_m2": 0.02092781925697989,
+        "width_proxy_2A_perimeter_m": 0.03389558453152822,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011792794106437712,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.001178632214406982,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_46",
+        "area_m2": 0.02450509305815612,
+        "width_proxy_2A_perimeter_m": 0.03972445939082676,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_47",
+        "area_m2": 0.02450328646527118,
+        "width_proxy_2A_perimeter_m": 0.03972325718890498,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011792801426223367,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011786314653790618,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_50",
+        "area_m2": 0.020934117752718823,
+        "width_proxy_2A_perimeter_m": 0.03390173068119555,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_51",
+        "area_m2": 0.020932360658225735,
+        "width_proxy_2A_perimeter_m": 0.033900083631189806,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_52",
+        "area_m2": 0.020931023264209342,
+        "width_proxy_2A_perimeter_m": 0.033898806015459824,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011794749139924744,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011785029040433052,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_55",
+        "area_m2": 0.024508438164827187,
+        "width_proxy_2A_perimeter_m": 0.03972724023312439,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_56",
+        "area_m2": 0.020933713546332083,
+        "width_proxy_2A_perimeter_m": 0.0339013877195932,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011793403342774654,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011801927892031083,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_59",
+        "area_m2": 0.024500873147169568,
+        "width_proxy_2A_perimeter_m": 0.03972109304585042,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_60",
+        "area_m2": 0.020936395585103747,
+        "width_proxy_2A_perimeter_m": 0.03390404452713048,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.001177786559069032,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_62",
+        "area_m2": 0.030040445983207154,
+        "width_proxy_2A_perimeter_m": 0.04266034597753323,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0011363159469947723,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011368250012338045,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_65",
+        "area_m2": 0.03236374843731542,
+        "width_proxy_2A_perimeter_m": 0.04597679768466943,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 6.938893903907228e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_66",
+        "area_m2": 0.030040665338172075,
+        "width_proxy_2A_perimeter_m": 0.042660531526081284,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.001136319857539324,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011366012251961947,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_69",
+        "area_m2": 0.03236337219561363,
+        "width_proxy_2A_perimeter_m": 0.04597665790563572,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_70",
+        "area_m2": 0.030041387310200184,
+        "width_proxy_2A_perimeter_m": 0.04266097994634049,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011361196350937648,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011368220819070096,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_73",
+        "area_m2": 0.03236328870918498,
+        "width_proxy_2A_perimeter_m": 0.045976347210795576,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_74",
+        "area_m2": 0.030040756718979593,
+        "width_proxy_2A_perimeter_m": 0.0426606080547466,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011363289047565028,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011366680504113532,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_77",
+        "area_m2": 0.03236403250018739,
+        "width_proxy_2A_perimeter_m": 0.045977105631186135,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030305__REMAINDER_78",
+        "area_m2": 0.030040976074004272,
+        "width_proxy_2A_perimeter_m": 0.04266079360189046,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 436.18599806169334
+  },
+  {
+    "source_stable_id": "SEU_B_OSMWAY_300030307",
+    "source_area_m2": 3072.9257038228675,
+    "reused_mask_intersection_m2": 1996.898373863476,
+    "remaining_area_m2": 1075.8342273234716,
+    "mask_enclosed_open_rings_preserved": 2,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.19310263591887633,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_01",
+        "area_m2": 424.3253819815161,
+        "width_proxy_2A_perimeter_m": 8.09051717314372,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 5.684341886080802e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_02",
+        "area_m2": 42.09442698431059,
+        "width_proxy_2A_perimeter_m": 3.067032513153933,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 2.1316282072803006e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_03",
+        "area_m2": 564.2693482566066,
+        "width_proxy_2A_perimeter_m": 7.026390390994332,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 2.2737367544323206e-13
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_04",
+        "area_m2": 8.329926709994055,
+        "width_proxy_2A_perimeter_m": 0.12759390217656147,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 4.440892098500626e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_05",
+        "area_m2": 0.49473086382666515,
+        "width_proxy_2A_perimeter_m": 0.18478925994929102,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_06",
+        "area_m2": 0.4926776047592346,
+        "width_proxy_2A_perimeter_m": 0.18429940396724595,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_07",
+        "area_m2": 0.4948209560530829,
+        "width_proxy_2A_perimeter_m": 0.18481073500353007,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_08",
+        "area_m2": 0.4937112549064701,
+        "width_proxy_2A_perimeter_m": 0.18454610897978152,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_09",
+        "area_m2": 8.425590934983912,
+        "width_proxy_2A_perimeter_m": 0.23898521184811597,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 1.7763568394002505e-15
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_10",
+        "area_m2": 0.4943864844587887,
+        "width_proxy_2A_perimeter_m": 0.1847071566603685,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_11",
+        "area_m2": 10.201543920567225,
+        "width_proxy_2A_perimeter_m": 0.16532004180515908,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 1.4210854715202004e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_12",
+        "area_m2": 0.49401989762932713,
+        "width_proxy_2A_perimeter_m": 0.18461973370197632,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_13",
+        "area_m2": 0.49602343903355856,
+        "width_proxy_2A_perimeter_m": 0.1850972178192533,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_14",
+        "area_m2": 11.431333585372908,
+        "width_proxy_2A_perimeter_m": 0.18283994424098549,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 1.7763568394002505e-15
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_15",
+        "area_m2": 0.49276971564513294,
+        "width_proxy_2A_perimeter_m": 0.18432139681872745,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_16",
+        "area_m2": 0.4921824298875811,
+        "width_proxy_2A_perimeter_m": 0.1841811453113009,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_17",
+        "area_m2": 0.49529850030219746,
+        "width_proxy_2A_perimeter_m": 0.18492453983434806,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "area_m2": 6.8712610444559455e-06,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_19",
+        "area_m2": 0.49307392811517564,
+        "width_proxy_2A_perimeter_m": 0.18439402039232003,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_20",
+        "area_m2": 0.49330339382354116,
+        "width_proxy_2A_perimeter_m": 0.18444878805361847,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "area_m2": 0.0009005118463495901,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_22",
+        "area_m2": 0.01890589406828209,
+        "width_proxy_2A_perimeter_m": 0.03185280338095823,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_23",
+        "area_m2": 0.026902294959812022,
+        "width_proxy_2A_perimeter_m": 0.04078832695905598,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0007039654100996913,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0007983459991559607,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_26",
+        "area_m2": 0.025281433347772882,
+        "width_proxy_2A_perimeter_m": 0.03838904145676975,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_27",
+        "area_m2": 0.02690114240999905,
+        "width_proxy_2A_perimeter_m": 0.04078715268998923,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0007038570112199704,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0007983890065545686,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_30",
+        "area_m2": 0.026995284602639367,
+        "width_proxy_2A_perimeter_m": 0.040855773864906825,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_31",
+        "area_m2": 0.025185445777862366,
+        "width_proxy_2A_perimeter_m": 0.038314208393095704,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0007040209379798357,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0007983472484378039,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_34",
+        "area_m2": 0.02527936576059027,
+        "width_proxy_2A_perimeter_m": 0.038387082792237626,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_35",
+        "area_m2": 0.025191486032739546,
+        "width_proxy_2A_perimeter_m": 0.038320036210215576,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0007034362506107266,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0007981539033838618,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_38",
+        "area_m2": 0.02700057154312996,
+        "width_proxy_2A_perimeter_m": 0.04086103770276682,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_39",
+        "area_m2": 0.026904788199166578,
+        "width_proxy_2A_perimeter_m": 0.04079084937086371,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0007040206554262688,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0007983678134719946,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_42",
+        "area_m2": 0.026999322992948452,
+        "width_proxy_2A_perimeter_m": 0.04085977949114055,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_43",
+        "area_m2": 0.025188341770804347,
+        "width_proxy_2A_perimeter_m": 0.03831691742321035,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.00070399381760751,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0007983678134720448,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_46",
+        "area_m2": 0.026998074468505693,
+        "width_proxy_2A_perimeter_m": 0.040858521279464044,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_47",
+        "area_m2": 0.022477446393828693,
+        "width_proxy_2A_perimeter_m": 0.03790966104051277,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0008999633901495211,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009002276094330188,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_50",
+        "area_m2": 0.018904683719892828,
+        "width_proxy_2A_perimeter_m": 0.031851546239884294,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_51",
+        "area_m2": 0.02247813709768352,
+        "width_proxy_2A_perimeter_m": 0.037910067453098995,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0008999680716729574,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009003664817806179,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_54",
+        "area_m2": 0.018904033191219964,
+        "width_proxy_2A_perimeter_m": 0.03185089248328638,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_55",
+        "area_m2": 0.022477814349960636,
+        "width_proxy_2A_perimeter_m": 0.03790986277845366,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0008999587071080077,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009002313825963199,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_58",
+        "area_m2": 0.0189056384513055,
+        "width_proxy_2A_perimeter_m": 0.031852523257858804,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_59",
+        "area_m2": 0.02247836614204499,
+        "width_proxy_2A_perimeter_m": 0.037910308444528994,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009003388037674848,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_61",
+        "area_m2": 0.022478294094817792,
+        "width_proxy_2A_perimeter_m": 0.03791025146829768,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.000900097918001629,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009005156155362985,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_64",
+        "area_m2": 0.018905064836983693,
+        "width_proxy_2A_perimeter_m": 0.03185194175981946,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_65",
+        "area_m2": 0.022480158910598957,
+        "width_proxy_2A_perimeter_m": 0.037911909877098846,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 6.938893903907228e-18
+      },
+      {
+        "area_m2": 0.0009001016854475855,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009005118463386124,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_68",
+        "area_m2": 0.01890620387394959,
+        "width_proxy_2A_perimeter_m": 0.031853122676932896,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_69",
+        "area_m2": 0.02247984908851645,
+        "width_proxy_2A_perimeter_m": 0.03791162883187692,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009001016854464468,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_71",
+        "area_m2": 0.016639911125740384,
+        "width_proxy_2A_perimeter_m": 0.029461096402075927,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_72",
+        "area_m2": 0.020211895996123188,
+        "width_proxy_2A_perimeter_m": 0.03582362497361224,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009391668868310162,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009387628802710453,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_75",
+        "area_m2": 0.016639450809860557,
+        "width_proxy_2A_perimeter_m": 0.029460604829941756,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_76",
+        "area_m2": 0.02021123574669588,
+        "width_proxy_2A_perimeter_m": 0.035823008436794306,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009391668867824839,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.00093876257893753,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_79",
+        "area_m2": 0.016638789538482968,
+        "width_proxy_2A_perimeter_m": 0.029459900448496033,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009568757572009424,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_81",
+        "area_m2": 0.01663941519629777,
+        "width_proxy_2A_perimeter_m": 0.029460575101302636,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_82",
+        "area_m2": 0.020213362460510025,
+        "width_proxy_2A_perimeter_m": 0.035824995612194384,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009389506408042303,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009387544391885603,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_85",
+        "area_m2": 0.01663986712566006,
+        "width_proxy_2A_perimeter_m": 0.029461067446076947,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_86",
+        "area_m2": 0.020213705906457432,
+        "width_proxy_2A_perimeter_m": 0.03582529899430635,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009387218338463876,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.001057196736090271,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_89",
+        "area_m2": 0.028612584488264835,
+        "width_proxy_2A_perimeter_m": 0.04135550522063974,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 5.987354521599776e-08,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 8.363409639292245e-06,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030307__REMAINDER_92",
+        "area_m2": 0.020211383314728597,
+        "width_proxy_2A_perimeter_m": 0.03582353092230341,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009391604496247292,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.000938769326305841,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 1030.689157222435
+  },
+  {
+    "source_stable_id": "SEU_B_OSMWAY_300030321",
+    "source_area_m2": 973.1414624838571,
+    "reused_mask_intersection_m2": 915.8524574520251,
+    "remaining_area_m2": 57.28900503183195,
+    "mask_enclosed_open_rings_preserved": 0,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.0,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_300030321__REMAINDER_01",
+        "area_m2": 57.28900503183115,
+        "width_proxy_2A_perimeter_m": 0.3882124951062739,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 1,
+        "triangulation_error_m2": 6.821210263296962e-13
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 0.0
+  },
+  {
+    "source_stable_id": "SEU_B_OSMWAY_300030322",
+    "source_area_m2": 1638.0773932068614,
+    "reused_mask_intersection_m2": 1203.057243984545,
+    "remaining_area_m2": 435.0201492223164,
+    "mask_enclosed_open_rings_preserved": 1,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.0,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_01",
+        "area_m2": 103.29617646243109,
+        "width_proxy_2A_perimeter_m": 4.5980590751298305,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 1.4210854715202004e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_02",
+        "area_m2": 286.07709855410985,
+        "width_proxy_2A_perimeter_m": 8.686648380965659,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 1.1368683772161603e-13
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_03",
+        "area_m2": 0.4936728584617317,
+        "width_proxy_2A_perimeter_m": 0.18453694846613686,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_04",
+        "area_m2": 0.49325028157314704,
+        "width_proxy_2A_perimeter_m": 0.18443611241092628,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_05",
+        "area_m2": 0.49552189927627394,
+        "width_proxy_2A_perimeter_m": 0.18497776352429723,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_06",
+        "area_m2": 13.692350033152955,
+        "width_proxy_2A_perimeter_m": 0.2669661437307167,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 1.7763568394002505e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_07",
+        "area_m2": 0.4949614079032358,
+        "width_proxy_2A_perimeter_m": 0.18484421102513765,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 1.1102230246251565e-16
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_08",
+        "area_m2": 0.49346626028600926,
+        "width_proxy_2A_perimeter_m": 0.18448765396341216,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_09",
+        "area_m2": 29.18843570094431,
+        "width_proxy_2A_perimeter_m": 0.3373744912620288,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 2.842170943040401e-14
+      },
+      {
+        "area_m2": 0.001164886260590127,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_11",
+        "area_m2": 0.03032483795547312,
+        "width_proxy_2A_perimeter_m": 0.042916081415535115,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_12",
+        "area_m2": 0.03268491393340173,
+        "width_proxy_2A_perimeter_m": 0.046277058642170646,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0011616135937289232,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011649360149436987,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_15",
+        "area_m2": 0.0303268599078572,
+        "width_proxy_2A_perimeter_m": 0.04291777603333571,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_16",
+        "area_m2": 0.032687189252900775,
+        "width_proxy_2A_perimeter_m": 0.04627902875632342,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.001161661678493931,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.001162220141348066,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_19",
+        "area_m2": 0.03032784690261413,
+        "width_proxy_2A_perimeter_m": 0.0429193512677546,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_20",
+        "area_m2": 0.0303255585566679,
+        "width_proxy_2A_perimeter_m": 0.04291679224280793,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0011642516740098681,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0011622941204644508,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0012352486351727154,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_24",
+        "area_m2": 0.022077165862874934,
+        "width_proxy_2A_perimeter_m": 0.0350224268434077,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_25",
+        "area_m2": 0.025650342710315556,
+        "width_proxy_2A_perimeter_m": 0.0407281786020687,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0012350072958244804,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0012350654255923162,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_28",
+        "area_m2": 0.022078036446838336,
+        "width_proxy_2A_perimeter_m": 0.03502325759176274,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_300030322__REMAINDER_29",
+        "area_m2": 0.025650999699835184,
+        "width_proxy_2A_perimeter_m": 0.04072869929714625,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0012348280959702102,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 389.3732750165564
+  },
+  {
+    "source_stable_id": "SEU_B_OSMWAY_637696077",
+    "source_area_m2": 1241.7784232899712,
+    "reused_mask_intersection_m2": 955.1980139243284,
+    "remaining_area_m2": 286.5804093656434,
+    "mask_enclosed_open_rings_preserved": 0,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.0,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_01",
+        "area_m2": 56.60849499197148,
+        "width_proxy_2A_perimeter_m": 3.6708351692307537,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 7.105427357601002e-15
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_02",
+        "area_m2": 199.05496750360072,
+        "width_proxy_2A_perimeter_m": 5.570268694269729,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 2.842170943040401e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_03",
+        "area_m2": 0.49443097726090557,
+        "width_proxy_2A_perimeter_m": 0.18471776545376542,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_04",
+        "area_m2": 11.88599297765292,
+        "width_proxy_2A_perimeter_m": 0.20100468261013343,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.730349362740526e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_05",
+        "area_m2": 0.49241958893228854,
+        "width_proxy_2A_perimeter_m": 0.1842377900559313,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_06",
+        "area_m2": 0.4938806983827537,
+        "width_proxy_2A_perimeter_m": 0.184586530907045,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_07",
+        "area_m2": 15.373164460888116,
+        "width_proxy_2A_perimeter_m": 0.24948208644220346,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 2.6645352591003757e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_08",
+        "area_m2": 0.49375302080620304,
+        "width_proxy_2A_perimeter_m": 0.1845560730438605,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_09",
+        "area_m2": 0.4936214528397278,
+        "width_proxy_2A_perimeter_m": 0.18452468381356538,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_10",
+        "area_m2": 0.4947033693367814,
+        "width_proxy_2A_perimeter_m": 0.18478270584562084,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_11",
+        "area_m2": 0.49000909332832276,
+        "width_proxy_2A_perimeter_m": 0.1836615400214252,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0008732206638232124,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0008744426235499417,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_14",
+        "area_m2": 0.016129850462411388,
+        "width_proxy_2A_perimeter_m": 0.02890623158565701,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009390418800666949,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_16",
+        "area_m2": 0.016129206326936776,
+        "width_proxy_2A_perimeter_m": 0.028905530074682488,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_17",
+        "area_m2": 0.019702482904621482,
+        "width_proxy_2A_perimeter_m": 0.035346569543524504,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0008732304650179045,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0008742098670575229,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_20",
+        "area_m2": 0.01612927866113523,
+        "width_proxy_2A_perimeter_m": 0.028905604835179358,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_21",
+        "area_m2": 0.019702487221266992,
+        "width_proxy_2A_perimeter_m": 0.035346549844514255,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0008732306181338763,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0008748643559275142,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_24",
+        "area_m2": 0.01612897592989344,
+        "width_proxy_2A_perimeter_m": 0.028905304585711025,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_25",
+        "area_m2": 0.019703425229563257,
+        "width_proxy_2A_perimeter_m": 0.03534741570909959,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0008732288328067268,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0008744344884735697,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_28",
+        "area_m2": 0.016130179474283312,
+        "width_proxy_2A_perimeter_m": 0.02890660252942552,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_29",
+        "area_m2": 0.019704396475529247,
+        "width_proxy_2A_perimeter_m": 0.035348361918894074,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.000872800736355845,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.000873996584328033,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_32",
+        "area_m2": 0.0161311076201661,
+        "width_proxy_2A_perimeter_m": 0.02890760704248643,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696077__REMAINDER_33",
+        "area_m2": 0.019703139228802024,
+        "width_proxy_2A_perimeter_m": 0.035347180621646275,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 255.6634624955658
+  },
+  {
+    "source_stable_id": "SEU_B_OSMWAY_637696078",
+    "source_area_m2": 1589.9436633944322,
+    "reused_mask_intersection_m2": 1051.88456601088,
+    "remaining_area_m2": 538.059097383552,
+    "mask_enclosed_open_rings_preserved": 0,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.0,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_01",
+        "area_m2": 166.23729470504762,
+        "width_proxy_2A_perimeter_m": 5.221906775043509,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 2.842170943040401e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_02",
+        "area_m2": 344.6234299353369,
+        "width_proxy_2A_perimeter_m": 7.050809710830734,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 1.7053025658242404e-13
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_03",
+        "area_m2": 0.4945603834898873,
+        "width_proxy_2A_perimeter_m": 0.1847487033571809,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_04",
+        "area_m2": 10.518320505402137,
+        "width_proxy_2A_perimeter_m": 0.23938116111059293,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 1.2434497875801753e-14
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_05",
+        "area_m2": 0.4949796337824362,
+        "width_proxy_2A_perimeter_m": 0.18484855479641124,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_06",
+        "area_m2": 0.49348034994553547,
+        "width_proxy_2A_perimeter_m": 0.1844910160311296,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_07",
+        "area_m2": 0.49513349932397055,
+        "width_proxy_2A_perimeter_m": 0.18488522299322419,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_08",
+        "area_m2": 0.49472328701539964,
+        "width_proxy_2A_perimeter_m": 0.18478745381279374,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_09",
+        "area_m2": 12.73494645408748,
+        "width_proxy_2A_perimeter_m": 0.19577937588619507,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 7.105427357601002e-15
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_10",
+        "area_m2": 0.49292281435164587,
+        "width_proxy_2A_perimeter_m": 0.18435794778011155,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 5.551115123125783e-17
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_11",
+        "area_m2": 0.495606928709757,
+        "width_proxy_2A_perimeter_m": 0.18499801883327124,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 4.662155202949192e-10,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009958918303530017,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_14",
+        "area_m2": 0.02210755644463081,
+        "width_proxy_2A_perimeter_m": 0.03757257958015645,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_15",
+        "area_m2": 0.018534533031663688,
+        "width_proxy_2A_perimeter_m": 0.03146875021936223,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009962501457906833,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009961602246913715,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_18",
+        "area_m2": 0.022107846690444872,
+        "width_proxy_2A_perimeter_m": 0.03757280236113711,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_19",
+        "area_m2": 0.01853409091181534,
+        "width_proxy_2A_perimeter_m": 0.0314682794729018,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009956887277254671,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.00099589095558353,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_22",
+        "area_m2": 0.022106706138824223,
+        "width_proxy_2A_perimeter_m": 0.0375718143072863,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_23",
+        "area_m2": 0.018534816958833564,
+        "width_proxy_2A_perimeter_m": 0.031469039900583216,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009954953823092033,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009961609779668302,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_26",
+        "area_m2": 0.022108143176650177,
+        "width_proxy_2A_perimeter_m": 0.037573093284220496,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 3.1994902501085426e-08,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009755447594873321,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_29",
+        "area_m2": 0.029880821637073958,
+        "width_proxy_2A_perimeter_m": 0.04364899554834045,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_30",
+        "area_m2": 0.029885061642555173,
+        "width_proxy_2A_perimeter_m": 0.04365395743384728,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009728369497765309,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009752928818831479,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_33",
+        "area_m2": 0.027847244150853705,
+        "width_proxy_2A_perimeter_m": 0.0407326335402628,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_34",
+        "area_m2": 0.029882845530966554,
+        "width_proxy_2A_perimeter_m": 0.04365162353552983,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009727231118147274,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009729221387503545,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_37",
+        "area_m2": 0.02785140986969847,
+        "width_proxy_2A_perimeter_m": 0.04073681853801654,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_38",
+        "area_m2": 0.029881813478145496,
+        "width_proxy_2A_perimeter_m": 0.043650052219302314,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.000975163720627497,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009755434955195011,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_41",
+        "area_m2": 0.029882042173799656,
+        "width_proxy_2A_perimeter_m": 0.04365016500810206,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_42",
+        "area_m2": 0.018535379096243306,
+        "width_proxy_2A_perimeter_m": 0.03146974845374783,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009956868648678618,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009961570663058477,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_45",
+        "area_m2": 0.02210883740762095,
+        "width_proxy_2A_perimeter_m": 0.03757374142036026,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_46",
+        "area_m2": 0.018535886075826395,
+        "width_proxy_2A_perimeter_m": 0.031470139718935836,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0009952005484087365,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0009961389561513815,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_49",
+        "area_m2": 0.01853556937644792,
+        "width_proxy_2A_perimeter_m": 0.03147000428466733,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_50",
+        "area_m2": 0.018537046073984795,
+        "width_proxy_2A_perimeter_m": 0.03147132706917949,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0009953235150504365,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.00099626264793939,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696078__REMAINDER_53",
+        "area_m2": 0.018534869829004288,
+        "width_proxy_2A_perimeter_m": 0.03146929273664165,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 510.86072464038455
+  },
+  {
+    "source_stable_id": "SEU_B_OSMWAY_637696079",
+    "source_area_m2": 1492.6357554184385,
+    "reused_mask_intersection_m2": 1073.9900532430433,
+    "remaining_area_m2": 418.6457021753936,
+    "mask_enclosed_open_rings_preserved": 0,
+    "mask_enclosed_area_kept_unbuilt_m2": 0.0,
+    "pieces": [
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_01",
+        "area_m2": 366.6637753183342,
+        "width_proxy_2A_perimeter_m": 9.348216388452835,
+        "height_m": 12,
+        "broad_volume": true,
+        "holes": 0,
+        "triangulation_error_m2": 1.7053025658242404e-13
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_02",
+        "area_m2": 50.33833378916635,
+        "width_proxy_2A_perimeter_m": 0.3322945128147667,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 4.973799150320701e-13
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_03",
+        "area_m2": 0.5038445027113929,
+        "width_proxy_2A_perimeter_m": 0.18695377066063903,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 1.1102230246251565e-16
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_04",
+        "area_m2": 0.5005669790216121,
+        "width_proxy_2A_perimeter_m": 0.18617717612728887,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_05",
+        "area_m2": 0.49523236941866067,
+        "width_proxy_2A_perimeter_m": 0.18490878263481259,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0010076203378430457,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_07",
+        "area_m2": 0.02292999311206961,
+        "width_proxy_2A_perimeter_m": 0.036010666798564545,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_08",
+        "area_m2": 0.022543716561328135,
+        "width_proxy_2A_perimeter_m": 0.0354826334795131,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "area_m2": 0.0010010645010551944,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0010075597477688582,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_11",
+        "area_m2": 0.02292684641793215,
+        "width_proxy_2A_perimeter_m": 0.03600720355161998,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_12",
+        "area_m2": 0.022541451272658133,
+        "width_proxy_2A_perimeter_m": 0.035480341535045125,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0010010954598952272,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "area_m2": 0.0010076549211097024,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_15",
+        "area_m2": 0.02443589558056219,
+        "width_proxy_2A_perimeter_m": 0.03825242426727565,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 3.469446951953614e-18
+      },
+      {
+        "object_id": "SEU_B_OSMWAY_637696079__REMAINDER_16",
+        "area_m2": 0.022545308634616235,
+        "width_proxy_2A_perimeter_m": 0.03548424715708805,
+        "height_m": 0.35,
+        "broad_volume": false,
+        "holes": 0,
+        "triangulation_error_m2": 0.0
+      },
+      {
+        "area_m2": 0.0010010102054475924,
+        "status": "numerical_sliver_omitted_below_0.01m2"
+      }
+    ],
+    "broad_selection_method": "1.5m inward/outward morphological opening, intersected with exact difference; remainder low marker",
+    "broad_area_m2": 366.66377531832876
+  }
+]
