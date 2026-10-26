@@ -1,0 +1,24 @@
+{
+  "revision": "R3D",
+  "baseline_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+  "source_crs": "EPSG:4326",
+  "source_axis_order": [
+    "longitude",
+    "latitude"
+  ],
+  "projected_crs": "EPSG:32650",
+  "local_origin_utm_m": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "local_unit": "meter",
+  "local_rotation_deg": 0,
+  "z_datum": "unknown_estimated",
+  "stable_ids": "Do not rename existing SEU_B_OSMWAY_* IDs",
+  "public_release": false,
+  "model_assets_bundled": false,
+  "framework_version": "0.1.0",
+  "framework_license": "MIT",
+  "framework_release_authorized": true,
+  "public_release_field_scope": "campus model/data assets, not the separately authorized framework"
+}

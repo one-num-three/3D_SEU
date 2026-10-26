@@ -1,0 +1,11 @@
+*.sqlite
+*.sqlite-*
+__pycache__/
+*.pyc
+private/
+references_PRIVATE/
+photos_PRIVATE/
+*.blend
+*.blend1
+*.zip
+.env

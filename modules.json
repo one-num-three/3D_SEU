@@ -1,0 +1,61 @@
+{
+  "modules": [
+    {
+      "task_id": "TEACH-DETAIL",
+      "write_prefix": "modules/teaching_detail",
+      "region": "教学楼1–8",
+      "building_ids": [
+        "SEU_B_OSMWAY_299961605",
+        "SEU_B_OSMWAY_299961622",
+        "SEU_B_OSMWAY_299961615",
+        "SEU_B_OSMWAY_299961617",
+        "SEU_B_OSMWAY_299961595",
+        "SEU_B_OSMWAY_299961592",
+        "SEU_B_OSMWAY_299961586",
+        "SEU_B_OSMWAY_299961591"
+      ]
+    },
+    {
+      "task_id": "GYM-DETAIL",
+      "write_prefix": "modules/gym_detail",
+      "region": "体育馆",
+      "building_ids": [
+        "SEU_B_OSMWAY_630686644"
+      ]
+    },
+    {
+      "task_id": "ROAD-LABELS",
+      "write_prefix": "modules/road_labels",
+      "region": "当前校园道路标注层",
+      "building_ids": []
+    },
+    {
+      "task_id": "CAMPUS-QA",
+      "write_prefix": "qa/campus_review",
+      "region": "教学+体育馆+道路交叉验收",
+      "building_ids": []
+    },
+    {
+      "task_id": "INTEGRATE",
+      "write_prefix": "releases",
+      "region": "整图合并/回滚",
+      "building_ids": []
+    },
+    {
+      "task_id": "RIGHTS-REVIEW",
+      "write_prefix": "docs/rights",
+      "region": "发布许可及来源",
+      "building_ids": []
+    }
+  ],
+  "shared_readonly": [
+    "project_contract.json",
+    "accepted baseline",
+    "stable building identity table"
+  ],
+  "only_integrator_writes": [
+    "whole-campus blend",
+    "release manifest"
+  ],
+  "note": "Tasks define exclusive modules, not actual workers already running."
+}

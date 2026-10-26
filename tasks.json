@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "status": "proposed_first_round_not_running",
+  "tasks": [
+    {
+      "id": "TEACH-DETAIL",
+      "owner_role": "teaching-detail-worker",
+      "assigned_agent": null,
+      "state": "queued",
+      "region": "教学楼1–8",
+      "write_prefix": "modules/teaching_detail",
+      "building_ids": [
+        "SEU_B_OSMWAY_299961605",
+        "SEU_B_OSMWAY_299961622",
+        "SEU_B_OSMWAY_299961615",
+        "SEU_B_OSMWAY_299961617",
+        "SEU_B_OSMWAY_299961595",
+        "SEU_B_OSMWAY_299961592",
+        "SEU_B_OSMWAY_299961586",
+        "SEU_B_OSMWAY_299961591"
+      ],
+      "dependencies": [],
+      "input_revision": "R3D",
+      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+      "input_access": "private_until_rights_cleared",
+      "goal": "细化已定位的庭院侧柱廊/开口；不扩大推定落地范围",
+      "acceptance": "照片证据逐面绑定；保留开放通道；不把教2/7上层条自动变实墙",
+      "outputs": [
+        "module artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview where visual geometry changed"
+      ],
+      "exclusions": [
+        "桃园西",
+        "梅园新增建模",
+        "修改统一坐标/原点/既有稳定ID"
+      ]
+    },
+    {
+      "id": "GYM-DETAIL",
+      "owner_role": "gym-detail-worker",
+      "assigned_agent": null,
+      "state": "queued",
+      "region": "体育馆",
+      "write_prefix": "modules/gym_detail",
+      "building_ids": [
+        "SEU_B_OSMWAY_630686644"
+      ],
+      "dependencies": [],
+      "input_revision": "R3D",
+      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+      "input_access": "private_until_rights_cleared",
+      "goal": "补新翼边外立面，保留光伏、入口槽口、环缝下衬",
+      "acceptance": "入口336.49㎡开敞；不移动主馆或重缩放四翼",
+      "outputs": [
+        "module artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview where visual geometry changed"
+      ],
+      "exclusions": [
+        "桃园西",
+        "梅园新增建模",
+        "修改统一坐标/原点/既有稳定ID"
+      ]
+    },
+    {
+      "id": "ROAD-LABELS",
+      "owner_role": "road-label-worker",
+      "assigned_agent": null,
+      "state": "queued",
+      "region": "当前校园道路标注层",
+      "write_prefix": "modules/road_labels",
+      "building_ids": [],
+      "dependencies": [],
+      "input_revision": "R3D",
+      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+      "input_access": "private_until_rights_cleared",
+      "goal": "区分道路等级/名称/估宽置信度，不擅改道路几何",
+      "acceptance": "388估宽派生面和10原始行人区域面分别标注，区域边界不当中心线",
+      "outputs": [
+        "module artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview where visual geometry changed"
+      ],
+      "exclusions": [
+        "桃园西",
+        "梅园新增建模",
+        "修改统一坐标/原点/既有稳定ID"
+      ]
+    },
+    {
+      "id": "CAMPUS-QA",
+      "owner_role": "campus-qa-worker",
+      "assigned_agent": null,
+      "state": "queued",
+      "region": "教学+体育馆+道路交叉验收",
+      "write_prefix": "qa/campus_review",
+      "building_ids": [],
+      "dependencies": [
+        "TEACH-DETAIL",
+        "GYM-DETAIL",
+        "ROAD-LABELS"
+      ],
+      "input_revision": "R3D",
+      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+      "input_access": "private_until_rights_cleared",
+      "goal": "复核来源、坐标、ID、实际mesh投影、道路/院落与同视角渲染",
+      "acceptance": "独立验收，不改几何；必须列未核实项",
+      "outputs": [
+        "module artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview where visual geometry changed"
+      ],
+      "exclusions": [
+        "桃园西",
+        "梅园新增建模",
+        "修改统一坐标/原点/既有稳定ID"
+      ]
+    },
+    {
+      "id": "INTEGRATE",
+      "owner_role": "integration-maintainer",
+      "assigned_agent": null,
+      "state": "queued",
+      "region": "整图合并/回滚",
+      "write_prefix": "releases",
+      "building_ids": [],
+      "dependencies": [
+        "CAMPUS-QA"
+      ],
+      "input_revision": "R3D",
+      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+      "input_access": "private_until_rights_cleared",
+      "goal": "仅合并验收通过且哈希相符的独立模块",
+      "acceptance": "全旧对象指纹、明确隐藏清单、冷开、便携重建通过",
+      "outputs": [
+        "module artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview where visual geometry changed"
+      ],
+      "exclusions": [
+        "桃园西",
+        "梅园新增建模",
+        "修改统一坐标/原点/既有稳定ID"
+      ]
+    },
+    {
+      "id": "RIGHTS-REVIEW",
+      "owner_role": "rights-maintainer",
+      "assigned_agent": null,
+      "state": "queued",
+      "region": "发布许可及来源",
+      "write_prefix": "docs/rights",
+      "building_ids": [],
+      "dependencies": [],
+      "input_revision": "R3D",
+      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
+      "input_access": "private_until_rights_cleared",
+      "goal": "逐资产许可与来源审核，决定清洁重建或取得许可",
+      "acceptance": "未明资产不进公开发布包；不得因删原图自动通过",
+      "outputs": [
+        "module artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview where visual geometry changed"
+      ],
+      "exclusions": [
+        "桃园西",
+        "梅园新增建模",
+        "修改统一坐标/原点/既有稳定ID"
+      ]
+    }
+  ]
+}
