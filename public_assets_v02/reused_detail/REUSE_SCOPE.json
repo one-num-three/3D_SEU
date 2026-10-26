@@ -1,0 +1,27 @@
+{
+  "stable_ids": [
+    "SEU_B_OSMWAY_1056927534",
+    "SEU_B_OSMWAY_1056927536",
+    "SEU_B_OSMWAY_1056927537",
+    "SEU_B_OSMWAY_1056927538",
+    "SEU_B_OSMWAY_300030302",
+    "SEU_B_OSMWAY_300030305",
+    "SEU_B_OSMWAY_300030307",
+    "SEU_B_OSMWAY_300030310",
+    "SEU_B_OSMWAY_300030321",
+    "SEU_B_OSMWAY_300030322",
+    "SEU_B_OSMWAY_549677715",
+    "SEU_B_OSMWAY_637696077",
+    "SEU_B_OSMWAY_637696078",
+    "SEU_B_OSMWAY_637696079"
+  ],
+  "object_count": 1133,
+  "coverage_policy": "Existing components only; no whole-building completeness claim. Actual projection mask provided for residual massing.",
+  "excluded_scope": [
+    "Teaching 1-8 and gym already in v01",
+    "All dormitory collections; Taoyuan west held",
+    "Provisional shape-mismatched registered faculty collections",
+    "Unbound pavilions, roads, trees, people and other landscape props",
+    "44 illustrative library shrubs and 11 plaza decoration meshes"
+  ]
+}

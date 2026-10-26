@@ -1,0 +1,142 @@
+[
+  {
+    "stableID": "SEU_B_OSMWAY_1056927538",
+    "display_name": "人文社科科研楼（C17）",
+    "source_area_m2": 9248.097985637494,
+    "actual_reused_xy_projection_m2": 5146.159706390138,
+    "inside_source_m2": 4940.375545164932,
+    "remaining_source_m2": 4307.722440472563,
+    "outside_source_m2": 205.78416122520366,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_1056927537",
+    "display_name": "生医科研综合楼",
+    "source_area_m2": 5194.005487230139,
+    "actual_reused_xy_projection_m2": 5259.414645451827,
+    "inside_source_m2": 5193.101151420912,
+    "remaining_source_m2": 0.9043358092282677,
+    "outside_source_m2": 66.31349403091231,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_300030310",
+    "display_name": "李文正图书馆",
+    "source_area_m2": 14684.972802695587,
+    "actual_reused_xy_projection_m2": 19125.740202394256,
+    "inside_source_m2": 14673.023744463384,
+    "remaining_source_m2": 11.94905823220373,
+    "outside_source_m2": 4452.716457930869,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_549677715",
+    "display_name": "土木交通办公楼（陆锦元楼）",
+    "source_area_m2": 4087.4927141726716,
+    "actual_reused_xy_projection_m2": 3324.0687899265245,
+    "inside_source_m2": 3317.097693999495,
+    "remaining_source_m2": 770.3950201731683,
+    "outside_source_m2": 6.971095927018907,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_300030307",
+    "display_name": "材料B楼",
+    "source_area_m2": 3072.9257038228675,
+    "actual_reused_xy_projection_m2": 1996.8983738634743,
+    "inside_source_m2": 1996.8983738634745,
+    "remaining_source_m2": 1076.0273299593937,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_300030305",
+    "display_name": "土木交通实验楼",
+    "source_area_m2": 7465.026832027966,
+    "actual_reused_xy_projection_m2": 6802.385938056624,
+    "inside_source_m2": 6802.385938056612,
+    "remaining_source_m2": 662.6408939713483,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_637696077",
+    "display_name": "化学化工楼",
+    "source_area_m2": 1241.7784232899712,
+    "actual_reused_xy_projection_m2": 955.1980139243266,
+    "inside_source_m2": 955.1980139243267,
+    "remaining_source_m2": 286.58040936564464,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_637696078",
+    "display_name": "化学化工楼",
+    "source_area_m2": 1589.9436633944322,
+    "actual_reused_xy_projection_m2": 1051.8845660108836,
+    "inside_source_m2": 1051.8845660108827,
+    "remaining_source_m2": 538.0590973835492,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_300030322",
+    "display_name": "材料A楼",
+    "source_area_m2": 1638.0773932068614,
+    "actual_reused_xy_projection_m2": 1203.0572439845394,
+    "inside_source_m2": 1203.05724398454,
+    "remaining_source_m2": 435.02014922232115,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_637696079",
+    "display_name": "材料A楼",
+    "source_area_m2": 1492.6357554184385,
+    "actual_reused_xy_projection_m2": 1073.9900532430422,
+    "inside_source_m2": 1073.9900532430406,
+    "remaining_source_m2": 418.6457021753961,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_300030302",
+    "display_name": "文科C楼",
+    "source_area_m2": 958.2903191489697,
+    "actual_reused_xy_projection_m2": 901.3509845204483,
+    "inside_source_m2": 901.3509845204486,
+    "remaining_source_m2": 56.93933462852085,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_300030321",
+    "display_name": "文科B楼",
+    "source_area_m2": 973.1414624838571,
+    "actual_reused_xy_projection_m2": 915.8524574520249,
+    "inside_source_m2": 915.8524574520253,
+    "remaining_source_m2": 57.289005031832176,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_1056927536",
+    "display_name": "信息电子教学综合楼",
+    "source_area_m2": 7049.813547508893,
+    "actual_reused_xy_projection_m2": 6851.331130247009,
+    "inside_source_m2": 6851.331130247016,
+    "remaining_source_m2": 198.48241726187865,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stableID": "SEU_B_OSMWAY_1056927534",
+    "display_name": "能环科研综合楼（科远楼）",
+    "source_area_m2": 7951.553184837587,
+    "actual_reused_xy_projection_m2": 6795.890157262439,
+    "inside_source_m2": 6795.890157262433,
+    "remaining_source_m2": 1155.6630275751504,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "input": "geometry_database.json.gz",
+  "private_model_dependency": false,
+  "object_count": 1133,
+  "rebuilt_glb_byte_identical": true,
+  "source_outline_id_count": 14
+}

@@ -1,0 +1,73 @@
+{
+  "policy": "Previously stored geometry is not lost; these provisional legacy shape/registration groups were not exported. Their accepted OSM outlines can receive separate new massing.",
+  "excluded_visible_object_count": 198,
+  "groups": [
+    {
+      "candidate_osm_way_ids": [
+        300010611
+      ],
+      "prior_registration_status": "PROVISIONAL_SHAPE_MISMATCH",
+      "excluded_component_count": 11,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    },
+    {
+      "candidate_osm_way_ids": [
+        299961623,
+        299961609
+      ],
+      "prior_registration_status": "PROVISIONAL_SHAPE_MISMATCH",
+      "excluded_component_count": 48,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    },
+    {
+      "candidate_osm_way_ids": [
+        300030319
+      ],
+      "prior_registration_status": "PROVISIONAL_SHAPE_MISMATCH",
+      "excluded_component_count": 44,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    },
+    {
+      "candidate_osm_way_ids": [
+        300020042
+      ],
+      "prior_registration_status": "PROVISIONAL_SHAPE_MISMATCH",
+      "excluded_component_count": 20,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    },
+    {
+      "candidate_osm_way_ids": [
+        300020027
+      ],
+      "prior_registration_status": "PROVISIONAL_NAMED_COMPOUND_TRANSLATION",
+      "excluded_component_count": 35,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    },
+    {
+      "candidate_osm_way_ids": [
+        300010604,
+        300010625
+      ],
+      "prior_registration_status": "PROVISIONAL_SHAPE_MISMATCH",
+      "excluded_component_count": 16,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    },
+    {
+      "candidate_osm_way_ids": [
+        300010617
+      ],
+      "prior_registration_status": "PROVISIONAL_SHAPE_MISMATCH",
+      "excluded_component_count": 12,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    },
+    {
+      "candidate_osm_way_ids": [
+        300010601,
+        300010619
+      ],
+      "prior_registration_status": "PROVISIONAL_SHAPE_MISMATCH",
+      "excluded_component_count": 12,
+      "action": "Use accepted-base massing; do not describe this as verified detailed reuse."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "file": "BUILDING_COVERAGE_REVIEW.json",
+    "bytes": 5034,
+    "sha256": "e1916c54d19f64e372360a227df0b6d2d3cb00efe7d15d1606f0de1d63fc39db"
+  },
+  {
+    "file": "PORTABILITY_REPORT.json",
+    "bytes": 194,
+    "sha256": "c3f4712adec8a50d26ac8ca32777f2e1df00dc1e1551050797e020df2579d6b5"
+  },
+  {
+    "file": "PRIVACY_REPORT.json",
+    "bytes": 775,
+    "sha256": "908c1b9f7a53bce1c1261959962d6f2dbd833b59d9698c29910bb1645169f2e0"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3081,
+    "sha256": "e72369c116e1e6142faf04f653651751d2b27f95551948aa47f2ac6e530ac3d9"
+  },
+  {
+    "file": "REUSE_SCOPE.json",
+    "bytes": 944,
+    "sha256": "96146aa872f652fbdf7bd256b9d04389ed9b606d39525dff0820ea9df336d7c5"
+  },
+  {
+    "file": "SOURCES_AND_RIGHTS.json",
+    "bytes": 2473,
+    "sha256": "ff9e386a376e98095453dcdd4c286cc2cf7577f6099ef8dfa35e3caa31a3d512"
+  },
+  {
+    "file": "UNMATCHED_REUSE_REVIEW.json",
+    "bytes": 2476,
+    "sha256": "9abd85aa583347ce4dae6c4472543b18670634b85d14bad4413f7db3daf0786f"
+  },
+  {
+    "file": "VALIDATION_REPORT.json",
+    "bytes": 573,
+    "sha256": "d24e406d676a1c02ad41a68d9c467c9627b05a3b57ab7894cb57037342674a36"
+  },
+  {
+    "file": "geometry_database.json.gz",
+    "bytes": 7114187,
+    "sha256": "dceb320b5a7b53291fb4c57bca641389d73f09bf8cb6c5c797f5a0c2193819b4"
+  },
+  {
+    "file": "objects_manifest.json",
+    "bytes": 612126,
+    "sha256": "c1f4992ac4382303cd6735cec8cec8ca22ef02bc5aaf916b37f5f4cfc6da1826"
+  },
+  {
+    "file": "rebuild_clean.py",
+    "bytes": 3053,
+    "sha256": "f83b41dc3d4167dae1bfb0c03736757cd5ecfe51a16349fa91f704858d8b543f"
+  },
+  {
+    "file": "reused_projection_masks.local.geojson",
+    "bytes": 555389,
+    "sha256": "5eb68c59fcbfcd72fc50f6572c068ee2b4dd95c5d4b7f08cd63c0beba3c4a301"
+  },
+  {
+    "file": "seu_reused_buildings_v02.blend",
+    "bytes": 9587372,
+    "sha256": "9bab28592cca29d2344388758c8b66ef539ea172beec2ff2f0cc8cb7a70271c8"
+  },
+  {
+    "file": "seu_reused_buildings_v02.glb",
+    "bytes": 13000716,
+    "sha256": "23858274af9f5b439aad21333ffbcd11c4449feeb0a56ec7e86d1f503daf283e"
+  },
+  {
+    "file": "validate_clean.py",
+    "bytes": 3523,
+    "sha256": "0ab438b395d8e6d607c45fb4e89d1214a9ebd7fd5d99ebe8fa92df9fc05b0878"
+  }
+]
