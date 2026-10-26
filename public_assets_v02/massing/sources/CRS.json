@@ -1,0 +1,20 @@
+{
+  "source_crs": "EPSG:4326",
+  "axis_order": [
+    "longitude",
+    "latitude"
+  ],
+  "projected_crs": "EPSG:32650",
+  "origin_easting_northing_m": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "origin_lon_lat": [
+    118.81557649999999,
+    31.889149850000003
+  ],
+  "transform": "x=UTM_E-origin_E; y=UTM_N-origin_N; no rotation or scale",
+  "z": "display layering only; no vertical datum",
+  "gcj02_bd09_used": false,
+  "proj_pipeline": "+proj=pipeline +step +proj=unitconvert +xy_in=deg +xy_out=rad +step +proj=utm +zone=50 +ellps=WGS84"
+}
