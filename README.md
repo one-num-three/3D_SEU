@@ -1,10 +1,22 @@
-# 3D_SEU AI 协作框架 v0.1
+# 3D_SEU 校园3D资产与AI协作框架 v0.1
 
 仓库：https://github.com/one-num-three/3D_SEU
 
-这是九龙湖校园重建项目的轻量 AI 协作框架首发文件：任务认领、独立模块、交接证据与统一验收。**不包含完整校园3D模型、照片、卫星图或完整地理几何。**模型仍需逐资产来源审核，不是此框架发布后自动开放。
+这是九龙湖校园重建项目：轻量 AI 协作框架用于任务认领、独立模块、交接证据与统一验收；本次另在 `public_assets/` 提供已审核的OSM校园基底、教1–8与体育馆工作模型。**这不是完整校园最终模型；不附私人照片或卫星截图。**框架与资产分别记录许可和清单，未收录资产不因此自动开放。
 
 本框架代码与文档采用 [MIT License](LICENSE)，Copyright (c) 2026 3D_SEU contributors。第三方地理数据、影像、字体及模型资产不因本LICENSE被重新授权；见 [NOTICE.md](NOTICE.md)。
+
+## 已提供的真实3D资产
+
+[打开资产目录](public_assets/README.md)：全校OSM建筑/道路基底＋已做教1–8和体育馆。包含可编辑Blend、GLB、源数据库、重建脚本和许可，非完整校园最终模型。
+
+![基底＋已做部分](public_assets/previews/COMPLETED_TEACHING_GYM.png)
+
+- [下载组合GLB](public_assets/assets/SEU_base_teaching_gym_v01.glb)
+- [下载组合Blender模型](public_assets/assets/SEU_base_teaching_gym_v01.blend)
+- [来源、坐标、许可与重建](public_assets/README.md)
+
+框架代码MIT；原创模型视觉贡献CC BY4.0（3D_SEU contributors）；OSM派生地理数据ODbL。框架根FILE_MANIFEST只描述框架文件，本批资产由public_assets/ASSET_MANIFEST.json独立覆盖。
 
 ## 5分钟接手
 1. 读 `project_contract.json` 和 `AGENTS.md`。
@@ -27,4 +39,4 @@ python3 tools/coop.py status --db coordination.sqlite
 ```
 `examples/evidence.template.json`必须填真实SHA和报告文件；空模板故意不能提交。当前CLI不自动运行几何建模、不替你上传PR，也不管理第三方登录。
 
-v0.1发布文件已准备；此说明不宣称远程提交已经完成。`init --root .`会在空工作区创建各任务module目录，不需要先有模型文件；真实任务仍需获得授权输入。
+框架v0.1已发布；本批3D资产的范围与复核结果见 `public_assets/README.md`。`init --root .`会在空工作区创建各任务module目录，不需要先有模型文件；真实任务仍需获得授权输入。
