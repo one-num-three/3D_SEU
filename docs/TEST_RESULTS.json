@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "checks": [
+    "fresh_workspace_module_directories_created",
+    "reinitialize_cannot_reset_claims",
+    "dependency_gate",
+    "two_process_claim_exactly_one_winner",
+    "nonowner_submission_rejected",
+    "wrong_baseline_rejected",
+    "path_escape_rejected",
+    "hash_mismatch_rejected",
+    "valid_submission",
+    "self_review_rejected",
+    "post_submit_tamper_rejected",
+    "independent_review_unlocks_dependency"
+  ],
+  "geometry_or_license_clearance": false
+}
