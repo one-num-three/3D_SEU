@@ -1,0 +1,262 @@
+{
+  "version": "0.1.0-assets",
+  "scope": "OSM campus display base plus actual teaching1-8 and gym working detail; not completeR3D",
+  "attribution": "© OpenStreetMap contributors; ©2026 3D_SEU contributors",
+  "licenses": {
+    "geographic_database": "ODbL-1.0",
+    "original_visual_contributions": "CC-BY-4.0",
+    "code": "MIT"
+  },
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "bytes": 593,
+      "sha256": "ccdf6d33d3365fa2be00c7070a558f03d12e68d5b0379c1e6190d4a4db3be892"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3836,
+      "sha256": "3857e007f46e0d7e4367f42e1776bcaabd81fa6acf233ebef13f3d54e7ceeef2"
+    },
+    {
+      "path": "assets/SEU_base_teaching_gym_v01.blend",
+      "bytes": 6327858,
+      "sha256": "e276aa52da81ac782f212ac9a6af70e23d38fb048039e520e3fcbd5ffb1225c5"
+    },
+    {
+      "path": "assets/SEU_base_teaching_gym_v01.glb",
+      "bytes": 7743220,
+      "sha256": "fb31a6ea1b96992282b22bad35e054cb31cfb214db886062cf034187a0a1a5bf"
+    },
+    {
+      "path": "base/AGENTS.md",
+      "bytes": 550,
+      "sha256": "51dfea94d2820b5066dc1f253e0374571a32aa21a2918baa80b784304e1dd404"
+    },
+    {
+      "path": "base/ATTRIBUTION.txt",
+      "bytes": 343,
+      "sha256": "d7d0a29538a220552f3bc817258cba3287135431ca23cfe38fa26a4575fcb785"
+    },
+    {
+      "path": "base/FILE_MANIFEST.json",
+      "bytes": 3251,
+      "sha256": "ba22305f2b944c34c6decfb404b6ef5c5ccbe90685daad9d6588c126e5a733e1"
+    },
+    {
+      "path": "base/README.md",
+      "bytes": 3310,
+      "sha256": "2667294c63046e761b16856394a99ac02407cf3db59a56f4d3a794a0129f7788"
+    },
+    {
+      "path": "base/SEU_OSM_BASE_v01.blend",
+      "bytes": 1154388,
+      "sha256": "523f37b012df55f7dd005792f5d7d400b2fa831dcbaa95bb5f0fcb6563a26d77"
+    },
+    {
+      "path": "base/SEU_OSM_BASE_v01.glb",
+      "bytes": 3981544,
+      "sha256": "6edaafb72a940f81b7c876247265d0200157310ebae9eb1970d93545592db8e2"
+    },
+    {
+      "path": "base/data/CRS.json",
+      "bytes": 552,
+      "sha256": "286ed22ac82d28e20f7e75207bbaa711b3502ce1be8a5921a1f9d8ff4f12391b"
+    },
+    {
+      "path": "base/data/PROVENANCE.json",
+      "bytes": 1578,
+      "sha256": "048b2cbd078513c6fb2b679a8d2e920d60bb9636e5e51f1f19dbb748038c02fa"
+    },
+    {
+      "path": "base/data/base.local.json",
+      "bytes": 1412519,
+      "sha256": "8398adfab1ba516000a0d4cf7d3898e40eef8b75c632c5607629e262b5b6e33b"
+    },
+    {
+      "path": "base/data/base.wgs84.geojson",
+      "bytes": 1391775,
+      "sha256": "dc258aaef2ca6ac94d198c15d11f941dfa9dc2f533ae5472863bb0a065ddfb44"
+    },
+    {
+      "path": "base/data/mesh_geometry.local.json",
+      "bytes": 3266918,
+      "sha256": "5d274563006b0df42aba37f635fd80ff1036145b6403018c9152ee56c7deb265"
+    },
+    {
+      "path": "base/manifest.json",
+      "bytes": 923,
+      "sha256": "e9b521e8c6aeecbbebd9cd0168a4c47fefcc6f379ae87295a73c9e71eb5db594"
+    },
+    {
+      "path": "base/qa/DATA_BUILD_QA.json",
+      "bytes": 562,
+      "sha256": "c460725cee2a5fc8fcae8d99199da8a35a34c97f785a0c5b2c3e6546b527f725"
+    },
+    {
+      "path": "base/qa/INDEPENDENT_REBUILD_QA.json",
+      "bytes": 536,
+      "sha256": "b0fcad64b372c3512016a2196c9b605aacc556ca0be0581bee1a36ecb6dc83d2"
+    },
+    {
+      "path": "base/qa/MODEL_BUILD_QA.json",
+      "bytes": 791,
+      "sha256": "391418d6dba1a2ec3f98c3f3528120713b410171ca24e87fc9d7d1d16c98a6c3"
+    },
+    {
+      "path": "base/qa/MODEL_REOPEN_QA.json",
+      "bytes": 152903,
+      "sha256": "7a5ffa811e2d22497973b6fb87aaad10917b58942b17107281074c1a0e091712"
+    },
+    {
+      "path": "base/qa/PUBLIC_CONTENT_SCAN.json",
+      "bytes": 1052,
+      "sha256": "71326142a4a862e7901f67cd4bcef529db35632df5ea50eea46ef511090e0b69"
+    },
+    {
+      "path": "base/scripts/build_data.py",
+      "bytes": 7906,
+      "sha256": "4505b460f0968318b7c9eadba5c7e930fc3b40dfbb431e71d4da7d23a73728f7"
+    },
+    {
+      "path": "base/scripts/build_models.py",
+      "bytes": 4176,
+      "sha256": "01064c44e3bc9078313985b78ff04a17ee54aafec73628265bfefeac51cefab4"
+    },
+    {
+      "path": "base/scripts/validate_models.py",
+      "bytes": 1353,
+      "sha256": "0a543ebb60b0b0fcf34bdd17faef226c57f2e979bb588b38306f790a3575326d"
+    },
+    {
+      "path": "base/scripts/vendor/coordinate_transform.py",
+      "bytes": 8666,
+      "sha256": "4ea909fa1bdf1351432e654c97bd00fa45462ed0b029f62f9c4ed4cc0817bab2"
+    },
+    {
+      "path": "base/scripts/vendor/geos_small.py",
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    },
+    {
+      "path": "base/sources/osm/campus_margin_map.json",
+      "bytes": 1679925,
+      "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee"
+    },
+    {
+      "path": "detail/FILE_MANIFEST.json",
+      "bytes": 1624,
+      "sha256": "ac74a275a024a7afb1553eed623191f209746362840cacad68882bf720da93d3"
+    },
+    {
+      "path": "detail/PORTABILITY_REPORT.json",
+      "bytes": 317,
+      "sha256": "d04cffb7d6513d91f1a06de9fedc2df4bbec8b061cbee5557f2f085365fe0eb0"
+    },
+    {
+      "path": "detail/PRIVACY_REPORT.json",
+      "bytes": 775,
+      "sha256": "908c1b9f7a53bce1c1261959962d6f2dbd833b59d9698c29910bb1645169f2e0"
+    },
+    {
+      "path": "detail/README.md",
+      "bytes": 2780,
+      "sha256": "34a539004f20c271c212e35cd53449ff199bf0cd93d46833ab014dc1ba545617"
+    },
+    {
+      "path": "detail/SOURCES_AND_RIGHTS.json",
+      "bytes": 2322,
+      "sha256": "99db3481b020e60dbcb572ec8d94c3807356c2eecdc68f445467c45cbda22d1d"
+    },
+    {
+      "path": "detail/VALIDATION_REPORT.json",
+      "bytes": 572,
+      "sha256": "cecec9db4325563d4f9b5192ed9a679ed3ecbad888cc9f65f4bf3d4cceee1b5d"
+    },
+    {
+      "path": "detail/geometry_database.json.gz",
+      "bytes": 5891437,
+      "sha256": "ca85137aaeb3a0549389e3a281ea984e3aa6107a714c2be9a221ca1fbc566cb0"
+    },
+    {
+      "path": "detail/objects_manifest.json",
+      "bytes": 126928,
+      "sha256": "233b60e250f6864489e6e83d4eae6eca31fc3032b14d498356056c2bd00e74e8"
+    },
+    {
+      "path": "detail/rebuild_clean.py",
+      "bytes": 3139,
+      "sha256": "04ee726fc2ea5aecd9774b12ec57c9ecd23e23d0c7fe793dac22b80796f702cc"
+    },
+    {
+      "path": "detail/seu_teaching_gym_detail_v01.blend",
+      "bytes": 5248446,
+      "sha256": "232c2931600029d101994ec7d2b950eb3725d19d887cd56bd24cfff46e74454f"
+    },
+    {
+      "path": "detail/seu_teaching_gym_detail_v01.glb",
+      "bytes": 6290848,
+      "sha256": "2239f5b309cf7890614acf934b4c3a269e50e3d8336fa671344ffe83a41b3938"
+    },
+    {
+      "path": "detail/validate_clean.py",
+      "bytes": 3532,
+      "sha256": "60ccf07f6fd680c4be271fa0cce4e4fdced0136be6785ce38820338b232e86c0"
+    },
+    {
+      "path": "integration_inputs.json",
+      "bytes": 240,
+      "sha256": "091d2722471eff5925e382d6437d388b0e7f88a3c5f90aea4c26700b9ef52d03"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 1158,
+      "sha256": "ae1ca6b258e89edd832b4ece2a379c2b35b250f11eebd6954bfd7c96161aba7d"
+    },
+    {
+      "path": "previews/CAMPUS_BASE.png",
+      "bytes": 1135889,
+      "sha256": "75dba4459d3a92a870448165290bcaa8368bd7472f743669885d0a4ef827cc86"
+    },
+    {
+      "path": "previews/COMPLETED_TEACHING_GYM.png",
+      "bytes": 1240211,
+      "sha256": "eba0028a0919161fdef0387b3d7f173609f02de481b246db2bbab6a275bc2013"
+    },
+    {
+      "path": "qa/BLEND_PRIVACY.json",
+      "bytes": 431,
+      "sha256": "43f5bb1c0424ded271d69e2f990bfad79775b3f7c8b7c2f50723e71a6bb08013"
+    },
+    {
+      "path": "qa/COMBINED_REOPEN.json",
+      "bytes": 682,
+      "sha256": "596e3914fba8d48c28ddf973bd4170dc9362f33821c50faa80590650d7294dcf"
+    },
+    {
+      "path": "qa/INTEGRATION.json",
+      "bytes": 603,
+      "sha256": "df3e153000e94df3c3b93866a8d2be564faab19095357906408182e2d5b3ab96"
+    },
+    {
+      "path": "scripts/integrate_public.py",
+      "bytes": 3872,
+      "sha256": "dae79ca7b442242631bc1e9379c63b2be7c2be5cf537a95590d457c2d047ee34"
+    },
+    {
+      "path": "scripts/validate_models.py",
+      "bytes": 1833,
+      "sha256": "f952e6b69d67fb84180721762a5ea8eede4fa9cbc56d85affa8e41793f510101"
+    },
+    {
+      "path": "scripts/validate_release.py",
+      "bytes": 1592,
+      "sha256": "c3c3145786ce792be0b2654acdb7fe488cecfc2b84d5111a6dae6957a20dd4b6"
+    }
+  ]
+}

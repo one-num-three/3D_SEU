@@ -1,0 +1,12 @@
+{
+  "modules": [
+    {
+      "blend": "base/SEU_OSM_BASE_v01.blend",
+      "collection": "PUBLIC_OSM_BASE"
+    },
+    {
+      "blend": "detail/seu_teaching_gym_detail_v01.blend",
+      "collection": "SEU_TEACHING_AND_GYM_DETAIL"
+    }
+  ]
+}
