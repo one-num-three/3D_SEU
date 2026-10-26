@@ -6,7 +6,7 @@ errors=[];files=[]
 for p in R.rglob('*'):
  if not p.is_file():continue
  if '.git' in p.relative_to(R).parts or '__pycache__' in p.relative_to(R).parts:continue
- if p.relative_to(R).parts[0]=='public_assets':continue
+ if p.relative_to(R).parts[0] in ['public_assets','public_assets_v02']:continue
  rel=p.relative_to(R).as_posix();files.append(rel)
  if rel not in allowed:errors.append({'file':rel,'reason':'not allowlisted'})
  if p.is_symlink():errors.append({'file':rel,'reason':'symlink disallowed'})
@@ -16,9 +16,10 @@ for p in R.rglob('*'):
   if re.search(pattern,text):errors.append({'file':rel,'reason':'private path/id/signed-url pattern'})
 for t in json.loads((R/'tasks.json').read_text())['tasks']:
  if t['state']!='queued' or t['assigned_agent']is not None:errors.append({'task':t['id'],'reason':'candidate must not claim jobs already running'})
-if (R/'public_assets/scripts/validate_release.py').is_file():
- import subprocess
- child=subprocess.run([sys.executable,str(R/'public_assets/scripts/validate_release.py')],capture_output=True,text=True)
- if child.returncode:errors.append({'file':'public_assets','reason':'independent asset validation failed','detail':child.stdout})
+for asset_dir in ['public_assets','public_assets_v02']:
+ if (R/asset_dir/'scripts/validate_release.py').is_file():
+  import subprocess
+  child=subprocess.run([sys.executable,str(R/asset_dir/'scripts/validate_release.py')],capture_output=True,text=True)
+  if child.returncode:errors.append({'file':asset_dir,'reason':'independent asset validation failed','detail':child.stdout})
 result={'technical_scan':'PASS'if not errors else'FAIL','errors':errors,'file_count':len(files),'framework_license':'MIT','framework_release_authorized':True,'campus_assets_legal_clearance':False,'public_release_performed':False,'limits':'Pattern scan does not prove absence of every possible secret. Framework excludes all model/image assets; third-party campus asset clearance remains separate.'}
 print(json.dumps(result,indent=2));sys.exit(bool(errors))
