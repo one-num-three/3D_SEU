@@ -1,0 +1,57 @@
+[
+  {
+    "file": "PORTABILITY_REPORT.json",
+    "bytes": 317,
+    "sha256": "d04cffb7d6513d91f1a06de9fedc2df4bbec8b061cbee5557f2f085365fe0eb0"
+  },
+  {
+    "file": "PRIVACY_REPORT.json",
+    "bytes": 775,
+    "sha256": "908c1b9f7a53bce1c1261959962d6f2dbd833b59d9698c29910bb1645169f2e0"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2780,
+    "sha256": "34a539004f20c271c212e35cd53449ff199bf0cd93d46833ab014dc1ba545617"
+  },
+  {
+    "file": "SOURCES_AND_RIGHTS.json",
+    "bytes": 2322,
+    "sha256": "99db3481b020e60dbcb572ec8d94c3807356c2eecdc68f445467c45cbda22d1d"
+  },
+  {
+    "file": "VALIDATION_REPORT.json",
+    "bytes": 572,
+    "sha256": "cecec9db4325563d4f9b5192ed9a679ed3ecbad888cc9f65f4bf3d4cceee1b5d"
+  },
+  {
+    "file": "geometry_database.json.gz",
+    "bytes": 5891437,
+    "sha256": "ca85137aaeb3a0549389e3a281ea984e3aa6107a714c2be9a221ca1fbc566cb0"
+  },
+  {
+    "file": "objects_manifest.json",
+    "bytes": 126928,
+    "sha256": "233b60e250f6864489e6e83d4eae6eca31fc3032b14d498356056c2bd00e74e8"
+  },
+  {
+    "file": "rebuild_clean.py",
+    "bytes": 3139,
+    "sha256": "04ee726fc2ea5aecd9774b12ec57c9ecd23e23d0c7fe793dac22b80796f702cc"
+  },
+  {
+    "file": "seu_teaching_gym_detail_v01.blend",
+    "bytes": 5248446,
+    "sha256": "232c2931600029d101994ec7d2b950eb3725d19d887cd56bd24cfff46e74454f"
+  },
+  {
+    "file": "seu_teaching_gym_detail_v01.glb",
+    "bytes": 6290848,
+    "sha256": "2239f5b309cf7890614acf934b4c3a269e50e3d8336fa671344ffe83a41b3938"
+  },
+  {
+    "file": "validate_clean.py",
+    "bytes": 3532,
+    "sha256": "60ccf07f6fd680c4be271fa0cce4e4fdced0136be6785ce38820338b232e86c0"
+  }
+]

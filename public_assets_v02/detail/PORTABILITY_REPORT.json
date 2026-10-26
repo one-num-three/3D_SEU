@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "rebuild_input": "geometry_database.json.gz",
+  "private_model_dependency": false,
+  "rebuilt_object_count": 239,
+  "rebuilt_glb_byte_identical": true,
+  "rebuild_geometry_fingerprint_checks": "All objects exact float32 vertex coordinates and polygon indices",
+  "script": "rebuild_clean.py"
+}

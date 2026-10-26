@@ -1,0 +1,2408 @@
+{
+  "schema_version": "1.0",
+  "object_count": 239,
+  "building_count": 9,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630686644__0001",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "0003c06bdd72d2ce7f18f310595ad48ce823beb888f9aae8e45de27e64d0d657",
+      "vertex_count": 19762,
+      "polygon_count": 19760
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0002",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9435e37803f0db46deb5f4e99ce9fbc974be5012c0a80729193326268b98a020",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0003",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9dcc9ce09c1d8eb50b88fc3a9ba96535bfbcf6ec806376d1f1cb927133ace8fe",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0004",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "df5d21a73efd52b5a81faebef592d085bed989da61b3068b360dcd8c9b5c0571",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0005",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "47560f830289eb014c89468abb3ba1bbb158a4b589a394ba6fcf6db18cb5abb7",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0006",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "411906faac1d19cc1e27cf5113535baf1c4f73177654be98aba543fdb8e77234",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0007",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "f8035eb26974763cf23eb246a2a971255deab834dd6f3cee9360981055f5a8ea",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0008",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8c8b952fe6338f390904737914bf3cf7cb947e5d6bb9629297e5a5c3ff142ead",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0009",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "054d4f0e129c740bfc6ee0c9ed191b860b5758fb2801ed084ffea69eb8568cad",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0010",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "16e3d3616a58f94d874e90cbaf339f14d0b872fdc0ed31ff898b7ab65c6724ad",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0011",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "7ba8edb77b505c780401d9245a6e32c9ddbc977571ccca303037a875be4644f5",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0012",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "fe31b136661c0ba531473f0bf840ed6784504fc138edf529f52df4e5d75325ba",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0013",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "845e239d965314ea7ae054f25c504db62b8635ae5b9dd03e0f504ece3b786fd6",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0014",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "6f1e9820a617156e92fa097603c0051d0b18acc8366641c0c724397ab6aa5c8a",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0015",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "f1f9646985dc5caf4169b52ca67b13f7d1fba0286d2c01edf3673764ef8107ea",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0016",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "711cf7b83f2b6135f84c2b066f5955a259124f5254b176d9090f10009d5c1593",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0017",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "485ffab73e3f715b761da6571c2222afe12e9b9e006ff1e48a56c8e6e1b559d0",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0018",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "e7348932196d58e1fd2a3190589a499b965f5bca3f583fbaafe3f6995c1ad939",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0019",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a65108204d8266746b8e3d7ad600ba812b62e9e803228c62e72dcbb285f692ba",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0020",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b679521d66886bb9d28fc3d2ba8e14a44ebe0b5ec0fecbd1c22d94edb7e34a2a",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0021",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "03f207a47cebed0e359fad2b82ff894ba8e8c98182430043fac41198c1625c62",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0022",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "dd490ce6ea0ef6b93f63161e179db957fbf65d9a588aeef1af238d0b9b4739bc",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0023",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "db512f94a1e2114e53a9e8909bc54a42c413cc0ea372027cdef194bbe93271a4",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0024",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4d90136f6771ec33ec78cdaa45000640f78df97ed0fbca380ef8b19d1d981d1b",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0025",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "74b9c30bb5fd17631ae933ef7a4335195604466fc732f726e692d96c80fda516",
+      "vertex_count": 1274,
+      "polygon_count": 1272
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0026",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "d41d1271c22ccbc4752b0894828ae746b0a73c809b6b4812654abe97fbf30d5f",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0027",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "5627b8f6e0d56a9b4666328f49b2e96ced6c40b48085a68b2c3502e1494031f5",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0028",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "6feb700a0893bf64cbcc91b91295f1ac7a6068bfa7cd258a176d553e16dbb450",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0029",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "57520715f2f9e812a481a16dfbe902f730d63736fa6aa63028d4a4ccfa6ceec4",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0030",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c17fb25066700f356b815b9dcb461a4c83bce37742daee45605694da38df371e",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0031",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "586f0e3fb6ca8b68944764867c3572335d96a5bf71577ab429a1ceb7bed928e0",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0032",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1f608e5a51c7226c231fa235e933889137aa970be6acb1981a48621829bfc0a7",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0033",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "eb20a9812d18e1fdf7fc4ce0c2545a82901d1ed07f75d1ca57b8d8f50e2b9d8a",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0034",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1a0203f83eb8c866698e408ba458cda85a5ab894e291ea82a21a9abd9eb6841f",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0035",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "2bc3079d7ccbd485fa60ca36a3e470034a2b23a92d70578b9b985c5c437f781a",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0036",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "953134ffbcab7b9d645953e8417dedb4dffbbcddd8c4e4b0dae3de3461934727",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0037",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "99070af7121af15d59ed61f17094614aaed2338fb138a4e9f72ba3228d4e5d9c",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0038",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b47d453cb7f4d11a642b2bca147e5ccbce3c9ca1df1f818e30191b36e92e2f4a",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0039",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "eb76fe0275a6dd6b83990b4c0d91f0ff9b5abadfcabd1f800c9e41b29243db31",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0040",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4433e8026594c90d572ce356b8319217145058ec9820ab750f05a135b2e15634",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0041",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "0b57ce5af5843e2b19c4d1ee3074cb506a997a4f390c80eb0133ee24b65eb609",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0042",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "e5a1a1f62f9abf71c0b10745461f9478793b8810abcd557be0cc6303cab72b6f",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0043",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ffc5012ca6c112c2b004e974a8c87a5b747e50435b6968e8c52a98de20eac585",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0044",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8a29ac62ec5bede20e1c59e5f4bb4967be21dc980c901da6ea7e1858b2a618ea",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0045",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "5a152a0e85001178661d149ddeda29422f0209b8b13c4bb22385f81835f15ba2",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0046",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "d70ca4f5f97c810cdaa2139a2fc7b489bcfdf42c29f37c903c6a3bb4bc79ac37",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0047",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ae8d6576673b4a50b046de55cda0c68407235ced314be0749b66d67bb22c731f",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0048",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "3e7dc71f4256628b595feb552db8d84f16546e62fd9094f523c262f441a8941a",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0049",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "951688e1fd6b3a08a049a6df738dffaf1817d3c6cb7398e3512926046b0c2a57",
+      "vertex_count": 2276,
+      "polygon_count": 2242
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0050",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "636de66c77fca7aa23cf1cd6317efa72fcbca56542c1ade4bc7ea53ba322eef1",
+      "vertex_count": 7488,
+      "polygon_count": 4992
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0051",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "21a0cf649274ad399ddb225ad5aa33f5488fcd827af9723943ea6cf5a5db7478",
+      "vertex_count": 3456,
+      "polygon_count": 3456
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0052",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "6bed3d8bf368d09485513bf81c4535c2d7c98f91352253920c8a91e3a296711a",
+      "vertex_count": 15872,
+      "polygon_count": 12416
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0053",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "07c73c57ded2c2210c88d4a6d5a317723cd94c23e88c7fa70b0f8bfe11cecb81",
+      "vertex_count": 906,
+      "polygon_count": 944
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0054",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "5fd57dcd76258ec145ce153d0e60f614ab3c86b4c276b8cab69f45cb9b18bfba",
+      "vertex_count": 768,
+      "polygon_count": 432
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0055",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "5790038102b97f966ff1f927eb606b90058c003b57ba8fe37c6dd27bc85c171b",
+      "vertex_count": 960,
+      "polygon_count": 960
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0056",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "6d129700e13c01681294a84ed199a124ee2c771e74a3d8aa2de9ae51fba21ad5",
+      "vertex_count": 9680,
+      "polygon_count": 6408
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0057",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "2c8f9e7f0ac0afe1b5ff65076253567cc8f8c8ec0e8eefaa4b69c3f859958cff",
+      "vertex_count": 984,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0058",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "18df421894f0d804c9afc5ad2c7cec10bd8ea7caf7a994635bb9b73386dfd622",
+      "vertex_count": 984,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0059",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1c14e9ac2fc2228576c8383f6a9b044d921aa426fc16b37398c8fa4a1ea8e56b",
+      "vertex_count": 62,
+      "polygon_count": 33
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0060",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "81c52b2bdb38627e7dfc22d094391661890706bc7f6daa4f5af830b37a1e2fef",
+      "vertex_count": 62,
+      "polygon_count": 33
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0061",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "952500aa4e6255fb462535a0870827a2b08d0e5f2e6e085f1fda58732b3df999",
+      "vertex_count": 424,
+      "polygon_count": 318
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0062",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "5a3b8a75af94617ea2dfa4aeffacd6b1015ce5f8188d4c6c43309a6b04448de8",
+      "vertex_count": 376,
+      "polygon_count": 282
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0063",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "83c80768669a6f1ad6190d949edd8cd40cd261594fc27c5f2f449eb1e1e7c692",
+      "vertex_count": 424,
+      "polygon_count": 318
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0064",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "da49f44e999b6a4672a7522564106f7865460b6fef060b068e2fbc3639a07771",
+      "vertex_count": 376,
+      "polygon_count": 282
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0065",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "7561535c7b25645f892a922184c24c47a90ba5d10e201a8456d312c444bccfc3",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0066",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "093cbc0b618be541794ba5a6428426154b4c6d6e9ed03f8ce11aebb4b3d082bd",
+      "vertex_count": 81,
+      "polygon_count": 78
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0067",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "63b07a5c2c9e92f02460937cacb0bab4b6d983ecf8a495121a3b6e0517aa53bc",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0068",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a38541a5677f5352e2f2979eb8611f63611172258c825dd5daebab5c1e120a86",
+      "vertex_count": 81,
+      "polygon_count": 77
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0069",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "7b5ec880b7b1a772832fd685608db9a7eb7cab1ec17ecf236690744e226d91be",
+      "vertex_count": 2304,
+      "polygon_count": 2304
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0070",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "095b83d6f6eb2c6bd05470f3dca1ed679d7c8a4b6edb029712aadb8ed151b976",
+      "vertex_count": 2304,
+      "polygon_count": 2304
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0071",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a96de818d6972c678d6f12cbf1c81c4439b4a98d35ab42ef4b79fb72ba134714",
+      "vertex_count": 212,
+      "polygon_count": 108
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0072",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1fe3659eedf1eb4eaf23f50cdaab3861f7ac4bd88c69decb502e9907019ae671",
+      "vertex_count": 98,
+      "polygon_count": 51
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0073",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b45ef8b30efee752d64b7aeefa3eb2a0c3a5f8ef952cf66b91617b6a198980af",
+      "vertex_count": 98,
+      "polygon_count": 51
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0074",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9c0df8a964039b017db38dca3dddefab145fb891fc17ae9bb3eb4303433d84fc",
+      "vertex_count": 310,
+      "polygon_count": 157
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0075",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "409ce07f1432e9991246219c98e0448639afc0980dadad30747f83d393cb5edc",
+      "vertex_count": 310,
+      "polygon_count": 157
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0076",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8932f549198fd3ee258103da8579abe3df937999a87dc6b38a5be0ca140030b8",
+      "vertex_count": 96,
+      "polygon_count": 50
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0077",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "2115b1f23db3996e9c913bd78a18297408195d25a209f5ea9a3f214902e0d445",
+      "vertex_count": 96,
+      "polygon_count": 50
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0078",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "dfbe6a19de3a909c3e5f1fcc1f54cc6d3eaef35ec76b0b6f0fc3d21a51906ef4",
+      "vertex_count": 46,
+      "polygon_count": 25
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0079",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "806f23b6210dea56dc3e483fca1e7440d97f2e4e24233db634e0a2439470a973",
+      "vertex_count": 46,
+      "polygon_count": 25
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0080",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "52d6bf65a77ded2623f06705f451591801c063fa9fb533e9c3ee28b607acbf5d",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0081",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "de6294d6e76273dbbf3340e245caa608dd4b8667b85d940db15a19d043938c05",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0082",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "e58050aac46b7268ca15ac0626c3675630d0cd80bb795ef7612471da07bdb1b1",
+      "vertex_count": 66,
+      "polygon_count": 35
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0083",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a4ffa92d463cb9111a84c7b2324369c45e34c4d4dd41ab4c1af6c21920aa5698",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0084",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "f4495080e4e0cae5dcc9d7098a37554de03c200e58b12c0c5114d8e455847efe",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0085",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c9dba97fc0983b19393e5c0a0d924c7848396868414e2392e52148594c498222",
+      "vertex_count": 546,
+      "polygon_count": 275
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0086",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "6397bc20bb5c13c28f3b81ef4c33916f74cf495017c515f7d57e3d363cc0e560",
+      "vertex_count": 546,
+      "polygon_count": 275
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0087",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "069fe86edb2a7e7623eec490cc3f29185ce34ad10c6baf6435d77a4ea4d92621",
+      "vertex_count": 334,
+      "polygon_count": 169
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0088",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8c38b572249172f53e7b222d3d5dbe02830b898c78a753f5fcc220107c0439c5",
+      "vertex_count": 334,
+      "polygon_count": 169
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0089",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "e464a759b877c16a01735c04e41c76a21e4e9a586f394ba2f14c5e973742c1df",
+      "vertex_count": 190,
+      "polygon_count": 97
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0090",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "77d26fd0a0ad63b26ee7a7a18652649ff790d906dd13f42dd78c1edab4fcbdc5",
+      "vertex_count": 190,
+      "polygon_count": 97
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0091",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "0b67d8f051e66780909784ee55a4a8dd4c9ea4184f5caf4a5a7d8f395f7e6ada",
+      "vertex_count": 268,
+      "polygon_count": 136
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0001",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "bd477959c677b495f6308d490601505fb8fa215f7467c9f7f1a81a082d51f87d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0002",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "7b7cb890e9f498ac35852b9ccaa126123d18d47589b8629c0634e38e3a4664a5",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0003",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "0515e4c6d8286cdb3b23169b9e68312d7d8884d04b3f0a479ebabe61545ceef8",
+      "vertex_count": 1600,
+      "polygon_count": 1200
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0004",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "aecad9526b50434bac696e5f548123663c6ed1b318ab0e4a7b1f0a3ca330eaed",
+      "vertex_count": 1600,
+      "polygon_count": 1200
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0001",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b2559fd07221537e3db5b43ea61c9d576fc72a344fc3dd695932f62dd87e7019",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0002",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "2770818b451e3beee49d0203d5971c8a40327704c4f46952bf005b484d005642",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0003",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a560114e9a607b5324d2225ea9a3880b513892ced87657ea34bf6d04fd824e78",
+      "vertex_count": 1680,
+      "polygon_count": 1260
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0004",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "d0f092c838e569b97f744d9f7854aaafa82648b1e98ae1af793d498a3797c2cc",
+      "vertex_count": 1680,
+      "polygon_count": 1260
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0001",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "690b7d6b86d0d4cf886d7fd2a94a3ead46268d994335b141199629f8310c8680",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0002",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "7176e992ee2d97ed80fb2f0de1a88e2255379cf8cdb5e5c9764c8ae15276530e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0003",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "27544bb1958365b889ef6d5b5b76ff26af751b4d3f93e90f1089f5f05e31d87d",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0004",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "fd60c4f057b61ea56bb78cdcdb6409db60c923f4de1194d66af29c43f0ed9169",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0001",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "bc308d590c7ebbff74b526ec18a13360d0bfbbc9633f2c6d2b24d017489f18a2",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0002",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a6befa680b64f61f52429e94ad9148f95f1843ae285911d06c0823f122370a64",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0003",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "f1a73ee2800df99d1d243e58a80000ee961587aa52875af5960503634e14e4ec",
+      "vertex_count": 1680,
+      "polygon_count": 1260
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0004",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "dc5c494cb10183dc9a6ae2527cd08e62f4ca96a30d1fb752e807be3c05af5212",
+      "vertex_count": 1680,
+      "polygon_count": 1260
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0001",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "00e37a702950d498ad4619762924c92e6808e3ba2363751cef7988901c5e4dfd",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0002",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "716b12e0825b2efc727cf522b00197fb843c9f2d75ec1360271bc43de77d7ccf",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0003",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "24be84cda54f2c836131a4914642863fef100189a13bbd1fa276d0bb54212143",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0004",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "45bbe5027198ff7875eccba9e0b48e3a563ccbff42f12621477a2f3f71c5e947",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0001",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4a7770215453db87a583fa7cb9647411067897ed6cdac3ecd3c221c48993eed0",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0002",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "cb861bcfeedcb8f6ebe89e06ca8b824cf6323b8a6b5137a32fed990e63a40f72",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0003",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "3afe0851d1b1fc9c96d9835bbce003c7830fcf8db1f8d2fbf91356a4b6a13b3e",
+      "vertex_count": 1600,
+      "polygon_count": 1200
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0004",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "71b36e86704aa3e743c64e0e787c6816fa56d3c4a9e1874b8fe6e4b7e42d7727",
+      "vertex_count": 1600,
+      "polygon_count": 1200
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0001",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "5e6362222cc0b2af17dd39381863facefba85d7bfe3096fbac6bbd263ec066e9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0002",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "de9b43c7421d6afa08341f4be55c871173ec024dbddc7e8a525daf4e3ccdf484",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0003",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "fced41a8b4be5f7320a6b1b5e3c8abb22085e269442903fab744182fe30be0c0",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0004",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "103326359a089e95e504c8dbe20cd904d81691d557df7f13dffc556f6fd0f735",
+      "vertex_count": 1840,
+      "polygon_count": 1380
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0005",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c2f3fba3156e1cdff85b9f6f3d6b0829bea68b89adc2d177d0711d6b55668a8f",
+      "vertex_count": 1840,
+      "polygon_count": 1380
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0001",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1943aa47971be9eacc30526d216cf3a2a8121727c595b794fb03939e96de0fc2",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0002",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9a1544878530380a6bd6dd0c2ebcede8c0bb814c1331c26a0c48fe7c15e0684c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0003",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "11e47099e476579dc34408d048a185ed060df8238f33393db7489d56eb1b0511",
+      "vertex_count": 1680,
+      "polygon_count": 1260
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0004",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "878c5ff89dfb51dfb594ff543671fd28983fc878addbed843dd1e9e90f9a10a9",
+      "vertex_count": 1680,
+      "polygon_count": 1260
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0005",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "303797a44e8079359a5e24ad7ced6f28e1eec1e5ab5c18cfbb277c96fb1cfd5f",
+      "vertex_count": 32,
+      "polygon_count": 24
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0006",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "deec235c076b5fb353cb52d6b72cfd55b2c949ad12cfd746677a4b08cd51b190",
+      "vertex_count": 60,
+      "polygon_count": 40
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0005",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "fddf2f49e36a7e28105620f5ea9d0795a2ce211a62814b58424c7a312ef84e2d",
+      "vertex_count": 32,
+      "polygon_count": 24
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0006",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9786ee8970698d77426fc35dc17c14c61731f4197f71a13987371150023ffe02",
+      "vertex_count": 40,
+      "polygon_count": 30
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0005",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ad869b4e0902c624e61d03d747eb357eb10a40344d1827b875837dac8bf57fb1",
+      "vertex_count": 32,
+      "polygon_count": 24
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0006",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "706bd2e766b47fabd0ab1e2edc08645fd8dc90f0fbca47773d9ecc4a1ddacd12",
+      "vertex_count": 50,
+      "polygon_count": 35
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0005",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c2dd544430f67863ae20454706cd67dfe033e20f26ee005cc0a9ca81de181d75",
+      "vertex_count": 32,
+      "polygon_count": 24
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0006",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4e608b93bb1785512e2513c1e491fdb5823b8b85e9ec4d6ad1031c814face208",
+      "vertex_count": 40,
+      "polygon_count": 30
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0005",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8c3ad0028c03bccc52269dbc3d59ee1534bc3bb7f23a0c7b3db295481a007d2c",
+      "vertex_count": 32,
+      "polygon_count": 24
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0006",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "19e28623158d7a36217fe9b50cf136106ae719e73851fa429f4c64b79c1f54ec",
+      "vertex_count": 70,
+      "polygon_count": 45
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0006",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "aed05319cf50ba680257c0d15265734d8bc36ebd81e283e70ebaf7f1df88ace1",
+      "vertex_count": 144,
+      "polygon_count": 108
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0007",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "15248145739fd16603c9c9e1d9e7a14150a8f5cb35ac1f1c5a76edc8bda5892a",
+      "vertex_count": 40,
+      "polygon_count": 30
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0007",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "15ca0bf5b30c8367cf070d242ea53be64593f6bc2f6c1c7b62436526fc5463ff",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0008",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "2c5beb126625f386e847abf29713aa6313d5ba3649388cae79037d6a552d3fc7",
+      "vertex_count": 70,
+      "polygon_count": 45
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0007",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c8c566718e40ce7082869dcdf9b3d7771f65926beef5d2abd2116ea113aff1c6",
+      "vertex_count": 96,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0008",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "e27d98f06ff9c470e5b1570e6f50bf5f56e4ca25211f6d65633b9bda02d7a815",
+      "vertex_count": 70,
+      "polygon_count": 45
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0007",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "707a73b148d2596e255f15db9d633e39abdaa5372846e541f7473ed4ddb53fc7",
+      "vertex_count": 96,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0008",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "81718f73c5fee86f172938a22257f7da8e7eee59454937cb91d3e515c05a7db6",
+      "vertex_count": 70,
+      "polygon_count": 45
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0005",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ba6a18b2613c4491a99e790f4619b0045a1598ae8fe6e620dee11fb0f632e4b3",
+      "vertex_count": 88,
+      "polygon_count": 66
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0006",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b9336f22686991cf17b8e2ba07046852f86fcf4874ffdf496b4245464b7d0101",
+      "vertex_count": 40,
+      "polygon_count": 30
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0007",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "6050d9b2d68eec394bc2e82d0b0800a6ed30c7813bed1d8006d176c3853a9924",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0007",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4f61dae6bd77d1b5895c9bc2661a31d351dc412d451943db74c3f557e1a18bc0",
+      "vertex_count": 96,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0008",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "024912d0ea070c93e5b3f1dfbf67932f34e3b33222be6a5d80dacbc92fe7083b",
+      "vertex_count": 70,
+      "polygon_count": 45
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0007",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "613ffda2ca4de2a30d05a4513064b2abf1c9242213428200e7a76155308b421f",
+      "vertex_count": 96,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0008",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "622a850c8207170a16c33f5eb1b7e6a13ad1cdc5c6db8eb1f9807525bc2fa4bc",
+      "vertex_count": 100,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0009",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "706f5a15361d5dcb0417edc55ddb9df5a9ebaebd28373894bf3773290966097e",
+      "vertex_count": 64,
+      "polygon_count": 48
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0010",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a452b96a6041612d57997c9e39d360a7dece0a0b0087b36cde69c95d3f9bb233",
+      "vertex_count": 70,
+      "polygon_count": 45
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0009",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "f7a64499e2d7af84d70f6d689044a5dc545f0b189428543b71274aff127aee05",
+      "vertex_count": 64,
+      "polygon_count": 48
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0010",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8d6f492dca9a1d86589bbf4cb422bd31555a86491e6862fafaf81656b836edb0",
+      "vertex_count": 70,
+      "polygon_count": 45
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0009",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "28733d6181931f73130a158271b1102765467cfcb3940d166676f5f5772a2061",
+      "vertex_count": 64,
+      "polygon_count": 48
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0010",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "15bed0564e976bb3f1b4c6897e789a4da282dc0ff559aae2ab304f8744b15506",
+      "vertex_count": 40,
+      "polygon_count": 30
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0009",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a3082f9f4e874dea923a850060d4ab97c07b2d0149a96dc5db2f4e32b736ebe4",
+      "vertex_count": 64,
+      "polygon_count": 48
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0010",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1ad8894b97fc2ac75c6a40b5f6d73d40c78ea55e3f6a4575d0cd649904b8de91",
+      "vertex_count": 80,
+      "polygon_count": 50
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0009",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c7afedd1e526fc1bfb391e95a4cda1041ee6aaa534e23b2000bbe9d72a45fd3e",
+      "vertex_count": 64,
+      "polygon_count": 48
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0010",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "open_gallery_estimated_levels",
+      "assumption": "Open passage retained; levels, posts and clearance estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "07b11feb023aa941ab97a2a927beacde07c9fc30521d4356817ef2ebd64b5c69",
+      "vertex_count": 100,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0011",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1c3ae2a869936efeb3f203bf1ce21c05b7a1d9671905a6098d792734f03196e5",
+      "vertex_count": 120,
+      "polygon_count": 149
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0012",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "cfe06451433ae1bbe49f1a38a7cbb9527d12c13d8ec24ba387e3d1a1d5b6a256",
+      "vertex_count": 40,
+      "polygon_count": 43
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0011",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "3cf383cea018978ef41760bdd0551643056430d1458bef419bd4cd4a09565fcc",
+      "vertex_count": 96,
+      "polygon_count": 135
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0012",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "314a637bb8c2ad7768941eadd94d90efe40334851dc3121bf5e45427f9e4e9f1",
+      "vertex_count": 40,
+      "polygon_count": 52
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0011",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "00249288b82c0e15e285e7b17f3432bcf7b11981844c51a866d89a725c046b34",
+      "vertex_count": 114,
+      "polygon_count": 127
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0012",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "40a337138f81ec20d0a556e3477c216ee3acc85d90c9dc4e8df967d304bc90d9",
+      "vertex_count": 46,
+      "polygon_count": 55
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0011",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4769c9d3d38f0bd2c94f1f7d65cc961d752a69a233a7e5eda2808ce69bd5ed88",
+      "vertex_count": 122,
+      "polygon_count": 147
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0012",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c91674a96a420cc76c96b7e6480c9a2a71844dbebbfc0af0149709bb06047ad2",
+      "vertex_count": 40,
+      "polygon_count": 52
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0008",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "0194fcf84abb8db99138026a6e7cdfc551b57e40a354d4f9d8d83ca636de2d97",
+      "vertex_count": 80,
+      "polygon_count": 90
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0009",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "297b7ddc46e8c5c354a15056d0748453d7d7c48112de97764e3b4eab7d6029ec",
+      "vertex_count": 42,
+      "polygon_count": 55
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0011",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4534d4c7c5e633e43ac898203091aa4f98baf57bc5f366a0b4f1d451d1a936e9",
+      "vertex_count": 128,
+      "polygon_count": 152
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0012",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "af785c627e20c01d427e2fd61e03e648347118f4ccc66c593db323e181446c3f",
+      "vertex_count": 36,
+      "polygon_count": 46
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0008",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ec277035eab9f1b7911f0811417fc204dc90badc28ccf6b5ca1c5efb9cdf0974",
+      "vertex_count": 64,
+      "polygon_count": 83
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0009",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "972e4221c970a4938134b1c934a021eec171268675acbcd21e5eb4ac22d39db7",
+      "vertex_count": 22,
+      "polygon_count": 29
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0005",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "upper_projection_assumption",
+      "assumption": "Upper roof/gallery-edge projection modeled; ground support not verified.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1ed8b7ba9d60d4aed3915d9d62b04ad37dc80c813d29473b6ae39d91252a2b71",
+      "vertex_count": 58,
+      "polygon_count": 71
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0006",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "16839a1d0f1f9ea237a6ccd6425194443a01062156286f8854309a54d52c6efd",
+      "vertex_count": 30,
+      "polygon_count": 37
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0092",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1568006e4314498f77360dcefaade35eafeb7636afe473759828c7e45a9ff071",
+      "vertex_count": 21784,
+      "polygon_count": 16338
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0093",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8be037db26c863971d82b681bff21a2aae3e3a3eb1add7b13fa105f8593e7970",
+      "vertex_count": 29008,
+      "polygon_count": 21756
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0094",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a390fd00ed88d81f904605c241f5744c1a61dee7ed23db7c560041d9aa0f4236",
+      "vertex_count": 20664,
+      "polygon_count": 15498
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0095",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "63a718787631947893f3ed69bae4c982db772a55326a091e16e0fa38fa2ae264",
+      "vertex_count": 23128,
+      "polygon_count": 17346
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0096",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "02eefea6254a9d0d38986798163b67fabd5666511db182f6752fa16418b792b0",
+      "vertex_count": 10,
+      "polygon_count": 7
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0097",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4f1818345b5bd0545f0b439114e140d89080a2e96cf75fd56d1a5084dc26ffad",
+      "vertex_count": 66,
+      "polygon_count": 35
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0098",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9e59d0fbeb75781d1e38ff1dbbd0e60c46a4158f9cecac3629766aa46ac794fc",
+      "vertex_count": 10,
+      "polygon_count": 7
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0099",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "cd6e867258f4c8576b1582df1bd4548b240ef5bd0768061db260fc8d74b8fd61",
+      "vertex_count": 34,
+      "polygon_count": 19
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0100",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "46bee1ace40823ab0db198f1bfab0dbfe5c6dd846a4ca70a481c945fe5c1e1a3",
+      "vertex_count": 888,
+      "polygon_count": 666
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0101",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1a76a9e64b88e457c621b36370f2f221d978d6dd91f5086072ed7407899a5c7b",
+      "vertex_count": 984,
+      "polygon_count": 738
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0102",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "24512baac69914b60c7caf2f2abf435fd2c76dac3a001a39811ebbb4bbb2115d",
+      "vertex_count": 888,
+      "polygon_count": 666
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0103",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "0c05271883678a5ff0908278ce69804df928c0b27993c49fcbface168ab9cef1",
+      "vertex_count": 914,
+      "polygon_count": 685
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0104",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ef7b86b81e98283ef1ba7e08940e49d638b40c9aa92eedc210ad8f9b4c1c6eb2",
+      "vertex_count": 888,
+      "polygon_count": 666
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0105",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4e7a7b42ca245446d28a673d9954db37aebdbb8a9d8cbf9209d37d13e8f17291",
+      "vertex_count": 984,
+      "polygon_count": 738
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0106",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a6a9128b6c58c51ac0e33dc10a796620fd5bb93ab8de04bd88b6919819da3a89",
+      "vertex_count": 888,
+      "polygon_count": 666
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0107",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8c253e4e276fc05021b3804272119555e6217e032ba0335796e5a7b322d0f167",
+      "vertex_count": 912,
+      "polygon_count": 684
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0108",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "26cf511417cc5c1024cebbc6dd352267b5e5b65723e331904915a08d20ff61ee",
+      "vertex_count": 30,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0109",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "537cb9d13572d86dc97f11c97c10dc26882923dba8eca430b2efaee471506326",
+      "vertex_count": 30,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0110",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "d063d3f1ee5f1134f846de2fba115c03cd0d82a095d496546498e16f1fb42db3",
+      "vertex_count": 36,
+      "polygon_count": 38
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0111",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1153604b12bbf4b128fe45fa7b380244b679c7ab3c4aa6883e8c08bbd16bded6",
+      "vertex_count": 93,
+      "polygon_count": 90
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0112",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "754002a452ff5159200cafe5ee0392cd8ac98e4140a4e68d7ded21feaac71cd9",
+      "vertex_count": 28,
+      "polygon_count": 29
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0113",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b5954568cccd032e7d0f09ddd44ded526afa03e9992745a803e648be9ce5b3d5",
+      "vertex_count": 28,
+      "polygon_count": 29
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0114",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "093f81ccc962a7af930273be196c446027b07a710f8148dbce51d999330afb5c",
+      "vertex_count": 30,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630686644__0115",
+      "stableID": "SEU_B_OSMWAY_630686644",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "25f1020620795fe70e470e49fb287f99bae0a1c0566bde68dd30ba796e814d76",
+      "vertex_count": 64,
+      "polygon_count": 58
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0013",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "55912da7df65dafecfc3f08a6c88f778261c2201bdbbe3cb1933a3b6648a6f57",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0014",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "451b205389e1c5e38515efb545b8c89c0314f2ecd32975039984c74ce98a48ef",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0015",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9f193f281b014d27f8db0f79aa110f7688c8ae3efc8c8c318754a0b6e88b0d97",
+      "vertex_count": 288,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0016",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "7c8d377c32f841562baaad96dfd1ead176cce92d7834af846645778da4dac3f1",
+      "vertex_count": 16,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0017",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1a4f49d958a6a7623c92bffc0d8a2c959906dd221de4d181411e0532d406da3a",
+      "vertex_count": 9,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0018",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8cc37cf9139df929d67edb5a0ead8fb268c38c0dfe0cc447601a5de7bf70fe63",
+      "vertex_count": 288,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0013",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a1213f66573d12a5816b6d23495dca34e2d8e31ee0c97accb2ec2394e74229cd",
+      "vertex_count": 10,
+      "polygon_count": 7
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0014",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "2eb4a0dcb32fc67029aff09388b76b0c98527763ba6fbe728d72ae102b3ce2c5",
+      "vertex_count": 7,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0015",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "c9dff12c22da8f7c1cfe3053952b383e7be013a60bb6ff5ba1a733c7111be357",
+      "vertex_count": 288,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0013",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a5f39c8641a801c40ec703f70a53253faf050e136492d8377dd9838d732c95c6",
+      "vertex_count": 18,
+      "polygon_count": 11
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0014",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "cf16baa47e7eea00a37a7530f46afc4572db1392b21a5a1e2635e9aaefcbebab",
+      "vertex_count": 10,
+      "polygon_count": 9
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0015",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "05c3b844b0062c1eb40f18e8f6a2015ddb08839a11b1cab395e76cc514b6df49",
+      "vertex_count": 288,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0013",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "d57fd12be6274eb91af9f2e3ce848bffd0589c8e5ac7ff977ae783bdc95b1c93",
+      "vertex_count": 14,
+      "polygon_count": 9
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0014",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "897e3949c0dbdd545daf8d32c1e189b6d94d96fb753a930c16d4e462aa0a83ed",
+      "vertex_count": 9,
+      "polygon_count": 7
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0015",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "06e2ee36dc302e57428da06017718857357341f02c7273b2a48b80d6dc22aed7",
+      "vertex_count": 288,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0013",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "d852855db290f71d12d1486bdce9f15134c79354464ef8aa3f7a132a7304f8fd",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0014",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "051ae8a6723874f78ac0227c10e5650ffc9d68bff24267da3e897a0e6f105ed7",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0015",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4dba559d157361a90cae46887205590fb70cc9fe3e0575c4558bada23f1ec7b9",
+      "vertex_count": 288,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0010",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "3238c9a6f46f81cffce2c0e289366369129d2a5c4ca46dbdfefb16658ca48678",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0011",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "cd66d25b04ca95695c497196aad3b8f7a1be758bc59cc8d8805c85868dc928bf",
+      "vertex_count": 6,
+      "polygon_count": 4
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0012",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9cfd80277c4b46ac8a34af1c81b93d99bdc86e3f2bf27dd992d04469ee1be462",
+      "vertex_count": 288,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0016",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "4cc1697afc3ef78dbab74fb84c928606f1b25f926868b314826513864aca73f2",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0017",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "0b1795e7a32b74a963b5867d73f6e933d3b0fc85a4b2d88a47649f4d92e48c99",
+      "vertex_count": 14112,
+      "polygon_count": 10584
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961622__0018",
+      "stableID": "SEU_B_OSMWAY_299961622",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "35705aadb19d4ece7803f04732a55273118da83cc6b409bd656403c0b12b736a",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0010",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "42e9c5c010a180f00b4a3dbc78f8d1e22306479a39f5f32eb76af48ed75f70a5",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0011",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a5064a704e9e1dc0c2808a039f618939d8263338e76f9443a63f9887b10bbe1d",
+      "vertex_count": 14112,
+      "polygon_count": 10584
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961591__0012",
+      "stableID": "SEU_B_OSMWAY_299961591",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b740aa4d58a151a6b66b4f3ea1932ded7306f8f7bc9bb2b76e7725b073fd6409",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0013",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "5aa032378e096bb5e80f9d1304c04be019ead8dcbefef9b8372785ed356ec21e",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0014",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "9ed310fac5abb0d1325f6c21f54ca3cba9b7255196e832a97a612e3463332350",
+      "vertex_count": 19600,
+      "polygon_count": 14700
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961592__0015",
+      "stableID": "SEU_B_OSMWAY_299961592",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "699210bf74045964b6cb3dd6da98ab10a3e23f8a224e29b3cccf1492843f9912",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0019",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ee8777573dca4e8c1d2e071aeedc8b4b198dffd840986f7e6c569a6805b21328",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961605__0020",
+      "stableID": "SEU_B_OSMWAY_299961605",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b9d5f14aafe8fe80aa3e4901b9b05c05e094eee2ea65a616db9b7d6e78ae81be",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0016",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "e7583db742207cdc437f1c5f03991fc1ae40d30aaee27927651b5bcbc19c823e",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961615__0017",
+      "stableID": "SEU_B_OSMWAY_299961615",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "85811db24ec69064ff85ef23e2e2ee1c01b1e413f382950858ebbd1f8df1eb77",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0016",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "b70576e138ab7183e245de3052649c9901cb7b5f5d88437b885b284dd28597b8",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961617__0017",
+      "stableID": "SEU_B_OSMWAY_299961617",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "21ca814de0dc1c446ddd974b6b5738c8851699f0ffc8f108683d858a6f1a3102",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0016",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "aa0a2d301b3dd1a91da124ad29ba08adbe2c5db0d72f24598262bb41793b1b14",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961595__0017",
+      "stableID": "SEU_B_OSMWAY_299961595",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "cfc6cda2e0d6d6733ea783e4e44307b2150dbda86a31369b4209ca18e36d9495",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0007",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "05809ee31ffda54ec25ae09ccc8f4cba87a18c5762c0b4ac27627dd7bcd00b44",
+      "vertex_count": 6,
+      "polygon_count": 5
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961586__0008",
+      "stableID": "SEU_B_OSMWAY_299961586",
+      "role": "building_geometry_estimated_dimensions",
+      "assumption": "Geometry retained from accepted working model; heights, roof and facade dimensions partly estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a926f35c49ec75cceb792324b81464ed5b8d7471cad0b24cff9c5bcad362f018",
+      "vertex_count": 8,
+      "polygon_count": 6
+    }
+  ],
+  "rights_reference": "SOURCES_AND_RIGHTS.json",
+  "geometry_database": "geometry_database.json.gz",
+  "glb_display_normals": "Not exported; viewer recalculates surface normals. No vertex-position or face simplification."
+}
