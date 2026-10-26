@@ -1,0 +1,6 @@
+© OpenStreetMap contributors
+https://www.openstreetmap.org/copyright
+OSM raw data and derived geographic database: ODbL-1.0
+https://opendatacommons.org/licenses/odbl/1-0/
+Keep this attribution with the model and visible in applications displaying the map.
+Original display-model/material work: CC-BY-4.0; underlying OSM data terms unchanged.

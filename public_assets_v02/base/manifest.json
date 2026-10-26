@@ -1,0 +1,30 @@
+{
+  "module_id": "seu_public_osm_base_v01",
+  "collection": "PUBLIC_OSM_BASE",
+  "blend": "SEU_OSM_BASE_v01.blend",
+  "glb": "SEU_OSM_BASE_v01.glb",
+  "data_wgs84": "data/base.wgs84.geojson",
+  "data_local": "data/base.local.json",
+  "source": "sources/osm/campus_margin_map.json",
+  "provenance": "data/PROVENANCE.json",
+  "crs": "data/CRS.json",
+  "raw_and_derived_data_license": "ODbL-1.0",
+  "original_display_model_material_license": "CC-BY-4.0",
+  "building_outline_count": 201,
+  "road_area_count": 398,
+  "boundary_count": 1,
+  "source_name_policy": "OSM tags only, unverified; no private identity audit",
+  "no_textures": true,
+  "no_fonts": true,
+  "no_private_reference_inputs": true,
+  "build_scripts": [
+    "scripts/build_data.py",
+    "scripts/build_models.py"
+  ],
+  "qa": [
+    "qa/DATA_BUILD_QA.json",
+    "qa/MODEL_BUILD_QA.json",
+    "qa/MODEL_REOPEN_QA.json",
+    "qa/INDEPENDENT_REBUILD_QA.json"
+  ]
+}
