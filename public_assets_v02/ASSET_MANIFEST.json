@@ -1,0 +1,536 @@
+{
+  "version": "0.2.0-concept-massing",
+  "scope": "Full-campus concept massing plus retained detailed models; 201 source polygons are not201 completed buildings",
+  "licenses": {
+    "geographic_database": "ODbL-1.0",
+    "original_visual_contributions": "CC-BY-4.0",
+    "code": "MIT"
+  },
+  "files": [
+    {
+      "path": "BUILDING_STATUS.json",
+      "bytes": 101230,
+      "sha256": "22f328af882f405f0e9d36abac5c66338edd31d3ff23970fa058e090d36236d5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4731,
+      "sha256": "7f71b4a24c6bff4bbd312566dea45d0f999db59af8e2143364a7938dad04d036"
+    },
+    {
+      "path": "assets/SEU_campus_massing_v02.blend",
+      "bytes": 16289437,
+      "sha256": "0726193566af8ea737ef7dbe8c2b22fcc38b8e651c77843b6128e6100366ad06"
+    },
+    {
+      "path": "assets/SEU_campus_massing_v02.glb",
+      "bytes": 21258052,
+      "sha256": "554ef11586dd7f2b690af5c4bc0518d269ca16f2c6a65e2d726428fef6c92f58"
+    },
+    {
+      "path": "base/AGENTS.md",
+      "bytes": 550,
+      "sha256": "51dfea94d2820b5066dc1f253e0374571a32aa21a2918baa80b784304e1dd404"
+    },
+    {
+      "path": "base/ATTRIBUTION.txt",
+      "bytes": 343,
+      "sha256": "d7d0a29538a220552f3bc817258cba3287135431ca23cfe38fa26a4575fcb785"
+    },
+    {
+      "path": "base/FILE_MANIFEST.json",
+      "bytes": 3251,
+      "sha256": "ba22305f2b944c34c6decfb404b6ef5c5ccbe90685daad9d6588c126e5a733e1"
+    },
+    {
+      "path": "base/README.md",
+      "bytes": 3310,
+      "sha256": "2667294c63046e761b16856394a99ac02407cf3db59a56f4d3a794a0129f7788"
+    },
+    {
+      "path": "base/SEU_OSM_BASE_v01.blend",
+      "bytes": 1154388,
+      "sha256": "523f37b012df55f7dd005792f5d7d400b2fa831dcbaa95bb5f0fcb6563a26d77"
+    },
+    {
+      "path": "base/SEU_OSM_BASE_v01.glb",
+      "bytes": 3981544,
+      "sha256": "6edaafb72a940f81b7c876247265d0200157310ebae9eb1970d93545592db8e2"
+    },
+    {
+      "path": "base/data/CRS.json",
+      "bytes": 552,
+      "sha256": "286ed22ac82d28e20f7e75207bbaa711b3502ce1be8a5921a1f9d8ff4f12391b"
+    },
+    {
+      "path": "base/data/PROVENANCE.json",
+      "bytes": 1578,
+      "sha256": "048b2cbd078513c6fb2b679a8d2e920d60bb9636e5e51f1f19dbb748038c02fa"
+    },
+    {
+      "path": "base/data/base.local.json",
+      "bytes": 1412519,
+      "sha256": "8398adfab1ba516000a0d4cf7d3898e40eef8b75c632c5607629e262b5b6e33b"
+    },
+    {
+      "path": "base/data/base.wgs84.geojson",
+      "bytes": 1391775,
+      "sha256": "dc258aaef2ca6ac94d198c15d11f941dfa9dc2f533ae5472863bb0a065ddfb44"
+    },
+    {
+      "path": "base/data/mesh_geometry.local.json",
+      "bytes": 3266918,
+      "sha256": "5d274563006b0df42aba37f635fd80ff1036145b6403018c9152ee56c7deb265"
+    },
+    {
+      "path": "base/manifest.json",
+      "bytes": 923,
+      "sha256": "e9b521e8c6aeecbbebd9cd0168a4c47fefcc6f379ae87295a73c9e71eb5db594"
+    },
+    {
+      "path": "base/qa/DATA_BUILD_QA.json",
+      "bytes": 562,
+      "sha256": "c460725cee2a5fc8fcae8d99199da8a35a34c97f785a0c5b2c3e6546b527f725"
+    },
+    {
+      "path": "base/qa/INDEPENDENT_REBUILD_QA.json",
+      "bytes": 536,
+      "sha256": "b0fcad64b372c3512016a2196c9b605aacc556ca0be0581bee1a36ecb6dc83d2"
+    },
+    {
+      "path": "base/qa/MODEL_BUILD_QA.json",
+      "bytes": 791,
+      "sha256": "391418d6dba1a2ec3f98c3f3528120713b410171ca24e87fc9d7d1d16c98a6c3"
+    },
+    {
+      "path": "base/qa/MODEL_REOPEN_QA.json",
+      "bytes": 152903,
+      "sha256": "7a5ffa811e2d22497973b6fb87aaad10917b58942b17107281074c1a0e091712"
+    },
+    {
+      "path": "base/qa/PUBLIC_CONTENT_SCAN.json",
+      "bytes": 1052,
+      "sha256": "71326142a4a862e7901f67cd4bcef529db35632df5ea50eea46ef511090e0b69"
+    },
+    {
+      "path": "base/scripts/build_data.py",
+      "bytes": 7906,
+      "sha256": "4505b460f0968318b7c9eadba5c7e930fc3b40dfbb431e71d4da7d23a73728f7"
+    },
+    {
+      "path": "base/scripts/build_models.py",
+      "bytes": 4176,
+      "sha256": "01064c44e3bc9078313985b78ff04a17ee54aafec73628265bfefeac51cefab4"
+    },
+    {
+      "path": "base/scripts/validate_models.py",
+      "bytes": 1353,
+      "sha256": "0a543ebb60b0b0fcf34bdd17faef226c57f2e979bb588b38306f790a3575326d"
+    },
+    {
+      "path": "base/scripts/vendor/coordinate_transform.py",
+      "bytes": 8666,
+      "sha256": "4ea909fa1bdf1351432e654c97bd00fa45462ed0b029f62f9c4ed4cc0817bab2"
+    },
+    {
+      "path": "base/scripts/vendor/geos_small.py",
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    },
+    {
+      "path": "base/sources/osm/campus_margin_map.json",
+      "bytes": 1679925,
+      "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee"
+    },
+    {
+      "path": "detail/FILE_MANIFEST.json",
+      "bytes": 1624,
+      "sha256": "ac74a275a024a7afb1553eed623191f209746362840cacad68882bf720da93d3"
+    },
+    {
+      "path": "detail/PORTABILITY_REPORT.json",
+      "bytes": 317,
+      "sha256": "d04cffb7d6513d91f1a06de9fedc2df4bbec8b061cbee5557f2f085365fe0eb0"
+    },
+    {
+      "path": "detail/PRIVACY_REPORT.json",
+      "bytes": 775,
+      "sha256": "908c1b9f7a53bce1c1261959962d6f2dbd833b59d9698c29910bb1645169f2e0"
+    },
+    {
+      "path": "detail/README.md",
+      "bytes": 2780,
+      "sha256": "34a539004f20c271c212e35cd53449ff199bf0cd93d46833ab014dc1ba545617"
+    },
+    {
+      "path": "detail/SOURCES_AND_RIGHTS.json",
+      "bytes": 2322,
+      "sha256": "99db3481b020e60dbcb572ec8d94c3807356c2eecdc68f445467c45cbda22d1d"
+    },
+    {
+      "path": "detail/VALIDATION_REPORT.json",
+      "bytes": 572,
+      "sha256": "cecec9db4325563d4f9b5192ed9a679ed3ecbad888cc9f65f4bf3d4cceee1b5d"
+    },
+    {
+      "path": "detail/geometry_database.json.gz",
+      "bytes": 5891437,
+      "sha256": "ca85137aaeb3a0549389e3a281ea984e3aa6107a714c2be9a221ca1fbc566cb0"
+    },
+    {
+      "path": "detail/objects_manifest.json",
+      "bytes": 126928,
+      "sha256": "233b60e250f6864489e6e83d4eae6eca31fc3032b14d498356056c2bd00e74e8"
+    },
+    {
+      "path": "detail/rebuild_clean.py",
+      "bytes": 3139,
+      "sha256": "04ee726fc2ea5aecd9774b12ec57c9ecd23e23d0c7fe793dac22b80796f702cc"
+    },
+    {
+      "path": "detail/seu_teaching_gym_detail_v01.blend",
+      "bytes": 5248446,
+      "sha256": "232c2931600029d101994ec7d2b950eb3725d19d887cd56bd24cfff46e74454f"
+    },
+    {
+      "path": "detail/seu_teaching_gym_detail_v01.glb",
+      "bytes": 6290848,
+      "sha256": "2239f5b309cf7890614acf934b4c3a269e50e3d8336fa671344ffe83a41b3938"
+    },
+    {
+      "path": "detail/validate_clean.py",
+      "bytes": 3532,
+      "sha256": "60ccf07f6fd680c4be271fa0cce4e4fdced0136be6785ce38820338b232e86c0"
+    },
+    {
+      "path": "integration_inputs.json",
+      "bytes": 469,
+      "sha256": "2cfcac82346275f6e775ea8cf7fe8d41c1d020e9951a1adccfaebae4b8065c68"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 1158,
+      "sha256": "ae1ca6b258e89edd832b4ece2a379c2b35b250f11eebd6954bfd7c96161aba7d"
+    },
+    {
+      "path": "massing/AGENTS.md",
+      "bytes": 634,
+      "sha256": "eee098b77a1f0b2f0e2f70a99d9da831c92f75719995d9aca6ed3acdf9fdd716"
+    },
+    {
+      "path": "massing/FILE_MANIFEST.json",
+      "bytes": 5332,
+      "sha256": "45ee9894d062352cc6159e8e8f59d6328dca13d6b441efad48b5628ccf13c08c"
+    },
+    {
+      "path": "massing/README.md",
+      "bytes": 4610,
+      "sha256": "ede99608e18f65501623bd6d1abb816c4789195f1a01db1e5b322e7ef271bf9f"
+    },
+    {
+      "path": "massing/SEU_OSM_MASSING_v02.blend",
+      "bytes": 479865,
+      "sha256": "9c4fda8dbab5e3fa803d6e3790f10e5bb5df6930baaa9f96170487aed771aac8"
+    },
+    {
+      "path": "massing/SEU_OSM_MASSING_v02.glb",
+      "bytes": 1387396,
+      "sha256": "5aac74b3efb4921c9631dc51a27c0cb1be121a6f807e424c232f6f1378bed829"
+    },
+    {
+      "path": "massing/config.json",
+      "bytes": 955,
+      "sha256": "d296d492bd74bb400d75daaf9d4fb57a758b6b34835c44b009594b9ae5ffc2dc"
+    },
+    {
+      "path": "massing/data/EXCLUSIONS.json",
+      "bytes": 1934,
+      "sha256": "e71584f1253ef168f2a14a12b2e8b53a32e6b1eb7e95d205ff8e0b5f78df34ca"
+    },
+    {
+      "path": "massing/data/massing.local.json",
+      "bytes": 500885,
+      "sha256": "f741496594faa0ed04c54ad343ea4766bc762394a8577e2adac3158d90503372"
+    },
+    {
+      "path": "massing/data/mesh_geometry.local.json",
+      "bytes": 991403,
+      "sha256": "ff24f18084b46baf05aece797f371ff8bd02eaa670ec31ab100278e4a4e6f7e4"
+    },
+    {
+      "path": "massing/handoff.json",
+      "bytes": 1046,
+      "sha256": "fbb4c69ea231739fa62e4e610ce2881b1b8d9bebdadf1caf6243d02fd3ba4c5d"
+    },
+    {
+      "path": "massing/qa/ATLAS_01.png",
+      "bytes": 431247,
+      "sha256": "9812d37eb551164675f31cd28c6b9697e9473cf3c7c20627ba24a45d6986fddc"
+    },
+    {
+      "path": "massing/qa/ATLAS_02.png",
+      "bytes": 495683,
+      "sha256": "8c09f181471a4189f80b552a53054236d51b47511538d38652af1baec1c9e9a4"
+    },
+    {
+      "path": "massing/qa/ATLAS_03.png",
+      "bytes": 376034,
+      "sha256": "9de52aabc4ff0f2c1e21a3c16a66866f41e857f5a7f2007aba3d40677c9f40b0"
+    },
+    {
+      "path": "massing/qa/ATLAS_04.png",
+      "bytes": 428722,
+      "sha256": "b331c7c4ace430149e9900716494dc6e0029fb7c8eac5b07bbffc3781533dee0"
+    },
+    {
+      "path": "massing/qa/ATLAS_05.png",
+      "bytes": 462621,
+      "sha256": "361c0d3d082caed2c8dd3328430d80318c30d6a87a8853a3c6827af3e090b716"
+    },
+    {
+      "path": "massing/qa/ATLAS_06.png",
+      "bytes": 193976,
+      "sha256": "77095dca0960c0e4df2e23db211922002f1d35449e6815c24ea52ba0cc0b0976"
+    },
+    {
+      "path": "massing/qa/DATA_QA.json",
+      "bytes": 1305,
+      "sha256": "4b8c4130e13b51e73b22ecab4853403dec4ca9ee3e9f49e1550f079ba6d5f5bd"
+    },
+    {
+      "path": "massing/qa/HEIGHT_STATUS_OVERVIEW.png",
+      "bytes": 484009,
+      "sha256": "cd64c49a512b86d86c90c553d25230ed1c45eb32855e1e4fc89db1d98ea3aebd"
+    },
+    {
+      "path": "massing/qa/MODEL_BUILD_QA.json",
+      "bytes": 755,
+      "sha256": "bfd62ae60d4f596786c996927982594c88963b92d4fa28b4ceef9c8a4b5e2195"
+    },
+    {
+      "path": "massing/qa/MODEL_REOPEN_QA.json",
+      "bytes": 49311,
+      "sha256": "56e1acbd0fa0b31f4f38259fe5034bddebea935392065ae221d899fa7fea87a9"
+    },
+    {
+      "path": "massing/qa/PARTIAL_REUSE_DIFFERENCE_QA.json",
+      "bytes": 74322,
+      "sha256": "d30563891a81166695442b337c2da9353523fef919bd75f8d395ac77a7c39985"
+    },
+    {
+      "path": "massing/qa/PER_POLYGON_AUDIT.json",
+      "bytes": 56577,
+      "sha256": "5e4c26fa15b8a48a7a5acedb39c44602fd0e6f033d93e26fd1c2a2653e5a2cd5"
+    },
+    {
+      "path": "massing/qa/PUBLIC_CONTENT_SCAN.json",
+      "bytes": 230,
+      "sha256": "980d2d727e62ad18432c379a0f693590d586f175ac8ef5d5b4de5d6aa2213286"
+    },
+    {
+      "path": "massing/qa/VISUAL_REVIEW.json",
+      "bytes": 1069,
+      "sha256": "b0de6248edf5acd93807ed2818e5c94e78b6b61a6560b90ae4357d84f0a08a58"
+    },
+    {
+      "path": "massing/scripts/apply_partial_masks.py",
+      "bytes": 5965,
+      "sha256": "1c02eb8f620b17c47611389c5a6e678ce348da8e014c367fdd4e33e61ca31fe3"
+    },
+    {
+      "path": "massing/scripts/build_data.py",
+      "bytes": 5554,
+      "sha256": "f86192aa9bef8e3b9634c7132db86e7a81406a7fad1793ef61fdaeb6b7ebd91a"
+    },
+    {
+      "path": "massing/scripts/build_models.py",
+      "bytes": 4545,
+      "sha256": "89c3a9cb0d2c0612384d32c0056a8eb4edfdc680e81cd8e0cbcc25a43181a08d"
+    },
+    {
+      "path": "massing/scripts/overview.py",
+      "bytes": 2226,
+      "sha256": "5e064da0053ad13a6aa24f0353c96207c462f4d30f1157daa4320b436e6f5516"
+    },
+    {
+      "path": "massing/scripts/review_atlas.py",
+      "bytes": 1760,
+      "sha256": "ceba96f01634f9e7ca3235456b27a7998cc44e6e363aa9984719bf93e77ac707"
+    },
+    {
+      "path": "massing/scripts/validate_models.py",
+      "bytes": 1540,
+      "sha256": "54906fc55d9c5ad6c641473c9d535dc510647ccff7f01cf0a11d8f75bb31b83d"
+    },
+    {
+      "path": "massing/scripts/vendor/coordinate_transform.py",
+      "bytes": 8666,
+      "sha256": "4ea909fa1bdf1351432e654c97bd00fa45462ed0b029f62f9c4ed4cc0817bab2"
+    },
+    {
+      "path": "massing/scripts/vendor/geos_small.py",
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    },
+    {
+      "path": "massing/sources/CRS.json",
+      "bytes": 552,
+      "sha256": "286ed22ac82d28e20f7e75207bbaa711b3502ce1be8a5921a1f9d8ff4f12391b"
+    },
+    {
+      "path": "massing/sources/base.local.json",
+      "bytes": 1412519,
+      "sha256": "8398adfab1ba516000a0d4cf7d3898e40eef8b75c632c5607629e262b5b6e33b"
+    },
+    {
+      "path": "massing/sources/campus_margin_map.json",
+      "bytes": 1679925,
+      "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee"
+    },
+    {
+      "path": "massing/sources/mesh_geometry.local.json",
+      "bytes": 3266918,
+      "sha256": "5d274563006b0df42aba37f635fd80ff1036145b6403018c9152ee56c7deb265"
+    },
+    {
+      "path": "massing/sources/partial_reuse_masks.local.geojson",
+      "bytes": 114000,
+      "sha256": "988da0fe098191c97d8cb1319794f0180d49e2d7d97ac91c23401d802e73d9a0"
+    },
+    {
+      "path": "previews/CAMPUS_OBLIQUE.png",
+      "bytes": 1145267,
+      "sha256": "e098ad07d62f7038177a58ff7a7eb81b241b9acb66af9a875d17550237bc60ed"
+    },
+    {
+      "path": "previews/CAMPUS_TOP.png",
+      "bytes": 1187878,
+      "sha256": "e6374de7f76cb67ce8a7e3ad2f7111fc782285103d77ea99dce8edea904a2712"
+    },
+    {
+      "path": "qa/BLEND_PRIVACY.json",
+      "bytes": 696,
+      "sha256": "5eafdb136a1df0d53effafed93077038e8ec0ea681c57415b9ca50b46b984fe9"
+    },
+    {
+      "path": "qa/COMBINED_REOPEN.json",
+      "bytes": 775,
+      "sha256": "4bc02ff49ebdb247bb724e54b9fa0bcd42ed373baaf8115f28240a26747f3108"
+    },
+    {
+      "path": "qa/INTEGRATION.json",
+      "bytes": 731,
+      "sha256": "df575877d5438be706a84c09675b1150a0cc8e3bb9ef4adb86c322f77841f2be"
+    },
+    {
+      "path": "qa/MASSING_REBUILD.json",
+      "bytes": 274,
+      "sha256": "a2c9cb87d2afd927d6e15a2193392eab8a219c857bb6eda0a437f750ab920097"
+    },
+    {
+      "path": "qa/V01_UNCHANGED.json",
+      "bytes": 164,
+      "sha256": "daed8daf7756d9f9fb5982c76ffe578553de8f3b2c91eca093b535480a3d87ae"
+    },
+    {
+      "path": "reused_detail/BUILDING_COVERAGE_REVIEW.json",
+      "bytes": 5034,
+      "sha256": "e1916c54d19f64e372360a227df0b6d2d3cb00efe7d15d1606f0de1d63fc39db"
+    },
+    {
+      "path": "reused_detail/FILE_MANIFEST.json",
+      "bytes": 2229,
+      "sha256": "37dcf108509035fac7a97521733b22f1695397409c610de5955e187bd1d88d75"
+    },
+    {
+      "path": "reused_detail/PORTABILITY_REPORT.json",
+      "bytes": 194,
+      "sha256": "c3f4712adec8a50d26ac8ca32777f2e1df00dc1e1551050797e020df2579d6b5"
+    },
+    {
+      "path": "reused_detail/PRIVACY_REPORT.json",
+      "bytes": 775,
+      "sha256": "908c1b9f7a53bce1c1261959962d6f2dbd833b59d9698c29910bb1645169f2e0"
+    },
+    {
+      "path": "reused_detail/README.md",
+      "bytes": 3081,
+      "sha256": "e72369c116e1e6142faf04f653651751d2b27f95551948aa47f2ac6e530ac3d9"
+    },
+    {
+      "path": "reused_detail/REUSE_SCOPE.json",
+      "bytes": 944,
+      "sha256": "96146aa872f652fbdf7bd256b9d04389ed9b606d39525dff0820ea9df336d7c5"
+    },
+    {
+      "path": "reused_detail/SOURCES_AND_RIGHTS.json",
+      "bytes": 2473,
+      "sha256": "ff9e386a376e98095453dcdd4c286cc2cf7577f6099ef8dfa35e3caa31a3d512"
+    },
+    {
+      "path": "reused_detail/UNMATCHED_REUSE_REVIEW.json",
+      "bytes": 2476,
+      "sha256": "9abd85aa583347ce4dae6c4472543b18670634b85d14bad4413f7db3daf0786f"
+    },
+    {
+      "path": "reused_detail/VALIDATION_REPORT.json",
+      "bytes": 573,
+      "sha256": "d24e406d676a1c02ad41a68d9c467c9627b05a3b57ab7894cb57037342674a36"
+    },
+    {
+      "path": "reused_detail/geometry_database.json.gz",
+      "bytes": 7114187,
+      "sha256": "dceb320b5a7b53291fb4c57bca641389d73f09bf8cb6c5c797f5a0c2193819b4"
+    },
+    {
+      "path": "reused_detail/objects_manifest.json",
+      "bytes": 612126,
+      "sha256": "c1f4992ac4382303cd6735cec8cec8ca22ef02bc5aaf916b37f5f4cfc6da1826"
+    },
+    {
+      "path": "reused_detail/rebuild_clean.py",
+      "bytes": 3053,
+      "sha256": "f83b41dc3d4167dae1bfb0c03736757cd5ecfe51a16349fa91f704858d8b543f"
+    },
+    {
+      "path": "reused_detail/reused_projection_masks.local.geojson",
+      "bytes": 555389,
+      "sha256": "5eb68c59fcbfcd72fc50f6572c068ee2b4dd95c5d4b7f08cd63c0beba3c4a301"
+    },
+    {
+      "path": "reused_detail/seu_reused_buildings_v02.blend",
+      "bytes": 9587372,
+      "sha256": "9bab28592cca29d2344388758c8b66ef539ea172beec2ff2f0cc8cb7a70271c8"
+    },
+    {
+      "path": "reused_detail/seu_reused_buildings_v02.glb",
+      "bytes": 13000716,
+      "sha256": "23858274af9f5b439aad21333ffbcd11c4449feeb0a56ec7e86d1f503daf283e"
+    },
+    {
+      "path": "reused_detail/validate_clean.py",
+      "bytes": 3523,
+      "sha256": "0ab438b395d8e6d607c45fb4e89d1214a9ebd7fd5d99ebe8fa92df9fc05b0878"
+    },
+    {
+      "path": "scripts/integrate_v02.py",
+      "bytes": 4506,
+      "sha256": "e68862e45faec8c8c1a05d4836740e8eaf413b5aff382b54545287ff3a9e4753"
+    },
+    {
+      "path": "scripts/validate_models.py",
+      "bytes": 1912,
+      "sha256": "754a9e171859eac1eae7bf58cae7d611deb2c70b5bba72035fa96245913139d7"
+    },
+    {
+      "path": "scripts/validate_release.py",
+      "bytes": 1592,
+      "sha256": "c3c3145786ce792be0b2654acdb7fe488cecfc2b84d5111a6dae6957a20dd4b6"
+    }
+  ]
+}

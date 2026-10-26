@@ -1,0 +1,20 @@
+{
+  "modules": [
+    {
+      "blend": "base/SEU_OSM_BASE_v01.blend",
+      "collection": "PUBLIC_OSM_BASE"
+    },
+    {
+      "blend": "detail/seu_teaching_gym_detail_v01.blend",
+      "collection": "SEU_TEACHING_AND_GYM_DETAIL"
+    },
+    {
+      "blend": "reused_detail/seu_reused_buildings_v02.blend",
+      "collection": "SEU_REUSED_BUILDINGS"
+    },
+    {
+      "blend": "massing/SEU_OSM_MASSING_v02.blend",
+      "collection": "PUBLIC_OSM_MASSING_V02"
+    }
+  ]
+}
