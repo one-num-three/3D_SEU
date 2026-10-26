@@ -1,0 +1,43 @@
+{
+  "raw_source": "sources/osm/campus_margin_map.json",
+  "raw_sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee",
+  "geometry_pipeline": [
+    "Read only OSM way/node coordinates",
+    "EPSG4326 -> EPSG32650 with system PROJ; subtract frozen origin",
+    "Select closed buildings intersecting OSM campus way171389014; preserve full source polygons",
+    "Clip mapped road areas or explicitly estimated buffered centerlines to OSM campus polygon",
+    "Constrained triangulation preserves polygon holes; no image tracing or 3D source reuse"
+  ],
+  "snapshot_status": "Existing project OSM snapshot, not a live current-data query",
+  "snapshot_original_metadata": {
+    "version": "0.6",
+    "generator": "openstreetmap-cgimap 2.1.0 (1307 spike-06.openstreetmap.org)",
+    "copyright": "OpenStreetMap and contributors",
+    "attribution": "http://www.openstreetmap.org/copyright",
+    "license": "http://opendatacommons.org/licenses/odbl/1-0/",
+    "bounds": {
+      "minlat": 31.88,
+      "minlon": 118.8038,
+      "maxlat": 31.8983,
+      "maxlon": 118.8273
+    }
+  },
+  "width_defaults_m": {
+    "footway": 2.0,
+    "path": 1.5,
+    "steps": 2.0,
+    "cycleway": 3.0,
+    "service": 5.0,
+    "unclassified": 6.0,
+    "pedestrian": 5.0,
+    "residential": 6.0,
+    "living_street": 5.0,
+    "tertiary": 9.0,
+    "secondary": 12.0,
+    "primary": 16.0
+  },
+  "no_private_sources_loaded": true,
+  "data_license": "ODbL-1.0",
+  "copyright_url": "https://www.openstreetmap.org/copyright",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}
