@@ -1,0 +1,2 @@
+# Base module constraints
+Read README.md and data/PROVENANCE.json first. Rebuild exclusively from the bundled OSM snapshot. Preserve stable source IDs, frozen origin, units and holes. Do not introduce imagery tracing, private notes/URLs or credentials. Building plates are not actual building heights. Distinguish source mapped road polygons from estimated width buffers. Do not assign formal building names or surveyed status without separate evidenced review. OSM data stays ODbL-1.0, never MIT. No publication action is performed by this package.
