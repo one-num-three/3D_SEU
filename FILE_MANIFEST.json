@@ -29,18 +29,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 23740,
-      "sha256": "823ea93936be97814db9c6100c1275ba55fa441bbfdcb0a017a631d9f403c7d6"
+      "bytes": 25275,
+      "sha256": "d66bd3dc895c305cc1c89fad1eb73bcc45849235efe23176bcfdbbd2609a331c"
     },
     {
       "path": "docs/AI_HANDOFF.md",
-      "bytes": 2558,
-      "sha256": "b0d76cff389d3c60fee30e30d676437b9e9333a6604b211f4614e4d333008421"
+      "bytes": 2777,
+      "sha256": "6d3edc114d930b41205fa8bd61b67fc1104ecb49872b668ff661651576996ca0"
     },
     {
       "path": "docs/CANDIDATE_SCAN.json",
       "bytes": 449,
-      "sha256": "b5411c63e5d24f9443927c2fcd9254d71b8df677ea13756492c67fead8669faa"
+      "sha256": "43cf6abb70d8a8250691b710c186d2e29f11f140519250591dcbe5c33f7d5522"
     },
     {
       "path": "docs/RELEASE_READINESS.md",
@@ -99,8 +99,8 @@
     },
     {
       "path": "tools/validate_candidate.py",
-      "bytes": 4771,
-      "sha256": "9ad109a31a7bf034c565bbd133d3a79f80e9bd426b023031b9ecbb4c56eccb75"
+      "bytes": 5254,
+      "sha256": "cdb97c790a3c56da299e53cbd57fd6f2893a08662d2f39d302efd9888ffc7c76"
     },
     {
       "path": "tools/validate_contract.py",
