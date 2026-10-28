@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "new_projection_outside_corrected_rectangular_foundation_m2": 7.188183386261132e-11,
+  "new_projection_outside_OSM_outline_m2": 0.0,
+  "method": "conservative XY hull per mesh, union; numerical tolerance0.01m2",
+  "corrected_foundation_area_m2": 4640.0,
+  "max_geometry_z_m": 11.085,
+  "main_roof_peak_design_m": 11.05,
+  "decorative_joint_offset_m": 0.035,
+  "private_reference_pixels_included": false
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "mesh_count": 39,
+  "triangles": 37166,
+  "cold_open_and_GLB_roundtrip_triangles_1mm_exact": true,
+  "images_texts_fonts_external_libraries": 0,
+  "glb_bytes": 933192,
+  "glb_sha256": "9719f5c6671e701cfb371f273ab19eecb75dd6d2555c782b6d59565bd09aa311",
+  "coverage_check": "PROJECTION_QA.json",
+  "source_status": "Observed appearance, estimated curvature/dimensions; not survey"
+}

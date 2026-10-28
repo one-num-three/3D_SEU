@@ -1,0 +1,12 @@
+{
+  "status": "PASS_BUILD",
+  "objects": 39,
+  "vertices": 24272,
+  "polygons": 32905,
+  "images": 0,
+  "texts": 0,
+  "libraries": 0,
+  "old_height_m": 11.370000839233398,
+  "new_design_height_m": 11.05,
+  "scope": "only swimming hall six old placeholder meshes replaced; original OSM outline retained"
+}
