@@ -1,0 +1,15 @@
+{
+  "replace_object_names": [
+    "SEU_B_OSMWAY_300010601.001"
+  ],
+  "append_object_names": [
+    "TJB_NORTH_CORE",
+    "TJB_NORTH_BASE",
+    "TJB_NORTH_FRAME_GRID_4_VISIBLE_ROWS",
+    "TJB_NORTH_GLAZING",
+    "TJB_NORTH_HIPPED_ROOF",
+    "TJB_SOUTH_U_HIPPED_ROOF"
+  ],
+  "new_mesh_count": 6,
+  "retain_base_outlines": true
+}

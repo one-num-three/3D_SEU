@@ -1,0 +1,49 @@
+{
+  "name": "田家炳楼 / former C9 physics complex",
+  "north_osm_id": 300010601,
+  "south_osm_id": 300010619,
+  "official_source": "https://physics.seu.edu.cn/2020/0814/c23144a342261/page.htm",
+  "official_identity": "https://physics.seu.edu.cn/2022/1005/c23177a422325/pagem.htm",
+  "reference_publication_date": "2021-04-28",
+  "inspected_images": [
+    "049b2fff-d4e7-4ff9-8b00-aefb34e23697.jpeg",
+    "ba8be9b4-ccc1-45e2-ab6f-11dfb53ee2e9.jpeg",
+    "fbbdfe73-fad2-4f72-9e94-f863d8f391c0.jpeg"
+  ],
+  "pixels_distributed": false,
+  "observed": "separate narrow straight north bar, south U, blue-grey pitched roofs, pale walls and dark rectangular panes",
+  "north_window_rows": {
+    "value": 4,
+    "status": "visible_row_type_not_confirmed_total_floor_count"
+  },
+  "north_columns_each_long_side": {
+    "value": 22,
+    "status": "estimated_not_verified"
+  },
+  "north_wall_top_m": 12.12,
+  "north_roof_ridge_m": 14.27,
+  "south_wall_top_m_retained": 23.55,
+  "south_roof_ridge_m": 26.7,
+  "all_heights": "estimated_not_measured",
+  "retained_south_old_window_rows": "six legacy rows unchanged; not claimed photo-confirmed",
+  "not_built": [
+    "two narrow connecting corridors: level/height unknown",
+    "unseen doors",
+    "parking cars"
+  ],
+  "legacy_north_not_compressed": {
+    "old_depth_m": 20.8085,
+    "target_depth_m": 12.5209,
+    "reason": "prevent distorted facade"
+  },
+  "geographic_crs": {
+    "epsg": 32650,
+    "origin": [
+      671709.6990725585,
+      3529586.400278158
+    ],
+    "units": "m",
+    "blender_axes": "east,north,up",
+    "glb_axes": "east,up,south"
+  }
+}
