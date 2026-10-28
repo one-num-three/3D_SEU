@@ -1,0 +1,143 @@
+{
+  "rotation_degrees": 4.096455661597755,
+  "wing_transforms": {
+    "east": {
+      "source_bbox_xy": [
+        -444.74249267578125,
+        -15.342500686645508,
+        -372.25750732421875,
+        41.942501068115234
+      ],
+      "target_axis_bbox_xy": [
+        -510.15,
+        -9.65,
+        -427.3,
+        46.3
+      ],
+      "xy_scales": [
+        1.1429953334220275,
+        0.9766954401000817
+      ],
+      "z_shift": -0.11
+    },
+    "west": {
+      "source_bbox_xy": [
+        -444.74249267578125,
+        -15.342500686645508,
+        -372.25750732421875,
+        41.942501068115234
+      ],
+      "target_axis_bbox_xy": [
+        -510.15,
+        -9.65,
+        -427.3,
+        46.3
+      ],
+      "xy_scales": [
+        1.1429953334220275,
+        0.9766954401000817
+      ],
+      "z_shift": -0.11
+    },
+    "north": {
+      "source_bbox_xy": [
+        -444.74249267578125,
+        -15.342500686645508,
+        -372.25750732421875,
+        41.942501068115234
+      ],
+      "target_axis_bbox_xy": [
+        -510.15,
+        -9.65,
+        -427.3,
+        46.3
+      ],
+      "xy_scales": [
+        1.1429953334220275,
+        0.9766954401000817
+      ],
+      "z_shift": -0.11
+    },
+    "south": {
+      "source_bbox_xy": [
+        -444.74249267578125,
+        -15.342500686645508,
+        -372.25750732421875,
+        41.942501068115234
+      ],
+      "target_axis_bbox_xy": [
+        -510.15,
+        -9.65,
+        -427.3,
+        46.3
+      ],
+      "xy_scales": [
+        1.1429953334220275,
+        0.9766954401000817
+      ],
+      "z_shift": -0.11
+    },
+    "entry": {
+      "source_bbox_xy": [
+        -478.9425048828125,
+        1.7574995756149292,
+        -453.95751953125,
+        59.042503356933594
+      ],
+      "target_axis_bbox_xy": [
+        -562.95,
+        17.2,
+        -533.4,
+        64.0
+      ],
+      "xy_scales": [
+        1.182710319185842,
+        0.816967738688743
+      ],
+      "z_shift": -0.11
+    },
+    "loweast": {
+      "source_bbox_xy": [
+        -372.54248046875,
+        -0.14249999821186066,
+        -355.15753173828125,
+        21.042499542236328
+      ],
+      "target_axis_bbox_xy": [
+        -427.3,
+        6.35,
+        -408.4,
+        28.6
+      ],
+      "xy_scales": [
+        1.0871472958028352,
+        1.0502714412392797
+      ],
+      "z_shift": -0.11
+    },
+    "lowwest": {
+      "source_bbox_xy": [
+        -530.2424926757812,
+        -13.442499160766602,
+        -444.45751953125,
+        2.0425000190734863
+      ],
+      "target_axis_bbox_xy": [
+        -592.6,
+        -3.3,
+        -533.25,
+        17.2
+      ],
+      "xy_scales": [
+        0.69184611039053,
+        1.3238618718617008
+      ],
+      "z_shift": -0.11
+    }
+  },
+  "status": "OSM_outer_envelope_aligned_courtyard_and_heights_estimated",
+  "old_group_source_sha256": "e616a89c45c34e5677cdec9495bdf590c844a094a8845f0f18aa22271a4a586b",
+  "main_courtyard": "retained old ring topology; dimensions rescaled to fit accepted outer projection, not independently measured",
+  "new_link_height_m": 3.9,
+  "height_status": "all metre heights estimated, official image shows five levels in visible main facade"
+}
