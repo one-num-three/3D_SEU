@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "scope": "v03 restoration module evidence snapshot; NOT final integration or publication certification",
+  "snapshot_utc": "2026-10-26T13:51:00Z",
+  "claim": "Earlier facade-rich geometry is restored where supported; legacy inheritance is not100%.",
+  "counting_rules": {
+    "base_building_polygons": 201,
+    "polygons_are_not_building_count": true,
+    "mesh_objects_are_not_building_count": true,
+    "dorm_80_includes_two_canteens_not_80_plus_two": true,
+    "compound_hospital_not_one_of201_building_polygons": true,
+    "do_not_sum_module_counts_as_unique_buildings": true,
+    "final_integrated_total": null
+  },
+  "restored_modules": [
+    {
+      "module": "dorm_reuse",
+      "status": "ready_module",
+      "mesh_objects": 322,
+      "accepted_outline_ids": 80,
+      "dormitory_bars": 78,
+      "canteen_outlines": 2,
+      "geometry": "Previous evaluated world mesh geometry unchanged including window/frame/glazing/roof detail",
+      "ground_centerline_conflicts": 0,
+      "estimated_width_conflict_source_count": 1,
+      "ground_review_source_count": 10,
+      "whole_mesh_projection_coverage_min": 0.5501748369152649,
+      "whole_mesh_projection_coverage_max": 0.9538826300470722,
+      "low_coverage_sources": [
+        {
+          "stable_id": "SEU_B_OSMWAY_171399649",
+          "display_name": "梅园食堂",
+          "source_area_m2": 3623.886789797847,
+          "actual_reused_xy_projection_m2": 1993.7713235764086,
+          "inside_source_m2": 1993.7713235764134,
+          "remaining_source_m2": 1630.1154662214344,
+          "outside_source_m2": 0.0,
+          "not_whole_building_completion": true
+        },
+        {
+          "stable_id": "SEU_B_OSMWAY_300020021",
+          "display_name": "桃园食堂",
+          "source_area_m2": 4365.555923634204,
+          "actual_reused_xy_projection_m2": 2621.3950679460463,
+          "inside_source_m2": 2602.270034137329,
+          "remaining_source_m2": 1763.2858894968776,
+          "outside_source_m2": 19.12503380872222,
+          "not_whole_building_completion": true
+        },
+        {
+          "stable_id": "SEU_B_OSMWAY_630136487",
+          "display_name": "桃园7C",
+          "source_area_m2": 745.1351349022881,
+          "actual_reused_xy_projection_m2": 573.5653305570225,
+          "inside_source_m2": 573.5653305570228,
+          "remaining_source_m2": 171.56980434526486,
+          "outside_source_m2": 0.0,
+          "not_whole_building_completion": true
+        },
+        {
+          "stable_id": "SEU_B_OSMWAY_630136443",
+          "display_name": "桃园4A",
+          "source_area_m2": 742.5247349496038,
+          "actual_reused_xy_projection_m2": 574.2495015118758,
+          "inside_source_m2": 574.2495015118761,
+          "remaining_source_m2": 168.2752334377277,
+          "outside_source_m2": 0.0,
+          "not_whole_building_completion": true
+        },
+        {
+          "stable_id": "SEU_B_OSMWAY_630136462",
+          "display_name": "桃园6A",
+          "source_area_m2": 742.7491381604721,
+          "actual_reused_xy_projection_m2": 574.5307181438444,
+          "inside_source_m2": 574.5307181438448,
+          "remaining_source_m2": 168.21842001662753,
+          "outside_source_m2": 0.0,
+          "not_whole_building_completion": true
+        }
+      ],
+      "residual_rule": "Actual masks only; low markers not fabricated high end wings. Canteen rectangular compounds cannot justify high courtyard infill."
+    },
+    {
+      "module": "academic_secondary_reuse",
+      "status": "ready_module",
+      "active_mesh_objects": 24,
+      "source_groups": {
+        "C2": 6,
+        "C6": 9,
+        "C9": 9
+      },
+      "source_outline_ids": 4,
+      "held_components": 36,
+      "held_by_group": {
+        "C2": 10,
+        "C6": 3,
+        "C9": 3,
+        "D1": 20
+      },
+      "original_components_retained_privately": 60,
+      "xy_scale_range": [
+        0.7454263434516002,
+        1.3500000000000005
+      ],
+      "projection_outside_m2": 0,
+      "ground_centerline_conflicts": 0,
+      "estimated_width_conflict_source_count": 1,
+      "not_complete_groups": [
+        "C2",
+        "C6",
+        "C9",
+        "D1"
+      ]
+    },
+    {
+      "module": "pool_reuse",
+      "status": "module_present",
+      "mesh_objects": 6,
+      "stable_id": "SEU_B_OSMWAY_851764288",
+      "identity": "Existing swimming hall, not C3 construction",
+      "projection_coverage_approx": 0.7263243004302893,
+      "residual_rule": "No high compound infill"
+    },
+    {
+      "module": "faculty_reuse",
+      "status": "module_snapshot_owner_final_handoff_pending",
+      "observed_counts": {
+        "active_objects": 132,
+        "held_west_wing_objects": 11,
+        "by_stable_id": {
+          "SEU_B_OSMWAY_300030319": 33,
+          "SEU_B_OSMWAY_299961623": 24,
+          "SEU_B_OSMWAY_299961609": 24,
+          "SEU_COMPOUND_OSMWAY_300020027": 35,
+          "SEU_B_OSMWAY_300010611": 16
+        },
+        "status": "partial source binding, not complete building claims"
+      },
+      "c4_split_snapshot": {
+        "active_parts": 16,
+        "held_parts": 4
+      },
+      "note": "Counts are observed in current on-disk report only. C4 is being finalized; do not treat as frozen integrated totals."
+    },
+    {
+      "module": "engineering_reuse",
+      "status": "separate_approximate_candidate_not_verified_registration",
+      "mesh_objects": 12,
+      "legacy_group": "C3",
+      "source_outline_assignment": null,
+      "warning": "Six-wing schematic geometry, not12 buildings; no confirmed OSM binding. Not swimming hall or C4. Keep visually distinct and do not suppress existing source massing."
+    }
+  ],
+  "retained_previous_modules": {
+    "v01": "Teaching1–8 and gym detail retained through integration inputs; this scope note does not re-certify interiors or every building completion.",
+    "v02_source_ids": [
+      {
+        "stable_id": "SEU_B_OSMWAY_1056927538",
+        "name": "人文社科科研楼（C17）"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_1056927537",
+        "name": "生医科研综合楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_300030310",
+        "name": "李文正图书馆"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_549677715",
+        "name": "土木交通办公楼（陆锦元楼）"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_300030307",
+        "name": "材料B楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_300030305",
+        "name": "土木交通实验楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_637696077",
+        "name": "化学化工楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_637696078",
+        "name": "化学化工楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_300030322",
+        "name": "材料A楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_637696079",
+        "name": "材料A楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_300030302",
+        "name": "文科C楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_300030321",
+        "name": "文科B楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_1056927536",
+        "name": "信息电子教学综合楼"
+      },
+      {
+        "stable_id": "SEU_B_OSMWAY_1056927534",
+        "name": "能环科研综合楼（科远楼）"
+      }
+    ],
+    "v03_replacement_exception": "Biomedical1056927537 replaced by south-high correction9 meshes instead of previous8; not added duplicate"
+  },
+  "intentional_photo_replacements": [
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927536",
+      "old_components": 23,
+      "status": "intentionally_superseded_by_photo_reference_module",
+      "active_collection": "PHOTO_REFINED_INFORMATION",
+      "active_mesh_count": 13,
+      "reason": "Old wrong registration/high-low layout explicitly replaced; no automatic hidden-object activation",
+      "not_lost": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927534",
+      "old_components": 70,
+      "status": "intentionally_superseded_by_photo_reference_module",
+      "active_collection": "PHOTO_REFINED_ENERGY",
+      "active_mesh_count": 51,
+      "reason": "Old wrong registration/high-low layout explicitly replaced; no automatic hidden-object activation",
+      "not_lost": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927537",
+      "old_components": 30,
+      "status": "intentionally_superseded_by_photo_reference_module",
+      "active_mesh_count_before_v03": 8,
+      "active_mesh_count_after_v03": 9,
+      "reason": "All30 old names explicitly hide_original_names; no lost building component inference; south-high orientation corrected in v03",
+      "not_lost": true
+    }
+  ],
+  "held_evidence_needs": [
+    {
+      "group": "D1",
+      "components": 20,
+      "reason": "Northern10 need excessive compression to fit contiguous safe strip; southern10 lack a justified clear opening at mapped building passage.",
+      "next_evidence": "A north-block overhead oblique view identifying stepped roof/body junctions, plus a ground view through the southern passage showing which parts are open and the underside/storey clearance. Split real connected units before attempting migration; no generic whole-building shrink."
+    },
+    {
+      "group": "C9 north",
+      "components": 3,
+      "reason": "Legacy bar depth requires~0.54 compression versus accepted narrow outline.",
+      "next_evidence": "One north-wing corner view with both long facade and side depth/roof edge, or reliable roof-outline view, to identify which part of legacy depth is building versus court; retain windows as appropriately separable facade segments."
+    },
+    {
+      "group": "C2 east/west/lobby",
+      "components": 10,
+      "reason": "Two accepted OSM bars do not support closing the inter-bar space.",
+      "next_evidence": "An east-side view including both bars and central gap, showing whether side/lobby connectors exist and their actual height."
+    },
+    {
+      "group": "C6 west-low",
+      "components": 3,
+      "reason": "Would close accepted west-open C courtyard.",
+      "next_evidence": "Ground view across west courtyard mouth distinguishing low bridge/covered walkway from open passage."
+    },
+    {
+      "group": "Lanyuan",
+      "components": 65,
+      "reason": "Five source volumes have only broad collective1056927550 binding.",
+      "next_evidence": "One labeled aerial/roof view showing the five separate footprints and north direction, then per-volume mapping; project-wide18floor maximum is not each-wing height."
+    },
+    {
+      "group": "Taoyuan west",
+      "source_ids": [
+        998738587,
+        1056927516,
+        1056927517,
+        1056927518,
+        1056927519,
+        1056927521
+      ],
+      "reason": "Explicitly deferred, not silently restored."
+    },
+    {
+      "group": "C16 west/C4 west",
+      "status": "Held per faculty owner reports",
+      "next_evidence": "Confirm west courtyard openings and connector height/continuity in a west-facing ground or oblique view before activating closing wings."
+    }
+  ],
+  "quality_boundary": "Clean-export/rebuild PASS validates reproducibility and sanitization, not observed facade correctness or complete building recovery. No publication is certified by this note.",
+  "sources": [
+    "integration_inputs.json",
+    "qa/REUSE_DECISIONS.json",
+    "qa/INTENTIONAL_REPLACEMENTS.json",
+    "dorm_reuse/REUSE_SCOPE.json",
+    "dorm_reuse/BUILDING_COVERAGE_REVIEW.json",
+    "dorm_reuse/GROUND_FOOTPRINT_QA.json",
+    "academic_secondary_reuse/REUSE_SCOPE.json",
+    "academic_secondary_reuse/GEOMETRY_PRESERVATION_QA.json",
+    "faculty_reuse/qa/REUSE_COUNTS.json",
+    "historical_audit/C4_SPLIT_QA.json",
+    "engineering_reuse/handoff.json",
+    "pool_reuse/README.md"
+  ]
+}

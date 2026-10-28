@@ -1,0 +1,7 @@
+{
+  "bytes_before": 30011336,
+  "bytes_after": 29895536,
+  "removed_redundant_mesh_labels": 2726,
+  "node_names_ids_and_binary_geometry_unchanged": true,
+  "binary_chunks_sha256": "5e506445b70b26fe42acbd48e578c1c7b7af47d73ecc7275095bf20910a44e29"
+}

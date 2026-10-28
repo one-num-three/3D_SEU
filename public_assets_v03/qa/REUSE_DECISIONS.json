@@ -1,0 +1,23 @@
+{
+  "registered_dorms": {
+    "source_ids": 80,
+    "components": 322,
+    "geometry_policy": "retain all original world geometry; old detailed bars replace box massing in actual projection; remaining source differences low markers only, not fabricated end wings",
+    "canteen_compounds": [
+      "SEU_B_OSMWAY_171399649",
+      "SEU_B_OSMWAY_300020021"
+    ],
+    "canteen_open_area_policy": "No high residual fill; broad source rectangles may describe compound/open yard, not observed building wings"
+  },
+  "pool": {
+    "id": "SEU_B_OSMWAY_851764288",
+    "components": 6,
+    "status": "existing_not_construction",
+    "remaining_compound_policy": "no high infill"
+  },
+  "hospital": {
+    "id": "SEU_B_OSMWAY_300020027",
+    "source_type": "amenity compound, not one of201 building polygons",
+    "warning": "Do not scale building group to compound perimeter or extrude whole site"
+  }
+}

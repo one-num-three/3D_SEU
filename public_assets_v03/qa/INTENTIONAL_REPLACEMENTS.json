@@ -1,0 +1,29 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927536",
+    "old_components": 23,
+    "status": "intentionally_superseded_by_photo_reference_module",
+    "active_collection": "PHOTO_REFINED_INFORMATION",
+    "active_mesh_count": 13,
+    "reason": "Old wrong registration/high-low layout explicitly replaced; no automatic hidden-object activation",
+    "not_lost": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927534",
+    "old_components": 70,
+    "status": "intentionally_superseded_by_photo_reference_module",
+    "active_collection": "PHOTO_REFINED_ENERGY",
+    "active_mesh_count": 51,
+    "reason": "Old wrong registration/high-low layout explicitly replaced; no automatic hidden-object activation",
+    "not_lost": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927537",
+    "old_components": 30,
+    "status": "intentionally_superseded_by_photo_reference_module",
+    "active_mesh_count_before_v03": 8,
+    "active_mesh_count_after_v03": 9,
+    "reason": "All30 old names explicitly hide_original_names; no lost building component inference; south-high orientation corrected in v03",
+    "not_lost": true
+  }
+]

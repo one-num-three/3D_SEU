@@ -1,0 +1,41 @@
+{
+  "mesh_objects": 2726,
+  "collection_mesh_counts": {
+    "PUBLIC_OSM_BASE": 600,
+    "SEU_TEACHING_AND_GYM_DETAIL": 239,
+    "SEU_REUSED_BUILDINGS": 1125,
+    "PUBLIC_OSM_MASSING_V02": 192,
+    "SEU_BIOMEDICAL_FIX": 9,
+    "SEU_DORM_REUSE": 322,
+    "SEU_POOL_REUSE": 6,
+    "C3_ENGINEERING_APPROXIMATE_LOCATION_PENDING_REVIEW": 12,
+    "PUBLIC_FACULTY_RESTORED_V03": 132,
+    "SEU_ACADEMIC_SECONDARY": 24,
+    "SEU_LANYUAN_APPROXIMATE_CANDIDATE": 65
+  },
+  "images": 0,
+  "font_objects": 0,
+  "append_runtime_unused_library_records": 11,
+  "bbox_local_m": [
+    [
+      -929.8988647460938,
+      930.0010986328125
+    ],
+    [
+      -795.2435302734375,
+      798.6849975585938
+    ],
+    [
+      -0.3199999928474426,
+      87.0
+    ]
+  ],
+  "blend_sha256": "89c7e18d73a564fa3115e85a7612eef91b5581cd0619da0ee52eacd4d63f2a27",
+  "glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "units": "meters",
+  "axis_blend": "Z-up",
+  "axis_glb": "glTF Y-up, reversible exporter conversion",
+  "not_full_R3D": true,
+  "revision": "v03",
+  "stage": "campus concept massing plus reused detail, not complete reconstruction; restored legacy buildings and corrected biomedical south high wing"
+}

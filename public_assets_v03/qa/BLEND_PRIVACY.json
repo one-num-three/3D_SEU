@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "assets/SEU_campus_restored_v03.blend",
+      "decoded_bytes": 108382612,
+      "private_markers": []
+    },
+    {
+      "file": "biomedical_fix/seu_biomedical_south_high_v03.blend",
+      "decoded_bytes": 6027436,
+      "private_markers": []
+    },
+    {
+      "file": "engineering_reuse/seu_engineering_reuse_v03.blend",
+      "decoded_bytes": 543124,
+      "private_markers": []
+    },
+    {
+      "file": "faculty_reuse/SEU_FACULTY_RESTORED_v03.blend",
+      "decoded_bytes": 6730880,
+      "private_markers": []
+    },
+    {
+      "file": "dorm_reuse/seu_dorm_reuse_v03.blend",
+      "decoded_bytes": 11116020,
+      "private_markers": []
+    },
+    {
+      "file": "lanyuan_candidate/seu_lanyuan_candidate_v03.blend",
+      "decoded_bytes": 11089072,
+      "private_markers": []
+    },
+    {
+      "file": "pool_reuse/seu_pool_reuse_v03.blend",
+      "decoded_bytes": 398140,
+      "private_markers": []
+    },
+    {
+      "file": "academic_secondary_reuse/seu_academic_secondary_v03.blend",
+      "decoded_bytes": 1985204,
+      "private_markers": []
+    },
+    {
+      "file": "massing/SEU_OSM_MASSING_v02.blend",
+      "decoded_bytes": 5959892,
+      "private_markers": []
+    }
+  ]
+}
