@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "object_count": 6,
+  "source_outline_id_count": 1,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_851764288__0001",
+      "stableID": "SEU_B_OSMWAY_851764288",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "d9f5412d46d9b43d347c940a7b72afd8b73fe6cf65a26691d3154883a958840a",
+      "vertex_count": 16,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_851764288__0002",
+      "stableID": "SEU_B_OSMWAY_851764288",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "004478f7e060a02a97d5cb149f4e88f988b63d080edb3c97ee207e2c9aefab02",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_851764288__0003",
+      "stableID": "SEU_B_OSMWAY_851764288",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "a0598ae7481a1af90f9b9ed585ed856190d2f5ecfc94d7c78167a2bd2fad030a",
+      "vertex_count": 816,
+      "polygon_count": 612
+    },
+    {
+      "name": "SEU_B_OSMWAY_851764288__0004",
+      "stableID": "SEU_B_OSMWAY_851764288",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "54746371ab743359e82cc8e500d8f653ea6e2bc57442bcef2de74e8e3152cbc2",
+      "vertex_count": 816,
+      "polygon_count": 612
+    },
+    {
+      "name": "SEU_B_OSMWAY_851764288__0005",
+      "stableID": "SEU_B_OSMWAY_851764288",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "2a399d0abbcdabf83c5654b40bb0998c1b0622918014cafe671ce1fe6de3f32f",
+      "vertex_count": 48,
+      "polygon_count": 50
+    },
+    {
+      "name": "SEU_B_OSMWAY_851764288__0006",
+      "stableID": "SEU_B_OSMWAY_851764288",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "bfb18bf13519f925a2c60b6dd21c1a93a29de006489dd49d1876784ea3eb346a",
+      "vertex_count": 48,
+      "polygon_count": 50
+    }
+  ]
+}

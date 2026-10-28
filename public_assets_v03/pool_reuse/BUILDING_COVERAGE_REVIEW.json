@@ -1,0 +1,12 @@
+[
+  {
+    "stableID": "SEU_B_OSMWAY_851764288",
+    "display_name": "游泳馆",
+    "source_area_m2": 7148.676570624206,
+    "actual_reused_xy_projection_m2": 5192.256949230699,
+    "inside_source_m2": 5192.256949230701,
+    "remaining_source_m2": 1956.4196213935084,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  }
+]

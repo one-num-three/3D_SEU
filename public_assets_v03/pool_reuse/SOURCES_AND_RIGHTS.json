@@ -1,0 +1,20 @@
+{
+  "source_id": "SEU_B_OSMWAY_851764288",
+  "display_name": "游泳馆",
+  "geometry_source": "existing independently authored registered swimming-hall model, six components",
+  "status": "existing operating hall; supersedes stale construction tag",
+  "status_evidence": "accepted official-source status review; facility operation reported 2023",
+  "position_source": "OSM way 851764288",
+  "geometry_database_license": "ODbL-1.0 for OSM-derived geography",
+  "visual_contribution_license": "CC-BY-4.0",
+  "attribution": [
+    "OpenStreetMap contributors",
+    "3D_SEU contributors"
+  ],
+  "unverified": [
+    "heights",
+    "facade dimensions",
+    "extent of source compound relative to actual building"
+  ],
+  "embedded_reference_pixels": false
+}
