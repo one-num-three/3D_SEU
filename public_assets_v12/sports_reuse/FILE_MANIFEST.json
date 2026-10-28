@@ -1,0 +1,115 @@
+{
+  "files": [
+    {
+      "path": "INTEGRATION.json",
+      "bytes": 21071,
+      "sha256": "b7253b51ebbfa522a9d02b3c691929ba6c481a27cdd338362cfbf0b6d3d3a145"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3243,
+      "sha256": "660bc100f65eefdfc1303f81bcec4dabf5d2229c5ef4a8efb60a1f513db0f21b"
+    },
+    {
+      "path": "assets/SEU_sports_runtime_v12.blend",
+      "bytes": 835359,
+      "sha256": "9442b3f75ac88480eb6eaaa51add1ce993cceff344883b343671a42cc7c18403"
+    },
+    {
+      "path": "assets/SEU_sports_runtime_v12.glb",
+      "bytes": 4667912,
+      "sha256": "219607b5a2b52c936d48f1554ddce767114d6747100646408205eb573f3af679"
+    },
+    {
+      "path": "data/DETAILED_SOURCE_GEOMETRY.json.gz",
+      "bytes": 8735569,
+      "sha256": "9a0bb68bc973d396b40962d4fd9d1094e1cf5ae0660834a95c6e3d82465cae80"
+    },
+    {
+      "path": "data/DISPLAY_OVERRIDE.json",
+      "bytes": 520,
+      "sha256": "eec3d03d6fc64d1f8b809f15687623259fad56e65c68462a057b092eb8d02107"
+    },
+    {
+      "path": "data/EXPORTED_NAME_MAP.json",
+      "bytes": 75234,
+      "sha256": "df7b3bfffd9d9fef74697090e9e08f05dd068d2f63520ac247ea28f9436b9284"
+    },
+    {
+      "path": "data/FULL_PROJECTION.local.geojson",
+      "bytes": 90697,
+      "sha256": "726e879e2c06368532654e10d4cbe59c8bdbc80631b949e600a871c6ad170bd1"
+    },
+    {
+      "path": "data/LOD_CHANGELOG.json",
+      "bytes": 93683,
+      "sha256": "7ac6bd7ee7cf9d757c9fd07e3a43cdc495cf391aea743cd05d3c50abc4322699"
+    },
+    {
+      "path": "data/OFFICIAL_TENNIS_EVIDENCE.json",
+      "bytes": 1076,
+      "sha256": "5fd511e39a3899e0b8ecafee2d0b1cf4e4ba09752d2e2b733dcb5c4b8f32d69e"
+    },
+    {
+      "path": "data/RUNTIME_GEOMETRY.json.gz",
+      "bytes": 1002498,
+      "sha256": "6d610cee3f7063266b0baa3fbbd5e391380a72c4683537578debdf5f9715246d"
+    },
+    {
+      "path": "data/SOURCE_SPORTS_POLYGONS.local.geojson",
+      "bytes": 11258,
+      "sha256": "d2b6108bf79994a78fd92710db9b9bebf872361860f281ebf9cc68952a84413c"
+    },
+    {
+      "path": "previews/MEIYUAN24.png",
+      "bytes": 909937,
+      "sha256": "fed5433ed97fd3c8012903d1657a371baa89e05b66029bac9bc180e0beca89f3"
+    },
+    {
+      "path": "previews/TAOYUAN12.png",
+      "bytes": 917760,
+      "sha256": "7cfda2a9f20f30cdf8bc11a9cb5d5ec994b753318b2f236f826626ac0f96fffe"
+    },
+    {
+      "path": "qa/COLD_QA.json",
+      "bytes": 135,
+      "sha256": "9973bb39186a957b30d06a9695d0a1ec020e71ca22617d0324109abcc5effe80"
+    },
+    {
+      "path": "qa/EXPORTED_NAMES_QA.json",
+      "bytes": 232,
+      "sha256": "05f6902d3b6c0eb0386251712a5a0f82a952522cf352ce798bd1d51689c07a3f"
+    },
+    {
+      "path": "qa/EXPORT_QA.json",
+      "bytes": 92,
+      "sha256": "cbcf06c5b28cf6375a1be92da687c3b633d3b4d7a1b81c877d0de9e900d1ed6c"
+    },
+    {
+      "path": "qa/PREVIEW_PRIVACY_QA.json",
+      "bytes": 302,
+      "sha256": "9afdfb6e99321ca47e210bca66a3633171d7f98f456533b4a71f49d80047ae26"
+    },
+    {
+      "path": "qa/PUBLIC_SCAN_QA.json",
+      "bytes": 1110,
+      "sha256": "2b203debd4a35e8c1fac170bade48e36a19bfb02ca73b55eee38e6d92be8afb7"
+    },
+    {
+      "path": "qa/SPATIAL_QA.json",
+      "bytes": 2903,
+      "sha256": "0fbeb86e524ab9afc65231284aaa35d9f631eac3b57bf5d89485a4973a675ed4"
+    },
+    {
+      "path": "scripts/export_runtime.py",
+      "bytes": 1997,
+      "sha256": "40fd359bd43c8a2aa7e3f5740b7e848599990058c8cefbe5761fcbb6b813cb9c"
+    },
+    {
+      "path": "scripts/prepare_runtime.py",
+      "bytes": 7099,
+      "sha256": "c931127c7753eed78af64fd22e48b329c5cef5e898913726639b45d3bfea0f2d"
+    }
+  ],
+  "count_excluding_manifest": 22
+}
