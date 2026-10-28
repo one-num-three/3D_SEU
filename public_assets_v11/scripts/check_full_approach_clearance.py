@@ -1,0 +1,6 @@
+"""MIT. Independently include all external stairs/canopy projections in tree and optional-bike clearance."""
+from pathlib import Path
+import json,sys,math,hashlib
+from shapely.geometry import shape,Point
+from shapely.ops import unary_union
+R=Path(__file__).resolve().parents[1];tree,bike=map(Path,sys.argv[1:3]);src=R/'jiaotingbiao_reuse/data/FULL_PROJECTION.local.geojson';g=unary_union([shape(f['geometry'])for f in json.load(open(src))['features']]);ts=json.load(open(tree))['instances'];bs=json.load(open(bike))['instances'];tree_dist=[(t['stable_id'],g.distance(Point(t['position_blender_m'][:2]))-t['crown_radius_m'])for t in ts];bike_dist=[(t['stable_id'],g.distance(Point(t['position_blender_m'][:2])))for t in bs];conf=[x for x in tree_dist if x[1]<7]+[x for x in bike_dist if x[1]<3.1];out={'status':'PASS'if not conf else'FAIL','method':'actual full module union includes every external stair tread/canopy projection, not just raised building bounds','tree_count':len(ts),'bike_count':len(bs),'minimum_tree_crown_clearance_m':min(x[1]for x in tree_dist),'minimum_bike_center_clearance_m':min(x[1]for x in bike_dist),'projection_sha256':hashlib.sha256(src.read_bytes()).hexdigest(),'conflicts':conf};(R/'qa/FULL_APPROACH_CLEARANCE_QA.json').write_text(json.dumps(out,indent=2));print(out);assert not conf
