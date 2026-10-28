@@ -26,3 +26,6 @@ Original v0.3 base and v0.4 basemap are retained. The separately licensed public
 
 ## v0.6.0 partial building and optional woodland layer
 Retain v0.5 repairs; append the independently reviewed v0.6 patch by exact replacement lists. Trees are generic CC BY4 display geometry from the project, instanced only inside mapped woodland with procedural, unsurveyed positions/species/sizes. Geographic inputs remain © OpenStreetMap contributors, ODbL1.0. See public_assets_v06/landscape/ATTRIBUTION.txt. Road styles alter colors only, not geometry/width, and are class-based estimates. The local landscape adapter is project runtime code (MIT). No external tracking, imagery or font fetch is introduced. Props/bikes/benches are not loaded by this release.
+
+## v0.6.1 optional runtime batching
+`vendor/BufferGeometryUtils.js` is from the same pinned Three.js 0.170.0 MIT distribution. Original geometries and material references remain unchanged; generated runtime copies are discarded when disabled. No external service or tracking script is added.

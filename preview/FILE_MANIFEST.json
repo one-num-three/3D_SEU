@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.6.0",
+  "viewer_version": "0.6.1",
   "model_version": "0.6",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
@@ -9,8 +9,8 @@
   "files": [
     {
       "path": "index.html",
-      "bytes": 4901,
-      "sha256": "f678bcc2aaa7dd8dd54278bbdaa4f9a287518315c769920da0c8fda8db2dc68a"
+      "bytes": 5370,
+      "sha256": "a7acc19cb86dde4f95f92c04f3e99066a911906d4bf89dbd7aad2516ff0502f6"
     },
     {
       "path": "preview/LICENSE",
@@ -19,13 +19,13 @@
     },
     {
       "path": "preview/THIRD_PARTY.md",
-      "bytes": 3438,
-      "sha256": "de69225fb3d201c5864cf83a11b48c7ec357cd6db349c4042153c8892827542c"
+      "bytes": 3731,
+      "sha256": "90e13959e9831af10e898cb027646f41abe6eed041c469e401082d5a8ef749b5"
     },
     {
       "path": "preview/app.js",
-      "bytes": 12622,
-      "sha256": "248d9eedc4b26ed2e1338b1078cc7a1919e365268d8b1e02c6d9eb775cb6a5c5"
+      "bytes": 14004,
+      "sha256": "ea0f8730a46695b656df5b8e844f1bc52d6a5830e4698fe6bcaa230557d785e6"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -33,9 +33,19 @@
       "sha256": "618485d27a40b4b50de40aa0fa180d47dd47c3a2fe1bdc7429c57baa227ceda2"
     },
     {
+      "path": "preview/batch-buildings.js",
+      "bytes": 5728,
+      "sha256": "1adbfb4d456d3d2068035594958d0307589ceff4f06b1f674a088fde7ade4db3"
+    },
+    {
+      "path": "preview/batch-controller.js",
+      "bytes": 1109,
+      "sha256": "101274760228961cead57a84dba428e60dd896e7cc627452ebbd2aba2727b521"
+    },
+    {
       "path": "preview/ground-pass.js",
       "bytes": 1328,
-      "sha256": "dde12fddd00fd24ef567c1b97322c6e6cdb672f06781da26be3773d497f43cf1"
+      "sha256": "9865fb5b22138a199189517ad9bd447d9a67420669779271cad0c0085f9b3c3f"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -45,7 +55,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1721,
-      "sha256": "7ebdcf0c5d5fa84dabd4aa617f13c7c3ec1c66368b27d0c156e284c11db300ef"
+      "sha256": "54a90e06da217607e866f7662e6be511b763f578a92920d17ab8d58ce11d1c5b"
     },
     {
       "path": "preview/landscape.json",
@@ -74,8 +84,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 1065,
-      "sha256": "428f1e24d1a3816dffc3dca24747da7faec9d4b2608627437cad7ec448e0e8bd"
+      "bytes": 1162,
+      "sha256": "464d8b6038fae33a78efbe2b571d4d0e72f27ca8c6e7ba2d254d6b5f59ac7cad"
     },
     {
       "path": "preview/style.css",

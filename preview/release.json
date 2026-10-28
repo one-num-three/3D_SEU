@@ -1,6 +1,6 @@
 {
   "modelVersion": "0.6",
-  "viewerVersion": "0.6.0",
+  "viewerVersion": "0.6.1",
   "publishedAt": "2026-10-28",
   "modelCommit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "viewerCommit": null,
@@ -19,5 +19,6 @@
   "landscapeVersion": "0.6",
   "landscapeCommit": "2aaa94b5c9cc98b8b7f831fea8894da89d1a3c19",
   "previousBuildingPatchVersion": "0.5",
-  "previousBuildingPatchCommit": "33ce67a42b80f3708e1770b53e80385fb6ca5937"
+  "previousBuildingPatchCommit": "33ce67a42b80f3708e1770b53e80385fb6ca5937",
+  "runtimeOptimization": "Optional spatial/material static building batching; no asset changes"
 }
