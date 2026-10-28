@@ -1,0 +1,111 @@
+{
+  "version": "171400094-footprint-correction-candidate",
+  "scope": "all listed files only",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3148,
+      "sha256": "0910b6e475dca5ca240a859aeb291077d8478a18be49f007748105be72e68028"
+    },
+    {
+      "path": "assets/SEU_restaurant_171400094_correction.blend",
+      "bytes": 86386,
+      "sha256": "a59dc8d8523e3c68024380e151de6c2277eac98ef9cf6d18908eb0d289349cce"
+    },
+    {
+      "path": "assets/SEU_restaurant_171400094_correction.glb",
+      "bytes": 10500,
+      "sha256": "f6c6613101ec9b6024aa825addd340dc2da3a16de1e78e906aa804aa8edb786e"
+    },
+    {
+      "path": "data/INTEGRATION.json",
+      "bytes": 519,
+      "sha256": "e9ec4b5484803b7e17ed02ab9b15b08b2fcc48cc45fd74baff0843d2426ec8be"
+    },
+    {
+      "path": "data/ORIGINAL_OSM_TAGS.json",
+      "bytes": 200,
+      "sha256": "9dd6ec440679b6e1f9a5370bc82ff70b31cd45369efa00e3f80de161df2e1f93"
+    },
+    {
+      "path": "data/PARAMETERS.json",
+      "bytes": 391,
+      "sha256": "4150da01df20f65cc0e4166cb3bd27d386f47394a4e6aac9d02e5f3bdb8d627e"
+    },
+    {
+      "path": "data/SOURCE_FACTS.local.geojson",
+      "bytes": 6788,
+      "sha256": "7a37f99ddd0c404eb8e5446df6c8d3f6bd0c19268ec7dd13fe0c0d2238e11631"
+    },
+    {
+      "path": "data/registered_geometry_database.json.gz",
+      "bytes": 1730,
+      "sha256": "dbaaab3926587a37c5a0421527c213fd03753fa46156947481766d8c413110c5"
+    },
+    {
+      "path": "data/replaced_original_geometry.json.gz",
+      "bytes": 777,
+      "sha256": "685c32041aa5b28743b7b9de13d6ef99fa75fbe7a750f5bf91cd48063164fbd6"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 861,
+      "sha256": "d3ff7e1c4cab575be0deddf2ebd079b9591cecfb7d7c0d4b491c61b77886e347"
+    },
+    {
+      "path": "previews/AFTER_TWO_STOREY_PASSAGE_CANDIDATE.png",
+      "bytes": 772413,
+      "sha256": "e23a5f545e74efd81b96d5cc1b105f7161f15c6146ac9e1ae4c914bbcff49c86"
+    },
+    {
+      "path": "previews/BEFORE_035M_MARKER.png",
+      "bytes": 753746,
+      "sha256": "cd94c8e29cb02e58631fc8fc247f3ee157abc9b2b3bda1ce16b262cbb4b5ffbb"
+    },
+    {
+      "path": "qa/COLD_OPEN_QA.json",
+      "bytes": 298,
+      "sha256": "1d7444c3ff929c786af799657e6652570a0571e603740a23d48f8962fa7c71d3"
+    },
+    {
+      "path": "qa/FOOTPRINT_PASSAGE_QA.json",
+      "bytes": 720,
+      "sha256": "f757bf5e9fd53b6aebc442d048713ac34a912b4e4b44e5fa7d534ea0e8dbe2e4"
+    },
+    {
+      "path": "qa/REPRODUCTION_QA.json",
+      "bytes": 135,
+      "sha256": "bf11ad41015c09de31fe71943d18ee4f8958f0d9bf18bcb1db301652a383cf3a"
+    },
+    {
+      "path": "qa/TREE_CLEARANCE_QA.json",
+      "bytes": 284,
+      "sha256": "6ff0f099a934d69e2a06f32feb5277bde7766fefcdeb52cb9cdbcd93b12e57af"
+    },
+    {
+      "path": "scripts/build_data.py",
+      "bytes": 4466,
+      "sha256": "adb2326ab1530c1577bbb5635e6d84df1327d500a56c2645e278238ee51b8790"
+    },
+    {
+      "path": "scripts/rebuild.py",
+      "bytes": 1451,
+      "sha256": "86530007b7eba7357cc2689d8db11ce65fd8576d736af4f1950dd0775359bb8e"
+    },
+    {
+      "path": "scripts/render_review.py",
+      "bytes": 2363,
+      "sha256": "3af8e7af2ba698726b810fdc52f05a3a97863b537f0bbe1f87741ffa30a25847"
+    },
+    {
+      "path": "scripts/validate.py",
+      "bytes": 1844,
+      "sha256": "198548d1ffdd57bf16fbaa2af801239d486256897e724d2540051dd3f8e19407"
+    }
+  ]
+}
