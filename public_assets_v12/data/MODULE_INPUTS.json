@@ -1,0 +1,10 @@
+[
+  {
+    "manifest": "bridge_reuse/data/INTEGRATION.json",
+    "blend": "bridge_reuse/assets/SEU_jiuqu_bridge_reuse_candidate.blend"
+  },
+  {
+    "manifest": "sports_reuse/INTEGRATION.json",
+    "blend": "sports_reuse/assets/SEU_sports_runtime_v12.blend"
+  }
+]
