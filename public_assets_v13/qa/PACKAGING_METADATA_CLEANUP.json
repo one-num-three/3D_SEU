@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "scope": "restaurant independent Blend only",
+  "change": "default file-browser directory bytes cleared, equal-length zero substitution before recompression",
+  "geometry_not_changed": true,
+  "cold_open_verification_pending": false,
+  "cold_open_geometry_validation_passed": true
+}

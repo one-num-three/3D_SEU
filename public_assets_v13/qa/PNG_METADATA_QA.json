@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "png_count": 6,
+  "files": [
+    {
+      "file": "previews/V13_FULL_WITH_WOODLAND.png",
+      "decoded_pixels_sha256": "a308ff81024015bbd21104aa80c4becc3296300115d37a71da645982e413d6f9",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "library_transition/previews/BEFORE_AFTER.png",
+      "decoded_pixels_sha256": "ec2b4a5eeb8b715d8f682a9896ced65f874e9c38095d8e06997fabb1003bdc77",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "library_transition/previews/PLAN_AND_SECTION.png",
+      "decoded_pixels_sha256": "50412bcf72aba685e9914d617c42d27dd3a07a30d1dc941d86b5f669a3180428",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "restaurant_correction/previews/AFTER_TWO_STOREY_PASSAGE_CANDIDATE.png",
+      "decoded_pixels_sha256": "6e0d4fda0063faff3ae0819d46677b6f5ed9ef0e1eaefd6c9af7801d26cba02a",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "restaurant_correction/previews/BEFORE_035M_MARKER.png",
+      "decoded_pixels_sha256": "147559c6dc756ad8f41cfeb4b04f16047b65d2c84f5b62bf0255b8ac88e63e07",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "track_relations/previews/RELATION_BEFORE_AFTER_PLAN.png",
+      "decoded_pixels_sha256": "139cf9047721a4adaa3a0f25da42962888d7b6b51fbf1ca56bdecd54e6bc3c7e",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "rows": [
+    {
+      "file": "restaurant_correction/previews/AFTER_TWO_STOREY_PASSAGE_CANDIDATE.png",
+      "original_pixel_region_unchanged": true,
+      "original_rgb_sha256": "5ad7536ba60c4fd69e7edf1c35da845d57b923efe1e5fa4047ed1d3771523245",
+      "attribution_footer_added": true
+    },
+    {
+      "file": "restaurant_correction/previews/BEFORE_035M_MARKER.png",
+      "original_pixel_region_unchanged": true,
+      "original_rgb_sha256": "53be9dbb09d193f570ebaf4267f759d221083544226f8203322d4622cc435446",
+      "attribution_footer_added": true
+    }
+  ]
+}

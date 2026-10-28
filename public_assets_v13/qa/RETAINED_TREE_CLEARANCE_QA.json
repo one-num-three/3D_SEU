@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "unchanged_v06_tree_count": 603,
+  "tree_source_sha256": "fa29928204d0210aa2a5aae979b62ecffd9ff690e3af238dbcce9a2292527458",
+  "building_groups_checked": 307,
+  "minimum_crown_to_bbox_m": 7.035436317323779,
+  "conflicts": [],
+  "positions_not_modified": true
+}
