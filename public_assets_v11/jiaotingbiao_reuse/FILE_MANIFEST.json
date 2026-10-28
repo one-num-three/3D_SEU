@@ -1,0 +1,93 @@
+{
+  "scope": "three-component independent Jiaotingbiao candidate, heights estimated",
+  "files": {
+    "MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "README.md": {
+      "bytes": 4230,
+      "sha256": "89950964af955c86b3689ac0043c1e81ccbb7628deda5e6625200c269f7f9f13"
+    },
+    "assets/SEU_Jiaotingbiao_complex.blend": {
+      "bytes": 172719,
+      "sha256": "8ecdf536df94459f69b7b0ae1d903c3327568c28cc25b092b035e571d49d9cda"
+    },
+    "assets/SEU_Jiaotingbiao_complex.glb": {
+      "bytes": 361408,
+      "sha256": "068f79b4ccde0b44b708aa6606a62103bca232b05889285acd085a985f1c86a8"
+    },
+    "data/FULL_PROJECTION.local.geojson": {
+      "bytes": 23370,
+      "sha256": "5ccc9f0d81aa3b59af154fa21ff8b7d845fc9b19e9aeaa629b8c3652556f1043"
+    },
+    "data/INTEGRATION.json": {
+      "bytes": 1878,
+      "sha256": "b9115e975cb9fc37bfbbb40561953971cd40c02b01c63abb435bee6dbb83f5ce"
+    },
+    "data/SOURCE_AND_HEIGHT_RECORD.json": {
+      "bytes": 2183,
+      "sha256": "7b7cc43e106ae7d93a598d2d08d149695620dfcdca45856df8ae69bd521cb073"
+    },
+    "data/SOURCE_FOOTPRINTS.json": {
+      "bytes": 8692,
+      "sha256": "43ec5df70cbb36856945f275384d8504b702bdabb32d4f825f9fe0ecc72a8cd9"
+    },
+    "data/TARGET_300020023.json": {
+      "bytes": 1991,
+      "sha256": "faef4f90a57b330b211685807e14b43498dd632e5e58f06580153b96185a41c5"
+    },
+    "data/TARGET_300020030.json": {
+      "bytes": 2548,
+      "sha256": "91940d638eb0d906b7339282650b681ecc61a9bb0e7d4554d146535390f0ac44"
+    },
+    "data/TARGET_FOOTPRINT.json": {
+      "bytes": 2722,
+      "sha256": "c28f5780d839dcdc39bdf81904d714991c5a98e83dd83a2ab9d59d78a78f588b"
+    },
+    "data/geometry_database.json.gz": {
+      "bytes": 73010,
+      "sha256": "ab7b0569dfb0cbadf7869c4c32034ead51353d19898b4b0d4ce29121addaf9ed"
+    },
+    "previews/JIAOTINGBIAO_REVIEW.png": {
+      "bytes": 625874,
+      "sha256": "dfbf58c9cca6f970aac64e3635178e12abc4a298316631c5c3b7a4b5963082b7"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 504,
+      "sha256": "f7b652fce3144a9048f1279a891c520357666047720041fc5b314bae3fe47c7b"
+    },
+    "qa/LEGACY_UNION_FIT_AUDIT.json": {
+      "bytes": 459,
+      "sha256": "1f01a0b5fe77f1db82ea246a3cba47e8f4af85485ac39928c1fff3b5f3e29074"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 142,
+      "sha256": "cb0408acca28503aff01573df9de2f2cd3f5f1e94d6116d9377ead792e9a4b43"
+    },
+    "qa/PROJECTION_QA.json": {
+      "bytes": 5361,
+      "sha256": "82e2c28cec4b8a60a543dcf31f5c70156b5a40aefc218a7d5d9eee2daf859166"
+    },
+    "qa/REPRODUCTION_QA.json": {
+      "bytes": 240,
+      "sha256": "2162e52c30f3e1c5789ea4aabba22257289ec5b3155ea5c7a8c311abf96578a4"
+    },
+    "scripts/build.py": {
+      "bytes": 1734,
+      "sha256": "2b92eacde61127ba5660a8bc5140e889c7c9d42672ae684c6868d6ddfe9d161d"
+    },
+    "scripts/build_data.py": {
+      "bytes": 6435,
+      "sha256": "afba01379ab7521a2fdb1bf56f9e2cb906c8304824d13c7ec5e1210738b8ca11"
+    },
+    "scripts/check_candidate.py": {
+      "bytes": 1544,
+      "sha256": "305b298ed174f122636dc492c58383cc7f41f964ca18f36a4af5868070c7f439"
+    },
+    "scripts/validate.py": {
+      "bytes": 1393,
+      "sha256": "ccddc1822cf9f1625f67d9cc262947f3cf7f5e7fcb4606e10f0544d31d3c6f44"
+    }
+  }
+}
