@@ -1,0 +1,90 @@
+{
+  "files": [
+    {
+      "path": "INTEGRATION.json",
+      "bytes": 1105,
+      "sha256": "b04220442c7c30b90045f08a50ee840b69ecde41fb36463fd1441ca0e4c66672"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2594,
+      "sha256": "cd5a5122f9252c3890348d480a5e1446c76ce59fe91fc6aad059e8ceb057ef5a"
+    },
+    {
+      "path": "assets/SEU_library_transition_v13.blend",
+      "bytes": 83999,
+      "sha256": "ccfd05342f7a64ec89f4cf05557a7d8a428e9fb78779410f726a5a60db7cd712"
+    },
+    {
+      "path": "assets/SEU_library_transition_v13.glb",
+      "bytes": 6680,
+      "sha256": "efdd6f81ec8573fb0690c084bca276aa3b41a32c253fc224a9e22cb6f8b54d08"
+    },
+    {
+      "path": "data/BEFORE_CENTERLINE_SECTION.json",
+      "bytes": 94629,
+      "sha256": "7903c278b9b65c9fb3fd311203af42f24761eaa027f71b36f73dd525a43c0c6d"
+    },
+    {
+      "path": "data/FULL_PROJECTION.local.geojson",
+      "bytes": 856,
+      "sha256": "72a2b4878b03d20147a9282c4b27c290fd0a9fe95b0d367b7e24ffe1efce37da"
+    },
+    {
+      "path": "data/GEOMETRY.json",
+      "bytes": 6950,
+      "sha256": "c2b7c3c12ccefc55ab4c8880cb24a59faa85dd84fc1e177e955e4224e8b5ba71"
+    },
+    {
+      "path": "data/LIBRARY_CENTERLINE_SECTION.json",
+      "bytes": 95834,
+      "sha256": "420104f5e89ae1078e3017ad7edaa51ad3c80aaf69ddde1fb00a37c3826be902"
+    },
+    {
+      "path": "data/PROPOSAL.json",
+      "bytes": 10315,
+      "sha256": "cc46b936f3f4ae5a4d1a5b60921274ec864dc9d9056128f6923ff253c8d8f510"
+    },
+    {
+      "path": "data/source_step_geometry.json",
+      "bytes": 1781,
+      "sha256": "df85b8b0d098d3339ddb67e28dba5876b734a05baddf9f3d5027728f9355e5e5"
+    },
+    {
+      "path": "previews/BEFORE_AFTER.png",
+      "bytes": 1458656,
+      "sha256": "141e7a303a8be2450cfa5eb4985821f7717219619980111e9522229712ef6c2a"
+    },
+    {
+      "path": "previews/PLAN_AND_SECTION.png",
+      "bytes": 143292,
+      "sha256": "31eb196c0765a45a871b83281d025e231e6a34871d5218cbdb5af97da76a41bb"
+    },
+    {
+      "path": "qa/COLD_BLEND_QA.json",
+      "bytes": 119,
+      "sha256": "4cd8025f06c128e4fe01a65f46e460ef9b39f32112f8e2d8a200608283f19db1"
+    },
+    {
+      "path": "qa/PRIVACY_QA.json",
+      "bytes": 270,
+      "sha256": "536057910d9c026eb93b99db4b3e974d689164309f054b9bc74260f080cb4d9f"
+    },
+    {
+      "path": "qa/PROPOSAL_CLEARANCE.json",
+      "bytes": 276,
+      "sha256": "705be412c43eef1c63fa0f174c43e2c88859ada2127b9b14f387a14819731ae3"
+    },
+    {
+      "path": "qa/SPATIAL_AND_SECTION_QA.json",
+      "bytes": 663,
+      "sha256": "72e0ab118cfe630ae47d1b8abc10d6c1144411aa4ad366a2659c05aa2084f8a1"
+    },
+    {
+      "path": "scripts/rebuild.py",
+      "bytes": 2219,
+      "sha256": "e61fa3fc6ce4729e9bfbe1298cc725a398265ef12aa03ec57cf7f8641fda3cb7"
+    }
+  ],
+  "count_excluding_manifest": 17
+}

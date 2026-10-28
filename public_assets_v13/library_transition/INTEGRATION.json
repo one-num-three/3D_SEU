@@ -1,0 +1,34 @@
+{
+  "version": "library_transition_v13",
+  "asset": "assets/SEU_library_transition_v13.glb",
+  "bytes": 6680,
+  "sha256": "efdd6f81ec8573fb0690c084bca276aa3b41a32c253fc224a9e22cb6f8b54d08",
+  "replace_names": [],
+  "append_names": [
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_1",
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_2",
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_3",
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_4"
+  ],
+  "mesh_count": 4,
+  "triangle_count": 48,
+  "render_role": "normal_depth_tested_supported_building_approach",
+  "same_2D_steps_overlap": {
+    "osm_way_id": "300030303",
+    "area_m2": 5.2500355961951835,
+    "reason": "same library entrance steps represented as OSM centreline width; not a motor road"
+  },
+  "non_steps_road_overlap_m2": 0,
+  "existing_road_change_required": false,
+  "coordinates": {
+    "crs": "EPSG:32650",
+    "origin": [
+      671709.6990725585,
+      3529586.400278158
+    ],
+    "local_blender_axes": "X east Y north Z up",
+    "gltf_axes": "X east Y up Z south",
+    "units": "metres"
+  },
+  "status": "photo_supported_transition_type_dimensions_and_step_count_estimated"
+}
