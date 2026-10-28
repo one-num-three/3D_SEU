@@ -1,0 +1,72 @@
+{
+  "files": {
+    "MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "README.md": {
+      "bytes": 2267,
+      "sha256": "bcd70734ebf1afbd712efa72e782194ecb43008a823699249d093ae5f6efa33e"
+    },
+    "assets/SEU_Tianjiabing_type_recovery.blend": {
+      "bytes": 114616,
+      "sha256": "25ddfe543d30ae6f34e049ff9c3c3d0120e7720d690dfccbf286da871ad2fef2"
+    },
+    "assets/SEU_Tianjiabing_type_recovery.glb": {
+      "bytes": 225344,
+      "sha256": "68bbaf1eafb6f1989b861128c33b9048ececca2cac3b1d62e83021066404ac0e"
+    },
+    "data/FULL_PROJECTION.local.geojson": {
+      "bytes": 1056,
+      "sha256": "693441609ba45652341796f378d1dede823cdc1f50b39e3e79cc6502ed721c91"
+    },
+    "data/INTEGRATION.json": {
+      "bytes": 326,
+      "sha256": "7508678a45e530d67a4cce9bf421375af3f623188e0312451d75428deaf02ccc"
+    },
+    "data/SOURCE_AND_ASSUMPTIONS.json": {
+      "bytes": 1602,
+      "sha256": "2404aa86745fc07d6b7c4edfe7663ede0e6356badb3ac766528fd1c919b90ccb"
+    },
+    "data/geometry_database.json.gz": {
+      "bytes": 33072,
+      "sha256": "68230453b1ac41648702542fde39e9cf488b305df993ea7d10cd018cf5f0b593"
+    },
+    "data/source_footprints.local.geojson": {
+      "bytes": 2271,
+      "sha256": "38ad9ac144d727b475ce9896fef3b7913e1e69faf4645e3f6531524b405de4e4"
+    },
+    "previews/TJB_BEFORE_AFTER.png": {
+      "bytes": 389950,
+      "sha256": "f4a2253c6e1bb1dfb3e77e3faf1faa2674aa43653474e8e22a04005253db18b0"
+    },
+    "qa/COLD_OPEN_GLB_QA.json": {
+      "bytes": 688,
+      "sha256": "2ddea9f841f77cefbdf191f641ddea3dc6578681cbe621ee55293ba26a6ec5f4"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 249,
+      "sha256": "5f80d9db8d0d198fc3d3eb25830631fc0f5271881528dffb3ec35b9e9e73b001"
+    },
+    "qa/PROJECTION_QA.json": {
+      "bytes": 574,
+      "sha256": "8b4cebe7114f2c22f7714271353a79af4b44ce18182151c5be98f9f662302822"
+    },
+    "qa/ROAD_OVERLAP.json": {
+      "bytes": 83,
+      "sha256": "82567bb81958334b6f3aa0821ce5d4c0cc0d5695d9cf01afa4e559036d08734e"
+    },
+    "scripts/build.py": {
+      "bytes": 1740,
+      "sha256": "7e12fcc96b0bd5773cbdc3fedf75020c18a99418965e9f4a82fa571a7db9986e"
+    },
+    "scripts/check.py": {
+      "bytes": 895,
+      "sha256": "d4308b8818bde118d502453f4bc22350bf984bb8607506da43fda35ea7d45082"
+    },
+    "scripts/prepare.py": {
+      "bytes": 4533,
+      "sha256": "2dc44fc4bb14dfa3b6173c2536957a4095e6987604a460247f254b3418144e0c"
+    }
+  }
+}
