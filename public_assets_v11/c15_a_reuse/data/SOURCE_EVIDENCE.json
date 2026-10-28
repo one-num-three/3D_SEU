@@ -1,0 +1,33 @@
+{
+  "identity": "文科A楼 / old C15 lower_s; not C17",
+  "official_photo_date": "2012-07-29",
+  "page_url": "https://jbjsc.seu.edu.cn/2012/0729/c18749a68734/page.htm",
+  "image_reference_only_url": "https://jbjsc.seu.edu.cn/_upload/article/f4/60/19110e7c4c9bb56966248ccf78e2/18174108-2179-4338-a75c-72ceaf8286b9.jpg",
+  "actual_pixels_reviewed": true,
+  "identity_evidence": "visible 文科楼 A楼 lettering on nearest tower",
+  "observed_features": [
+    "five visible storeys in main facade; tower open cap is not a sixth regular storey",
+    "light pale stone facade",
+    "dark shallow hip roof",
+    "projecting end-tower cap",
+    "vertical blue-grey glazing adjacent to tower"
+  ],
+  "orientation_status": "southwest tower and south glazing inferred from three-bar group view and west connecting links; not surveyed camera pose",
+  "dimensions_estimated": {
+    "body_m": 18.4,
+    "roof_ridge_m": 19.7,
+    "tower_top_m": 22.7
+  },
+  "legacy_24m_status": "superseded, not a measured height",
+  "current_condition_limit": "photo is historical; 2024 official renovation design award exists, no completion-asbuilt exterior verified",
+  "renovation_notice_url": "https://zwc.seu.edu.cn/_t3170/2024/0411/c17925a487388/pagem.psp",
+  "osm_source_url": "https://www.openstreetmap.org/way/300030306",
+  "source_photo_distributed": false,
+  "uncertain_features": [
+    "exact entrance/steps",
+    "unseen north/east exterior",
+    "tower dimensions",
+    "exact metric height and window spacing",
+    "2026 renovation finish"
+  ]
+}

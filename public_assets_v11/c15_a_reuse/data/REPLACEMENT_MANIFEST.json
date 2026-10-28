@@ -1,0 +1,27 @@
+{
+  "stable_id": "SEU_B_OSMWAY_300030306",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_300030306.001"
+  ],
+  "retain_object_names": [
+    "SEU_B_OSMWAY_300030306"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_300030306_PHOTO_legacy_footing",
+    "SEU_B_OSMWAY_300030306_PHOTO_legacy_body_five_storeys",
+    "SEU_B_OSMWAY_300030306_PHOTO_legacy_window_frames",
+    "SEU_B_OSMWAY_300030306_PHOTO_legacy_window_glass",
+    "SEU_B_OSMWAY_300030306_PHOTO_shallow_hip_roof",
+    "SEU_B_OSMWAY_300030306_PHOTO_west_tower_upper",
+    "SEU_B_OSMWAY_300030306_PHOTO_tower_open_cap_posts",
+    "SEU_B_OSMWAY_300030306_PHOTO_tower_projecting_cap",
+    "SEU_B_OSMWAY_300030306_PHOTO_tower_south_windows",
+    "SEU_B_OSMWAY_300030306_PHOTO_south_vertical_glazing",
+    "SEU_B_OSMWAY_300030306_PHOTO_glazing_mullions",
+    "SEU_B_OSMWAY_300030306_PHOTO_main_eave_bands"
+  ],
+  "source_components_used": 5,
+  "new_meshes": 12,
+  "not_main_scene_integrated": true,
+  "geometry_status": "photo-informed adaptation of legacy A-wing; dimensions and orientation partly inferred"
+}

@@ -1,0 +1,25 @@
+{
+  "stable_id": "SEU_B_OSMWAY_300030306",
+  "target_center_xy": [
+    -404.92183310067384,
+    209.6602869937536
+  ],
+  "axis_u": [
+    0.9978435815918625,
+    0.06563677837862018
+  ],
+  "axis_v": [
+    -0.06563677837862018,
+    0.9978435815918625
+  ],
+  "target_safe_width_depth_m": [
+    55.60249825802647,
+    14.86938113521391
+  ],
+  "minimum_boundary_inset_m": 0.3,
+  "source_scope": "C15_lower_s five original components only",
+  "target_status": "accepted OSM footprint, not field surveyed",
+  "height_status": "superseded: main body18.4m roof19.7m tower22.7m are metric estimates based on five visible storeys",
+  "transform_type": "single local-axis affine map; no per-vertex skew or trapezoid warping",
+  "transform_scope": "XY footprint fit only; see SOURCE_TO_REFINED_CHANGES for deliberate Z/window/roof revision"
+}

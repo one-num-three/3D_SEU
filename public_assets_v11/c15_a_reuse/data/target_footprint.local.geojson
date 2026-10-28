@@ -1,0 +1,66 @@
+{
+  "type": "Feature",
+  "id": "SEU_B_OSMWAY_300030306",
+  "properties": {
+    "stable_id": "SEU_B_OSMWAY_300030306",
+    "osm_way_id": 300030306,
+    "source_type": "OpenStreetMap way",
+    "source_name_osm": "文科A楼",
+    "name_status": "OSM label only; not independently verified",
+    "layer": "building_outline",
+    "geometry_role": "undifferentiated OSM building projection; thin display plate not solid building",
+    "source_node_ids": [
+      3041318898,
+      3041319147,
+      3041318008,
+      3041319151,
+      9711849583,
+      9711849582,
+      3041318898
+    ],
+    "source_tags": {
+      "name": "文科A楼",
+      "building": "yes"
+    },
+    "source_url": "https://www.openstreetmap.org/way/300030306",
+    "area_m2": 883.504425742147,
+    "absolute_accuracy": "not_surveyed",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -433.576190653839,
+          215.622152425349
+        ],
+        [
+          -432.539258591714,
+          199.992028779816
+        ],
+        [
+          -376.267730249208,
+          203.693492519204
+        ],
+        [
+          -377.295289627742,
+          219.323772293516
+        ],
+        [
+          -418.010361852357,
+          216.64736878546
+        ],
+        [
+          -427.574866732699,
+          216.021823547781
+        ],
+        [
+          -433.576190653839,
+          215.622152425349
+        ]
+      ]
+    ]
+  }
+}

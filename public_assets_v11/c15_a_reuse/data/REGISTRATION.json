@@ -1,0 +1,69 @@
+{
+  "stable_id": "SEU_B_OSMWAY_300030306",
+  "target_center_xy": [
+    -404.92183310067384,
+    209.6602869937536
+  ],
+  "axis_u": [
+    0.9978435815918625,
+    0.06563677837862018
+  ],
+  "axis_v": [
+    -0.06563677837862018,
+    0.9978435815918625
+  ],
+  "target_safe_width_depth_m": [
+    55.60249825802647,
+    14.86938113521391
+  ],
+  "minimum_boundary_inset_m": 0.3,
+  "source_scope": "C15_lower_s five original components only",
+  "target_status": "accepted OSM footprint, not field surveyed",
+  "height_status": "superseded: main body18.4m roof19.7m tower22.7m are metric estimates based on five visible storeys",
+  "transform_type": "single local-axis affine map; no per-vertex skew or trapezoid warping",
+  "matrix": [
+    [
+      1.2091675996780396,
+      -0.05613907054066658,
+      0.0,
+      16.50252914428711
+    ],
+    [
+      0.07953738421201706,
+      0.85345458984375,
+      0.0,
+      81.85161590576172
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      -0.23000000417232513
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "horizontal_scales": [
+    1.2117807646389507,
+    0.8552989808849468
+  ],
+  "source_bounds": [
+    [
+      -363.04248046875,
+      172.7574920654297,
+      0.23000000417232513
+    ],
+    [
+      -317.15753173828125,
+      190.1425018310547,
+      24.549999237060547
+    ]
+  ],
+  "z_shift_m": -0.23000000417232513,
+  "actual_top_z_m": 24.31999923288822,
+  "transform_scope": "XY footprint fit only; see SOURCE_TO_REFINED_CHANGES for deliberate Z/window/roof revision"
+}
