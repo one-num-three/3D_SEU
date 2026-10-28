@@ -1,0 +1,40 @@
+{
+  "version": "basemap-overlay-v0.4.0",
+  "building_model": "unchanged v0.3",
+  "input_snapshot": {
+    "path": "../public_assets_v02/base/sources/osm/campus_margin_map.json",
+    "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee",
+    "source": "OpenStreetMap existing project snapshot, not a new survey"
+  },
+  "output_database": "data/BASEMAP_LAYERS.local.json",
+  "geographic_license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "original_style_license": "CC-BY-4.0",
+  "original_style_author": "3D_SEU contributors",
+  "code_license": "MIT",
+  "private_images_included": false,
+  "imagery_textures_included": false,
+  "source_urls": [
+    "https://www.openstreetmap.org/copyright",
+    "https://opendatacommons.org/licenses/odbl/1-0/",
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "coordinate_contract": {
+    "source": "WGS84 EPSG:4326",
+    "projected": "EPSG:32650",
+    "local_origin": [
+      671709.6990725585,
+      3529586.400278158
+    ],
+    "units": "metres",
+    "Blender": "X east, Y grid north, Z up",
+    "glTF": "X=x, Y=z, Z=-y",
+    "surface_Z": "display ordering, not surveyed ground elevation"
+  },
+  "limits": [
+    "61 green,39 sports,4 historical construction,2 water polygons from the existing snapshot",
+    "No new satellite imagery or private photograph is included",
+    "OSM surface labels and construction dates may be stale; unidentified land stays neutral",
+    "C3/Lanyuan remain approximate candidates from v03; height estimates are unchanged"
+  ]
+}

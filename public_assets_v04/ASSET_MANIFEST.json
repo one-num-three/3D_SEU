@@ -1,0 +1,96 @@
+{
+  "version": "basemap-overlay-v0.4.0",
+  "scope": "Only public_assets_v04; frozen v01/v02/v03 not replaced",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2605,
+      "sha256": "fa662e4d4c7e584931c9b7ece954fe36e64848a13c1a4c6c3226d9ee52d7f08d"
+    },
+    {
+      "path": "SOURCES_AND_RIGHTS.json",
+      "bytes": 1548,
+      "sha256": "ec51c6142bd78aa338c1111692acf0f58b40ef5796758c0704f634ab14feede1"
+    },
+    {
+      "path": "assets/SEU_basemap_overlay_v04.blend",
+      "bytes": 1284236,
+      "sha256": "f4b88538504c900e8d0f14024b88bae05c857a9ba5ef7d294ab7f9c0c496bbe1"
+    },
+    {
+      "path": "assets/SEU_basemap_overlay_v04.glb",
+      "bytes": 182792,
+      "sha256": "315e8a13d102b8e23dc700084f11d6c67ecf6cd21624dd00ea25994efaf08885"
+    },
+    {
+      "path": "data/BASEMAP_LAYERS.local.json",
+      "bytes": 1615853,
+      "sha256": "a3bf283d1180588fb1340e4cd35df7a5f4ec5e6b5ef4806760f26db0ef91b49a"
+    },
+    {
+      "path": "data/DISPLAY_STYLE.json",
+      "bytes": 1310,
+      "sha256": "0ac436e70a611df9ff893af4d940d0b28af0e345bcb472b87f8fb1bdfeddfbe3"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 842,
+      "sha256": "5e310834594a86765a45ddb09f1264c86b11c819de62a465bc879a4557f6a5c5"
+    },
+    {
+      "path": "previews/V04_LIGHT_BASEMAP_OBLIQUE.png",
+      "bytes": 3564265,
+      "sha256": "4a2fd27725f8aee489652b1c7138e112fb4f1a72b4442a0afa962c37d27a578e"
+    },
+    {
+      "path": "previews/V04_LIGHT_BASEMAP_TOP.png",
+      "bytes": 2708229,
+      "sha256": "6751629c894050edb1c014f143e6357124bb72d4d985bfae2c330ec3e7ba4654"
+    },
+    {
+      "path": "qa/BUILD_QA.json",
+      "bytes": 563,
+      "sha256": "9cd37a41bb1e895c0eb839189ad087429618bb37f753acf650b99447e1c17ca1"
+    },
+    {
+      "path": "qa/IMPORT_QA.json",
+      "bytes": 251,
+      "sha256": "f4719cdcc78ffc5f435b65196b269ddff593c778da4c2b51889aa0e8a046ce19"
+    },
+    {
+      "path": "qa/RELEASE_QA.json",
+      "bytes": 474,
+      "sha256": "f52497ae650fc13c661a7051dfb04c543e345bc153771986e44e82a5fd515876"
+    },
+    {
+      "path": "qa/RENDER_QA.json",
+      "bytes": 2202,
+      "sha256": "1cce952550169662ac5ed487037b86ff36748456018b0641f098e48251842c6b"
+    },
+    {
+      "path": "scripts/build_overlay.py",
+      "bytes": 2942,
+      "sha256": "982da0327461c94d61e8369e2edbd7b173e3c4c38c44b113829d0210c8975a7f"
+    },
+    {
+      "path": "scripts/derive_basemap_from_osm.py",
+      "bytes": 3472,
+      "sha256": "c4f5d29842e63288ed9c1bf8ae954b2c50cbbc8063b10fef5244efb7d743cfbe"
+    },
+    {
+      "path": "scripts/render_preview.py",
+      "bytes": 9486,
+      "sha256": "c92888445bccdea520257d174567b5d6ca7b64758d5531456bcf58abde9748ce"
+    },
+    {
+      "path": "scripts/validate_release.py",
+      "bytes": 1496,
+      "sha256": "e45696cd9722b40dcd72f9db91f17bcabb9875233da8233734c529b1f2e76600"
+    }
+  ]
+}
