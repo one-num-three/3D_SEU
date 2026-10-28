@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "final_glb_bytes": 29895536,
+  "under_25_MiB": false,
+  "delivery_plan": "Full GLB in ZIP when exceeding direct-upload cap; do not delete geometry to fit",
+  "glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "binary_geometry_sha256": "d1ce9048c9b09c989b956e0cad5f0b9cc7d76facc3c7437cacd2386eb2cc6697",
+  "expected_objects": 2726,
+  "actual_objects": 2726,
+  "total_triangles": 2272739,
+  "method": "Cold import final slimmed GLB; per-node world triangles rounded1mm and per-triangle diffuse colors rounded0.0001 compared to final Blend. Node names retained; redundant mesh datablock names removed.",
+  "missing": [],
+  "extra": [],
+  "geometry_or_color_mismatch": [],
+  "images_textures_external_buffers": 0
+}

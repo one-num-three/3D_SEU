@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "method": "Independent cold read of every module and final scene; exact world float32 vertex positions, polygon indices and per-face diffuse color hashes. Not only bounding boxes.",
+  "expected_objects": 2726,
+  "actual_mesh_objects": 2726,
+  "module_counts": {
+    "PUBLIC_OSM_BASE": 600,
+    "SEU_TEACHING_AND_GYM_DETAIL": 239,
+    "SEU_REUSED_BUILDINGS": 1125,
+    "PUBLIC_OSM_MASSING_V02": 192,
+    "SEU_BIOMEDICAL_FIX": 9,
+    "SEU_DORM_REUSE": 322,
+    "SEU_POOL_REUSE": 6,
+    "C3_ENGINEERING_APPROXIMATE_LOCATION_PENDING_REVIEW": 12,
+    "PUBLIC_FACULTY_RESTORED_V03": 132,
+    "SEU_ACADEMIC_SECONDARY": 24,
+    "SEU_LANYUAN_APPROXIMATE_CANDIDATE": 65
+  },
+  "errors": [],
+  "missing": [],
+  "unexpected": [],
+  "mismatches": [],
+  "hidden_expected": [],
+  "resource_counts": {
+    "images": 0,
+    "fonts": 0,
+    "texts": 0,
+    "linked_libraries": 0
+  },
+  "restored_massing_conflicts": [],
+  "allowed_palette_changes": [
+    "OSM road areas",
+    "OSM building outlines",
+    "OSM estimated massing",
+    "OSM low markers"
+  ],
+  "source_modules_unchanged": true,
+  "final_file_unchanged": true,
+  "final_sha256": "89c7e18d73a564fa3115e85a7612eef91b5581cd0619da0ee52eacd4d63f2a27",
+  "source_hashes": {
+    "../seu_public_assets_v01_20261026/release/public_assets/base/SEU_OSM_BASE_v01.blend": "523f37b012df55f7dd005792f5d7d400b2fa831dcbaa95bb5f0fcb6563a26d77",
+    "../seu_public_assets_v01_20261026/release/public_assets/detail/seu_teaching_gym_detail_v01.blend": "232c2931600029d101994ec7d2b950eb3725d19d887cd56bd24cfff46e74454f",
+    "../seu_public_assets_v02_20261026/reused_detail/seu_reused_buildings_v02.blend": "9bab28592cca29d2344388758c8b66ef539ea172beec2ff2f0cc8cb7a70271c8",
+    "massing/SEU_OSM_MASSING_v02.blend": "818a4efd2db759ee0efb1c5a7ae8210c31b224d0b2fbad5c0d02c7ac4820e94e",
+    "biomedical_fix/seu_biomedical_south_high_v03.blend": "ca55e043c05a5303808d28d3c5da06082907eb26991b91db0c44a45c532292a3",
+    "dorm_reuse/seu_dorm_reuse_v03.blend": "942463e359841d2cfeea990f6740f48dde176869044c68972bea38377233bc86",
+    "pool_reuse/seu_pool_reuse_v03.blend": "8f0f2baecf15ae4a595cd06c81242230ed3b8e9b81e79de15ad3affb024d4190",
+    "engineering_reuse/seu_engineering_reuse_v03.blend": "1b116514c6b16a1e456d01855578b8dd5c4efd80ef660543df5b1f4979a01666",
+    "faculty_reuse/SEU_FACULTY_RESTORED_v03.blend": "e5a8421629809035b1e18a0ad5097e0ac246c93d7511f1d24c815e61089adaea",
+    "academic_secondary_reuse/seu_academic_secondary_v03.blend": "1d993c7af11cc6990ca164bddaa0081d68dcfe60df370f4232be0690b141fc9b",
+    "lanyuan_candidate/seu_lanyuan_candidate_v03.blend": "d1c474816f68f791c46e2f7ac68ed7aabe83a7d21b7e061c47dd8858a55b845e"
+  },
+  "C3_status": "Separate approximate-location candidate; official source authorization not established, not blanket CC BY geographic content",
+  "limitations": [
+    "Geometric fidelity to contracted modules, not survey validation or independent legal clearance.",
+    "Pool dedup checked by stableID in massing, not inferred from generic object counts."
+  ]
+}

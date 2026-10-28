@@ -1,0 +1,539 @@
+{
+  "status": "PASS",
+  "source": "Actual final-scene mesh polygon XY union, excluding projected faces<0.01m2; not bbox",
+  "matching_restored_source_ids_checked": 88,
+  "total_intersection_m2": 0.026362012872813142,
+  "max_single_source_intersection_m2": 0.0008028365622013175,
+  "numeric_area_tolerance_m2": 0.05,
+  "rows": [
+    {
+      "stableID": "SEU_B_OSMWAY_1056927545",
+      "actual_restored_projection_m2": 1103.9801356772266,
+      "actual_massing_projection_m2": 54.371175983452154,
+      "actual_projection_intersection_m2": 0.0002544401730375071
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_1056927546",
+      "actual_restored_projection_m2": 1104.4966680286482,
+      "actual_massing_projection_m2": 54.004548367584846,
+      "actual_projection_intersection_m2": 0.00016136668689713688
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_1056927547",
+      "actual_restored_projection_m2": 1103.9844515109696,
+      "actual_massing_projection_m2": 54.36981411280015,
+      "actual_projection_intersection_m2": 0.00023019848762310962
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_1056927548",
+      "actual_restored_projection_m2": 1104.0954296318098,
+      "actual_massing_projection_m2": 54.21783716882675,
+      "actual_projection_intersection_m2": 0.00019804332422833782
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_1056927549",
+      "actual_restored_projection_m2": 1104.663319561238,
+      "actual_massing_projection_m2": 53.81590223031307,
+      "actual_projection_intersection_m2": 0.00015825368780571534
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_1056927551",
+      "actual_restored_projection_m2": 1042.6702795286722,
+      "actual_massing_projection_m2": 49.51638683489447,
+      "actual_projection_intersection_m2": 0.0004918006056041221
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_171399649",
+      "actual_restored_projection_m2": 1993.7713235764086,
+      "actual_massing_projection_m2": 1629.9055749978634,
+      "actual_projection_intersection_m2": 0.0004983901009559563
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961590",
+      "actual_restored_projection_m2": 1104.497630711837,
+      "actual_massing_projection_m2": 54.00704388969909,
+      "actual_projection_intersection_m2": 0.0003528293431806233
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961598",
+      "actual_restored_projection_m2": 730.4055915605421,
+      "actual_massing_projection_m2": 51.98389989883124,
+      "actual_projection_intersection_m2": 0.0003961609817087331
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961599",
+      "actual_restored_projection_m2": 865.7371392090287,
+      "actual_massing_projection_m2": 58.537360392533515,
+      "actual_projection_intersection_m2": 0.0005021453991196993
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961601",
+      "actual_restored_projection_m2": 688.5952447124982,
+      "actual_massing_projection_m2": 34.69213824907218,
+      "actual_projection_intersection_m2": 0.0002462349286440142
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961603",
+      "actual_restored_projection_m2": 958.9314525758149,
+      "actual_massing_projection_m2": 68.70079584791483,
+      "actual_projection_intersection_m2": 0.00023496076639717466
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961604",
+      "actual_restored_projection_m2": 694.5833351733747,
+      "actual_massing_projection_m2": 49.80668441393925,
+      "actual_projection_intersection_m2": 0.00037500166020138463
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961606",
+      "actual_restored_projection_m2": 752.7361258835666,
+      "actual_massing_projection_m2": 50.56403079441759,
+      "actual_projection_intersection_m2": 0.0003715825134123958
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961612",
+      "actual_restored_projection_m2": 675.3727233437543,
+      "actual_massing_projection_m2": 48.02566106241801,
+      "actual_projection_intersection_m2": 0.0002698904016087295
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961614",
+      "actual_restored_projection_m2": 903.4471331153801,
+      "actual_massing_projection_m2": 64.77234362627883,
+      "actual_projection_intersection_m2": 0.000264901296720758
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961616",
+      "actual_restored_projection_m2": 750.8051319136916,
+      "actual_massing_projection_m2": 52.9924120903014,
+      "actual_projection_intersection_m2": 0.0003187453099795913
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961619",
+      "actual_restored_projection_m2": 843.8252623774275,
+      "actual_massing_projection_m2": 59.13334855345522,
+      "actual_projection_intersection_m2": 0.0004050867842972615
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961620",
+      "actual_restored_projection_m2": 755.3748392945278,
+      "actual_massing_projection_m2": 54.43760842829975,
+      "actual_projection_intersection_m2": 0.0004100749720078765
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_300020021",
+      "actual_restored_projection_m2": 2621.3950679460463,
+      "actual_massing_projection_m2": 1763.1014486779063,
+      "actual_projection_intersection_m2": 0.000318241172870205
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136421",
+      "actual_restored_projection_m2": 574.8421753690111,
+      "actual_massing_projection_m2": 168.0911524481885,
+      "actual_projection_intersection_m2": 0.0002949538393410803
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136422",
+      "actual_restored_projection_m2": 576.5264517474808,
+      "actual_massing_projection_m2": 166.2535273172176,
+      "actual_projection_intersection_m2": 0.00013606077283032816
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136423",
+      "actual_restored_projection_m2": 586.9543803727831,
+      "actual_massing_projection_m2": 154.67066504806138,
+      "actual_projection_intersection_m2": 0.0001591917512528061
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136424",
+      "actual_restored_projection_m2": 594.7681327560161,
+      "actual_massing_projection_m2": 156.4592309939011,
+      "actual_projection_intersection_m2": 0.00012832758179456223
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136425",
+      "actual_restored_projection_m2": 586.4398475549359,
+      "actual_massing_projection_m2": 156.1121761761466,
+      "actual_projection_intersection_m2": 0.00022037900006923044
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136426",
+      "actual_restored_projection_m2": 592.1568982825547,
+      "actual_massing_projection_m2": 155.89507138168432,
+      "actual_projection_intersection_m2": 0.00021481202249268156
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136427",
+      "actual_restored_projection_m2": 589.933140639333,
+      "actual_massing_projection_m2": 155.03061904107545,
+      "actual_projection_intersection_m2": 0.0001307526084765909
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136428",
+      "actual_restored_projection_m2": 598.8301818189442,
+      "actual_massing_projection_m2": 157.8488910984914,
+      "actual_projection_intersection_m2": 0.0002467391220387058
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136438",
+      "actual_restored_projection_m2": 586.8026174402231,
+      "actual_massing_projection_m2": 155.4082851317006,
+      "actual_projection_intersection_m2": 0.0004240365458329325
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136443",
+      "actual_restored_projection_m2": 574.2495015118758,
+      "actual_massing_projection_m2": 168.17000459879648,
+      "actual_projection_intersection_m2": 0.0002924765068917181
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136446",
+      "actual_restored_projection_m2": 592.7572662229366,
+      "actual_massing_projection_m2": 155.2706267917578,
+      "actual_projection_intersection_m2": 0.0002901054099923945
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136447",
+      "actual_restored_projection_m2": 575.8831325827617,
+      "actual_massing_projection_m2": 166.49937858434964,
+      "actual_projection_intersection_m2": 0.00023545955501952102
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136454",
+      "actual_restored_projection_m2": 589.2886518606302,
+      "actual_massing_projection_m2": 155.57588100619546,
+      "actual_projection_intersection_m2": 0.0002111891946795422
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136455",
+      "actual_restored_projection_m2": 586.1830661009046,
+      "actual_massing_projection_m2": 155.28842876198144,
+      "actual_projection_intersection_m2": 0.0003415713304426504
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136457",
+      "actual_restored_projection_m2": 594.4835117880835,
+      "actual_massing_projection_m2": 156.69013261982704,
+      "actual_projection_intersection_m2": 0.0002543087415252062
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136458",
+      "actual_restored_projection_m2": 598.3227078924446,
+      "actual_massing_projection_m2": 158.36785398516383,
+      "actual_projection_intersection_m2": 0.00020568847352819196
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136460",
+      "actual_restored_projection_m2": 583.9959878897068,
+      "actual_massing_projection_m2": 158.0538091212327,
+      "actual_projection_intersection_m2": 0.0005727211507429215
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136462",
+      "actual_restored_projection_m2": 574.5307181438444,
+      "actual_massing_projection_m2": 168.11281535403396,
+      "actual_projection_intersection_m2": 0.00036289025814698907
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136464",
+      "actual_restored_projection_m2": 595.600497642248,
+      "actual_massing_projection_m2": 152.43296218475737,
+      "actual_projection_intersection_m2": 0.0005452358873673024
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136465",
+      "actual_restored_projection_m2": 575.8515824585808,
+      "actual_massing_projection_m2": 166.77305292338224,
+      "actual_projection_intersection_m2": 0.0004939283320248395
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136470",
+      "actual_restored_projection_m2": 586.7053770921507,
+      "actual_massing_projection_m2": 158.7450299402641,
+      "actual_projection_intersection_m2": 0.00021651613604650128
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136471",
+      "actual_restored_projection_m2": 574.3876163308721,
+      "actual_massing_projection_m2": 167.15289715025983,
+      "actual_projection_intersection_m2": 0.0003483081604760136
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136473",
+      "actual_restored_projection_m2": 582.1294590977972,
+      "actual_massing_projection_m2": 168.7194667961494,
+      "actual_projection_intersection_m2": 0.00031504665457338863
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136474",
+      "actual_restored_projection_m2": 601.1830708211213,
+      "actual_massing_projection_m2": 155.48258152141364,
+      "actual_projection_intersection_m2": 0.0001704701152249195
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136476",
+      "actual_restored_projection_m2": 587.7100838094638,
+      "actual_massing_projection_m2": 154.50466180963832,
+      "actual_projection_intersection_m2": 0.0005356494304800866
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136478",
+      "actual_restored_projection_m2": 587.9727890963668,
+      "actual_massing_projection_m2": 154.6464512776472,
+      "actual_projection_intersection_m2": 0.0005385513910286111
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136480",
+      "actual_restored_projection_m2": 587.5842417177001,
+      "actual_massing_projection_m2": 160.38918182721352,
+      "actual_projection_intersection_m2": 0.00030635641930305444
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136481",
+      "actual_restored_projection_m2": 580.1625272815663,
+      "actual_massing_projection_m2": 162.25646008456474,
+      "actual_projection_intersection_m2": 0.00017916020363622774
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136487",
+      "actual_restored_projection_m2": 573.5653305570225,
+      "actual_massing_projection_m2": 171.47254334110153,
+      "actual_projection_intersection_m2": 0.00036556977088634434
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136488",
+      "actual_restored_projection_m2": 585.7767969754723,
+      "actual_massing_projection_m2": 155.7675349111613,
+      "actual_projection_intersection_m2": 0.00019147381585706867
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136490",
+      "actual_restored_projection_m2": 589.2219190344637,
+      "actual_massing_projection_m2": 161.5455259820398,
+      "actual_projection_intersection_m2": 0.0002610108969857414
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630136491",
+      "actual_restored_projection_m2": 586.9874786283892,
+      "actual_massing_projection_m2": 169.64619605242217,
+      "actual_projection_intersection_m2": 0.00015467166883993843
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141862",
+      "actual_restored_projection_m2": 582.8584005465402,
+      "actual_massing_projection_m2": 162.01922179571625,
+      "actual_projection_intersection_m2": 0.00037610749594534505
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141863",
+      "actual_restored_projection_m2": 580.2751824145023,
+      "actual_massing_projection_m2": 161.70575798861927,
+      "actual_projection_intersection_m2": 0.0003067038305498495
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141865",
+      "actual_restored_projection_m2": 588.1312377661495,
+      "actual_massing_projection_m2": 163.03972866851174,
+      "actual_projection_intersection_m2": 0.00032286043971831277
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141866",
+      "actual_restored_projection_m2": 592.1221725286214,
+      "actual_massing_projection_m2": 164.59927509351897,
+      "actual_projection_intersection_m2": 0.0003475908209515929
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141868",
+      "actual_restored_projection_m2": 580.0510199722552,
+      "actual_massing_projection_m2": 162.22882050181693,
+      "actual_projection_intersection_m2": 0.00027692298946589575
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141869",
+      "actual_restored_projection_m2": 580.4774204532283,
+      "actual_massing_projection_m2": 162.3480173307263,
+      "actual_projection_intersection_m2": 0.00024119360969134595
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141871",
+      "actual_restored_projection_m2": 586.1957720313632,
+      "actual_massing_projection_m2": 162.26402968914124,
+      "actual_projection_intersection_m2": 0.00040846094182887425
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141872",
+      "actual_restored_projection_m2": 582.3270114908346,
+      "actual_massing_projection_m2": 160.8857754934566,
+      "actual_projection_intersection_m2": 0.0001548208784266353
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141876",
+      "actual_restored_projection_m2": 582.8533268704725,
+      "actual_massing_projection_m2": 162.08593309672187,
+      "actual_projection_intersection_m2": 0.00016816033560342484
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141877",
+      "actual_restored_projection_m2": 580.2214543027756,
+      "actual_massing_projection_m2": 161.6597133530542,
+      "actual_projection_intersection_m2": 0.0002983244467288854
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141879",
+      "actual_restored_projection_m2": 588.1230498205263,
+      "actual_massing_projection_m2": 163.05009520239577,
+      "actual_projection_intersection_m2": 0.00048816956817125727
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141880",
+      "actual_restored_projection_m2": 592.1135012979852,
+      "actual_massing_projection_m2": 164.6175285549651,
+      "actual_projection_intersection_m2": 0.0003032979474582004
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141882",
+      "actual_restored_projection_m2": 580.0514838230023,
+      "actual_massing_projection_m2": 162.24052648901068,
+      "actual_projection_intersection_m2": 0.00022708198230124392
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141883",
+      "actual_restored_projection_m2": 580.5003596362192,
+      "actual_massing_projection_m2": 162.56342430414554,
+      "actual_projection_intersection_m2": 0.00038342805222301644
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141885",
+      "actual_restored_projection_m2": 582.3272325029518,
+      "actual_massing_projection_m2": 160.89198564087098,
+      "actual_projection_intersection_m2": 0.00029937733162606133
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141889",
+      "actual_restored_projection_m2": 588.1235971424811,
+      "actual_massing_projection_m2": 163.05110577774602,
+      "actual_projection_intersection_m2": 0.00026292235956391403
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141890",
+      "actual_restored_projection_m2": 579.7498197955387,
+      "actual_massing_projection_m2": 161.80351761916552,
+      "actual_projection_intersection_m2": 0.0001827501501468258
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141894",
+      "actual_restored_projection_m2": 592.1126611806261,
+      "actual_massing_projection_m2": 164.61794606502804,
+      "actual_projection_intersection_m2": 0.0002562440999795592
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141895",
+      "actual_restored_projection_m2": 582.8532033487827,
+      "actual_massing_projection_m2": 162.08669535258213,
+      "actual_projection_intersection_m2": 0.000199325040806689
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141899",
+      "actual_restored_projection_m2": 580.2751270143632,
+      "actual_massing_projection_m2": 161.70447465775226,
+      "actual_projection_intersection_m2": 0.0005841448151524242
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141901",
+      "actual_restored_projection_m2": 588.132483619877,
+      "actual_massing_projection_m2": 163.0420161168835,
+      "actual_projection_intersection_m2": 0.0003726384291953319
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141902",
+      "actual_restored_projection_m2": 592.1226506772441,
+      "actual_massing_projection_m2": 164.59774710053028,
+      "actual_projection_intersection_m2": 0.00027902273286981407
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141903",
+      "actual_restored_projection_m2": 582.9342841122312,
+      "actual_massing_projection_m2": 161.99448566697845,
+      "actual_projection_intersection_m2": 0.00032533095815433797
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141906",
+      "actual_restored_projection_m2": 586.1652844327613,
+      "actual_massing_projection_m2": 162.56400056090823,
+      "actual_projection_intersection_m2": 0.00031932362962583584
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141909",
+      "actual_restored_projection_m2": 589.9896219128299,
+      "actual_massing_projection_m2": 160.28691374231278,
+      "actual_projection_intersection_m2": 0.00037029159938541594
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141910",
+      "actual_restored_projection_m2": 617.2467235287779,
+      "actual_massing_projection_m2": 165.40350351573971,
+      "actual_projection_intersection_m2": 0.00028445545376970375
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141912",
+      "actual_restored_projection_m2": 592.9381761661247,
+      "actual_massing_projection_m2": 163.93920144621333,
+      "actual_projection_intersection_m2": 0.00021772323741846208
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_630141914",
+      "actual_restored_projection_m2": 587.4265734798759,
+      "actual_massing_projection_m2": 159.12848636228185,
+      "actual_projection_intersection_m2": 0.00031114690519898184
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_300030319",
+      "actual_restored_projection_m2": 1626.1828031315513,
+      "actual_massing_projection_m2": 757.7540160445319,
+      "actual_projection_intersection_m2": 0.00017870044138449355
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961623",
+      "actual_restored_projection_m2": 1717.4810811921175,
+      "actual_massing_projection_m2": 130.16707185470273,
+      "actual_projection_intersection_m2": 4.975869785984297e-05
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_299961609",
+      "actual_restored_projection_m2": 1378.1562562456168,
+      "actual_massing_projection_m2": 350.4430086230868,
+      "actual_projection_intersection_m2": 0.00010954711556692269
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_300010611",
+      "actual_restored_projection_m2": 3913.085652351481,
+      "actual_massing_projection_m2": 450.5218490285742,
+      "actual_projection_intersection_m2": 0.00010663944264965747
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_300010625",
+      "actual_restored_projection_m2": 1748.0246575483895,
+      "actual_massing_projection_m2": 117.36976564781844,
+      "actual_projection_intersection_m2": 0.0001892053203550729
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_300010604",
+      "actual_restored_projection_m2": 1926.0713042492555,
+      "actual_massing_projection_m2": 143.72384197475276,
+      "actual_projection_intersection_m2": 0.0002324980795007346
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_300010617",
+      "actual_restored_projection_m2": 2259.080583468379,
+      "actual_massing_projection_m2": 875.1601955769568,
+      "actual_projection_intersection_m2": 0.0008028365622013175
+    },
+    {
+      "stableID": "SEU_B_OSMWAY_300010619",
+      "actual_restored_projection_m2": 2046.6314759995741,
+      "actual_massing_projection_m2": 162.39114696669742,
+      "actual_projection_intersection_m2": 0.0003230457872094425
+    }
+  ],
+  "scope": "Dormi/faculty/secondary restored geometry versus same-ID massing remainder. Base footprint slabs excluded by design."
+}
