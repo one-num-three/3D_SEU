@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.13.0",
-  "model_version": "0.13",
+  "viewer_version": "0.14.0",
+  "model_version": "0.14",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 8960,
-      "sha256": "c2f9eecaed4def1a38c75952ae2705a5137e21f87b30d1cfb7e09f691ed9a99b"
+      "bytes": 9339,
+      "sha256": "68c7e1344b518afc02605f961ffd139dd33a2d53e92a4ebc40b623003f4e5255"
     },
     {
       "path": "preview/LICENSE",
@@ -25,7 +25,7 @@
     {
       "path": "preview/app.js",
       "bytes": 16237,
-      "sha256": "e890d52b68ee94d2315939ce11e9d806dc530b2cb460da74aad6507b9d251aab"
+      "sha256": "840988cd6d3885972c236fc4391a42d3eb9bfdf7521259d5099ae8460efc936c"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -45,12 +45,12 @@
     {
       "path": "preview/bridge-display.js",
       "bytes": 1016,
-      "sha256": "5e49bafc7b75ac7df6e7b5ab4e9874d0a7d4f68ce751d3ea7b49438cdc45d028"
+      "sha256": "d95cc7d48d0b35f855ed5c35b2d964ed73ecaf78d45191783688eca745d2b8cc"
     },
     {
       "path": "preview/ground-pass.js",
       "bytes": 2268,
-      "sha256": "46bacc445297dd5608b66203afe0a45e21cd2416b2f55958d88c14350fc4e4a9"
+      "sha256": "9ae56db29ad3c5ee70abb7d3ad382b6afca516b38e37aeba93e99148a8ec0063"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -60,7 +60,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1722,
-      "sha256": "a5636b98d8d8e047383604fc532ef50f2ae8b0ef52d39ebb86925ecd0b541bef"
+      "sha256": "8958db643a4f8299a7c840ae8476b8e86a8a104e461e699d5fc97248ba4ec513"
     },
     {
       "path": "preview/landscape.json",
@@ -84,8 +84,8 @@
     },
     {
       "path": "preview/patches.json",
-      "bytes": 82320,
-      "sha256": "4ea3f10187741b9e4bc7dc9488859c8dac51c0d32dcffdc79d1e85c60c5e6081"
+      "bytes": 82914,
+      "sha256": "b0fc918d1f26839e56d4f3c6d2f8dee851a79425af41b336243cde87ccca4b04"
     },
     {
       "path": "preview/props-adapter.js",
@@ -95,7 +95,7 @@
     {
       "path": "preview/props-layer.js",
       "bytes": 1177,
-      "sha256": "87d1d15e3440caa4a2ee98f8f12f7300176e761a15cb81bbce959eaeb3e3c2cc"
+      "sha256": "046c61431476c823acb8026ad947ecbe14072a0abd764b2298f774b2c53b6475"
     },
     {
       "path": "preview/props.json",
@@ -104,8 +104,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 2085,
-      "sha256": "cce5addf371842c73cafb0626bba829656e6dce778c50d3db72cfddfe11c1cb0"
+      "bytes": 2182,
+      "sha256": "7eb51a9bea0f86fcbee4c3c021a4562d9e6edff1df6c8b2c9c3ffdf73a038185"
     },
     {
       "path": "preview/style.css",
