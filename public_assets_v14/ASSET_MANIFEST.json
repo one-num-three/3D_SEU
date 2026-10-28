@@ -1,0 +1,167 @@
+{
+  "version": "0.14.0",
+  "scope": "Tianjiabing bounded observed roof and facade type recovery; previous geometry retained except explicit replacement",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 3929,
+      "sha256": "13338351aa3a9e9ed98c1afc8c3a5e13cf4dc55ca8f7e1248a744509ca0133d8"
+    },
+    "assets/SEU_building_patch_v14.glb": {
+      "bytes": 225808,
+      "sha256": "d6c56ceb8a78ccd8d631fc73d1c42f979e99bebe637dfc89933d9381cc18de3b"
+    },
+    "assets/SEU_campus_photorefined_v14.blend": {
+      "bytes": 23509064,
+      "sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31"
+    },
+    "data/MODULE_INPUTS.json": {
+      "bytes": 152,
+      "sha256": "09c03ac2a2c8f7815d3d7ef6ea185810be748d975903d676f7781a87757586b0"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 814,
+      "sha256": "6638f458af1bfcd5c00c6d0b06e74f15fbb9e17645458ab5ffa4ce4a601dc38e"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 1002,
+      "sha256": "75d826bca8fff48c495e727ca95d20c1c5b41396a5b034f6e1b33c3ec17bdcc8"
+    },
+    "previews/V14_FULL_WITH_WOODLAND.png": {
+      "bytes": 1799921,
+      "sha256": "959791434735e5e1f2e801a6873483d38c19e720a94770c8e343c0209f7dbabe"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 184105,
+      "sha256": "9f81ddfceb17a9c15a4786ffc05533ebf0ecf676ca0cd913f65e889215bc0a0c"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 442,
+      "sha256": "7aa21fec80d39de9a5645e2fbb81f1eec677ca40e5f8ea3a2c8aa6a8d1c1d6ad"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 434236,
+      "sha256": "cc954cc0fc14e8ef2b630d7ccd7f3d25c11a48f31a94d7fd4aaef437a69a682b"
+    },
+    "qa/OPTIONAL_BIKE_CLEARANCE_QA.json": {
+      "bytes": 2083,
+      "sha256": "5c652b55ca17d7f643b8f69310f77b3313827241e5b2cff02f8d39c4a40abccf"
+    },
+    "qa/PNG_METADATA_QA.json": {
+      "bytes": 230,
+      "sha256": "6aec74fbc82c6b4612ae11080ed5a5dc5b3d1f560018f2796914bf0eb155fc3c"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "3b0326a3dee0f5ca77396cec57e70b763124e807c468c2d639180c9a7fb181dd"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 335,
+      "sha256": "f18a29b36c8a838dd8b3a1398a33b27c7cba5ec108f1e8b830e0c16e973888d4"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "scripts/check_optional_bikes.py": {
+      "bytes": 1565,
+      "sha256": "7c8c20d8b9e6e0006c4642d8f6194ad81e414de6acbb9e9949d07948836abf53"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1802,
+      "sha256": "a33f177b8024da378d19b9f22ef3a00f2907262ad775b62bb5a3452058eddf8e"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5695,
+      "sha256": "46c11cbf4afdd0d18d8827e6a808c5166222b667b11639f38f94e8f55bfb8e91"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 1967,
+      "sha256": "72476c08d63ea0d4f95cfa69f5c0a014c23d03accf9f504c3b32d8a12b0784ef"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1375,
+      "sha256": "a05f4aa79a80e8092c4f774b2c12f2e66d9ac34c3123ba3a3f165bbdad8dd241"
+    },
+    "tianjiabing_recovery/FILE_MANIFEST.json": {
+      "bytes": 2496,
+      "sha256": "73f6b8c0a22f5c8e43f991cbc275ab1582104fa4ac6776a8f87321e58bf8de69"
+    },
+    "tianjiabing_recovery/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "tianjiabing_recovery/README.md": {
+      "bytes": 2267,
+      "sha256": "bcd70734ebf1afbd712efa72e782194ecb43008a823699249d093ae5f6efa33e"
+    },
+    "tianjiabing_recovery/assets/SEU_Tianjiabing_type_recovery.blend": {
+      "bytes": 114616,
+      "sha256": "25ddfe543d30ae6f34e049ff9c3c3d0120e7720d690dfccbf286da871ad2fef2"
+    },
+    "tianjiabing_recovery/assets/SEU_Tianjiabing_type_recovery.glb": {
+      "bytes": 225344,
+      "sha256": "68bbaf1eafb6f1989b861128c33b9048ececca2cac3b1d62e83021066404ac0e"
+    },
+    "tianjiabing_recovery/data/FULL_PROJECTION.local.geojson": {
+      "bytes": 1056,
+      "sha256": "693441609ba45652341796f378d1dede823cdc1f50b39e3e79cc6502ed721c91"
+    },
+    "tianjiabing_recovery/data/INTEGRATION.json": {
+      "bytes": 326,
+      "sha256": "7508678a45e530d67a4cce9bf421375af3f623188e0312451d75428deaf02ccc"
+    },
+    "tianjiabing_recovery/data/SOURCE_AND_ASSUMPTIONS.json": {
+      "bytes": 1602,
+      "sha256": "2404aa86745fc07d6b7c4edfe7663ede0e6356badb3ac766528fd1c919b90ccb"
+    },
+    "tianjiabing_recovery/data/geometry_database.json.gz": {
+      "bytes": 33072,
+      "sha256": "68230453b1ac41648702542fde39e9cf488b305df993ea7d10cd018cf5f0b593"
+    },
+    "tianjiabing_recovery/data/source_footprints.local.geojson": {
+      "bytes": 2271,
+      "sha256": "38ad9ac144d727b475ce9896fef3b7913e1e69faf4645e3f6531524b405de4e4"
+    },
+    "tianjiabing_recovery/previews/TJB_BEFORE_AFTER.png": {
+      "bytes": 389950,
+      "sha256": "f4a2253c6e1bb1dfb3e77e3faf1faa2674aa43653474e8e22a04005253db18b0"
+    },
+    "tianjiabing_recovery/qa/COLD_OPEN_GLB_QA.json": {
+      "bytes": 688,
+      "sha256": "2ddea9f841f77cefbdf191f641ddea3dc6578681cbe621ee55293ba26a6ec5f4"
+    },
+    "tianjiabing_recovery/qa/PRIVACY_SCAN.json": {
+      "bytes": 249,
+      "sha256": "5f80d9db8d0d198fc3d3eb25830631fc0f5271881528dffb3ec35b9e9e73b001"
+    },
+    "tianjiabing_recovery/qa/PROJECTION_QA.json": {
+      "bytes": 574,
+      "sha256": "8b4cebe7114f2c22f7714271353a79af4b44ce18182151c5be98f9f662302822"
+    },
+    "tianjiabing_recovery/qa/ROAD_OVERLAP.json": {
+      "bytes": 83,
+      "sha256": "82567bb81958334b6f3aa0821ce5d4c0cc0d5695d9cf01afa4e559036d08734e"
+    },
+    "tianjiabing_recovery/scripts/build.py": {
+      "bytes": 1740,
+      "sha256": "7e12fcc96b0bd5773cbdc3fedf75020c18a99418965e9f4a82fa571a7db9986e"
+    },
+    "tianjiabing_recovery/scripts/check.py": {
+      "bytes": 895,
+      "sha256": "d4308b8818bde118d502453f4bc22350bf984bb8607506da43fda35ea7d45082"
+    },
+    "tianjiabing_recovery/scripts/prepare.py": {
+      "bytes": 4533,
+      "sha256": "2dc44fc4bb14dfa3b6173c2536957a4095e6987604a460247f254b3418144e0c"
+    }
+  }
+}
