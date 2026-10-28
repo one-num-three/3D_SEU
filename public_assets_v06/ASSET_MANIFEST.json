@@ -80,8 +80,8 @@
       "sha256": "cbafa053b71cd3fae83773f8ffd8eb9a6db951edb40d6afe472d33dc591144c5"
     },
     "juyuan3_patch/JUYUAN3_REVIEW.png": {
-      "bytes": 2126793,
-      "sha256": "e3903a08ccd0e8e4c3b1f138db0a08b257b98b9857bdb610986ef4fec275d62e"
+      "bytes": 2126671,
+      "sha256": "b41b6cd95195b6efc419de009feef701e655cc9c8f171ed0e214892607ed5f92"
     },
     "juyuan3_patch/README.md": {
       "bytes": 3468,
@@ -204,12 +204,12 @@
       "sha256": "bd1deb0a3c4ada71b5663e975e713be3335f44304800575e24813c67fb439224"
     },
     "previews/CIVIL_AFTER.png": {
-      "bytes": 1952702,
-      "sha256": "902d8f6b91304c9b2da42c3ca2523fb2cc7400fc9003e2b07b671bb89e9dadab"
+      "bytes": 1952563,
+      "sha256": "a472e6b8a80c1931f115f904e2aacff2275c585a9644031b2e09b387ae5103cf"
     },
     "previews/CIVIL_BEFORE.png": {
-      "bytes": 1912622,
-      "sha256": "b3f8ea17ae005e752532e49130835c96d83f2982e0f72b1d1d3a6105b176fa4e"
+      "bytes": 1912480,
+      "sha256": "a8505beffa1fec317bec9995a53c4edba338e1f88ad0f0c20269ea9b5d1bbacb"
     },
     "qa/BUILDING_SAFETY_BOUNDS.json": {
       "bytes": 170818,
