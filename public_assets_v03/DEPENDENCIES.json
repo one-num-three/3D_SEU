@@ -1,0 +1,23 @@
+{
+  "policy": "Full repository with adjacent immutable public_assets_v02 is required only for source reintegration; combined Blend and zipped GLB are self-contained",
+  "dependencies": [
+    {
+      "path": "../public_assets_v02/base/SEU_OSM_BASE_v01.blend",
+      "collection": "PUBLIC_OSM_BASE",
+      "sha256": "523f37b012df55f7dd005792f5d7d400b2fa831dcbaa95bb5f0fcb6563a26d77",
+      "bytes": 1154388
+    },
+    {
+      "path": "../public_assets_v02/detail/seu_teaching_gym_detail_v01.blend",
+      "collection": "SEU_TEACHING_AND_GYM_DETAIL",
+      "sha256": "232c2931600029d101994ec7d2b950eb3725d19d887cd56bd24cfff46e74454f",
+      "bytes": 5248446
+    },
+    {
+      "path": "../public_assets_v02/reused_detail/seu_reused_buildings_v02.blend",
+      "collection": "SEU_REUSED_BUILDINGS",
+      "sha256": "9bab28592cca29d2344388758c8b66ef539ea172beec2ff2f0cc8cb7a70271c8",
+      "bytes": 9587372
+    }
+  ]
+}

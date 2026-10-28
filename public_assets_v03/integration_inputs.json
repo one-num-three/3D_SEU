@@ -1,0 +1,53 @@
+{
+  "modules": [
+    {
+      "blend": "../public_assets_v02/base/SEU_OSM_BASE_v01.blend",
+      "collection": "PUBLIC_OSM_BASE"
+    },
+    {
+      "blend": "../public_assets_v02/detail/seu_teaching_gym_detail_v01.blend",
+      "collection": "SEU_TEACHING_AND_GYM_DETAIL"
+    },
+    {
+      "blend": "../public_assets_v02/reused_detail/seu_reused_buildings_v02.blend",
+      "collection": "SEU_REUSED_BUILDINGS",
+      "exclude_stable_ids": [
+        "SEU_B_OSMWAY_1056927537"
+      ]
+    },
+    {
+      "blend": "massing/SEU_OSM_MASSING_v02.blend",
+      "collection": "PUBLIC_OSM_MASSING_V02"
+    },
+    {
+      "blend": "biomedical_fix/seu_biomedical_south_high_v03.blend",
+      "collection": "SEU_BIOMEDICAL_FIX"
+    },
+    {
+      "blend": "dorm_reuse/seu_dorm_reuse_v03.blend",
+      "collection": "SEU_DORM_REUSE"
+    },
+    {
+      "blend": "pool_reuse/seu_pool_reuse_v03.blend",
+      "collection": "SEU_POOL_REUSE"
+    },
+    {
+      "blend": "engineering_reuse/seu_engineering_reuse_v03.blend",
+      "collection": "C3_ENGINEERING_APPROXIMATE_LOCATION_PENDING_REVIEW",
+      "public_distribution_status": "separate_schematic_candidate_with_source_rights_limitations"
+    },
+    {
+      "blend": "faculty_reuse/SEU_FACULTY_RESTORED_v03.blend",
+      "collection": "PUBLIC_FACULTY_RESTORED_V03"
+    },
+    {
+      "blend": "academic_secondary_reuse/seu_academic_secondary_v03.blend",
+      "collection": "SEU_ACADEMIC_SECONDARY"
+    },
+    {
+      "blend": "lanyuan_candidate/seu_lanyuan_candidate_v03.blend",
+      "collection": "SEU_LANYUAN_APPROXIMATE_CANDIDATE",
+      "registration_status": "compound_envelope_only_pending_review"
+    }
+  ]
+}

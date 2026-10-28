@@ -1,0 +1,871 @@
+{
+  "version": "0.3",
+  "scope": "public_assets_v03 only; fixed dependencies declared separately",
+  "files": [
+    {
+      "path": "BUILDING_STATUS.json",
+      "bytes": 129370,
+      "sha256": "a52172e40c06c7db7ebd6fb39836ff77863897e3ee8537347d1c71e00a00939c"
+    },
+    {
+      "path": "DEPENDENCIES.json",
+      "bytes": 913,
+      "sha256": "d87b149acc9273048e30f055a9285014edde8d9d66c0b0e1097d59eabc9266d5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5420,
+      "sha256": "5afd7676003f0f0978f626da12c407ed66b660f33ea288501b44a8d4171634e0"
+    },
+    {
+      "path": "academic_secondary_reuse/BUILDING_COVERAGE_REVIEW.json",
+      "bytes": 1404,
+      "sha256": "b13cee4ce86c83a93d493c35eb58c550b4271068dfe054a4eadd54539de2c8e8"
+    },
+    {
+      "path": "academic_secondary_reuse/GEOMETRY_PRESERVATION_QA.json",
+      "bytes": 8626,
+      "sha256": "425ad520093487af66e6cfca725102ffac13303aeb7cbe519a2064d5ef4e539f"
+    },
+    {
+      "path": "academic_secondary_reuse/GROUND_FOOTPRINT_QA.json",
+      "bytes": 2012,
+      "sha256": "78fcfb852f8bfbdb3fa2bd2f7e9549ba7c538e8b145c5319dd760610bf3898ea"
+    },
+    {
+      "path": "academic_secondary_reuse/PORTABILITY_REPORT.json",
+      "bytes": 679,
+      "sha256": "30d0f8108bfeb3bacf915c4dce6b40a07f4d86300d71200f9b5ff5ef7d64e8ca"
+    },
+    {
+      "path": "academic_secondary_reuse/PRIVACY_REPORT.json",
+      "bytes": 673,
+      "sha256": "7cce1751b342eb7a2f93d5d18a473ef1a7f6afa9c5e0406bf5a9b860ca01f22f"
+    },
+    {
+      "path": "academic_secondary_reuse/README.md",
+      "bytes": 1931,
+      "sha256": "8db8e3c0f61bdc3b7f9e8333fe987c8ef4b08ec289e23a1d864772ca593dce59"
+    },
+    {
+      "path": "academic_secondary_reuse/REUSE_SCOPE.json",
+      "bytes": 1524,
+      "sha256": "5ccfc590d23a246e30ea3bbc666c37a6b1a92e5d96f4a14698cc86ff6eb7d087"
+    },
+    {
+      "path": "academic_secondary_reuse/SOURCES_AND_RIGHTS.json",
+      "bytes": 539,
+      "sha256": "87c5b7169a54b7a81655302d8a0b071d86a64f9dd1f1554fcc04f22f186648d1"
+    },
+    {
+      "path": "academic_secondary_reuse/TRANSFORM_REVIEW.json",
+      "bytes": 5212,
+      "sha256": "f8d01bd53b174973fc183987cccb224120e1db0174a66795a7c4aece219e83e5"
+    },
+    {
+      "path": "academic_secondary_reuse/VALIDATION_REPORT.json",
+      "bytes": 571,
+      "sha256": "f9016cd60a908d150df802ddadfb510959bf81bf75867807bfec4bdf81f44a5c"
+    },
+    {
+      "path": "academic_secondary_reuse/geometry_database.json.gz",
+      "bytes": 242053,
+      "sha256": "fe5740a13b36764b44a7d970b6ca13d739a558134398701202d9e39f1c6ca1da"
+    },
+    {
+      "path": "academic_secondary_reuse/objects_manifest.json",
+      "bytes": 14244,
+      "sha256": "41e584db252a43421da9469fa3df9bcf711e89c1692e20e68dec156ef7eb8520"
+    },
+    {
+      "path": "academic_secondary_reuse/rebuild_clean.py",
+      "bytes": 3096,
+      "sha256": "429eb08135f8f46eda50afd5a17f6a6ab659f14df56fe8b7cf98501650bb0350"
+    },
+    {
+      "path": "academic_secondary_reuse/reused_projection_masks.local.geojson",
+      "bytes": 189771,
+      "sha256": "d114ce131a57497c28ecfd1926b80f3a278675a97e64134b57bbd67fe0e0a320"
+    },
+    {
+      "path": "academic_secondary_reuse/seu_academic_secondary_v03.blend",
+      "bytes": 212245,
+      "sha256": "1d993c7af11cc6990ca164bddaa0081d68dcfe60df370f4232be0690b141fc9b"
+    },
+    {
+      "path": "academic_secondary_reuse/seu_academic_secondary_v03.glb",
+      "bytes": 384596,
+      "sha256": "9ce073a406deec69cba7b854ed87e33bbcaad742ac11ec6f7ac4e78614782c2b"
+    },
+    {
+      "path": "academic_secondary_reuse/validate_clean.py",
+      "bytes": 3532,
+      "sha256": "bd8ba70dcd3a5a89e7da225028d2193d401484d684b51e86a537fdf5d068c2a2"
+    },
+    {
+      "path": "assets/GLB_ARCHIVE.json",
+      "bytes": 293,
+      "sha256": "d5570da6c71ec17d6b6a4fb851fff70932ae3edbda14ebd287783da0e37eec3b"
+    },
+    {
+      "path": "assets/SEU_campus_restored_v03.blend",
+      "bytes": 20627487,
+      "sha256": "89c7e18d73a564fa3115e85a7612eef91b5581cd0619da0ee52eacd4d63f2a27"
+    },
+    {
+      "path": "assets/SEU_campus_restored_v03_GLB.zip",
+      "bytes": 11502592,
+      "sha256": "618485d27a40b4b50de40aa0fa180d47dd47c3a2fe1bdc7429c57baa227ceda2"
+    },
+    {
+      "path": "biomedical_fix/PORTABILITY_REPORT.json",
+      "bytes": 106,
+      "sha256": "0d2bc681d135324dc6095d5288a450069c4ce911f950727ac4682c6176258559"
+    },
+    {
+      "path": "biomedical_fix/PRIVACY_REPORT.json",
+      "bytes": 726,
+      "sha256": "0e9bfc78d97e8911d8c7d237b7b20ea38ac7503c029f430e9e3679231976f470"
+    },
+    {
+      "path": "biomedical_fix/README.md",
+      "bytes": 3112,
+      "sha256": "80778290373139aa6df65de6902ff774799ffcdde03b82bd16e9058b40334aa6"
+    },
+    {
+      "path": "biomedical_fix/SOURCES_AND_RIGHTS.json",
+      "bytes": 2483,
+      "sha256": "ba9b02bd227d1dfef544fd6d62c4c7fb46010d9f0e6315c13a57d20649758d6a"
+    },
+    {
+      "path": "biomedical_fix/SPATIAL_CORRECTION_QA.json",
+      "bytes": 1514,
+      "sha256": "09897616c591ec9f10f5c3b01fb1845ba9fd0508fd9f5d9ea3e6172ceca0cd85"
+    },
+    {
+      "path": "biomedical_fix/VALIDATION_REPORT.json",
+      "bytes": 570,
+      "sha256": "c082bda5bf332b72b79e229e4185e52b5446d0834e9fce0e2e8712dbde5a3dc2"
+    },
+    {
+      "path": "biomedical_fix/geometry_database.json.gz",
+      "bytes": 1299079,
+      "sha256": "108d8329c6e529459d7048bc12a6a0223703c2b8d2555f5dca8a5c80f8f18248"
+    },
+    {
+      "path": "biomedical_fix/handoff.json",
+      "bytes": 1689,
+      "sha256": "8f5374d69d2496900eb5ac3bac4890d68e639041a709805c0f6a984fd50bf767"
+    },
+    {
+      "path": "biomedical_fix/objects_manifest.json",
+      "bytes": 5808,
+      "sha256": "d381f719fcd95ccb576d0590bc8953858378e5e2101e23bf97290103e1b002a2"
+    },
+    {
+      "path": "biomedical_fix/orientation_reference.json",
+      "bytes": 1029,
+      "sha256": "962f53d7e74cb1bb5119d55d926745e86ba5c5cc786b8764e90a412c9ddda1d0"
+    },
+    {
+      "path": "biomedical_fix/previews/BIOMEDICAL_AFTER_NORTH_UP.png",
+      "bytes": 1532514,
+      "sha256": "17ee0d89a29182049e3b33f7fc1a195f5a7d57e65f8a60e31f991a95865e2c7f"
+    },
+    {
+      "path": "biomedical_fix/previews/BIOMEDICAL_AFTER_OBLIQUE.png",
+      "bytes": 1622343,
+      "sha256": "c6601cbe180c836c311891f854b8af6c8d934582de5a35cd121ee7b4cb9a1a88"
+    },
+    {
+      "path": "biomedical_fix/previews/BIOMEDICAL_BEFORE_NORTH_UP.png",
+      "bytes": 1579864,
+      "sha256": "7e49286a3731e6f649538b647aae9a59536cdbbc541ea7f56c6019dcce5c3169"
+    },
+    {
+      "path": "biomedical_fix/previews/BIOMEDICAL_BEFORE_OBLIQUE.png",
+      "bytes": 1719590,
+      "sha256": "3c77c5016110495803e0ddaf72234b78dbc6a8e4c7bb5356ce84c73f92bf5c35"
+    },
+    {
+      "path": "biomedical_fix/rebuild_clean.py",
+      "bytes": 3059,
+      "sha256": "2aa319ca9b121813d220db81156d9f8a51843370fb50aea2099eb6f417513a16"
+    },
+    {
+      "path": "biomedical_fix/seu_biomedical_south_high_v03.blend",
+      "bytes": 1655252,
+      "sha256": "ca55e043c05a5303808d28d3c5da06082907eb26991b91db0c44a45c532292a3"
+    },
+    {
+      "path": "biomedical_fix/seu_biomedical_south_high_v03.glb",
+      "bytes": 1820764,
+      "sha256": "3ad1f9a58fd397b3174c71836d8ac893c3b1bf8da1922e8140e0680461f7ad29"
+    },
+    {
+      "path": "biomedical_fix/validate_clean.py",
+      "bytes": 3538,
+      "sha256": "b2e0b4b1e26b6c11f2da7a45a9ad3c869c6e2f576e089e212f0440736d1f8d62"
+    },
+    {
+      "path": "dorm_reuse/BUILDING_COVERAGE_REVIEW.json",
+      "bytes": 28174,
+      "sha256": "dc3406266391db7be715765d46ca1db6aab474a3e5d05a3428bc08b9142beef8"
+    },
+    {
+      "path": "dorm_reuse/GROUND_FOOTPRINT_QA.json",
+      "bytes": 32542,
+      "sha256": "06119064962c605c2099057003d775ae17c10b0ba3c361cd36630aaea39156d2"
+    },
+    {
+      "path": "dorm_reuse/LANYUAN_PROVISIONAL_REVIEW.json",
+      "bytes": 749,
+      "sha256": "a1fa6fa4e622de5e10a2a6cdbe673d8ad8ae247fef89ce27a7d08f24450fb527"
+    },
+    {
+      "path": "dorm_reuse/PORTABILITY_REPORT.json",
+      "bytes": 726,
+      "sha256": "4dccf76eb1da8128cba403dee219ed7f31117832f5437776e7d6fc0b2a5d2621"
+    },
+    {
+      "path": "dorm_reuse/PRIVACY_REPORT.json",
+      "bytes": 673,
+      "sha256": "7cce1751b342eb7a2f93d5d18a473ef1a7f6afa9c5e0406bf5a9b860ca01f22f"
+    },
+    {
+      "path": "dorm_reuse/README.md",
+      "bytes": 2230,
+      "sha256": "d4a2be7abed73520c8466d5acc9036f392c9d2fa9f38f94de412c7dbf7baf790"
+    },
+    {
+      "path": "dorm_reuse/REUSE_SCOPE.json",
+      "bytes": 23281,
+      "sha256": "4d1708a7538d56091f448cdbbd308170a0e8e676fdcbb70de2cd355767a7d390"
+    },
+    {
+      "path": "dorm_reuse/SOURCES_AND_RIGHTS.json",
+      "bytes": 501,
+      "sha256": "066b09e26ecd22c491e50b74325f7a15aaa0c72d24901187fa12b3aa19fec013"
+    },
+    {
+      "path": "dorm_reuse/VALIDATION_REPORT.json",
+      "bytes": 573,
+      "sha256": "7f071fe9a98bce2c8e13b9f531bad077ef8ce8cfd531722e81039229a750b9ea"
+    },
+    {
+      "path": "dorm_reuse/geometry_database.json.gz",
+      "bytes": 1569403,
+      "sha256": "a159dccc2b90532d09325abd73c765ee255e8fb4502e89afdf16d28aca066ad3"
+    },
+    {
+      "path": "dorm_reuse/objects_manifest.json",
+      "bytes": 171756,
+      "sha256": "354064f593de2f4190a8d70264bdb5ed2cbfef59a77d5e93937debd75aa6b2f1"
+    },
+    {
+      "path": "dorm_reuse/rebuild_clean.py",
+      "bytes": 3064,
+      "sha256": "23bc4ef751ec244783f277c16e6180532f20bf36e11122b5f2026539aa96c496"
+    },
+    {
+      "path": "dorm_reuse/reused_projection_masks.local.geojson",
+      "bytes": 1610734,
+      "sha256": "eb0d7786977c32f8d49614319a7b0321395e1cf31675e35d78ca9a7a64678b1a"
+    },
+    {
+      "path": "dorm_reuse/seu_dorm_reuse_v03.blend",
+      "bytes": 712493,
+      "sha256": "942463e359841d2cfeea990f6740f48dde176869044c68972bea38377233bc86"
+    },
+    {
+      "path": "dorm_reuse/seu_dorm_reuse_v03.glb",
+      "bytes": 2152388,
+      "sha256": "55a83a91544b84a83da24156aede0b47ba6f0c5664e723ef16d98ecf54f7100a"
+    },
+    {
+      "path": "dorm_reuse/validate_clean.py",
+      "bytes": 3508,
+      "sha256": "33844ec0c6e01bc211778e144f8bddf44b46148cf66936f2cb6885a64f435312"
+    },
+    {
+      "path": "engineering_reuse/C3_BEFORE_AFTER_LOCAL_REVIEW.png",
+      "bytes": 452839,
+      "sha256": "27980d4df768b1f85d8d550f8848b1296c6217c15949d4d79c88df5b6ec376cd"
+    },
+    {
+      "path": "engineering_reuse/GROUND_FOOTPRINT_QA.json",
+      "bytes": 359,
+      "sha256": "5a65965ef8018af9a5eb6255534034190e07d844e4bb007767e8315a7f42845f"
+    },
+    {
+      "path": "engineering_reuse/LOCAL_REGISTRATION_QA.json",
+      "bytes": 6422,
+      "sha256": "5100ce16456f94b3f1a9ca18815032261dacffbc088262a77043f66058505b30"
+    },
+    {
+      "path": "engineering_reuse/LOCAL_REGISTRATION_REVIEW.png",
+      "bytes": 311577,
+      "sha256": "46258dc7fc1b565c9d1efc45df67033aca482a03da36946ded14a96a47aa2609"
+    },
+    {
+      "path": "engineering_reuse/README.md",
+      "bytes": 2570,
+      "sha256": "d4f245920b07d2e24def73e5e9671564c070e44dfc7a265b103cb25534188a41"
+    },
+    {
+      "path": "engineering_reuse/SOURCES_AND_RIGHTS.json",
+      "bytes": 1585,
+      "sha256": "1d22c1e89e6158897c5e29455bd432837e6d04fa8577c6dd17277a8f033817f8"
+    },
+    {
+      "path": "engineering_reuse/SOURCE_PRESERVATION_QA.json",
+      "bytes": 272,
+      "sha256": "89bcb51d370c16b4aa177e02c362949306b425800929796ec45a2b378ab800ae"
+    },
+    {
+      "path": "engineering_reuse/VALIDATION_REPORT.json",
+      "bytes": 502,
+      "sha256": "c92b6032aa59f045f7b1d6de460ac2404f99bc7c5eb6ef0425f6fb950d4c144c"
+    },
+    {
+      "path": "engineering_reuse/geometry_database.json.gz",
+      "bytes": 10316,
+      "sha256": "76b5065fdaf45011b2391b2cf7b9b38383b6b8da8eaded2b7db6afc249ea2460"
+    },
+    {
+      "path": "engineering_reuse/ground_triangles.local.json",
+      "bytes": 28250,
+      "sha256": "e98b73e22ed5540d5a56673e2b1596070d1723d49124943891c8661bce702434"
+    },
+    {
+      "path": "engineering_reuse/handoff.json",
+      "bytes": 2129,
+      "sha256": "950ca179f20d472734be71834e1b0316a34d6cfe6282c6c51430fb21ff55f001"
+    },
+    {
+      "path": "engineering_reuse/objects_manifest.json",
+      "bytes": 7088,
+      "sha256": "ae6edcaf66bfaa050ce99a4844b720d68abf1a5d0e1f6253f7a3ec2788002bc0"
+    },
+    {
+      "path": "engineering_reuse/rebuild_clean.py",
+      "bytes": 3165,
+      "sha256": "043b3c06afe137b0b2c776f8b0e3992df8936dc60ef02f30afbe4aad38840403"
+    },
+    {
+      "path": "engineering_reuse/registered_C3_footprints.json",
+      "bytes": 2667,
+      "sha256": "450f7b721f6a1b0dd61dc59fd7b0efc5bc21424504520edde310cb3b5739ba33"
+    },
+    {
+      "path": "engineering_reuse/seu_engineering_reuse_v03.blend",
+      "bytes": 99133,
+      "sha256": "1b116514c6b16a1e456d01855578b8dd5c4efd80ef660543df5b1f4979a01666"
+    },
+    {
+      "path": "engineering_reuse/seu_engineering_reuse_v03.glb",
+      "bytes": 23748,
+      "sha256": "e630aad506704500bde8411e07d5997e37e0ed2cc0064f108986da08cda0a8d8"
+    },
+    {
+      "path": "engineering_reuse/source_geometry_database.json.gz",
+      "bytes": 9478,
+      "sha256": "236a48408e01241853d4da2844f3ecc0bb62a6e7d0e3867fe9928d759030f069"
+    },
+    {
+      "path": "engineering_reuse/source_plan_C3_buildings.json",
+      "bytes": 6886,
+      "sha256": "39cba967ab351b3a08001bafcec542f589883b29fd2977ef77d2750ae6dbe73c"
+    },
+    {
+      "path": "engineering_reuse/validate_clean.py",
+      "bytes": 1794,
+      "sha256": "e61f341d3cb3751de13ed1aea64cb7c4d3c448f8137a8016c5e75163520dbba1"
+    },
+    {
+      "path": "faculty_reuse/AGENTS.md",
+      "bytes": 660,
+      "sha256": "07704ae8284ed8b3288ba28448b2654a537f2a2af29d92bbacb43917487e108a"
+    },
+    {
+      "path": "faculty_reuse/README.md",
+      "bytes": 3371,
+      "sha256": "ee3f02d29f4161f3879196559af1b4c39e0ee454bb3d2740c0ebfd8124bc6d8e"
+    },
+    {
+      "path": "faculty_reuse/SEU_FACULTY_RESTORED_v03.blend",
+      "bytes": 763360,
+      "sha256": "e5a8421629809035b1e18a0ad5097e0ac246c93d7511f1d24c815e61089adaea"
+    },
+    {
+      "path": "faculty_reuse/SEU_FACULTY_RESTORED_v03.glb",
+      "bytes": 1631352,
+      "sha256": "966aa335304aae9b5ecb45bdeb603aab026a455a7196b71e38951af3f1a7eb09"
+    },
+    {
+      "path": "faculty_reuse/data/APPROXIMATE_WING_TRANSFORMS.json",
+      "bytes": 6634,
+      "sha256": "63e22809e851356c95612d78827396fd9930db5fe5232bccc338308bed3f492a"
+    },
+    {
+      "path": "faculty_reuse/geometry_database.json.gz",
+      "bytes": 907305,
+      "sha256": "212bb107cf9152dfdf3182cab922fea7b08927eee4f093fa546a611ad6bb5212"
+    },
+    {
+      "path": "faculty_reuse/handoff.json",
+      "bytes": 1143,
+      "sha256": "d0f9db75db86f99e961e5ad8b5541caef5dceda8ccffe0dd3aa2c9a40b48f33a"
+    },
+    {
+      "path": "faculty_reuse/objects_manifest.json",
+      "bytes": 70265,
+      "sha256": "80e8ff10837ff726e8af04f363156f636ced0a8d720975b6f49e6a114af8c15f"
+    },
+    {
+      "path": "faculty_reuse/qa/C16_ACTUAL_RESTORED.png",
+      "bytes": 641234,
+      "sha256": "7532c7c1962f25be757cc3f5ba1d2efdd77daa2b9b3df7952c5d316e9f0d76e6"
+    },
+    {
+      "path": "faculty_reuse/qa/C4_ACTUAL_RESTORED.png",
+      "bytes": 697114,
+      "sha256": "d7863111a94b0b0453ca3cc193d975b0f1547c0f8ce0924678414a2adb6cf45d"
+    },
+    {
+      "path": "faculty_reuse/qa/C7_ACTUAL_RESTORED.png",
+      "bytes": 704628,
+      "sha256": "63f743b3bb0b5d6d769b277516fed2afbf1748a41c4400759502cae3ba3a58ee"
+    },
+    {
+      "path": "faculty_reuse/qa/C7_C16_FOOTPRINT_BEFORE_AFTER.png",
+      "bytes": 237240,
+      "sha256": "5343fe5b6882f12be885b68469701559310af610652eeb9aedff450ff0bab9bc"
+    },
+    {
+      "path": "faculty_reuse/qa/COLD_OPEN_QA.json",
+      "bytes": 153,
+      "sha256": "d99eac11976da30211cf157aca0df39db8e9795a9870a5aefc56fb31d6e409c5"
+    },
+    {
+      "path": "faculty_reuse/qa/HOSPITAL_ACTUAL_RESTORED.png",
+      "bytes": 501812,
+      "sha256": "bf3d0dfaccbdd96e5a2e1d5dbabe8da98f766c20a856f005cc9059cd623a7413"
+    },
+    {
+      "path": "faculty_reuse/qa/PUBLIC_CONTENT_SCAN.json",
+      "bytes": 196,
+      "sha256": "eef18287dd2d952c8bf6103213ba13417aaf8e276529f580389a4c656aebfcd9"
+    },
+    {
+      "path": "faculty_reuse/qa/REUSE_COUNTS.json",
+      "bytes": 328,
+      "sha256": "b8436bc42609c6449c464d2174eb405d6f0e43644a545900d2bc0583e4a7830c"
+    },
+    {
+      "path": "faculty_reuse/qa/UPPER_PROJECTION_ROAD_REVIEW.json",
+      "bytes": 1426,
+      "sha256": "dc9c31864568a1229c5be7fd90e3834612f2a72a8bbde0b1293a3bdafcad337a"
+    },
+    {
+      "path": "faculty_reuse/rebuild_clean.py",
+      "bytes": 3081,
+      "sha256": "396211a4b53624076e182ca4acb2a92244223528f607ba1bb4472979d052c0b6"
+    },
+    {
+      "path": "faculty_reuse/restored_projection_masks.local.geojson",
+      "bytes": 57585,
+      "sha256": "555561f6da1b655d81abd1ba4d12c9c66f5c630093fba2dab4dfcf8c471f40f2"
+    },
+    {
+      "path": "faculty_reuse/validate_and_preview.py",
+      "bytes": 2618,
+      "sha256": "35fb8f5e8ef95b23bb166c896e751d21da68d86112a0813f366fa1ff1b1c94c6"
+    },
+    {
+      "path": "integration_inputs.json",
+      "bytes": 1656,
+      "sha256": "08ae46380f97bc3870fd695909381cc679021fcb9f218a5c14dbbb422b005311"
+    },
+    {
+      "path": "lanyuan_candidate/BUILDING_COVERAGE_REVIEW.json",
+      "bytes": 350,
+      "sha256": "e57f5c5934ef7ca22799b926e72597c47bb91f61eaa34d9d1bf13ae119e5e542"
+    },
+    {
+      "path": "lanyuan_candidate/GROUND_FOOTPRINT_QA.json",
+      "bytes": 728,
+      "sha256": "81d6f7dec035ff08dad2e9da854533e4bde21cc7b5866eb9bfb63caa3fdfd84d"
+    },
+    {
+      "path": "lanyuan_candidate/HANDOFF.json",
+      "bytes": 1361,
+      "sha256": "94da027770f6e95aa10d1a33e9c1b19661c8a5398af3f5eec250c1db54c639f3"
+    },
+    {
+      "path": "lanyuan_candidate/PORTABILITY_REPORT.json",
+      "bytes": 680,
+      "sha256": "3dba2c273b5daa85e80dceec974cb2761100036392ca16487fbaf99c603c18a3"
+    },
+    {
+      "path": "lanyuan_candidate/PRIVACY_REPORT.json",
+      "bytes": 673,
+      "sha256": "7cce1751b342eb7a2f93d5d18a473ef1a7f6afa9c5e0406bf5a9b860ca01f22f"
+    },
+    {
+      "path": "lanyuan_candidate/README.md",
+      "bytes": 999,
+      "sha256": "1dce5b108698d7d4718813904fa0c8525edba360f1b2d87fe3c3277bb255d7e5"
+    },
+    {
+      "path": "lanyuan_candidate/SOURCES_AND_RIGHTS.json",
+      "bytes": 338,
+      "sha256": "f4127ff26ee107859b6dbe1ce6f24317d897ba3152fe9f711d1d1257034abc2e"
+    },
+    {
+      "path": "lanyuan_candidate/UPPER_PROJECTION_ROAD_QA.json",
+      "bytes": 169,
+      "sha256": "a1e95913efbcf4e307d88eab395729df467af876673d0ff1225cf8492f0fc84f"
+    },
+    {
+      "path": "lanyuan_candidate/VALIDATION_REPORT.json",
+      "bytes": 572,
+      "sha256": "74f35ca67c68df6c7a0f7d8ce1e3aa7419761bf9ab099bb9e9e4da4e1a7869ec"
+    },
+    {
+      "path": "lanyuan_candidate/geometry_database.json.gz",
+      "bytes": 1645588,
+      "sha256": "c1639d8560ae7a32b8a275cb86f1a1ed96bed1bff47ee62fbe450c0712d819aa"
+    },
+    {
+      "path": "lanyuan_candidate/objects_manifest.json",
+      "bytes": 38750,
+      "sha256": "080c97b080ea06ceed0580e570fba96486f1878e7e66c7f9dd6070dcf24a1083"
+    },
+    {
+      "path": "lanyuan_candidate/rebuild_clean.py",
+      "bytes": 3116,
+      "sha256": "5ef89734ba342e6460a3992e462e74e1b16902b5b515c0f30e79317d4537b622"
+    },
+    {
+      "path": "lanyuan_candidate/reused_projection_masks.local.geojson",
+      "bytes": 171224,
+      "sha256": "c6e4ff59e636c78af7e9d4ee30bacc9f867c5272139c769d0e2d58af88de49a4"
+    },
+    {
+      "path": "lanyuan_candidate/seu_lanyuan_candidate_v03.blend",
+      "bytes": 1973587,
+      "sha256": "d1c474816f68f791c46e2f7ac68ed7aabe83a7d21b7e061c47dd8858a55b845e"
+    },
+    {
+      "path": "lanyuan_candidate/seu_lanyuan_candidate_v03.glb",
+      "bytes": 3784916,
+      "sha256": "8d2c562990cd53343e431fc490ef1116b7ce77f9bb098be5dd4d3c0d8141a1a6"
+    },
+    {
+      "path": "lanyuan_candidate/validate_clean.py",
+      "bytes": 3529,
+      "sha256": "005886b96d8ba3fa8e7f315b6161765f8c2e654c2c97bc3cb6b03c14e31c893f"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 1158,
+      "sha256": "ae1ca6b258e89edd832b4ece2a379c2b35b250f11eebd6954bfd7c96161aba7d"
+    },
+    {
+      "path": "massing/AGENTS.md",
+      "bytes": 634,
+      "sha256": "eee098b77a1f0b2f0e2f70a99d9da831c92f75719995d9aca6ed3acdf9fdd716"
+    },
+    {
+      "path": "massing/README.md",
+      "bytes": 1239,
+      "sha256": "c09b07df0fbe50bf695f42ae6313e0f5a1c9ff9ea9a8da9124003a717c962abc"
+    },
+    {
+      "path": "massing/SEU_OSM_MASSING_v02.blend",
+      "bytes": 1279579,
+      "sha256": "818a4efd2db759ee0efb1c5a7ae8210c31b224d0b2fbad5c0d02c7ac4820e94e"
+    },
+    {
+      "path": "massing/SEU_OSM_MASSING_v02.glb",
+      "bytes": 4574420,
+      "sha256": "bdbe293a5916639175216b45f51916b5af18300387251ee2d2028a8e51075979"
+    },
+    {
+      "path": "massing/config.json",
+      "bytes": 3695,
+      "sha256": "f8fb8dddf5fd72ae506e3dd251bb3bfb2689911e031802861c7e7386faa42a03"
+    },
+    {
+      "path": "massing/data/EXCLUSIONS.json",
+      "bytes": 2125,
+      "sha256": "ea76dac37e8906f765ede6a6f456211cfdbd723a4e480ec963305afb5ec35d77"
+    },
+    {
+      "path": "massing/data/massing.local.json",
+      "bytes": 1204120,
+      "sha256": "6be050c2ec16710d418897c308bee0920e4aff042c94fac00db7a98786f132dd"
+    },
+    {
+      "path": "massing/data/mesh_geometry.local.json",
+      "bytes": 3800421,
+      "sha256": "94e2975d9bc28e4ec6ca0a3d11fad07e18c34c45a7f690d79e71c323f7e33409"
+    },
+    {
+      "path": "massing/qa/DATA_QA.json",
+      "bytes": 1200,
+      "sha256": "94abf271480350836e62ca2ff91d7463ace5a789bf643fe4c3c5ad513d057e0c"
+    },
+    {
+      "path": "massing/qa/MODEL_BUILD_QA.json",
+      "bytes": 756,
+      "sha256": "785957fb3fc650282f610902757d4629652e642c8b2c36dc2d484363291264f4"
+    },
+    {
+      "path": "massing/qa/MODEL_REOPEN_QA.json",
+      "bytes": 50238,
+      "sha256": "69730c971db0cba8d0a8b295baafb0eaa4d14e160d0096c214ad34be7ea5a3d2"
+    },
+    {
+      "path": "massing/qa/PARTIAL_REUSE_DIFFERENCE_QA.json",
+      "bytes": 168974,
+      "sha256": "60199bb0079392ca021e825c2ee0066b930f408d87a571473242cabd4a0236f0"
+    },
+    {
+      "path": "massing/qa/PER_POLYGON_AUDIT.json",
+      "bytes": 55770,
+      "sha256": "c7b1c11bdf260e13128502fc1f6891731603fb473a9d1fae1a257cb95d9d4276"
+    },
+    {
+      "path": "massing/scripts/apply_partial_masks.py",
+      "bytes": 6208,
+      "sha256": "d58e6de3bdc879e56ca1adf374d3e4779b9848cf363078c8c700c461ee2621b0"
+    },
+    {
+      "path": "massing/scripts/build_data.py",
+      "bytes": 5554,
+      "sha256": "f86192aa9bef8e3b9634c7132db86e7a81406a7fad1793ef61fdaeb6b7ebd91a"
+    },
+    {
+      "path": "massing/scripts/build_models.py",
+      "bytes": 4545,
+      "sha256": "89c3a9cb0d2c0612384d32c0056a8eb4edfdc680e81cd8e0cbcc25a43181a08d"
+    },
+    {
+      "path": "massing/scripts/overview.py",
+      "bytes": 2226,
+      "sha256": "5e064da0053ad13a6aa24f0353c96207c462f4d30f1157daa4320b436e6f5516"
+    },
+    {
+      "path": "massing/scripts/review_atlas.py",
+      "bytes": 1760,
+      "sha256": "ceba96f01634f9e7ca3235456b27a7998cc44e6e363aa9984719bf93e77ac707"
+    },
+    {
+      "path": "massing/scripts/validate_models.py",
+      "bytes": 1540,
+      "sha256": "54906fc55d9c5ad6c641473c9d535dc510647ccff7f01cf0a11d8f75bb31b83d"
+    },
+    {
+      "path": "massing/scripts/vendor/coordinate_transform.py",
+      "bytes": 8666,
+      "sha256": "4ea909fa1bdf1351432e654c97bd00fa45462ed0b029f62f9c4ed4cc0817bab2"
+    },
+    {
+      "path": "massing/scripts/vendor/geos_small.py",
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    },
+    {
+      "path": "massing/sources/CRS.json",
+      "bytes": 552,
+      "sha256": "286ed22ac82d28e20f7e75207bbaa711b3502ce1be8a5921a1f9d8ff4f12391b"
+    },
+    {
+      "path": "massing/sources/base.local.json",
+      "bytes": 1412519,
+      "sha256": "8398adfab1ba516000a0d4cf7d3898e40eef8b75c632c5607629e262b5b6e33b"
+    },
+    {
+      "path": "massing/sources/campus_margin_map.json",
+      "bytes": 1679925,
+      "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee"
+    },
+    {
+      "path": "massing/sources/mesh_geometry.local.json",
+      "bytes": 3266918,
+      "sha256": "5d274563006b0df42aba37f635fd80ff1036145b6403018c9152ee56c7deb265"
+    },
+    {
+      "path": "massing/sources/partial_reuse_masks.local.geojson",
+      "bytes": 960295,
+      "sha256": "70eda6ae1155ba3ac88a4b3ed6d76a3b4f2461b84bd1b1165ccfc91faa91f134"
+    },
+    {
+      "path": "pool_reuse/BUILDING_COVERAGE_REVIEW.json",
+      "bytes": 346,
+      "sha256": "a273243225dc8cea591c524079bde293eb63307ae250896a067dbc28680672da"
+    },
+    {
+      "path": "pool_reuse/README.md",
+      "bytes": 1117,
+      "sha256": "1ed4a77b9ab81761b2e5a19b0b8fc1e36817a80c8d2ab92f4791f2982bf8ded5"
+    },
+    {
+      "path": "pool_reuse/SOURCES_AND_RIGHTS.json",
+      "bytes": 750,
+      "sha256": "9261db7775b739f4166da7d4c154b97f76faef60eed582567b7e938224cb0905"
+    },
+    {
+      "path": "pool_reuse/geometry_database.json.gz",
+      "bytes": 22396,
+      "sha256": "c167b23c3c558da389cfc8d335d7da5bf101a1a0213e2d60d9bd70020e0c1410"
+    },
+    {
+      "path": "pool_reuse/objects_manifest.json",
+      "bytes": 3615,
+      "sha256": "f142daec4b1a8b169fec96252eaf0ac86e5a3ed7e5cea6e349c14cfc103867bb"
+    },
+    {
+      "path": "pool_reuse/rebuild_clean.py",
+      "bytes": 3018,
+      "sha256": "53ba4a18a0abf770317c63e2c070e7d3d91ed4309b23a9eee9db1310d817f7d6"
+    },
+    {
+      "path": "pool_reuse/reused_projection_masks.local.geojson",
+      "bytes": 46290,
+      "sha256": "2069780b80c785d3107bccb406d1bc59f16d468af30834046ba8aae57c29990c"
+    },
+    {
+      "path": "pool_reuse/seu_pool_reuse_v03.blend",
+      "bytes": 92124,
+      "sha256": "8f0f2baecf15ae4a595cd06c81242230ed3b8e9b81e79de15ad3affb024d4190"
+    },
+    {
+      "path": "pool_reuse/seu_pool_reuse_v03.glb",
+      "bytes": 34868,
+      "sha256": "825c98a3cbb0ef4a690f645bd1877710cb60e70e23d8856c23d0e281f30a0af5"
+    },
+    {
+      "path": "previews/CAMPUS_OBLIQUE.png",
+      "bytes": 1624902,
+      "sha256": "64895b77dc58cc3b311b9a7e8512197c918b5016743e6629191e8ef2e75ce4ac"
+    },
+    {
+      "path": "previews/CAMPUS_TOP.png",
+      "bytes": 1668369,
+      "sha256": "649f36a13b0725eb9977a6ff423cb1bacc953e6b7cb1042d2ec75dfd00888244"
+    },
+    {
+      "path": "qa/BLEND_PRIVACY.json",
+      "bytes": 1248,
+      "sha256": "ffe2a33643aaf90694462ae0132d0fa562a6d334c0e551d907ff7f12448a0959"
+    },
+    {
+      "path": "qa/FROZEN_UNCHANGED.json",
+      "bytes": 84,
+      "sha256": "3c6340417fcdb5ae50a41ff951abcae1e3a0530cac29eabc28e892e0b5cb8d15"
+    },
+    {
+      "path": "qa/GLB_COMPACTION.json",
+      "bytes": 248,
+      "sha256": "87c1e529e35453d337f323159565e1ec505df76da31175c10a462bdba358bbb6"
+    },
+    {
+      "path": "qa/INTEGRATION.json",
+      "bytes": 1215,
+      "sha256": "e70601cbb8ce342ec16fcfe81c08622855ead935814b817e3365a123d76881dc"
+    },
+    {
+      "path": "qa/INTENTIONAL_REPLACEMENTS.json",
+      "bytes": 1117,
+      "sha256": "ef9409856bf70be0a0a70362108859a43d9f154e2fb0611d70fa6af0873e2bd4"
+    },
+    {
+      "path": "qa/RESTORATION_SCOPE.md",
+      "bytes": 5609,
+      "sha256": "e9faa9e5e4ae48d541ea154c20e752eff8edd967f54cb57c4e870d2461e01014"
+    },
+    {
+      "path": "qa/RESTORATION_SCOPE_REVIEW.json",
+      "bytes": 11786,
+      "sha256": "3bef49e306952da74c94a8abcb4430f1de714e75bfa08e98db2a22af0e549127"
+    },
+    {
+      "path": "qa/REUSE_DECISIONS.json",
+      "bytes": 894,
+      "sha256": "fe774b13056b6d28fd8d2fc788cc6c1e61e3f1b998eea25be76c957d506e9a49"
+    },
+    {
+      "path": "qa_support/ACTUAL_RESTORED_MASSING_OVERLAP_QA.json",
+      "bytes": 21423,
+      "sha256": "e95078bf018309a440f0a71031fe7efb9ff5b22c126dd52d2b145e17ddaa944c"
+    },
+    {
+      "path": "qa_support/FINAL_GLB_INDEPENDENT_QA.json",
+      "bytes": 767,
+      "sha256": "148af3109f8be53c5d5e9f712f6e9496e9921f18fb936f450020829529284628"
+    },
+    {
+      "path": "qa_support/INDEPENDENT_INTEGRATION_QA.json",
+      "bytes": 3048,
+      "sha256": "322f201df41eeb821f0c885379c840e97e7d41e3b79edd94abc0b97fe9f53cd2"
+    },
+    {
+      "path": "qa_support/POOL_INDEPENDENT_QA.json",
+      "bytes": 670,
+      "sha256": "f663b05ad831d8ada3d7f71959e951e482b251a162220d46ce4f1e4bad09051f"
+    },
+    {
+      "path": "qa_support/check_overlap.py",
+      "bytes": 1593,
+      "sha256": "296626f5b43eebf8ce01f6e3a6b89ce497182f5e48181f3a2d834684e6c73732"
+    },
+    {
+      "path": "qa_support/extract_overlap.py",
+      "bytes": 986,
+      "sha256": "82a1d952eab17e2d22d3ba3da5b5c5e1c79f15ab17f75b3a27d2c62a26e8c59b"
+    },
+    {
+      "path": "qa_support/validate_final_glb.py",
+      "bytes": 2596,
+      "sha256": "d4771da0ebd0c4d6a25b02c7a671703964f3eeae6368423420aae5f0305190a9"
+    },
+    {
+      "path": "qa_support/validate_integrated.py",
+      "bytes": 9053,
+      "sha256": "9627c314ebba59de748714fc2117ae1a4fc2f53f9d97e822e8cc5954eae33533"
+    },
+    {
+      "path": "qa_support/validate_pool.py",
+      "bytes": 3545,
+      "sha256": "fcfebf2eab6cbd791e5b3c9fcbe9dffe804b48b2d198c475fa60b2e51cfa74c5"
+    },
+    {
+      "path": "scripts/compact_glb.py",
+      "bytes": 1027,
+      "sha256": "0ed8ab93d02613d8bab9bfe3c5ee534cec77c3a076607140e9ba3a115349a52e"
+    },
+    {
+      "path": "scripts/integrate_v03.py",
+      "bytes": 6522,
+      "sha256": "d2bca236a51fab3fed873206635edb4603bcd79da1e2a37ce42d4d18f15f9465"
+    },
+    {
+      "path": "scripts/validate_models.py",
+      "bytes": 1889,
+      "sha256": "e7f31e5e07455661496e2d63c319bee5ba96ce917d6f43f96a0a3909a3468752"
+    },
+    {
+      "path": "scripts/validate_release.py",
+      "bytes": 2497,
+      "sha256": "f9ba5b8d297f9153ed7115b094ecce3661a63810508041682b131cfd5d5ea2af"
+    }
+  ]
+}
