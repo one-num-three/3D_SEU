@@ -1,0 +1,19 @@
+{
+  "pass": true,
+  "errors": [],
+  "instances": 8,
+  "parking_area_count": 4,
+  "building_bounds_version": "v08",
+  "building_bounds_sha256": "99a2ca2cbb2152723d79729253bf7eb0fa0e5c9ed94582fa576db7b299a7e06f",
+  "minimum_clearances_m": {
+    "road_center": 2.790701796443574,
+    "building_center": 5.7743990722656235,
+    "blocked_center": 90.31906455533036,
+    "tree_crown_edge": 41.38158834800766,
+    "other_bike_center": 3.665399999999977
+  },
+  "collision_radius_m": 1.1,
+  "positions_unchanged": true,
+  "v08_final_recheck_required": false,
+  "entry_door_positions_not_surveyed": true
+}
