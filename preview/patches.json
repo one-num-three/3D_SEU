@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
   "patches": [
     {
@@ -306,6 +306,49 @@
         "SEU_B_OSMWAY_1056927545__V05JY_balcony_rails"
       ],
       "append_node_count": 93
+    },
+    {
+      "label": "橘园食堂与桃园北食堂",
+      "url": "./public_assets_v07/assets/SEU_building_patch_v07.glb",
+      "bytes": 233500,
+      "sha256": "0403a88db84f3f89399f8701ef8c840346073347d10c190077fea391d4206631",
+      "replace_names": [
+        "SEU_B_OSMWAY_299961611.001",
+        "SEU_B_OSMWAY_630686661.001"
+      ],
+      "append_names": [
+        "SEU_B_OSMWAY_299961611_V07__window_mullions",
+        "SEU_B_OSMWAY_299961611_V07__upper_colonnade",
+        "SEU_B_OSMWAY_299961611_V07__roof",
+        "SEU_B_OSMWAY_299961611_V07__main_body",
+        "SEU_B_OSMWAY_299961611_V07__lower_colonnade",
+        "SEU_B_OSMWAY_299961611_V07__ground_podium",
+        "SEU_B_OSMWAY_299961611_V07__gallery_rails",
+        "SEU_B_OSMWAY_299961611_V07__gallery_deck",
+        "SEU_B_OSMWAY_299961611_V07__gallery_canopy",
+        "SEU_B_OSMWAY_299961611_V07__front_steps",
+        "SEU_B_OSMWAY_299961611_V07__front_glazing",
+        "SEU_B_OSMWAY_299961611_V07__curved_upper_beam",
+        "SEU_B_OSMWAY_299961611_V07__curved_storey_beam",
+        "SEU_B_OSMWAY_299961611_V07__canopy_frames",
+        "SEU_B_OSMWAY_630686661_V07__upper_main",
+        "SEU_B_OSMWAY_630686661_V07__upper_cantilever",
+        "SEU_B_OSMWAY_630686661_V07__stair_rails",
+        "SEU_B_OSMWAY_630686661_V07__round_front_columns",
+        "SEU_B_OSMWAY_630686661_V07__main_roof",
+        "SEU_B_OSMWAY_630686661_V07__ground_body",
+        "SEU_B_OSMWAY_630686661_V07__glazing_transoms",
+        "SEU_B_OSMWAY_630686661_V07__glazing_mullions",
+        "SEU_B_OSMWAY_630686661_V07__front_top_beam",
+        "SEU_B_OSMWAY_630686661_V07__front_storey_beam",
+        "SEU_B_OSMWAY_630686661_V07__front_glazing",
+        "SEU_B_OSMWAY_630686661_V07__external_stair",
+        "SEU_B_OSMWAY_630686661_V07__cantilever_supports",
+        "SEU_B_OSMWAY_630686661_V07__cantilever_roof",
+        "SEU_B_OSMWAY_630686661_V07__canopy_rafters",
+        "SEU_B_OSMWAY_630686661_V07__canopy_glass"
+      ],
+      "append_node_count": 30
     }
   ]
 }

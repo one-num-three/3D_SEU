@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.6.1",
-  "model_version": "0.6",
+  "viewer_version": "0.7.0",
+  "model_version": "0.7",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 5370,
-      "sha256": "a7acc19cb86dde4f95f92c04f3e99066a911906d4bf89dbd7aad2516ff0502f6"
+      "bytes": 5863,
+      "sha256": "1e5dddf9ac7a2e9eefcb210a74f47e0b3d695d7cfe59d248198e3b259d07d438"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 14004,
-      "sha256": "ea0f8730a46695b656df5b8e844f1bc52d6a5830e4698fe6bcaa230557d785e6"
+      "bytes": 14230,
+      "sha256": "b94b94c6b3d8773a3d74b2e437c15986e80ba2351010192a1a832d222c76d2c3"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -45,7 +45,7 @@
     {
       "path": "preview/ground-pass.js",
       "bytes": 1328,
-      "sha256": "9865fb5b22138a199189517ad9bd447d9a67420669779271cad0c0085f9b3c3f"
+      "sha256": "a163cc91ed1025b93e17ab32e04fede57a4a9044d099e5168e8374b89c0d3910"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -55,7 +55,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1721,
-      "sha256": "54a90e06da217607e866f7662e6be511b763f578a92920d17ab8d58ce11d1c5b"
+      "sha256": "63fb54c56a0337e183efa93893ce515ac3b579bc585133054368e87a59a25be5"
     },
     {
       "path": "preview/landscape.json",
@@ -79,13 +79,13 @@
     },
     {
       "path": "preview/patches.json",
-      "bytes": 14605,
-      "sha256": "e72b5e6030484955d16fc55d53e99ac59033978f6971a0c3882d0446997678d2"
+      "bytes": 16623,
+      "sha256": "1ded3458110e42cd3b130ce51a079daf8061c58ab84ca64144cb3ee6be95ac91"
     },
     {
       "path": "preview/release.json",
-      "bytes": 1162,
-      "sha256": "464d8b6038fae33a78efbe2b571d4d0e72f27ca8c6e7ba2d254d6b5f59ac7cad"
+      "bytes": 1394,
+      "sha256": "ac2ffcd3a81f35030daf65f4f508572f95d479e389b1b0f3270e4de3a398ab54"
     },
     {
       "path": "preview/style.css",

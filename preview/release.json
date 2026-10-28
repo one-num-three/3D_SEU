@@ -1,6 +1,6 @@
 {
-  "modelVersion": "0.6",
-  "viewerVersion": "0.6.1",
+  "modelVersion": "0.7",
+  "viewerVersion": "0.7.0",
   "publishedAt": "2026-10-28",
   "modelCommit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "viewerCommit": null,
@@ -11,14 +11,24 @@
   "basemapVersion": "0.4",
   "basemapCommit": "6cf2ea6c06a988c455cfde136603c42f5f4fa6ff",
   "baseModelVersion": "0.3",
-  "buildingPatchVersion": "0.6",
-  "buildingPatchCommit": "2aaa94b5c9cc98b8b7f831fea8894da89d1a3c19",
+  "buildingPatchVersion": "0.7",
+  "buildingPatchCommit": "23add5360b3a72f89b347f0573ec61b3da0bf0e5",
   "baseModelSha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
-  "buildingPatchSha256": "021d3e34eeefd81794f7eb02fdcf48807aad90fefbcbfd62650331f79d5672d3",
-  "hashScope": "Original v0.3 base + verified v0.5 patch + v0.6 patch; individual hashes recorded in patches.json",
+  "buildingPatchSha256": "0403a88db84f3f89399f8701ef8c840346073347d10c190077fea391d4206631",
+  "hashScope": "Original v0.3 base + verified v0.5, v0.6 and v0.7 patches; individual hashes in patches.json",
   "landscapeVersion": "0.6",
   "landscapeCommit": "2aaa94b5c9cc98b8b7f831fea8894da89d1a3c19",
   "previousBuildingPatchVersion": "0.5",
   "previousBuildingPatchCommit": "33ce67a42b80f3708e1770b53e80385fb6ca5937",
-  "runtimeOptimization": "Optional spatial/material static building batching; no asset changes"
+  "runtimeOptimization": "Optional spatial/material batching after ALL verified patches; geometry preserved",
+  "buildingPatchHistory": [
+    {
+      "version": "0.5",
+      "commit": "33ce67a42b80f3708e1770b53e80385fb6ca5937"
+    },
+    {
+      "version": "0.6",
+      "commit": "2aaa94b5c9cc98b8b7f831fea8894da89d1a3c19"
+    }
+  ]
 }
