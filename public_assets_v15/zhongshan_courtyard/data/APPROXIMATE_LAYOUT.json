@@ -1,0 +1,299 @@
+{
+  "coordinate_reference": "same local EPSG32650 metres",
+  "source_compound_feature": {
+    "type": "Feature",
+    "id": "SEU_B_OSMWAY_1488713409",
+    "properties": {
+      "stable_id": "SEU_B_OSMWAY_1488713409",
+      "osm_way_id": 1488713409,
+      "source_type": "OpenStreetMap way",
+      "source_name_osm": "\u949f\u5c71\u4e66\u9662",
+      "name_status": "OSM label only; not independently verified",
+      "layer": "building_outline",
+      "geometry_role": "undifferentiated OSM building projection; thin display plate not solid building",
+      "source_node_ids": [
+        13646596803,
+        13646596802,
+        13646596801,
+        13646574600,
+        13646596803
+      ],
+      "source_tags": {
+        "name": "\u949f\u5c71\u4e66\u9662",
+        "building": "university"
+      },
+      "source_url": "https://www.openstreetmap.org/way/1488713409",
+      "area_m2": 9095.253623133403,
+      "absolute_accuracy": "not_surveyed",
+      "license": "ODbL-1.0",
+      "attribution": "\u00a9 OpenStreetMap contributors"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -777.452111679828,
+            375.728473140392
+          ],
+          [
+            -770.057577448548,
+            285.748804836534
+          ],
+          [
+            -669.648518899921,
+            293.932933732867
+          ],
+          [
+            -677.043937377166,
+            383.91256832052
+          ],
+          [
+            -777.452111679828,
+            375.728473140392
+          ]
+        ]
+      ]
+    }
+  },
+  "regions": [
+    {
+      "id": "N_HIGH_PAVILION",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -740.0211845337296,
+              370.6121351542792
+            ],
+            [
+              -716.1986132718927,
+              372.55387139235245
+            ],
+            [
+              -714.2347339999886,
+              348.4596339839792
+            ],
+            [
+              -738.0573052618256,
+              346.51789774590594
+            ],
+            [
+              -740.0211845337296,
+              370.6121351542792
+            ]
+          ]
+        ]
+      },
+      "wall_top_m_estimated": 11.8,
+      "roof_ridge_m_estimated": 17.8,
+      "evidence_status": "2025 structural area + 2026 high pavilion; estimated framing/height",
+      "ground_footprint_verified": false
+    },
+    {
+      "id": "E_FRONT_WING",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -703.8154019623906,
+              345.3490082560279
+            ],
+            [
+              -678.6981257406711,
+              347.3962736374747
+            ],
+            [
+              -677.4356319230185,
+              331.9071210178062
+            ],
+            [
+              -702.552908144738,
+              329.85985563635944
+            ],
+            [
+              -703.8154019623906,
+              345.3490082560279
+            ]
+          ]
+        ]
+      },
+      "wall_top_m_estimated": 9.6,
+      "roof_ridge_m_estimated": 12.7,
+      "evidence_status": "2025 front slab + 2026 broad pitched wing; NOT the northern flat deck",
+      "ground_footprint_verified": false
+    },
+    {
+      "id": "W_REAR_WING",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -758.7741582252617,
+              348.04671163069423
+            ],
+            [
+              -746.0860496184137,
+              349.080897235755
+            ],
+            [
+              -744.2424078529526,
+              326.4618172197312
+            ],
+            [
+              -756.9305164598006,
+              325.4276316146704
+            ],
+            [
+              -758.7741582252617,
+              348.04671163069423
+            ]
+          ]
+        ]
+      },
+      "wall_top_m_estimated": 6.8,
+      "roof_ridge_m_estimated": 9.8,
+      "evidence_status": "2025 slab + 2026 rear short pitched wing",
+      "ground_footprint_verified": false
+    },
+    {
+      "id": "W_FRONT_TURN",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -759.1992930290506,
+              321.2828202816583
+            ],
+            [
+              -745.9933024382497,
+              322.3592175440685
+            ],
+            [
+              -745.3520357372197,
+              314.4917114515385
+            ],
+            [
+              -758.5580263280207,
+              313.4153141891283
+            ],
+            [
+              -759.1992930290506,
+              321.2828202816583
+            ]
+          ]
+        ]
+      },
+      "wall_top_m_estimated": 4.1,
+      "roof_ridge_m_estimated": 6.8,
+      "evidence_status": "2026 visible lower western turn; ground placement/dimensions approximate",
+      "ground_footprint_verified": false
+    },
+    {
+      "id": "SW_FRONT_PAVILION",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -748.080149142518,
+              312.7843899437673
+            ],
+            [
+              -730.9900436720698,
+              314.1773746362981
+            ],
+            [
+              -730.3487769710399,
+              306.30986854376806
+            ],
+            [
+              -747.4388824414882,
+              304.91688385123723
+            ],
+            [
+              -748.080149142518,
+              312.7843899437673
+            ]
+          ]
+        ]
+      },
+      "wall_top_m_estimated": 3.9,
+      "roof_ridge_m_estimated": 6.4,
+      "evidence_status": "multiple oblique photos place front pavilion southwest of court; footprint NOT identifiable in April",
+      "ground_footprint_verified": false
+    },
+    {
+      "id": "E_REAR_FLAT_LOW_PODIUM",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -710.0009218382303,
+              366.871710488407
+            ],
+            [
+              -677.6332978411693,
+              369.5099390727457
+            ],
+            [
+              -676.290645685888,
+              353.0373481915109
+            ],
+            [
+              -708.6582696829489,
+              350.3991196071722
+            ],
+            [
+              -710.0009218382303,
+              366.871710488407
+            ]
+          ]
+        ]
+      },
+      "wall_top_m_estimated": 3.0,
+      "ground_footprint_verified": false,
+      "evidence_status": "2025 slab and 2026 rear flat deck; height/function under deck unverified"
+    }
+  ],
+  "caveats": {
+    "status": "APPROXIMATE_INTERNAL_LAYOUT_REVIEW_ONLY",
+    "source_compound_is_envelope_not_individual_building_footprints": true,
+    "compound_area_m2": 9095.253623133403,
+    "old_15m_solid_area_m2": 9095.253623133403,
+    "proposed_main_volume_projection_m2": 2034.9891234485165,
+    "remaining_non_body_area_m2": 7060.2644996848885,
+    "proposed_full_upper_projection_m2": 2348.4229774700434,
+    "outside_compound_m2": 0.0,
+    "road_overlap_m2": 0.0,
+    "minimum_distance_to_estimated_road_area_m": 15.873862198049364,
+    "court_center_tall_body_overlap": false,
+    "accepted_ground_control_points": 0,
+    "registration_residual_m": null,
+    "absolute_accuracy_bound_m": null,
+    "registration_method": "inferred image framing in existing OSM compound axes; NOT georeferenced individual building footprints",
+    "image_frame_assumption_pixels": [
+      110,
+      -12,
+      498,
+      354
+    ],
+    "rotation_deg": 4.659778058023846,
+    "all_heights_estimated": true,
+    "old_R7_geometry_copied": false,
+    "unseen_windows_or_basement_constructed": false,
+    "open_court_center_local_m": [
+      -724.6862771798164,
+      335.97557794888854
+    ],
+    "mesh_count": 35,
+    "distance_to_mapped_water_surface_m": 57.140899272656874,
+    "mapped_water_overlap_m2": 0.0,
+    "shore_accuracy_note": "existing simplified OSM water polygon; not surveyed bank edge"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "target_feature": {
+    "type": "Feature",
+    "id": "SEU_B_OSMWAY_1488713409",
+    "properties": {
+      "stable_id": "SEU_B_OSMWAY_1488713409",
+      "osm_way_id": 1488713409,
+      "source_type": "OpenStreetMap way",
+      "source_name_osm": "\u949f\u5c71\u4e66\u9662",
+      "name_status": "OSM label only; not independently verified",
+      "layer": "building_outline",
+      "geometry_role": "undifferentiated OSM building projection; thin display plate not solid building",
+      "source_node_ids": [
+        13646596803,
+        13646596802,
+        13646596801,
+        13646574600,
+        13646596803
+      ],
+      "source_tags": {
+        "name": "\u949f\u5c71\u4e66\u9662",
+        "building": "university"
+      },
+      "source_url": "https://www.openstreetmap.org/way/1488713409",
+      "area_m2": 9095.253623133403,
+      "absolute_accuracy": "not_surveyed",
+      "license": "ODbL-1.0",
+      "attribution": "\u00a9 OpenStreetMap contributors"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -777.452111679828,
+            375.728473140392
+          ],
+          [
+            -770.057577448548,
+            285.748804836534
+          ],
+          [
+            -669.648518899921,
+            293.932933732867
+          ],
+          [
+            -677.043937377166,
+            383.91256832052
+          ],
+          [
+            -777.452111679828,
+            375.728473140392
+          ]
+        ]
+      ]
+    }
+  },
+  "transform": {
+    "rotation_deg": 4.659778058023846
+  },
+  "note": "OSM envelope retained, internal layout is not measured"
+}
