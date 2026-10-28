@@ -1,0 +1,225 @@
+[
+  {
+    "code": "C7",
+    "wing": "N",
+    "target_id": "SEU_B_OSMWAY_299961623",
+    "source_centroid_xy": [
+      -208.3965606689455,
+      -357.44345092773443
+    ],
+    "translation_xy_m": [
+      3.031751726844342,
+      5.182047300854672
+    ],
+    "rotation_degrees": -0.12847249218454726,
+    "uniform_xy_scale": 0.85,
+    "z_unchanged": true,
+    "before_outside_m2": 478.15950142865745,
+    "after_outside_m2": 8.591475937597219,
+    "after_body_area_m2": 1402.372060226123,
+    "attached_object_count": 12,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C7",
+    "wing": "E",
+    "target_id": "SEU_B_OSMWAY_299961623",
+    "source_centroid_xy": [
+      -179.493392944336,
+      -377.1521911621095
+    ],
+    "translation_xy_m": [
+      0.509177929570966,
+      10.319826283573029
+    ],
+    "rotation_degrees": 0.09233806264111061,
+    "uniform_xy_scale": 0.900029621957774,
+    "z_unchanged": true,
+    "before_outside_m2": 223.7142308328072,
+    "after_outside_m2": 1.8398172958572582e-06,
+    "after_body_area_m2": 294.0804393920265,
+    "attached_object_count": 12,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C7",
+    "wing": "S",
+    "target_id": "SEU_B_OSMWAY_299961609",
+    "source_centroid_xy": [
+      -204.97581481933588,
+      -397.4757080078126
+    ],
+    "translation_xy_m": [
+      -2.8454540948014437,
+      -1.1556763712553766
+    ],
+    "rotation_degrees": -0.8146457366550368,
+    "uniform_xy_scale": 0.9286651759396038,
+    "z_unchanged": true,
+    "before_outside_m2": 49.89639389843711,
+    "after_outside_m2": 0.004016082900509634,
+    "after_body_area_m2": 1158.8442230181777,
+    "attached_object_count": 12,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C7",
+    "wing": "W",
+    "target_id": "SEU_B_OSMWAY_299961609",
+    "source_centroid_xy": [
+      -234.53773498535173,
+      -381.855712890625
+    ],
+    "translation_xy_m": [
+      -0.27896074978554597,
+      -9.244853587837543
+    ],
+    "rotation_degrees": -0.012975751483198987,
+    "uniform_xy_scale": 0.9258246191386078,
+    "z_unchanged": true,
+    "before_outside_m2": 178.1524597812868,
+    "after_outside_m2": 0.00019380557255513353,
+    "after_body_area_m2": 280.04554836272274,
+    "attached_object_count": 12,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C16",
+    "wing": "n",
+    "target_id": "SEU_B_OSMWAY_300030319",
+    "source_centroid_xy": [
+      -325.78448486328125,
+      256.6008930206298
+    ],
+    "translation_xy_m": [
+      0.0,
+      0.0
+    ],
+    "rotation_degrees": 0.0,
+    "uniform_xy_scale": 1.0,
+    "z_unchanged": true,
+    "before_outside_m2": 0.0,
+    "after_outside_m2": 0.0,
+    "after_body_area_m2": 603.6243093756541,
+    "attached_object_count": 11,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C16",
+    "wing": "s",
+    "target_id": "SEU_B_OSMWAY_300030319",
+    "source_centroid_xy": [
+      -322.0253295898438,
+      210.88909912109375
+    ],
+    "translation_xy_m": [
+      0.0,
+      0.0
+    ],
+    "rotation_degrees": 0.0,
+    "uniform_xy_scale": 1.0,
+    "z_unchanged": true,
+    "before_outside_m2": 0.0,
+    "after_outside_m2": 0.0,
+    "after_body_area_m2": 603.6243169098265,
+    "attached_object_count": 11,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C16",
+    "wing": "e",
+    "target_id": "SEU_B_OSMWAY_300030319",
+    "source_centroid_xy": [
+      -309.2118530273438,
+      234.95330810546875
+    ],
+    "translation_xy_m": [
+      4.986181242377884,
+      -2.0592334837707096
+    ],
+    "rotation_degrees": 0.051960149162126934,
+    "uniform_xy_scale": 0.9965358795878406,
+    "z_unchanged": true,
+    "before_outside_m2": 130.807606940838,
+    "after_outside_m2": 2.876392513492028e-08,
+    "after_body_area_m2": 354.294539908008,
+    "attached_object_count": 11,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C4",
+    "wing": "N",
+    "target_id": "SEU_B_OSMWAY_300010611",
+    "source_centroid_xy": [
+      -563.0361633300782,
+      -130.8832778930665
+    ],
+    "translation_xy_m": [
+      0.0,
+      0.0
+    ],
+    "rotation_degrees": 0.0,
+    "uniform_xy_scale": 1.0,
+    "z_unchanged": true,
+    "before_outside_m2": 0.0,
+    "after_outside_m2": 0.0,
+    "after_body_area_m2": 1663.1737415147663,
+    "attached_object_count": 1,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C4",
+    "wing": "S",
+    "target_id": "SEU_B_OSMWAY_300010611",
+    "source_centroid_xy": [
+      -572.9682927699049,
+      -178.33778124346895
+    ],
+    "translation_xy_m": [
+      2.3389094646617545,
+      2.128468480847411
+    ],
+    "rotation_degrees": -0.0001604000278139961,
+    "uniform_xy_scale": 0.9599776760934967,
+    "z_unchanged": true,
+    "before_outside_m2": 85.49275879141665,
+    "after_outside_m2": 4.331165107620173e-05,
+    "after_body_area_m2": 1363.0924477213441,
+    "attached_object_count": 1,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction"
+  },
+  {
+    "code": "C4",
+    "wing": "E",
+    "target_id": "SEU_B_OSMWAY_300010611",
+    "source_centroid_xy": [
+      -535.392761230469,
+      -153.1591873168945
+    ],
+    "translation_xy_m": [
+      3.4980054603348982,
+      0.21627210554295062
+    ],
+    "rotation_degrees": 0.0,
+    "uniform_xy_scale": null,
+    "z_unchanged": true,
+    "before_outside_m2": 149.06362198413905,
+    "after_outside_m2": 5.601200180582885e-08,
+    "after_body_area_m2": 363.44508148588363,
+    "attached_object_count": 1,
+    "limitation": "Constrained per-wing approximation; legacy facade is artistic, not new photo reconstruction",
+    "axis_depth_scale": 0.7063372508765158,
+    "axis_length_scale": 1.0000106102563247,
+    "affine_xy_2x2": [
+      [
+        0.7074533965254903,
+        -0.018070319897051896
+      ],
+      [
+        -0.018070319897051886,
+        0.9988944646073501
+      ]
+    ],
+    "adaptation": "Explicit wing-axis depth adaptation to source east connector; not whole-building fit. Artistic facade spacing changes along depth axis."
+  }
+]
