@@ -1,0 +1,11 @@
+{
+  "id": 171400094,
+  "timestamp": "2021-11-03T12:34:10Z",
+  "version": 8,
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "特色餐厅"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "base_z_m": 0.12,
+  "levels": 2,
+  "levels_evidence": "OSM way171400094 version8 timestamp2021-11-03T12:34:10Z building:levels=2",
+  "estimated_storey_height_m": 3.2,
+  "total_estimated_building_height_m": 6.4,
+  "roof_thickness_estimated_m": 0.2,
+  "passage_method": "subtract exact existing road_area from ground storey only; upper continues overhead",
+  "measured_dimensions": false
+}
