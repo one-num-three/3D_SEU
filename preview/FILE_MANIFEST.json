@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.14.0",
+  "viewer_version": "0.14.1",
   "model_version": "0.14",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
@@ -9,8 +9,8 @@
   "files": [
     {
       "path": "index.html",
-      "bytes": 9339,
-      "sha256": "68c7e1344b518afc02605f961ffd139dd33a2d53e92a4ebc40b623003f4e5255"
+      "bytes": 9558,
+      "sha256": "e9bf0046f017ffd1681c10cdbd2b0e38e0f098796996191535920fa16acabf86"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 16237,
-      "sha256": "840988cd6d3885972c236fc4391a42d3eb9bfdf7521259d5099ae8460efc936c"
+      "bytes": 16763,
+      "sha256": "688ce91715d3f6f456c9359294706f47b72618b2112a5286b83bb9523bd6e8a6"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -45,12 +45,12 @@
     {
       "path": "preview/bridge-display.js",
       "bytes": 1016,
-      "sha256": "d95cc7d48d0b35f855ed5c35b2d964ed73ecaf78d45191783688eca745d2b8cc"
+      "sha256": "d620f55a8c75ff2c2ff3cab79ed9847d1f6c6b8a281c4b86450270477d62b57d"
     },
     {
       "path": "preview/ground-pass.js",
       "bytes": 2268,
-      "sha256": "9ae56db29ad3c5ee70abb7d3ad382b6afca516b38e37aeba93e99148a8ec0063"
+      "sha256": "b9b56acf224f554c02689f7b56c4082e7f210a30c0c6b3e0d50d2469a440d810"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -60,7 +60,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1722,
-      "sha256": "8958db643a4f8299a7c840ae8476b8e86a8a104e461e699d5fc97248ba4ec513"
+      "sha256": "037c80e9df33ac1b3b6b9fe3f52e057ef28f074dd73666d033099f1fd0d6638b"
     },
     {
       "path": "preview/landscape.json",
@@ -69,8 +69,8 @@
     },
     {
       "path": "preview/model-patches.js",
-      "bytes": 2129,
-      "sha256": "92dc96fb75a54b556133357f5a648877df0bd3b4654122f7c48abe19687e2ca9"
+      "bytes": 2532,
+      "sha256": "118e2a3e6ec14dce159a87a080e21f34b4ae238a1835434be2ffe63d3e94302e"
     },
     {
       "path": "preview/overlay.json",
@@ -95,7 +95,7 @@
     {
       "path": "preview/props-layer.js",
       "bytes": 1177,
-      "sha256": "046c61431476c823acb8026ad947ecbe14072a0abd764b2298f774b2c53b6475"
+      "sha256": "b9432e178ed4d680b7a6e0cf3161a4db259f91a5affc916d2cf6ecfd43af81d6"
     },
     {
       "path": "preview/props.json",
@@ -104,8 +104,18 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 2182,
-      "sha256": "7eb51a9bea0f86fcbee4c3c021a4562d9e6edff1df6c8b2c9c3ffdf73a038185"
+      "bytes": 2501,
+      "sha256": "adddfb418338ab061b336f0b3be501b4327c4d0115ac74bbffc58e2e218f7ee0"
+    },
+    {
+      "path": "preview/runtime-loader.js",
+      "bytes": 5597,
+      "sha256": "31036c36f6febba55376a96a8ec12594e3af96b25cbd2c1b2026f681b4e465f1"
+    },
+    {
+      "path": "preview/runtime.json",
+      "bytes": 1220,
+      "sha256": "85edbafa8614f77bc0bfbc306aef64d30e05e61277291e892e6f39dd5f1de410"
     },
     {
       "path": "preview/style.css",
@@ -149,5 +159,6 @@
     }
   ],
   "base_model_version": "0.3",
-  "landscape_version": "0.6"
+  "landscape_version": "0.6",
+  "runtime_snapshot_version": "0.14"
 }

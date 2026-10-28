@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "modelVersion": "0.14",
+  "runtimeVersion": "0.14",
+  "sourceModelCommit": "1a30a944d2dcd5a0b278330fa755268ddea89427",
+  "snapshot": {
+    "archive": {
+      "url": "./public_runtime_v14/assets/SEU_runtime_visible_v14_GLB.zip",
+      "bytes": 14292437,
+      "sha256": "9ae061b23f053abe62dc387e8105e7f45c0e15d52db4b186b50c51b8b5ed17e5"
+    },
+    "member": {
+      "name": "SEU_runtime_visible_v14.glb",
+      "bytes": 48077184,
+      "sha256": "531c786bcd8e4922a7eb6dd33815936c385cc543154da180535785884e6e995e"
+    },
+    "authorNodes": 3976,
+    "nodeNamesSha256": "bcfe91b71a4990652276cba61f89aca64000b8546c6f7037361d3863aec3b416"
+  },
+  "legacy": {
+    "archive": {
+      "url": "./preview/assets/campus-v03.zip",
+      "bytes": 11502592,
+      "sha256": "618485d27a40b4b50de40aa0fa180d47dd47c3a2fe1bdc7429c57baa227ceda2"
+    },
+    "member": {
+      "name": "SEU_campus_restored_v03.glb",
+      "bytes": 29895536,
+      "sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213"
+    },
+    "patchesUrl": "./preview/patches.json?v=0.14.1",
+    "buildingNetworkBytes": 30194820,
+    "patchesSha256": "b0fc918d1f26839e56d4f3c6d2f8dee851a79425af41b336243cde87ccca4b04"
+  }
+}
