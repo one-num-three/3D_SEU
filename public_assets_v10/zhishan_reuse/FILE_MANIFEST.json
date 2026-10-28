@@ -1,0 +1,101 @@
+{
+  "version": "zhishan-reuse-candidate-20261028",
+  "not_integrated_or_published": true,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3991,
+      "sha256": "147c47dc4b5bce66d69ec2e7778ff7e27df2d5c372c1b2af1d67c051dc8cfb8d"
+    },
+    {
+      "path": "assets/SEU_zhishan_reuse_candidate.blend",
+      "bytes": 371192,
+      "sha256": "3c402758fb2c751ad2e646e1507d3aa2f743378cb88111cc3418e0a94172fa1d"
+    },
+    {
+      "path": "assets/SEU_zhishan_reuse_candidate.glb",
+      "bytes": 1201952,
+      "sha256": "31c19857a16319fa12fc45a26bbfce1d65c417e6dbe79a26fd5ca806c5615454"
+    },
+    {
+      "path": "data/ORIGINAL_PARAMETERS.json",
+      "bytes": 438,
+      "sha256": "949326bcca83234e53347d33291ad54183d374725c80969f5208c975bcf38235"
+    },
+    {
+      "path": "data/REGISTRATION.json",
+      "bytes": 1205,
+      "sha256": "d7fe4389ad5d3d8096f5d675f6667f138036ab0e003dd009a0872e5769710b50"
+    },
+    {
+      "path": "data/REPLACEMENT_MANIFEST.json",
+      "bytes": 5741,
+      "sha256": "65cc71c2ec4cb7587d37a939bae685fe437f3346454fb47c432b7cf0d7a2f270"
+    },
+    {
+      "path": "data/SOURCE_EVIDENCE.json",
+      "bytes": 1084,
+      "sha256": "72f55b033ce421590bace653656c1c3a240a2d62edc2e67cde6d227d1339b7f7"
+    },
+    {
+      "path": "data/original_raw_mesh_fingerprints.json.gz",
+      "bytes": 6129,
+      "sha256": "e3dc74c6f3612a7e37d5f6c6862b623e06c14394121da9dabd3ad25310868fd0"
+    },
+    {
+      "path": "data/registered_geometry_database.json.gz",
+      "bytes": 239195,
+      "sha256": "22e60c3088f906ae2b80487952b2060b1d83a58e5d070849d2927efcd872290c"
+    },
+    {
+      "path": "data/source_geometry_database.json.gz",
+      "bytes": 201228,
+      "sha256": "88894a8237789ca471628e9ea1cb0793adce9e9f022acd29349910af7421dab8"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 874,
+      "sha256": "521218c58ed3242bf95dd1186f1fdbdd1736512804cdfb151613bb9520c51639"
+    },
+    {
+      "path": "previews/CANDIDATE_PLAN_REVIEW.png",
+      "bytes": 108621,
+      "sha256": "dff2d3322b9d1df4d5f25dfeb974b70a63403c3e443c49cf0eab8c3a33d0a998"
+    },
+    {
+      "path": "previews/CANDIDATE_REGISTERED_OBLIQUE.png",
+      "bytes": 863906,
+      "sha256": "99767f731905fdd2320728196ee71c76da24fe8c1dd3f33b1460cd950c1d2b22"
+    },
+    {
+      "path": "qa/COLD_OPEN_AND_REVERSIBILITY.json",
+      "bytes": 386,
+      "sha256": "f7c7b2060f0e1930b8ec901eaac7674700089c2c3f3ed28800891a923fca2e42"
+    },
+    {
+      "path": "qa/PROJECTION_QA.json",
+      "bytes": 1205,
+      "sha256": "d7fe4389ad5d3d8096f5d675f6667f138036ab0e003dd009a0872e5769710b50"
+    },
+    {
+      "path": "qa/R3D_REGISTRATION_COMPARISON.json",
+      "bytes": 870,
+      "sha256": "bb71dc2dd90c73e48ffafe3999bf6757b51d3f0f985f3093876ba80b413ddacd"
+    },
+    {
+      "path": "scripts/rebuild.py",
+      "bytes": 1775,
+      "sha256": "cc29e3a2a3f345249ac6e6f2f92c2c1af89d25ce7f8d6f062a8f1ccb2bf13aac"
+    },
+    {
+      "path": "scripts/validate.py",
+      "bytes": 2615,
+      "sha256": "3e5e5b414fc942cbca6bac47f84ad1e95ca3ded34dc4bb3788f373ca771b1455"
+    }
+  ]
+}
