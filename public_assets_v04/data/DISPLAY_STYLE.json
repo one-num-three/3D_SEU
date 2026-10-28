@@ -1,0 +1,32 @@
+{
+  "version": "0.4.0",
+  "building_model_version": "0.3",
+  "style": "light warm architecture, soft green and clear lake blue",
+  "colors": {
+    "ground": "#F1EFE7",
+    "green": "#C5DCC0",
+    "water": "#9CCEDB",
+    "sports": "#D8CDB7",
+    "construction_site": "#E6D4B7",
+    "road": "#FAF8F1",
+    "building": "#DDD8CF",
+    "candidate": "#D5B38B",
+    "roof": "#ACAFA9",
+    "glass": "#AFC4C9"
+  },
+  "original_model_geometry_unchanged": true,
+  "candidate_notice": "C3 and Lanyuan remain approximate-location candidates, not verified building footprints",
+  "source_blend_sha256": "89c7e18d73a564fa3115e85a7612eef91b5581cd0619da0ee52eacd4d63f2a27",
+  "source_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "source_blend": "../public_assets_v03/assets/SEU_campus_restored_v03.blend",
+  "source_glb": "../public_assets_v03/assets/SEU_campus_restored_v03_GLB.zip",
+  "display_rules": {
+    "candidate": "registration_status=approximate_location_pending_review or sourceclass contains provisional_collective_envelope or stable_id contains LEGACY_PLAN_C3",
+    "detail_linear_baseColor_mean": "<0.22 glass; <0.48 roof; otherwise building",
+    "massing": "building",
+    "road": "road",
+    "boundary": "ground",
+    "outline": "#DCE1D3",
+    "unknown": "unchanged"
+  }
+}
