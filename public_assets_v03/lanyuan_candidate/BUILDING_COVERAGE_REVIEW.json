@@ -1,0 +1,12 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927550",
+    "display_name": "兰园宿舍",
+    "source_area_m2": 21278.41112564281,
+    "actual_reused_xy_projection_m2": 6752.336619920739,
+    "inside_source_m2": 6752.336619920745,
+    "remaining_source_m2": 14526.07450572206,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  }
+]

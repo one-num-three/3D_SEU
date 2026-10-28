@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "object_count": 65,
+  "cold_blend_geometry_fingerprint_exact": true,
+  "blend_external_images_fonts_texts_libraries": 0,
+  "glb_embedded_or_external_images": 0,
+  "custom_properties_allowlist": [
+    "stable_id",
+    "assumption",
+    "sourceclass"
+  ],
+  "glb_roundtrip_triangle_fingerprints_1mm": true,
+  "glb_roundtrip_mismatches": [],
+  "glb_roundtrip_triangle_material_color_match": true,
+  "glb_normals_exported": false,
+  "total_triangles": 266580,
+  "scope": "Geometry and sanitization only; licensing distinctions documented separately."
+}

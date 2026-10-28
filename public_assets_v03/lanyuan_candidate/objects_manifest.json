@@ -1,0 +1,665 @@
+{
+  "schema_version": "1.0",
+  "object_count": 65,
+  "source_outline_id_count": 1,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0001",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "cdc26eb2193b471d03d34dd50f6bc28f45b117431befa72fe2c2340134ac016f",
+      "vertex_count": 16,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0002",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "f74d316463280aba4b5c0d623d2bf4a82184f5a4f24daf946fa4acf35d74fb80",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0003",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "d5794237ec49a3a87ed095fdbde3a1512ca10b045caa7cb1a66f8cbc75d8acf7",
+      "vertex_count": 14,
+      "polygon_count": 9
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0004",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "e4c9b803322f55ccd827d987b0d2c190a1e792359b84233f3c4e59a8afa2e8f9",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0005",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "2543b90a2e111ce240624386a6879d93af7f698d732c9892b1dbf1817d240fcb",
+      "vertex_count": 10,
+      "polygon_count": 7
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0006",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "b4d12842115f4aac5b4b319737bfbe8f5764136171a5ba40020f816b9d216b90",
+      "vertex_count": 16,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0007",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "e3b646bd994c83f76a19896a821221c5954b1a450d0572b8e713e1496bb08ea5",
+      "vertex_count": 680,
+      "polygon_count": 510
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0008",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "fc5e479de1754ce201c5f8eede9b8ca305af150219721fe474edf691ddd69895",
+      "vertex_count": 40,
+      "polygon_count": 30
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0009",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "e6d5a5d6079096acbc974468b09f1d5fefbf9fc5b98fb621ef8608b038be565f",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0010",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "e1aaf0f814cdc24316b4d6837aedde9451faeb0fad1890e3ed1a671d691aab5d",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0011",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "3f75e955d0943291a7de5a7a015e3d80de628062c15c3f726482bd9386f09c3e",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0012",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "0b97779d94bc99e744394d77e85f425f497debe3f4e9b7a26441687bfc8b1bb9",
+      "vertex_count": 13392,
+      "polygon_count": 10044
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0013",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "dc6860ebdf19e75edb588afd3e1d307f6fa0497803b5a851df9c806398843942",
+      "vertex_count": 3344,
+      "polygon_count": 2508
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0014",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "0c7afaae3ea7241d6c786b341b8d19c5640e02312d90b1827bfa3045e15046f6",
+      "vertex_count": 6736,
+      "polygon_count": 5052
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0015",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "1d500f819d5d6c933422ef0efbeaabe066978c22cbf8ab940f3d6d3feede756a",
+      "vertex_count": 200,
+      "polygon_count": 150
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0016",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "0b816582218fdf2eb4df8e9d050d00e6b5315897e5a4e31a2851fda89b627935",
+      "vertex_count": 856,
+      "polygon_count": 642
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0017",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "a4ed4cf14edadaec0b98db0d83b71c1050d889af10c3dde422c75bdb9aa7de9e",
+      "vertex_count": 4904,
+      "polygon_count": 3678
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0018",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "449b5a72a2ebbdb741297348dd4f9bff70f8e34b898a2102ae97579e26cf7f4b",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0019",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "16606a75e28324709efe0a67a3a4cf42131e58f95ec328b75ed67d6b5346dadb",
+      "vertex_count": 968,
+      "polygon_count": 726
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0020",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "bef3870bbf3d52b92936e3f434285124a06c16aec3b2a786972a5683b20e0ff8",
+      "vertex_count": 144,
+      "polygon_count": 108
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0021",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "5607677557a9518245cd7d75b3b308c4545617622549a7515a23eb3dd06a33c6",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0022",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "f64c41fdbca8b53d7181d71bb070decc3d06ee2e8ba0254e05898af6f2c5415a",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0023",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "3c41cc176b516c23cabf27590483d85cbfd33ad108309385f9c460143645753a",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0024",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "e4cf4a698dd87ffd7b5f67c7df38a97b488783a9d6d31b495148d37e753e753c",
+      "vertex_count": 21072,
+      "polygon_count": 15804
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0025",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "fa7baf0bbc3745e8eda001a5c610b8f83990416840ac0c2c7667e1d0cd28f06b",
+      "vertex_count": 5264,
+      "polygon_count": 3948
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0026",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "e5c592277ef2fec2cc609194fd17614962258722b548926c61b108ebf0e40e7f",
+      "vertex_count": 10576,
+      "polygon_count": 7932
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0027",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "9bf9ec4a483b19b55b23db94734f33d7ea4b7b052c59aecaab13e6698d33399d",
+      "vertex_count": 360,
+      "polygon_count": 270
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0028",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "ae37a1add07b98cb478737b0eb0ccc4ff11fba69902c139a9b7b570b5e2e6d63",
+      "vertex_count": 1184,
+      "polygon_count": 888
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0029",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "7b04085518a51ed23db77773ffd90c9b9b02f98a418199bfbd7c610ae24408ac",
+      "vertex_count": 7432,
+      "polygon_count": 5574
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0030",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "8c279219f366d37af6517c0b3a5ebcc54f5c44986a5c3db57fea51e91b2b7230",
+      "vertex_count": 14,
+      "polygon_count": 9
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0031",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "14f306e18fa8677e2fba10e08ed0228773c508ad2a277f08f4c1bed343a0a065",
+      "vertex_count": 640,
+      "polygon_count": 480
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0032",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "6e53cf705a7cea758bb847de08a3951926c615982bad49406da31ec12db20a5d",
+      "vertex_count": 128,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0033",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "0f0f5ae5dbde620a63621c949420259c57c307b1e51e37ab713532be7b2f38fe",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0034",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "d5eb01b518f83962dbb995fc2b3582700159b7c4e739d69a565ac9bfe86cd808",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0035",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "563380716957e4f2d73d30d87623c928930b12c5421e669699b2205d755deaa1",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0036",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "36e809576ba19703053d7fb65af7c46c05688940044422ebf8b16fb7a760b8f1",
+      "vertex_count": 18960,
+      "polygon_count": 14220
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0037",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "d3b653dabf2eafa8d23a736af3bec9b1ae109db979bbb2a5c4bb591af817cc96",
+      "vertex_count": 4736,
+      "polygon_count": 3552
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0038",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "94d16f3039b3a13438f29aba567632b39f1ab52e6c08df7f0cc9183fd0671101",
+      "vertex_count": 9520,
+      "polygon_count": 7140
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0039",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "4b842042362df4c97b62a8f3f1b6bc57454e177bf12043c5b534131ce54b92d8",
+      "vertex_count": 352,
+      "polygon_count": 264
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0040",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "fd2fe0ad92cc12a33343b7ed85f61282aa2d3ecc58a40a43c85b0ae0cfcd3e23",
+      "vertex_count": 792,
+      "polygon_count": 594
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0041",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "6b965ef669f7b2fdc907d0c90a31a5009535bc3b1811048cb0ddda11a7dd6845",
+      "vertex_count": 6192,
+      "polygon_count": 4644
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0042",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "bff9019590acb2f580be5c2774fb81ef8e48cd3abab6801b409fa0f32bf14cd5",
+      "vertex_count": 12,
+      "polygon_count": 8
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0043",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "4ebda8f13253557509282111d181a72dd164e33a2a1022dad0258052884e9eed",
+      "vertex_count": 856,
+      "polygon_count": 642
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0044",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "4b5f3a20daac7ca27bc9a9e2099985dbf76a861e6b4059262bd908ed70881ec4",
+      "vertex_count": 120,
+      "polygon_count": 90
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0045",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "401ea8619d4da72fe2e3dff432c99a581cc7b33aa5b102a13117bbc0ec3f801e",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0046",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "779770ea0f6b840758c9a39f9c95da858e3f71d6b58e0fafc011e5a4976db64e",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0047",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "ce226517d6e1bf89b932a4773211fffa20f8d1b39c1ca7266973992986575a10",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0048",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "a54e975319c4d95551e0a34873bed2bb08314cd0c4e4810185566e46b468113c",
+      "vertex_count": 15888,
+      "polygon_count": 11916
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0049",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "0ebb31903e3f2f4048a7c87ab1369694a60b30b1de6d149520a063c5c2a056c1",
+      "vertex_count": 3968,
+      "polygon_count": 2976
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0050",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "e3c26a0f8f0c2a2f30af18d5edaabfa6fcf8b5eb2f61a34b006a7b97adfd2655",
+      "vertex_count": 7984,
+      "polygon_count": 5988
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0051",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "cfa66c57b0a87efe7987b93af40c90edc5f40319e7d6850350c61e94213830c8",
+      "vertex_count": 336,
+      "polygon_count": 252
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0052",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "0983fafddf716ee95673ac163f2ca2af28d2c4bae2a44992745af1d336328a53",
+      "vertex_count": 1136,
+      "polygon_count": 852
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0053",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "c9e445c400f4bdbb2fe51b46f8a7e8d58f05d362be7f0d2e13885285eddb20b4",
+      "vertex_count": 5976,
+      "polygon_count": 4482
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0054",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "f6c180330d580a0fad8cecdde954f529231b216f5a012d8c4dbfbce397c3f2a2",
+      "vertex_count": 10,
+      "polygon_count": 7
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0055",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "43f6950a5543a646353013c6d5beb96810d5501f966036086e29163966236950",
+      "vertex_count": 656,
+      "polygon_count": 492
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0056",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "d837b86e1977b29ef020e59970b26ce4d5b756ee674e493efd2eaf12261e97aa",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0057",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "b4112a9d7985204934eb9fa365e4330eff6f48f74aac2a06d4137ab8621d817f",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0058",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "ef8580755df4b1c0b52ddc3d117731beba9bc7e90ce32de1eefbef2b23f2dd98",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0059",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "7dcdcba243158bd3bcb89b665414b0bc3370cb91e7e261a475d9810f0281d634",
+      "vertex_count": 24,
+      "polygon_count": 18
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0060",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "b94349cec99c15b892ae4ba0f13b9b97b96b67505555f63b8b4afcbf589bc496",
+      "vertex_count": 9680,
+      "polygon_count": 7260
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0061",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "11b69a2f3065073ff11a773fc2982308c95605968b18bbfae710a90f7326cb8d",
+      "vertex_count": 2416,
+      "polygon_count": 1812
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0062",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "5ba9f4a93022ad4f57737ffa58305d666a3c0397203bc37513a581b18369bc44",
+      "vertex_count": 4880,
+      "polygon_count": 3660
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0063",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "698d998be99ccdca4adca041a06d2c925e48be7e156e9ef299fdc92a6e3b86fc",
+      "vertex_count": 184,
+      "polygon_count": 138
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0064",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "612814a34eea114329cdf541e6551295d3ac934813995ecf8fce9d0f55699cfb",
+      "vertex_count": 824,
+      "polygon_count": 618
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927550__0065",
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "role": "reused_partial_building_geometry",
+      "assumption": "APPROXIMATE CANDIDATE: five legacy volumes within collective Lanyuan envelope; individual footprints/entrances unverified; inherited height estimates; not surveyed.",
+      "sourceclass": "provisional_collective_envelope_only_NOT_verified_individual_buildings",
+      "geometry_fingerprint": "c50a684e6a416bea14c23e70fc6b771be8af5cc33d43862d5d5dbec5e339e8cb",
+      "vertex_count": 3920,
+      "polygon_count": 2940
+    }
+  ]
+}

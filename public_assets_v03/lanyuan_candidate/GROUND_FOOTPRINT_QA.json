@@ -1,0 +1,19 @@
+{
+  "method": "Union of actual visible mesh face XY projections entirely within Z<=1m (captures inherited tower bottoms at0.11m; group-minimum-only test misses them); exact GEOS intersection. Road widths inherited estimated not surveyed. No coordinates altered.",
+  "objects": 65,
+  "outlines": 1,
+  "rows": [
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "display_name": "兰园宿舍",
+      "ground_contact_area_m2": 6718.5071148413135,
+      "outside_source_m2": 0.0,
+      "inside_source_ratio": 1.0000000000000013,
+      "source_coverage_ratio": 0.3157428942965007,
+      "min_z": 0.0,
+      "finite_vertices": true,
+      "road_centerline_conflicts": [],
+      "estimated_road_width_conflicts": []
+    }
+  ]
+}

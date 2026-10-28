@@ -1,0 +1,32 @@
+{
+  "status": "APPROXIMATE_CANDIDATE_READY_NOT_VERIFIED",
+  "collection": "SEU_LANYUAN_APPROXIMATE_CANDIDATE",
+  "blend": "seu_lanyuan_candidate_v03.blend",
+  "stable_id": "SEU_B_OSMWAY_1056927550",
+  "mesh_count": 65,
+  "legacy_volumes": 5,
+  "bounds_world": [
+    [
+      398.87249755859375,
+      576.3228759765625,
+      0.0
+    ],
+    [
+      526.4012451171875,
+      718.141357421875,
+      56.76000213623047
+    ]
+  ],
+  "geometry": "Exact original R3D world geometry; no new transformations or height changes; recolored orange as candidate.",
+  "registration": "Prior uniformXYscale0.9858648849786616 to named broad collective envelope; individual footprints/entrances unverified.",
+  "heights": "Inherited estimates54/36/36/30/24m; maximum decorative geometryZ56.76m is not measured tower height.",
+  "ground_projection_area_m2": 6718.5071148413135,
+  "all_mesh_projection_area_m2": 6752.336619920739,
+  "source_area_m2": 21278.41112564281,
+  "outside_source_m2": 0,
+  "ground_and_upper_projection_road_centerline_conflicts": 0,
+  "ground_and_upper_projection_estimated_width_conflicts": 0,
+  "replacement_policy": "Remove misleading entire-compound high box. Remaining compound area low outline only, NO high residual infill. Candidate volumes do not certify actual five building footprints.",
+  "not_photo_refinement": true,
+  "not_published": true
+}
