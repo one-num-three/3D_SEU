@@ -1,0 +1,1826 @@
+{
+  "schema": "building-progress-v1",
+  "source_outline_count": 201,
+  "not_a_distinct_building_count": true,
+  "v05_target_count": 13,
+  "items": [
+    {
+      "stable_id": "SEU_B_OSMWAY_171399649",
+      "source_name_osm": "梅园食堂",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_171400094",
+      "source_name_osm": "特色餐厅",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961586",
+      "source_name_osm": "教学楼8",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961587",
+      "source_name_osm": "橘园3A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961588",
+      "source_name_osm": "橘园1A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961590",
+      "source_name_osm": "橘园8舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961591",
+      "source_name_osm": "教学楼5",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961592",
+      "source_name_osm": "教学楼7",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961594",
+      "source_name_osm": "橘园1C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961595",
+      "source_name_osm": "教学楼6",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961596",
+      "source_name_osm": "橘园4A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961597",
+      "source_name_osm": "电子电工实验楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961598",
+      "source_name_osm": "橘园3B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961599",
+      "source_name_osm": "橘园4D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961601",
+      "source_name_osm": "橘园3D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961602",
+      "source_name_osm": "橘园2C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961603",
+      "source_name_osm": "橘园6舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961604",
+      "source_name_osm": "橘园2D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961605",
+      "source_name_osm": "教学楼1",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961606",
+      "source_name_osm": "橘园4B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961608",
+      "source_name_osm": "橘园4C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961609",
+      "source_name_osm": "软件楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961611",
+      "source_name_osm": "橘园食堂",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961612",
+      "source_name_osm": "橘园2B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961614",
+      "source_name_osm": "橘园7舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961615",
+      "source_name_osm": "教学楼2",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961616",
+      "source_name_osm": "橘园1B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961617",
+      "source_name_osm": "教学楼4",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961618",
+      "source_name_osm": "橘园2A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961619",
+      "source_name_osm": "橘园5舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961620",
+      "source_name_osm": "橘园1D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961621",
+      "source_name_osm": "金智楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961622",
+      "source_name_osm": "教学楼3",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961623",
+      "source_name_osm": "计算机楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961624",
+      "source_name_osm": "橘园3C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010601",
+      "source_name_osm": "田家炳楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010604",
+      "source_name_osm": "机械楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010611",
+      "source_name_osm": "工业发展与培训中心楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "source_name_osm": "机械动力实验楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "source_name_osm": "田家炳楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010625",
+      "source_name_osm": "机械楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020021",
+      "source_name_osm": "桃园食堂",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020023",
+      "source_name_osm": "大学生活动中心",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020024",
+      "source_name_osm": "焦廷标馆",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020025",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020029",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020030",
+      "source_name_osm": "圆形报告厅",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020032",
+      "source_name_osm": "东南大学九龙湖校区南门",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020036",
+      "source_name_osm": "保卫处",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020037",
+      "source_name_osm": "东南大学九龙湖校区南门",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020038",
+      "source_name_osm": "青教公寓",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020042",
+      "source_name_osm": "行政办公楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030302",
+      "source_name_osm": "文科C楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030304",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030305",
+      "source_name_osm": "土木交通实验楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030306",
+      "source_name_osm": "文科A楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030307",
+      "source_name_osm": "材料B楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030309",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030310",
+      "source_name_osm": "李文正图书馆",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030314",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030315",
+      "source_name_osm": "国家电网楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030316",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030319",
+      "source_name_osm": "经管楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030321",
+      "source_name_osm": "文科B楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030322",
+      "source_name_osm": "材料A楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030323",
+      "source_name_osm": "总务处",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030325",
+      "source_name_osm": "纪忠楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030326",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030330",
+      "source_name_osm": "九龙湖宾馆",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300162243",
+      "source_name_osm": "东南大学九龙湖校区东门",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300162244",
+      "source_name_osm": "东南大学九龙湖校区东门",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300165432",
+      "source_name_osm": "东南大学九龙湖校区北门",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300165442",
+      "source_name_osm": "东南大学九龙湖校区北门",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_549677715",
+      "source_name_osm": "土木交通办公楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "source_name_osm": "桃园2A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "source_name_osm": "桃园2B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "source_name_osm": "桃园1A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "source_name_osm": "桃园1B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "source_name_osm": "桃园2C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "source_name_osm": "桃园2D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "source_name_osm": "桃园1C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "source_name_osm": "桃园1D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "taoyuan_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136429",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136431",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136433",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136434",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "source_name_osm": "桃园4C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "source_name_osm": "桃园4A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136445",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "source_name_osm": "桃园4D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "source_name_osm": "桃园4B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136449",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "source_name_osm": "桃园3C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "source_name_osm": "桃园3A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136456",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "source_name_osm": "桃园3B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "source_name_osm": "桃园3D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136459",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "source_name_osm": "桃园6C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "source_name_osm": "桃园6A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136463",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "source_name_osm": "桃园6D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "source_name_osm": "桃园6B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136466",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "source_name_osm": "桃园5C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "source_name_osm": "桃园5A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136472",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "source_name_osm": "桃园5B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "source_name_osm": "桃园5D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136475",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "source_name_osm": "桃园8C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "source_name_osm": "桃园8A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136479",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "source_name_osm": "桃园8D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "source_name_osm": "桃园8B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136482",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "source_name_osm": "桃园7C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "source_name_osm": "桃园7A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136489",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "source_name_osm": "桃园7B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "source_name_osm": "桃园7D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136492",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141862",
+      "source_name_osm": "梅园1D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141863",
+      "source_name_osm": "梅园1A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141864",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141865",
+      "source_name_osm": "梅园1B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141866",
+      "source_name_osm": "梅园1C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141867",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141868",
+      "source_name_osm": "梅园4D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141869",
+      "source_name_osm": "梅园4A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141870",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141871",
+      "source_name_osm": "桃园4C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141872",
+      "source_name_osm": "梅园4B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141873",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141876",
+      "source_name_osm": "梅园3A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141877",
+      "source_name_osm": "梅园2A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141878",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141879",
+      "source_name_osm": "梅园2B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141880",
+      "source_name_osm": "梅园3B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141881",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141882",
+      "source_name_osm": "梅园8D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141883",
+      "source_name_osm": "梅园8A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141884",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141885",
+      "source_name_osm": "梅园8B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141889",
+      "source_name_osm": "梅园6B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141890",
+      "source_name_osm": "梅园6A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141891",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141894",
+      "source_name_osm": "梅园7B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141895",
+      "source_name_osm": "梅园7A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141896",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141899",
+      "source_name_osm": "梅园5A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141900",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141901",
+      "source_name_osm": "梅园5B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141902",
+      "source_name_osm": "梅园5C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141903",
+      "source_name_osm": "梅园5D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141904",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141906",
+      "source_name_osm": "梅园8C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141908",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "source_name_osm": "梅园9B",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "meiyuan9_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "source_name_osm": "梅园9A",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "meiyuan9_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141911",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "source_name_osm": "梅园9C",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "meiyuan9_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141913",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "source_name_osm": "梅园9D",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "meiyuan9_rectification_and_exterior",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630142838",
+      "source_name_osm": "东南大学东门快递服务中心",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630686644",
+      "source_name_osm": "九龙湖体育馆",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630686661",
+      "source_name_osm": "桃园北食堂",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696077",
+      "source_name_osm": "化学化工楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696078",
+      "source_name_osm": "化学化工楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696079",
+      "source_name_osm": "材料A楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_851764288",
+      "source_name_osm": "游泳馆",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "swimming_hall_observed_exterior_rebuilt",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": false
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_934913057",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_998738586",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_998738587",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927514",
+      "source_name_osm": "土木交通教学科研楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927515",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927516",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927517",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927518",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927519",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927520",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927521",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927522",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927534",
+      "source_name_osm": "能环科研综合楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927536",
+      "source_name_osm": "信息电子教学综合楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927537",
+      "source_name_osm": "生医科研综合楼",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "source_name_osm": "新大楼（原人文社科科研楼）",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927539",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927540",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927545",
+      "source_name_osm": "橘园9舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927546",
+      "source_name_osm": "橘园10舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927547",
+      "source_name_osm": "橘园11舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927548",
+      "source_name_osm": "橘园12舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927549",
+      "source_name_osm": "橘园13舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "source_name_osm": "兰园宿舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927551",
+      "source_name_osm": "橘园14舍",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056931930",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056931931",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056931936",
+      "source_name_osm": "",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1315047648",
+      "source_name_osm": "至善亭",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1488713409",
+      "source_name_osm": "钟山书院",
+      "name_status": "OSM label only; not independently verified",
+      "v05_status": "inherited_v03_not_newly_refined",
+      "geometry_basis": "accepted OSM geographic outline, not survey",
+      "heights": "estimated unless separately documented",
+      "unrelated_geometry_retained": true
+    }
+  ],
+  "non_osm_candidates_retained": [
+    "SEU_B_LEGACY_PLAN_C3",
+    "Lanyuan approximate component group"
+  ],
+  "in_progress_not_in_this_checkpoint": [
+    "Juyuan9-14 exterior",
+    "landscape instance final integration",
+    "legacy bench/vehicle audit"
+  ]
+}
