@@ -1,0 +1,291 @@
+{
+  "version": "0.12.0",
+  "scope": "recovered no-ribbon bridge and qualified sports details; source buildings retained, layout and dimensions estimates explicit",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 4467,
+      "sha256": "07b22e83485161928597c196882dda2e8088abe93be9fe4cd14479a84b9a1cc2"
+    },
+    "assets/SEU_building_patch_v12.glb": {
+      "bytes": 5869836,
+      "sha256": "50830a14cee29fafc913eb96816d47f93a0e427750a09a45a5276c736b0c6662"
+    },
+    "assets/SEU_campus_photorefined_v12.blend": {
+      "bytes": 19381204,
+      "sha256": "0c78002b8712a0ff685c0b5497fce6163bce19b334446f490ee8ac9f1e13109c"
+    },
+    "bridge_reuse/FILE_MANIFEST.json": {
+      "bytes": 3089,
+      "sha256": "d64a625f3f4686f449694dfa71dd13c9c2e394d3eaeb1e593d6cfa0efc9727d9"
+    },
+    "bridge_reuse/README.md": {
+      "bytes": 3261,
+      "sha256": "707190a85d9e9513377e40b2b120d57f2609e2706edccd527a2d3e4efc4523c3"
+    },
+    "bridge_reuse/assets/SEU_jiuqu_bridge_reuse_candidate.blend": {
+      "bytes": 362609,
+      "sha256": "63f5d05cff3d9d45fe957a68ba1fc99a318bd749ff42ddcb1626b06785114a55"
+    },
+    "bridge_reuse/assets/SEU_jiuqu_bridge_reuse_candidate.glb": {
+      "bytes": 1198548,
+      "sha256": "472d897f2b47527339dd5894cdfe2df23ccc77a4c60179fbdaf765a9ddac84e3"
+    },
+    "bridge_reuse/data/INTEGRATION.json": {
+      "bytes": 27997,
+      "sha256": "4cc56da015c1625dd1bc7b50d09d2497c13740847efb2e4f9f021e95c9a453fd"
+    },
+    "bridge_reuse/data/ORIGINAL_RAW_FINGERPRINTS.json": {
+      "bytes": 282465,
+      "sha256": "91b1f5757794ac733d690af8931dcd4115cc3824c18c6474354fe0750fb251a7"
+    },
+    "bridge_reuse/data/OSM_ROUTE_SOURCE.local.geojson": {
+      "bytes": 11483,
+      "sha256": "98f1a2522c61b05dbbcecd25e9753dc317b385ec80ac39f3f4af576dc688385b"
+    },
+    "bridge_reuse/data/PREVIEW_CONTEXT.local.json": {
+      "bytes": 12141,
+      "sha256": "2ce2e12ae913961db8383f8ca4c36394ad75db7df87f4c1c0c7194066aeefdf2"
+    },
+    "bridge_reuse/data/registered_geometry_database.json.gz": {
+      "bytes": 57594,
+      "sha256": "695b5de660e8413facef8a07706e609e4f9825abcb2502f21ec1f1c821a6d92b"
+    },
+    "bridge_reuse/data/source_geometry_database.json.gz": {
+      "bytes": 57590,
+      "sha256": "5a236de75572677d24619faf6aa7cdab4a6e328ffc5178fc148d9675ee65637f"
+    },
+    "bridge_reuse/licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "bridge_reuse/licenses/README.md": {
+      "bytes": 861,
+      "sha256": "d3ff7e1c4cab575be0deddf2ebd079b9591cecfb7d7c0d4b491c61b77886e347"
+    },
+    "bridge_reuse/previews/BRIDGE_WATER_BANKS.png": {
+      "bytes": 1420902,
+      "sha256": "709a1c57ac55a59a0919b5bd4780c7cfac89c899518692a26c7c05aa5d16f1f4"
+    },
+    "bridge_reuse/qa/COLD_OPEN_QA.json": {
+      "bytes": 285,
+      "sha256": "39470f92b27262d23cc6e2fe7812dc252b695e126b0d7a83c1f2cbaded35440d"
+    },
+    "bridge_reuse/qa/EXCLUSION_AND_IDENTITY_QA.json": {
+      "bytes": 1053,
+      "sha256": "85645760796e89f5e5688de9d42b8f4b9df0f7f98197ac379af0e341427da940"
+    },
+    "bridge_reuse/qa/SPATIAL_QA.json": {
+      "bytes": 1466,
+      "sha256": "2b54e3be1bf411727d16ca189771ad535e8cb6cc91bffda3ef4f9912ad835d0f"
+    },
+    "bridge_reuse/scripts/rebuild.py": {
+      "bytes": 1881,
+      "sha256": "f0708f06e3a93e7ef87456bd671a81b5340b85d8ed57f58a4f6e1f641ce111a0"
+    },
+    "bridge_reuse/scripts/render_review.py": {
+      "bytes": 2214,
+      "sha256": "13327ab5ca257ef36f9eeedf37090d9cb03808cc1231af1b1f6851c7ad9d0545"
+    },
+    "bridge_reuse/scripts/validate.py": {
+      "bytes": 1842,
+      "sha256": "fdf945d8997e98a782140a0bb9d18ab3e8ad263f3053b5858306f38a70ad3b07"
+    },
+    "data/BRIDGE_FULL_PROJECTION.local.geojson": {
+      "bytes": 3687,
+      "sha256": "77184525f787d2866f76380583e57ea50fe874e149e7206fa11ffbf1242297f5"
+    },
+    "data/MODULE_INPUTS.json": {
+      "bytes": 261,
+      "sha256": "6c359b21eb50865c4ac4d9906fd40ae8feb465162d85e995d2703fbc800e2e36"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 47940,
+      "sha256": "2675e6ae6de0039172d81109a99ae6b6076dd353ae6b53987614d0091d3e6bcc"
+    },
+    "docs/SCOPE_AND_RETENTION.md": {
+      "bytes": 3135,
+      "sha256": "167e72d9ef820fed65d0415c7a7d7115563244c5387abcaec4334c38ef2b0229"
+    },
+    "docs/WALK_RUN_DESIGN.md": {
+      "bytes": 5976,
+      "sha256": "9083b8fbb30eadf3be7650cad5903e581c3f47096a9d7165d427fcbbd0bb6251"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 1002,
+      "sha256": "609e730fa86a7fc349f6c6741c6ff138734cf89b187d053cbc9b5542ddbf4d3f"
+    },
+    "previews/V12_FULL_WITH_WOODLAND.png": {
+      "bytes": 1795077,
+      "sha256": "712f360568d917821bd69476febcc481f9d8a8053485d9017f41d4fec10293fd"
+    },
+    "qa/BRIDGE_TREE_BIKE_CLEARANCE_QA.json": {
+      "bytes": 575,
+      "sha256": "70b95d44b4795784c9bd16729fbfe1fe6687bf450319eeb35a99d041e81b4568"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 183657,
+      "sha256": "55dd4e7998e8b44dea3148965911ac4e7a8371bc9041bb4351db2b18f0e1347d"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 447,
+      "sha256": "c73156faee109adecf397d25d0f0f1ec7e25e80f4f014c6c82ba155c3f519736"
+    },
+    "qa/DEFAULT_BROWSER_DIRECTORY_CLEANUP.json": {
+      "bytes": 652,
+      "sha256": "ce97a9615b63405c1ca548507d32ee49854429c1028933a2693799a12d33c066"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 327741,
+      "sha256": "8f6c30e764c0f3e9c69a9cc412ecb920a2629526a174ff6d087800dc2dfdb960"
+    },
+    "qa/PNG_METADATA_QA.json": {
+      "bytes": 990,
+      "sha256": "704e7f6bd55a19ea0d0bdd0d6f0804fe60215cecb69f06854a098299f2701907"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "a8d9a6b3ef8c6a1d43b5341d085ccf4c0197bfbf703cec1298208331803eb7cd"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 313,
+      "sha256": "a6b396f2d849c94a3433dffa09f3fb34617e73c2f8f7d54dc10c253732bef1d2"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "qa/SPORTS_BIKE_CLEARANCE_QA.json": {
+      "bytes": 1610,
+      "sha256": "ec149a0779baa2a7f3d17134061cb2faa71565549d41ab15e974cb9c14750a77"
+    },
+    "qa/TRANSMISSION_MATERIAL_AUDIT.json": {
+      "bytes": 406,
+      "sha256": "8bc29b6025507921b2a78b99c586822b98b444eda302a280935faf2d8ac45b05"
+    },
+    "scripts/check_bridge_clearance.py": {
+      "bytes": 1770,
+      "sha256": "c7720633a5d9768f825213ad596429dc08e1b569838f6e303d8a2a6163648506"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1738,
+      "sha256": "1b4393768193438be5345e722cbfa3824bca55a3fd6e06920363ed26c042ce6c"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/check_sports_bikes.py": {
+      "bytes": 1036,
+      "sha256": "01bf8bb9dd08066811ad3e44784cfb79baa13a157a311f5fbff194e5323cce99"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5685,
+      "sha256": "838c678c2994cbc4d8131e899e07dce931dfdacc5c7666322d0a2566875f042f"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 1967,
+      "sha256": "3e40007d5cb308361565acb3063a797bfac9884a6febcfca1cd94e8e138d4893"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1068,
+      "sha256": "f4b73e025e1acfecf38257a4bb6955015c04733b88e196eac2a25a76cb1ae923"
+    },
+    "sports_reuse/FILE_MANIFEST.json": {
+      "bytes": 3599,
+      "sha256": "6db9dc96aee90abe37a6f7d18d6845bac199df27350499dea7bb818aabd6abc8"
+    },
+    "sports_reuse/INTEGRATION.json": {
+      "bytes": 21071,
+      "sha256": "b7253b51ebbfa522a9d02b3c691929ba6c481a27cdd338362cfbf0b6d3d3a145"
+    },
+    "sports_reuse/README.md": {
+      "bytes": 3243,
+      "sha256": "660bc100f65eefdfc1303f81bcec4dabf5d2229c5ef4a8efb60a1f513db0f21b"
+    },
+    "sports_reuse/assets/SEU_sports_runtime_v12.blend": {
+      "bytes": 835359,
+      "sha256": "9442b3f75ac88480eb6eaaa51add1ce993cceff344883b343671a42cc7c18403"
+    },
+    "sports_reuse/assets/SEU_sports_runtime_v12.glb": {
+      "bytes": 4667912,
+      "sha256": "219607b5a2b52c936d48f1554ddce767114d6747100646408205eb573f3af679"
+    },
+    "sports_reuse/data/DETAILED_SOURCE_GEOMETRY.json.gz": {
+      "bytes": 8735569,
+      "sha256": "9a0bb68bc973d396b40962d4fd9d1094e1cf5ae0660834a95c6e3d82465cae80"
+    },
+    "sports_reuse/data/DISPLAY_OVERRIDE.json": {
+      "bytes": 520,
+      "sha256": "eec3d03d6fc64d1f8b809f15687623259fad56e65c68462a057b092eb8d02107"
+    },
+    "sports_reuse/data/EXPORTED_NAME_MAP.json": {
+      "bytes": 75234,
+      "sha256": "df7b3bfffd9d9fef74697090e9e08f05dd068d2f63520ac247ea28f9436b9284"
+    },
+    "sports_reuse/data/FULL_PROJECTION.local.geojson": {
+      "bytes": 90697,
+      "sha256": "726e879e2c06368532654e10d4cbe59c8bdbc80631b949e600a871c6ad170bd1"
+    },
+    "sports_reuse/data/LOD_CHANGELOG.json": {
+      "bytes": 93683,
+      "sha256": "7ac6bd7ee7cf9d757c9fd07e3a43cdc495cf391aea743cd05d3c50abc4322699"
+    },
+    "sports_reuse/data/OFFICIAL_TENNIS_EVIDENCE.json": {
+      "bytes": 1076,
+      "sha256": "5fd511e39a3899e0b8ecafee2d0b1cf4e4ba09752d2e2b733dcb5c4b8f32d69e"
+    },
+    "sports_reuse/data/RUNTIME_GEOMETRY.json.gz": {
+      "bytes": 1002498,
+      "sha256": "6d610cee3f7063266b0baa3fbbd5e391380a72c4683537578debdf5f9715246d"
+    },
+    "sports_reuse/data/SOURCE_SPORTS_POLYGONS.local.geojson": {
+      "bytes": 11258,
+      "sha256": "d2b6108bf79994a78fd92710db9b9bebf872361860f281ebf9cc68952a84413c"
+    },
+    "sports_reuse/previews/MEIYUAN24.png": {
+      "bytes": 909937,
+      "sha256": "fed5433ed97fd3c8012903d1657a371baa89e05b66029bac9bc180e0beca89f3"
+    },
+    "sports_reuse/previews/TAOYUAN12.png": {
+      "bytes": 917760,
+      "sha256": "7cfda2a9f20f30cdf8bc11a9cb5d5ec994b753318b2f236f826626ac0f96fffe"
+    },
+    "sports_reuse/qa/COLD_QA.json": {
+      "bytes": 135,
+      "sha256": "9973bb39186a957b30d06a9695d0a1ec020e71ca22617d0324109abcc5effe80"
+    },
+    "sports_reuse/qa/EXPORTED_NAMES_QA.json": {
+      "bytes": 232,
+      "sha256": "05f6902d3b6c0eb0386251712a5a0f82a952522cf352ce798bd1d51689c07a3f"
+    },
+    "sports_reuse/qa/EXPORT_QA.json": {
+      "bytes": 92,
+      "sha256": "cbcf06c5b28cf6375a1be92da687c3b633d3b4d7a1b81c877d0de9e900d1ed6c"
+    },
+    "sports_reuse/qa/PREVIEW_PRIVACY_QA.json": {
+      "bytes": 302,
+      "sha256": "9afdfb6e99321ca47e210bca66a3633171d7f98f456533b4a71f49d80047ae26"
+    },
+    "sports_reuse/qa/PUBLIC_SCAN_QA.json": {
+      "bytes": 1110,
+      "sha256": "2b203debd4a35e8c1fac170bade48e36a19bfb02ca73b55eee38e6d92be8afb7"
+    },
+    "sports_reuse/qa/SPATIAL_QA.json": {
+      "bytes": 2903,
+      "sha256": "0fbeb86e524ab9afc65231284aaa35d9f631eac3b57bf5d89485a4973a675ed4"
+    },
+    "sports_reuse/scripts/export_runtime.py": {
+      "bytes": 1997,
+      "sha256": "40fd359bd43c8a2aa7e3f5740b7e848599990058c8cefbe5761fcbb6b813cb9c"
+    },
+    "sports_reuse/scripts/prepare_runtime.py": {
+      "bytes": 7099,
+      "sha256": "c931127c7753eed78af64fd22e48b329c5cef5e898913726639b45d3bfea0f2d"
+    }
+  }
+}
