@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.11.0",
-  "model_version": "0.11",
+  "viewer_version": "0.12.0",
+  "model_version": "0.12",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 7773,
-      "sha256": "f767852116ac36cc85c223903e86f9193621b039ccd04c8ad73f6fe8663b0592"
+      "bytes": 8541,
+      "sha256": "8ecdc7bc17feaf3d89c8a24e6740bf0902cabdccdc65fdacbb9ec09c86b64851"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 15668,
-      "sha256": "e35055c76a93856b0205aa6060af7f7a3e420b21dbed243e21d168a35add3e31"
+      "bytes": 16237,
+      "sha256": "d66c442496239e6ffdbc535321075ac856ea08d9f2d9be06632e38741ae10979"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -34,8 +34,8 @@
     },
     {
       "path": "preview/batch-buildings.js",
-      "bytes": 5728,
-      "sha256": "1adbfb4d456d3d2068035594958d0307589ceff4f06b1f674a088fde7ade4db3"
+      "bytes": 6282,
+      "sha256": "0996b2fa7b34eead0ece4948d1585ace8a7167ecf5af0f16d7308382910d5c25"
     },
     {
       "path": "preview/batch-controller.js",
@@ -43,9 +43,14 @@
       "sha256": "101274760228961cead57a84dba428e60dd896e7cc627452ebbd2aba2727b521"
     },
     {
+      "path": "preview/bridge-display.js",
+      "bytes": 1016,
+      "sha256": "316c1a53e065d315b7275d5bd68c5942c7c7dcd805736fccea7a9e80d1f19f81"
+    },
+    {
       "path": "preview/ground-pass.js",
-      "bytes": 1329,
-      "sha256": "95956d1320f924c85c158b0a902517575ff922606b7631804cba4bb8ad34275e"
+      "bytes": 1912,
+      "sha256": "0f066fff728fe733f6822d91deee9b2523a2f6fcaff43482977d430c0838dd0e"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -55,7 +60,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1722,
-      "sha256": "2c9533649b77631d30c9d28a72ec5911f5c3f47a7dd9fc87e0e4984d46d2a539"
+      "sha256": "803bf7457cf17409f86dc765a2ba0bb6c03fa615d36f4dc50c6c6c317b526098"
     },
     {
       "path": "preview/landscape.json",
@@ -79,8 +84,8 @@
     },
     {
       "path": "preview/patches.json",
-      "bytes": 30307,
-      "sha256": "e82675993d5a40fb3b18643f756b6c83f6035e141aced48868bca18a45dc7164"
+      "bytes": 81396,
+      "sha256": "8374d95065cfa2a8b3f6f24156f89a76e36a62611163a37227a77964b51c9edf"
     },
     {
       "path": "preview/props-adapter.js",
@@ -90,7 +95,7 @@
     {
       "path": "preview/props-layer.js",
       "bytes": 1177,
-      "sha256": "61fe76e67d6f59b49213940c3c2dfda717c1d460cd168efde7b6eaec8300dc1f"
+      "sha256": "b326b06379e3ffffe5a8a8e5a0679d613f9740212b5a55aa20428f1769db58ca"
     },
     {
       "path": "preview/props.json",
@@ -99,8 +104,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 1891,
-      "sha256": "70d38f95fd833344219c7d18e42518337fef2ffd41a4ad26b7e323183d5a8df3"
+      "bytes": 1988,
+      "sha256": "e1303c1fd14c7a009147a533013d41125998701ecbbed4886c69b62ef5297b54"
     },
     {
       "path": "preview/style.css",

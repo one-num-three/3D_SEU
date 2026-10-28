@@ -1,5 +1,5 @@
 /* MIT. Optional runtime display optimization; inject pinned THREE + mergeGeometries. */
-export async function batchStaticBuildings(THREE,mergeGeometries,root,{tileSize=400,maxAdditionalBytes=64*1024*1024,onCheckpoint=()=>{},yieldEvery=8,signal=null,schedule=()=>new Promise(r=>setTimeout(r,0))}={}){
+export async function batchStaticBuildings(THREE,mergeGeometries,root,{tileSize=400,maxAdditionalBytes=64*1024*1024,onCheckpoint=()=>{},yieldEvery=4,signal=null,schedule=()=>new Promise(r=>setTimeout(r,0))}={}){
  root.updateMatrixWorld(true);const identity=new THREE.Matrix4();
  const buckets=new Map(),excluded=[],mapping=[];let eligible=0;
  const visible=n=>{for(let p=n;p;p=p.parent)if(!p.visible)return false;return true;};
@@ -16,7 +16,10 @@ export async function batchStaticBuildings(THREE,mergeGeometries,root,{tileSize=
  const batchRoot=new THREE.Group();batchRoot.name='EXPERIMENTAL_STATIC_BUILDING_BATCHES';
  const originals=[],generated=[],originalMasks=new Map();let mergedSources=0,additionalBytes=0,budgetSkippedSources=0,groups=0;
  try{
- for(const items of buckets.values()){
+ // Within the same byte cap, prefer groups saving more draw submissions per byte.
+ const cost=items=>{const vertices=items.reduce((s,i)=>s+i.node.geometry.attributes.position.count,0);return items.reduce((s,i)=>s+Object.values(i.node.geometry.attributes).reduce((a,b)=>a+b.array.byteLength,0)+(i.node.geometry.index?.count||0)*(vertices>65535?4:2),0);};
+ const ranked=[...buckets.values()].map((items,ordinal)=>({items,bytes:cost(items),ordinal})).sort((a,b)=>(b.items.length-1)/Math.max(1,b.bytes)-(a.items.length-1)/Math.max(1,a.bytes)||a.ordinal-b.ordinal);
+ for(const {items} of ranked){
   if(signal?.aborted){const e=new Error('Batch canceled');e.name='AbortError';throw e;}
   if(items.length<2)continue;
   const vertexCount=items.reduce((s,i)=>s+i.node.geometry.attributes.position.count,0),indexCount=items.reduce((s,i)=>s+(i.node.geometry.index?.count||0),0);
