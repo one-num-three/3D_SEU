@@ -424,18 +424,18 @@
     },
     {
       "path": "faculty_reuse/qa/C16_ACTUAL_RESTORED.png",
-      "bytes": 641234,
-      "sha256": "7532c7c1962f25be757cc3f5ba1d2efdd77daa2b9b3df7952c5d316e9f0d76e6"
+      "bytes": 641110,
+      "sha256": "fd400f2db24b38cf4717dead034c5542a5566a47350d10de45f619ce73ecbc59"
     },
     {
       "path": "faculty_reuse/qa/C4_ACTUAL_RESTORED.png",
-      "bytes": 697114,
-      "sha256": "d7863111a94b0b0453ca3cc193d975b0f1547c0f8ce0924678414a2adb6cf45d"
+      "bytes": 696990,
+      "sha256": "2cc42919d9c173c49e4273f13e8b3ce11bf9e6f202a351e03f6e9fb96e47efe7"
     },
     {
       "path": "faculty_reuse/qa/C7_ACTUAL_RESTORED.png",
-      "bytes": 704628,
-      "sha256": "63f743b3bb0b5d6d769b277516fed2afbf1748a41c4400759502cae3ba3a58ee"
+      "bytes": 704504,
+      "sha256": "2f7ff4d081d7aee1000dd977b7f4e31175c93feb36a04d27f9942f342935dac1"
     },
     {
       "path": "faculty_reuse/qa/C7_C16_FOOTPRINT_BEFORE_AFTER.png",
@@ -449,8 +449,8 @@
     },
     {
       "path": "faculty_reuse/qa/HOSPITAL_ACTUAL_RESTORED.png",
-      "bytes": 501812,
-      "sha256": "bf3d0dfaccbdd96e5a2e1d5dbabe8da98f766c20a856f005cc9059cd623a7413"
+      "bytes": 501688,
+      "sha256": "b72d43fd74746e22b3daed29b025b988e4f6c971ec5971c4fb3e9852f42ebc96"
     },
     {
       "path": "faculty_reuse/qa/PUBLIC_CONTENT_SCAN.json",
