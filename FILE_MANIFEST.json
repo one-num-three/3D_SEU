@@ -1,5 +1,5 @@
 {
-  "stage": "framework_v0.1_with_independently_manifested_v01_v02_v03_v04_v05_v06_v07_v08_v09_assets",
+  "stage": "framework_v0.1_with_independently_manifested_v01_v02_v03_v04_v05_v06_v07_v08_v09_v10_assets",
   "license": "MIT",
   "files": [
     {
@@ -29,8 +29,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "3edce0fb3fd0475a5a7f59283aee18f9d782e5d5ece23b372852e973e2dddc69",
-      "bytes": 14189
+      "sha256": "b980f108b915c91615a6da3c711311973b0cb45671347281a5a37125629972b2",
+      "bytes": 15738
     },
     {
       "path": "docs/CANDIDATE_SCAN.json",
@@ -84,8 +84,8 @@
     },
     {
       "path": "tools/validate_candidate.py",
-      "sha256": "1440b484bb15671e87c5b193282a18cc002f82558290ad11812a1526cc1cc535",
-      "bytes": 4433
+      "sha256": "b87b5b74fd4ab99278787f022b143d22458284abfff1bb4ccc2cd33c64586739",
+      "bytes": 4473
     }
   ],
   "scope": "Framework files only; public_assets/, public_assets_v02/ and public_assets_v03/ each have an independent ASSET_MANIFEST.json. Preview website files are separately covered by preview/FILE_MANIFEST.json."
