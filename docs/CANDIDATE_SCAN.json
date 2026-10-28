@@ -1,10 +1,11 @@
 {
   "technical_scan": "PASS",
   "errors": [],
-  "file_count": 18,
+  "file_count": 51,
+  "preview_manifested_files": 28,
   "framework_license": "MIT",
   "framework_release_authorized": true,
   "campus_assets_legal_clearance": false,
   "public_release_performed": false,
-  "limits": "Pattern scan does not prove absence of every possible secret. Framework excludes all model/image assets; third-party campus asset clearance remains separate."
+  "limits": "Pattern scan does not prove absence of every possible secret. Framework and versioned campus assets have independent manifests and layered licenses; this scan is not rights clearance."
 }

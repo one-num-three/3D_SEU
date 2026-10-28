@@ -1,18 +1,37 @@
 {
-  "status": "PASS",
-  "checks": [
-    "fresh_workspace_module_directories_created",
-    "reinitialize_cannot_reset_claims",
-    "dependency_gate",
-    "two_process_claim_exactly_one_winner",
-    "nonowner_submission_rejected",
-    "wrong_baseline_rejected",
-    "path_escape_rejected",
-    "hash_mismatch_rejected",
-    "valid_submission",
-    "self_review_rejected",
-    "post_submit_tamper_rejected",
-    "independent_review_unlocks_dependency"
-  ],
-  "geometry_or_license_clearance": false
+  "framework_version": "0.2.0",
+  "coop": {
+    "status": "PASS",
+    "checks": [
+      "fresh_workspace_module_directories_created",
+      "reinitialize_cannot_reset_claims",
+      "dependency_gate",
+      "two_process_claim_exactly_one_winner",
+      "nonowner_submission_rejected",
+      "wrong_baseline_rejected",
+      "path_escape_rejected",
+      "hash_mismatch_rejected",
+      "valid_submission",
+      "self_review_rejected",
+      "post_submit_tamper_rejected",
+      "independent_review_unlocks_dependency"
+    ],
+    "geometry_or_license_clearance": false
+  },
+  "public_contract": {
+    "status": "PASS",
+    "checks": [
+      "actual_public_baseline_and_manifest_hashes",
+      "reject_release_git_commit",
+      "reject_local_origin_utm_m",
+      "reject_baseline_sha256",
+      "reject_baseline_manifest_sha256",
+      "reject_module_prefix_mismatch",
+      "current_task_claim_conflict_rejected",
+      "current_public_baseline_submit_and_independent_review"
+    ],
+    "synthetic_artifacts_only": true,
+    "no_live_task_claims_or_geometry_modified": true
+  },
+  "scope": "Real local CLI/contract tests with synthetic submissions; no geometry edits or mobile FPS assertions"
 }
