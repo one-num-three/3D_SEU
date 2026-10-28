@@ -1,0 +1,17 @@
+{
+  "tree_lod0": {
+    "vertices": 114,
+    "triangles": 212,
+    "materials": 1,
+    "objects": 1
+  },
+  "tree_lod1": {
+    "vertices": 32,
+    "triangles": 56,
+    "materials": 1,
+    "objects": 1
+  },
+  "runtime": "Use InstancedMesh JSON adapter, not individual Blender objects in WebGL",
+  "tree_instance_count": 603,
+  "lod0_total_triangles_if_all_visible": 127836
+}

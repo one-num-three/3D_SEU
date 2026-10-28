@@ -1,0 +1,120 @@
+{
+  "status": "PASS",
+  "input_count": 612,
+  "retained_count": 603,
+  "removed_count": 9,
+  "minimum_crown_to_integrated_building_bbox_m": 7.035436317323779,
+  "building_groups_checked": 307,
+  "removed": [
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300036079_020",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_300010601"
+      ],
+      "position_blender_m": [
+        151.8414,
+        -341.8133,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300036079_111",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_300010619__LOW_REMAINDER"
+      ],
+      "position_blender_m": [
+        212.9951,
+        -423.5823,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300036079_168",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_299961597"
+      ],
+      "position_blender_m": [
+        -9.8247,
+        -408.1257,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300036079_212",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_299961621"
+      ],
+      "position_blender_m": [
+        6.5413,
+        -360.7878,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300163621_037",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_300030330"
+      ],
+      "position_blender_m": [
+        -829.6774,
+        548.0912,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300163639_006",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_637696079",
+        "SEU_B_OSMWAY_637696079__LOW_REMAINDER"
+      ],
+      "position_blender_m": [
+        53.3611,
+        251.0327,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300163639_012",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_299961592"
+      ],
+      "position_blender_m": [
+        146.248,
+        179.2225,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_300163639_069",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_299961586"
+      ],
+      "position_blender_m": [
+        301.788,
+        211.8695,
+        0.04
+      ],
+      "action": "removed, not moved"
+    },
+    {
+      "tree_stable_id": "SEU_APPROX_TREE_OSMWAY_631050541_001",
+      "conflicting_building_ids": [
+        "SEU_B_OSMWAY_630686644"
+      ],
+      "position_blender_m": [
+        673.7598,
+        37.028,
+        0.04
+      ],
+      "action": "removed, not moved"
+    }
+  ],
+  "conservative_exclusion_not_actual_building_footprint": true
+}

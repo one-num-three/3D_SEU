@@ -1,0 +1,29 @@
+{
+  "pass": true,
+  "tree_stats": {
+    "instances": 384,
+    "maxVisibleDrawCalls": 17,
+    "geometryTrianglesPerTree": [
+      212,
+      56
+    ],
+    "approximateNotSurveyed": true
+  },
+  "visible_tree_batches": 17,
+  "gltf_bounds": {
+    "min": [
+      -887.3413606707733,
+      0.03999999910593033,
+      -761.3949333733339
+    ],
+    "max": [
+      891.523384897102,
+      11.489999808371067,
+      632.7196452426699
+    ]
+  },
+  "road_overrides": 398,
+  "road_material_variants": 7,
+  "road_ground_pass_preserved": true,
+  "not_a_gpu_or_phone_test": true
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "validated_instances": 603,
+  "minimum_measured_clearances_m": {
+    "road": 2.1752069109327903,
+    "building": 8.637000914343421,
+    "water_sports_construction": 3.561336413849133,
+    "between_centers": 11.041894604188194
+  },
+  "max_tree_drawcalls_400m_chunks": {
+    "384": 17,
+    "603": 19
+  },
+  "footprint_source": "201 baseline OSM footprints; current candidate 307 raised building groups separately checked in INTEGRATED_BUILDING_CLEARANCE_QA.json",
+  "mobile_runtime_not_measured": true
+}
