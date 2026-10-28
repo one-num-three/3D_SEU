@@ -1,61 +1,63 @@
 {
   "modules": [
     {
-      "task_id": "TEACH-DETAIL",
-      "write_prefix": "modules/teaching_detail",
-      "region": "教学楼1–8",
+      "task_id": "ENTRY-QA",
+      "write_prefix": "qa/entry_review",
+      "region": "库南/体育馆/泳馆/桥端",
       "building_ids": [
-        "SEU_B_OSMWAY_299961605",
-        "SEU_B_OSMWAY_299961622",
-        "SEU_B_OSMWAY_299961615",
-        "SEU_B_OSMWAY_299961617",
-        "SEU_B_OSMWAY_299961595",
-        "SEU_B_OSMWAY_299961592",
-        "SEU_B_OSMWAY_299961586",
-        "SEU_B_OSMWAY_299961591"
+        "SEU_B_OSMWAY_300030310",
+        "SEU_B_OSMWAY_630686644",
+        "SEU_B_OSMWAY_851764288"
       ]
     },
     {
-      "task_id": "GYM-DETAIL",
-      "write_prefix": "modules/gym_detail",
-      "region": "体育馆",
+      "task_id": "NAME-EVIDENCE",
+      "write_prefix": "modules/name_evidence",
+      "region": "全校园名称与来源",
+      "building_ids": []
+    },
+    {
+      "task_id": "HEIGHT-EVIDENCE",
+      "write_prefix": "modules/height_evidence",
+      "region": "未证高度与局部楼层",
+      "building_ids": []
+    },
+    {
+      "task_id": "JINZHI-EVIDENCE",
+      "write_prefix": "modules/jinzhi_evidence",
+      "region": "金智楼/电工电子北南楼",
       "building_ids": [
-        "SEU_B_OSMWAY_630686644"
+        "SEU_B_OSMWAY_299961621",
+        "SEU_B_OSMWAY_299961597"
       ]
     },
     {
-      "task_id": "ROAD-LABELS",
-      "write_prefix": "modules/road_labels",
-      "region": "当前校园道路标注层",
+      "task_id": "MOBILE-QA",
+      "write_prefix": "qa/mobile_review",
+      "region": "真实手机浏览器",
       "building_ids": []
     },
     {
-      "task_id": "CAMPUS-QA",
-      "write_prefix": "qa/campus_review",
-      "region": "教学+体育馆+道路交叉验收",
-      "building_ids": []
-    },
-    {
-      "task_id": "INTEGRATE",
-      "write_prefix": "releases",
-      "region": "整图合并/回滚",
+      "task_id": "INTEGRATION-REVIEW",
+      "write_prefix": "releases/next_candidate",
+      "region": "独立模块合并/回退",
       "building_ids": []
     },
     {
       "task_id": "RIGHTS-REVIEW",
       "write_prefix": "docs/rights",
-      "region": "发布许可及来源",
+      "region": "新增贡献来源与分层许可",
       "building_ids": []
     }
   ],
   "shared_readonly": [
     "project_contract.json",
-    "accepted baseline",
-    "stable building identity table"
+    "all published public_assets* directories",
+    "preview/patches.json"
   ],
   "only_integrator_writes": [
-    "whole-campus blend",
-    "release manifest"
+    "new full-campus checkpoint",
+    "new release manifest"
   ],
-  "note": "Tasks define exclusive modules, not actual workers already running."
+  "note": "Candidate prefixes are created by coop init. These task proposals do not claim that agents are already running."
 }

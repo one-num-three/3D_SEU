@@ -1,152 +1,184 @@
 {
   "schema_version": "1.0",
-  "status": "proposed_first_round_not_running",
+  "status": "proposed_next_tasks_not_live_worker_assignments",
+  "baseline_revision": "public_assets_v14",
   "tasks": [
     {
-      "id": "TEACH-DETAIL",
-      "owner_role": "teaching-detail-worker",
+      "id": "ENTRY-QA",
+      "owner_role": "entry-reviewer",
       "assigned_agent": null,
       "state": "queued",
-      "region": "教学楼1–8",
-      "write_prefix": "modules/teaching_detail",
+      "write_prefix": "qa/entry_review",
+      "region": "库南/体育馆/泳馆/桥端",
       "building_ids": [
-        "SEU_B_OSMWAY_299961605",
-        "SEU_B_OSMWAY_299961622",
-        "SEU_B_OSMWAY_299961615",
-        "SEU_B_OSMWAY_299961617",
-        "SEU_B_OSMWAY_299961595",
-        "SEU_B_OSMWAY_299961592",
-        "SEU_B_OSMWAY_299961586",
-        "SEU_B_OSMWAY_299961591"
+        "SEU_B_OSMWAY_300030310",
+        "SEU_B_OSMWAY_630686644",
+        "SEU_B_OSMWAY_851764288"
       ],
       "dependencies": [],
-      "input_revision": "R3D",
-      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
-      "input_access": "private_until_rights_cleared",
-      "goal": "细化已定位的庭院侧柱廊/开口；不扩大推定落地范围",
-      "acceptance": "照片证据逐面绑定；保留开放通道；不把教2/7上层条自动变实墙",
+      "input_revision": "public_assets_v14",
+      "input_sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31",
+      "input_path": "public_assets_v14/assets/SEU_campus_photorefined_v14.blend",
+      "input_access": "public_repository_versioned_assets",
+      "goal": "核实际地面/上层/台阶/门片；不把外观门等同可进门portal。",
+      "acceptance": "Submit evidence and truthful executed QA; independent review is required. Geometry changes need before/after, projection and retained-object checks.",
       "outputs": [
-        "module artifact",
+        "independent module or review artifact",
         "evidence.json",
         "QA report",
-        "before/after preview where visual geometry changed"
+        "before/after preview if geometry changed"
       ],
       "exclusions": [
-        "桃园西",
-        "梅园新增建模",
-        "修改统一坐标/原点/既有稳定ID"
+        "桃园西新增建模暂缓",
+        "不得覆写已冻结公开资产目录",
+        "不得改变共享坐标、原点、比例或已有stable ID",
+        "未验证层数、门洞和室内不得编造"
       ]
     },
     {
-      "id": "GYM-DETAIL",
-      "owner_role": "gym-detail-worker",
+      "id": "NAME-EVIDENCE",
+      "owner_role": "name-reviewer",
       "assigned_agent": null,
       "state": "queued",
-      "region": "体育馆",
-      "write_prefix": "modules/gym_detail",
-      "building_ids": [
-        "SEU_B_OSMWAY_630686644"
-      ],
-      "dependencies": [],
-      "input_revision": "R3D",
-      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
-      "input_access": "private_until_rights_cleared",
-      "goal": "补新翼边外立面，保留光伏、入口槽口、环缝下衬",
-      "acceptance": "入口336.49㎡开敞；不移动主馆或重缩放四翼",
-      "outputs": [
-        "module artifact",
-        "evidence.json",
-        "QA report",
-        "before/after preview where visual geometry changed"
-      ],
-      "exclusions": [
-        "桃园西",
-        "梅园新增建模",
-        "修改统一坐标/原点/既有稳定ID"
-      ]
-    },
-    {
-      "id": "ROAD-LABELS",
-      "owner_role": "road-label-worker",
-      "assigned_agent": null,
-      "state": "queued",
-      "region": "当前校园道路标注层",
-      "write_prefix": "modules/road_labels",
+      "write_prefix": "modules/name_evidence",
+      "region": "全校园名称与来源",
       "building_ids": [],
       "dependencies": [],
-      "input_revision": "R3D",
-      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
-      "input_access": "private_until_rights_cleared",
-      "goal": "区分道路等级/名称/估宽置信度，不擅改道路几何",
-      "acceptance": "388估宽派生面和10原始行人区域面分别标注，区域边界不当中心线",
+      "input_revision": "public_assets_v14",
+      "input_sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31",
+      "input_path": "public_assets_v14/assets/SEU_campus_photorefined_v14.blend",
+      "input_access": "public_repository_versioned_assets",
+      "goal": "楼名、使用学院、别名分字段；未知不猜。",
+      "acceptance": "Submit evidence and truthful executed QA; independent review is required. Geometry changes need before/after, projection and retained-object checks.",
       "outputs": [
-        "module artifact",
+        "independent module or review artifact",
         "evidence.json",
         "QA report",
-        "before/after preview where visual geometry changed"
+        "before/after preview if geometry changed"
       ],
       "exclusions": [
-        "桃园西",
-        "梅园新增建模",
-        "修改统一坐标/原点/既有稳定ID"
+        "桃园西新增建模暂缓",
+        "不得覆写已冻结公开资产目录",
+        "不得改变共享坐标、原点、比例或已有stable ID",
+        "未验证层数、门洞和室内不得编造"
       ]
     },
     {
-      "id": "CAMPUS-QA",
-      "owner_role": "campus-qa-worker",
+      "id": "HEIGHT-EVIDENCE",
+      "owner_role": "height-reviewer",
       "assigned_agent": null,
       "state": "queued",
-      "region": "教学+体育馆+道路交叉验收",
-      "write_prefix": "qa/campus_review",
+      "write_prefix": "modules/height_evidence",
+      "region": "未证高度与局部楼层",
       "building_ids": [],
-      "dependencies": [
-        "TEACH-DETAIL",
-        "GYM-DETAIL",
-        "ROAD-LABELS"
-      ],
-      "input_revision": "R3D",
-      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
-      "input_access": "private_until_rights_cleared",
-      "goal": "复核来源、坐标、ID、实际mesh投影、道路/院落与同视角渲染",
-      "acceptance": "独立验收，不改几何；必须列未核实项",
+      "dependencies": [],
+      "input_revision": "public_assets_v14",
+      "input_sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31",
+      "input_path": "public_assets_v14/assets/SEU_campus_photorefined_v14.blend",
+      "input_access": "public_repository_versioned_assets",
+      "goal": "主体净高、屋面/冠架、估计及官方数值分开；不统一拉高。",
+      "acceptance": "Submit evidence and truthful executed QA; independent review is required. Geometry changes need before/after, projection and retained-object checks.",
       "outputs": [
-        "module artifact",
+        "independent module or review artifact",
         "evidence.json",
         "QA report",
-        "before/after preview where visual geometry changed"
+        "before/after preview if geometry changed"
       ],
       "exclusions": [
-        "桃园西",
-        "梅园新增建模",
-        "修改统一坐标/原点/既有稳定ID"
+        "桃园西新增建模暂缓",
+        "不得覆写已冻结公开资产目录",
+        "不得改变共享坐标、原点、比例或已有stable ID",
+        "未验证层数、门洞和室内不得编造"
       ]
     },
     {
-      "id": "INTEGRATE",
+      "id": "JINZHI-EVIDENCE",
+      "owner_role": "building-evidence-worker",
+      "assigned_agent": null,
+      "state": "queued",
+      "write_prefix": "modules/jinzhi_evidence",
+      "region": "金智楼/电工电子北南楼",
+      "building_ids": [
+        "SEU_B_OSMWAY_299961621",
+        "SEU_B_OSMWAY_299961597"
+      ],
+      "dependencies": [],
+      "input_revision": "public_assets_v14",
+      "input_sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31",
+      "input_path": "public_assets_v14/assets/SEU_campus_photorefined_v14.blend",
+      "input_access": "public_repository_versioned_assets",
+      "goal": "先用公开轮廓和官方实景核栋/朝向/层数；未核旧候选不进主图。",
+      "acceptance": "Submit evidence and truthful executed QA; independent review is required. Geometry changes need before/after, projection and retained-object checks.",
+      "outputs": [
+        "independent module or review artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview if geometry changed"
+      ],
+      "exclusions": [
+        "桃园西新增建模暂缓",
+        "不得覆写已冻结公开资产目录",
+        "不得改变共享坐标、原点、比例或已有stable ID",
+        "未验证层数、门洞和室内不得编造"
+      ]
+    },
+    {
+      "id": "MOBILE-QA",
+      "owner_role": "device-reviewer",
+      "assigned_agent": null,
+      "state": "queued",
+      "write_prefix": "qa/mobile_review",
+      "region": "真实手机浏览器",
+      "building_ids": [],
+      "dependencies": [],
+      "input_revision": "public_assets_v14",
+      "input_sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31",
+      "input_path": "public_assets_v14/assets/SEU_campus_photorefined_v14.blend",
+      "input_access": "public_repository_versioned_assets",
+      "goal": "记录实机型号/浏览器/视角/帧时/内存；无实机就blocked，不能用桌面或模板PASS代替。",
+      "acceptance": "Submit evidence and truthful executed QA; independent review is required. Geometry changes need before/after, projection and retained-object checks.",
+      "outputs": [
+        "independent module or review artifact",
+        "evidence.json",
+        "QA report",
+        "before/after preview if geometry changed"
+      ],
+      "exclusions": [
+        "桃园西新增建模暂缓",
+        "不得覆写已冻结公开资产目录",
+        "不得改变共享坐标、原点、比例或已有stable ID",
+        "未验证层数、门洞和室内不得编造"
+      ]
+    },
+    {
+      "id": "INTEGRATION-REVIEW",
       "owner_role": "integration-maintainer",
       "assigned_agent": null,
       "state": "queued",
-      "region": "整图合并/回滚",
-      "write_prefix": "releases",
+      "write_prefix": "releases/next_candidate",
+      "region": "独立模块合并/回退",
       "building_ids": [],
       "dependencies": [
-        "CAMPUS-QA"
+        "ENTRY-QA",
+        "NAME-EVIDENCE"
       ],
-      "input_revision": "R3D",
-      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
-      "input_access": "private_until_rights_cleared",
-      "goal": "仅合并验收通过且哈希相符的独立模块",
-      "acceptance": "全旧对象指纹、明确隐藏清单、冷开、便携重建通过",
+      "input_revision": "public_assets_v14",
+      "input_sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31",
+      "input_path": "public_assets_v14/assets/SEU_campus_photorefined_v14.blend",
+      "input_access": "public_repository_versioned_assets",
+      "goal": "只在新版本合并验收通过候选，精确替换名单、冷开、旧指纹/材质、隐私及空间QA。",
+      "acceptance": "Submit evidence and truthful executed QA; independent review is required. Geometry changes need before/after, projection and retained-object checks.",
       "outputs": [
-        "module artifact",
+        "independent module or review artifact",
         "evidence.json",
         "QA report",
-        "before/after preview where visual geometry changed"
+        "before/after preview if geometry changed"
       ],
       "exclusions": [
-        "桃园西",
-        "梅园新增建模",
-        "修改统一坐标/原点/既有稳定ID"
+        "桃园西新增建模暂缓",
+        "不得覆写已冻结公开资产目录",
+        "不得改变共享坐标、原点、比例或已有stable ID",
+        "未验证层数、门洞和室内不得编造"
       ]
     },
     {
@@ -154,25 +186,27 @@
       "owner_role": "rights-maintainer",
       "assigned_agent": null,
       "state": "queued",
-      "region": "发布许可及来源",
       "write_prefix": "docs/rights",
+      "region": "新增贡献来源与分层许可",
       "building_ids": [],
       "dependencies": [],
-      "input_revision": "R3D",
-      "input_sha256": "3c9a33d218a63dacbd91fd2c4829973b8befda06fce3df1991b84e57f28614fe",
-      "input_access": "private_until_rights_cleared",
-      "goal": "逐资产许可与来源审核，决定清洁重建或取得许可",
-      "acceptance": "未明资产不进公开发布包；不得因删原图自动通过",
+      "input_revision": "public_assets_v14",
+      "input_sha256": "5cd300862a53d2f3e42a0f8618eb13bff157049743b74e9647229f3e0d6d9a31",
+      "input_path": "public_assets_v14/assets/SEU_campus_photorefined_v14.blend",
+      "input_access": "public_repository_versioned_assets",
+      "goal": "不得把OSM地理数据改MIT，不公开私图像素/内部ID或无权贴图。",
+      "acceptance": "Submit evidence and truthful executed QA; independent review is required. Geometry changes need before/after, projection and retained-object checks.",
       "outputs": [
-        "module artifact",
+        "independent module or review artifact",
         "evidence.json",
         "QA report",
-        "before/after preview where visual geometry changed"
+        "before/after preview if geometry changed"
       ],
       "exclusions": [
-        "桃园西",
-        "梅园新增建模",
-        "修改统一坐标/原点/既有稳定ID"
+        "桃园西新增建模暂缓",
+        "不得覆写已冻结公开资产目录",
+        "不得改变共享坐标、原点、比例或已有stable ID",
+        "未验证层数、门洞和室内不得编造"
       ]
     }
   ]

@@ -2,7 +2,7 @@
 
 仓库：https://github.com/one-num-three/3D_SEU
 
-这是九龙湖校园重建项目：轻量 AI 协作框架用于任务认领、独立模块、交接证据与统一验收；`public_assets/`、`public_assets_v02/` 与 `public_assets_v03/` 分版保留已审核的校园基底、工作模型、体块样板和本轮修复。**这不是完整校园最终模型；不附私人照片或卫星截图。**框架与资产分别记录许可和清单，未收录资产不因此自动开放。
+这是九龙湖校园重建项目：轻量 AI 协作框架用于任务认领、独立模块、交接证据与统一验收；各 `public_assets*` 目录分版保留校园基底、工作模型、体块样板及后续修复；当前公开编辑输入见 `project_contract.json`。**这不是完整校园最终模型；不附私人照片或卫星截图。**框架与资产分别记录许可和清单，未收录资产不因此自动开放。
 
 本框架代码与文档采用 [MIT License](LICENSE)，Copyright (c) 2026 3D_SEU contributors。第三方地理数据、影像、字体及模型资产不因本LICENSE被重新授权；见 [NOTICE.md](NOTICE.md)。
 
@@ -165,24 +165,20 @@ v0.1、v0.2、v0.3 原资产逐字节保留。新增地表独立使用 `public_a
 框架代码MIT；原创模型视觉贡献CC BY4.0（3D_SEU contributors）；OSM派生地理数据ODbL。框架根FILE_MANIFEST只描述框架文件，本批资产由public_assets/ASSET_MANIFEST.json独立覆盖。
 
 ## 5分钟接手
-1. 读 `project_contract.json` 和 `AGENTS.md`。
-2. 读 `tasks.json`，选角色；任务尚未启动，角色不是正在运行的AI。
-3. 管理员在**同一协调工作区**初始化：`python3 tools/coop.py init --db coordination.sqlite --tasks tasks.json`。
-4. worker认领：`python3 tools/coop.py claim --db coordination.sqlite --task TEACH-DETAIL --actor agent-teaching`。SQLite事务提供同一数据库上的唯一认领；单纯提交JSON不提供原子性。
-5. 只写自己的module目录，产出证据JSON，再调用submit。独立QA调用review，维护者统一合并。命令帮助见 `python3 tools/coop.py --help`。
-6. 自检：`python3 tools/test_coop.py`。
+1. 先读 [AI交接入口](docs/AI_HANDOFF.md)、`project_contract.json`、`AGENTS.md`；公开基线文件/SHA/版本提交在契约中，不需要旧私有R3D。
+2. `python tools/validate_contract.py --root .`核实际公开模型与manifest；`tasks.json`是下一轮可认领建议，不是实时worker名单。
+3. 管理员在**同一协调工作区**初始化：`python tools/coop.py init --db coordination.sqlite --tasks tasks.json --root .`。
+4. worker认领：`python tools/coop.py claim --db coordination.sqlite --task NAME-EVIDENCE --actor agent-names`。SQLite只保证同一数据库唯一认领，JSON文件或各机器的DB副本不提供全局原子锁。
+5. 仅写独占prefix，填写真实证据和QA，独立review后由维护者合并新版本；不要覆写已冻结资产。`NOT_RUN`模板不能当PASS提交。
+6. 自检：`python tools/test_coop.py`、`python tools/test_contract.py`。这些是协议测试，不是楼体准确度或手机FPS证书。
 
 ## 多机器 / Git
-不能把SQLite数据库复制到各clone再称全局锁。跨机器使用**单一维护者认领台账**：worker开认领PR，由维护者串行核准唯一任务owner后才开工；实际分支 `task/<ID>/<actor>`，模块一人写，共享基底只读，几何修改PR和证据分开审。当前包没有远程协调服务/GitHub自动化，也未验证网络文件系统锁语义。SQLite仅用于本机共享工作区演示和协作。
-
-`docs/RELEASE_READINESS.md`列框架与模型的发布边界；`CONTRIBUTING.md`规定交接。不要把“工具测试通过”解读为全模型许可或几何验收通过。
+跨机器通过单一维护者认领PR/台账串行核准owner，分支`task/<ID>/<actor>`。当前工具没有远程协调服务、GitHub自动发布或跨机器锁；权限由仓库维护者控制。旧模板说明见`docs/history/TASK_TEMPLATE_V010.md`，不作为今日任务状态。
 
 ## 提交与审查例子
 ```sh
-python3 tools/coop.py submit --db coordination.sqlite --task TEACH-DETAIL --actor agent-teaching --root . --evidence modules/teaching_detail/evidence.json
-python3 tools/coop.py review --db coordination.sqlite --task TEACH-DETAIL --actor independent-reviewer --root . --decision accept
-python3 tools/coop.py status --db coordination.sqlite
+python tools/coop.py submit --db coordination.sqlite --task NAME-EVIDENCE --actor agent-names --root . --evidence modules/name_evidence/evidence.json
+python tools/coop.py review --db coordination.sqlite --task NAME-EVIDENCE --actor independent-reviewer --root . --decision accept
+python tools/coop.py status --db coordination.sqlite
 ```
-`examples/evidence.template.json`必须填真实SHA和报告文件；空模板故意不能提交。当前CLI不自动运行几何建模、不替你上传PR，也不管理第三方登录。
-
-框架v0.1已发布；本批3D资产的范围与复核结果见 `public_assets/README.md`。`init --root .`会在空工作区创建各任务module目录，不需要先有模型文件；真实任务仍需获得授权输入。
+`examples/evidence.template.json`必须换真实artifact/hash、来源、限制与执行结果。`docs/RELEASE_READINESS.md`区分公开版本、权利和测试边界；`CONTRIBUTING.md`定义唯一owner/提交/合并。`init`能创建候选目录，但不会下载模型、生成细节或证明实测完成。

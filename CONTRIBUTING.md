@@ -1,15 +1,20 @@
-# 协作规则
+# 协作与交接
 
-## 状态与唯一负责人
-queued → claimed → submitted → validated → merged。当前实现自动执行至validated；merged必须维护者实际合并并记录Git提交/发布清单后另行记账，不由worker自己说完成。被驳回回到claimed。blocked和撤销/换人通过维护者操作台账，不能删除锁抢任务；当前CLI不实现超时抢占。
-每个task只有一个owner，多worker可以读同一基底，不能并写同一个blend。教学worker与体育馆worker并行；道路只改标签。QA是独立审查角色，不能自审；维护者是唯一整图写入人。
+## 单一负责人
+状态为queued→claimed→submitted→validated→merged。当前CLI执行到validated；真正merged由维护者记录实际合并提交/清单，不由worker自报。任务输入使用`project_contract.json`指定的公开版本文件/SHA；旧框架任务只供历史理解。
 
-## 输入/输出契约
-任务输入为固定R3D SHA和只读坐标/ID表；有私有证据需求的worker须在授权环境获取，公开候选不携带凭据。输出是独立collection/module、相对路径manifest、sources/assumptions/explicit_hidden_objects、QA与前后图。所有文件须落在task的write_prefix。
-提交CLI校验baseline SHA、文件SHA、路径边界、证据字段与声明的QA状态；这些是交接检查。真正几何QA需另跑Blender检查：mesh实际世界坐标、投影差、道路/院落冲突、隐藏替换、附属光伏、冷启动。QA reviewer必须看报告和图，再确认review，不可只看CLI退出码。
+在同一受信共享工作区：`python tools/coop.py init --db coordination.sqlite --tasks tasks.json --root .`，随后claim自己的task。SQLite BEGIN IMMEDIATE与条件状态转换阻止同一数据库双认领；actor是声明名字，不是身份认证。不要复制数据库到各机器后称其为全局锁，不设自动超时抢锁。已有数据库不能init重置；更换任务轮次须先由维护者关闭/归档旧认领，再建立新的单一协调台账，不能另开DB绕过未完成的owner。
 
-## 合并/冲突
-维护者按依赖拓扑合并模块到新副本；若同一对象被两模块改动，暂停该模块，指定单一owner重基线，不做最后写入覆盖。检查原对象指纹，允许隐藏名单必须显式。通过冷开/紧凑版等价/哈希后保存新版本，失败回滚不覆原件。
+跨机器：用单一维护者的认领PR/台账串行核准owner，分支`task/<ID>/<actor>`。仓库已存在于 https://github.com/one-num-three/3D_SEU ，但本工具没有远程自动认领/PR发布/跨机器锁服务。实际协作权限由维护者控制。
 
-## 最小接口的信任边界
-SQLite BEGIN IMMEDIATE事务和条件状态转换在同一个本地数据库防止双认领；actor是声明身份，不是认证系统，能改数据库文件的人仍有管理员能力。不得当作敌对环境安全隔离。正式Git PR必须启用身份验证与维护者review；本次未配置任何远程仓库。
+## 模块与证据
+候选只能写task.write_prefix。输入是固定公开检查点、模块manifest/源码事实与公开参考；私人原图不是每个贡献者必须获得的依赖。若某细节确实需要私有证据，先记录缺口或以公开证据重新核验，不发布内部关联信息。
+
+提交evidence包含baseline SHA、artifacts路径/hash、sources权利和适用范围、assumptions、QA报告和必要前后图。`examples/evidence.template.json`的NOT_RUN需要真实检查完成后再改；空模板不能提交。CLI仅验证交接格式/哈希/路径，真正几何和来源必须独立审查。
+
+几何改动要核世界投影、院洞/通道/道路冲突、保留对象/材质、精确替换名单、冷开和GLB回读、树/道具避让。入口/台阶检查不等于导航portal已经实现；手机性能必须区分真机实测、模拟环境和未运行。
+
+## 合并与发布
+唯一维护者把通过的模块合到新副本；两个模块若改同一对象，暂停并指定owner重基线，不做最后写入覆盖。先核所有旧补丁继续加载，再做运行时合批，不能直接改已batch后的源可见性。失败回滚，不覆写冻结资产。
+
+新发布须保留分层许可、源事实/生成参数与完整manifest，扫描文本、PNG metadata、压缩Blend、gzip/ZIP；排除__pycache__/pyc和私有照片关联ID。部署成功以具体commit及远端hash/Pages结果为证，不以本地文件生成代替。`project_contract.release_git_commit`由发布者填真实基线提交；新贡献以其实际检出的公开文件SHA为准。

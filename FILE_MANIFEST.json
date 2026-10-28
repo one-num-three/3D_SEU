@@ -1,92 +1,113 @@
 {
-  "stage": "framework_v0.1_with_independently_manifested_v01_v02_v03_v04_v05_v06_v07_v08_v09_v10_v11_v12_v13_v14_assets",
+  "stage": "framework_v0.2_public_baseline_handoff_with_independently_manifested_assets",
   "license": "MIT",
   "files": [
     {
       "path": ".gitignore",
-      "sha256": "2d2b78304acb14afaea9acb86975366f162054ff1f28445c7d064d6d5954a74a",
-      "bytes": 112
+      "bytes": 112,
+      "sha256": "2d2b78304acb14afaea9acb86975366f162054ff1f28445c7d064d6d5954a74a"
     },
     {
       "path": "AGENTS.md",
-      "sha256": "9820d2e819dabfab527f867821265ee594adbcab63ebb9a23d9d2154d4211a86",
-      "bytes": 942
+      "bytes": 2137,
+      "sha256": "8f5edd8e25c80e4c072438f3bb14d4c8383fb2997bfe4476db4ee010bb29fd0d"
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "cfb9860426428100e72ef6165475574e21a9e4351601145cc9cd35e7a00178dd",
-      "bytes": 1963
+      "bytes": 2709,
+      "sha256": "362be142718acaa9e7318a3471e76e42032f3fc88b562d67a0ffba91ee8c500f"
     },
     {
       "path": "LICENSE",
-      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b",
-      "bytes": 1076
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
     },
     {
       "path": "NOTICE.md",
-      "sha256": "b23ccec2d5e63ff04b453120f150e5b2e0f25a11e6a2902e8d749c26078e4e94",
-      "bytes": 805
+      "bytes": 911,
+      "sha256": "5b572d67edad2888d07eb766726bd11ef50e5ad5c06dc8b8883305847ec362de"
     },
     {
       "path": "README.md",
-      "sha256": "832c8bc84daace5f82b2e5fd2dcbc786b8d874c7e44e7e1072cd5a156f3e7c1e",
-      "bytes": 23885
+      "bytes": 23740,
+      "sha256": "823ea93936be97814db9c6100c1275ba55fa441bbfdcb0a017a631d9f403c7d6"
+    },
+    {
+      "path": "docs/AI_HANDOFF.md",
+      "bytes": 2558,
+      "sha256": "b0d76cff389d3c60fee30e30d676437b9e9333a6604b211f4614e4d333008421"
     },
     {
       "path": "docs/CANDIDATE_SCAN.json",
-      "sha256": "0a85249b5a92e4735a53933235b4b1f2ff8a4c402a7bb98c68cf5de62b139013",
-      "bytes": 389
+      "bytes": 449,
+      "sha256": "b5411c63e5d24f9443927c2fcd9254d71b8df677ea13756492c67fead8669faa"
     },
     {
       "path": "docs/RELEASE_READINESS.md",
-      "sha256": "0d62af36ee399e2c7224213e1ba7bd6a8ac494db09dce5715c9f2c8937ad181f",
-      "bytes": 3836
+      "bytes": 1234,
+      "sha256": "22446bb1b50f430c82f43052182bd80c1d660b399b4f3b753da843cd5c2ab237"
     },
     {
       "path": "docs/TEST_RESULTS.json",
-      "sha256": "6123f7400f1c1cd454b00c177022d159474ba7a6c1b4304533a6b77130746790",
-      "bytes": 497
+      "bytes": 1197,
+      "sha256": "55e1ec2fe9766ea91741bc53256de718e80ad69748dfd825f296c51d63006c1b"
+    },
+    {
+      "path": "docs/history/TASK_TEMPLATE_V010.md",
+      "bytes": 615,
+      "sha256": "5b7f790234d8057335d805cd8a5f6e00a1fb5583fe9b8ab076291b81c87d3e20"
     },
     {
       "path": "examples/evidence.template.json",
-      "sha256": "9a2aa5196925e3455ede7cf5ac2a17cb1ae2f54640e1fbccd3d6c525fc132299",
-      "bytes": 742
+      "bytes": 669,
+      "sha256": "5a7484f52a9f93a6ec1208c83f8818547f9727d7febac32774848acb475feec9"
     },
     {
       "path": "modules.json",
-      "sha256": "678d7541e541cbfe3680459f1f432d0da4bdb441a774904fe5e4b1f2e05e94f4",
-      "bytes": 1537
+      "bytes": 1706,
+      "sha256": "1a8ee844cfa2db5dc485ea3c0c03b282ca956215ccbcacbc1647c2f414dd1612"
     },
     {
       "path": "project_contract.json",
-      "sha256": "067e8876e8c815344413b29845cc285f86bddcef4fcb434e28942867f715be6f",
-      "bytes": 722
+      "bytes": 1392,
+      "sha256": "8a1114ec938b9c787861f9d28e41fbec7335efb08f48fd71750626940b3e1f51"
     },
     {
       "path": "schemas/evidence.schema.json",
-      "sha256": "b96d3c3ac2d9b3e638c5951fb9ecd4c475d7ea5c5b6235952f02e568461758b4",
-      "bytes": 678
+      "bytes": 678,
+      "sha256": "b96d3c3ac2d9b3e638c5951fb9ecd4c475d7ea5c5b6235952f02e568461758b4"
     },
     {
       "path": "tasks.json",
-      "sha256": "58f75b6722068d80ed946f92ae2ebfe7ddf737b4eaf9099d967eb29d29ef84a3",
-      "bytes": 6021
+      "bytes": 9189,
+      "sha256": "ec2f9977d119becec906c232c2bd1a3b844741e827972bb36af2ebd8869bf34b"
     },
     {
       "path": "tools/coop.py",
-      "sha256": "01f36f0d78dbf86b7d3fcd2761dc325f61d413f621046353f994920bca77fe39",
-      "bytes": 5139
+      "bytes": 5139,
+      "sha256": "01f36f0d78dbf86b7d3fcd2761dc325f61d413f621046353f994920bca77fe39"
+    },
+    {
+      "path": "tools/test_contract.py",
+      "bytes": 3423,
+      "sha256": "836d92bdbbc2b163311d3ce4999203823df3f6f23ff8e5843519646bba9af4bd"
     },
     {
       "path": "tools/test_coop.py",
-      "sha256": "3ad526a3047f64d3a78e722dc998f205f637d4d4db858e74e429f72c72e04f23",
-      "bytes": 3421
+      "bytes": 3421,
+      "sha256": "3ad526a3047f64d3a78e722dc998f205f637d4d4db858e74e429f72c72e04f23"
     },
     {
       "path": "tools/validate_candidate.py",
-      "sha256": "d8361d038df094f395a6fb76f36b956c6df7007855aa0abbd5ed98797e34455d",
-      "bytes": 4633
+      "bytes": 4771,
+      "sha256": "9ad109a31a7bf034c565bbd133d3a79f80e9bd426b023031b9ecbb4c56eccb75"
+    },
+    {
+      "path": "tools/validate_contract.py",
+      "bytes": 3813,
+      "sha256": "b5a8a46a15945674a24c853d68a96919021c146a1105c51dccdf30d135e6fd05"
     }
   ],
-  "scope": "Framework files only; public_assets/, public_assets_v02/ and public_assets_v03/ each have an independent ASSET_MANIFEST.json. Preview website files are separately covered by preview/FILE_MANIFEST.json."
+  "scope": "Framework code and handoff documents only; versioned public_assets directories and preview have independent manifests.",
+  "framework_version": "0.2.0"
 }
