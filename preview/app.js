@@ -1,5 +1,6 @@
-import {configureGroundPass} from './ground-pass.js?v=0.4.1';
-import {applyPalette} from './palette.js?v=0.4.1';
+import {applyModelPatches,isEffectivelyVisible} from './model-patches.js?v=0.5.0';
+import {configureGroundPass} from './ground-pass.js?v=0.5.0';
+import {applyPalette} from './palette.js?v=0.5.0';
 /* MIT © 2026 3D_SEU contributors. Geometry and data retain their separate licenses. */
 const $ = id => document.getElementById(id);
 const host = $('canvas-host'), panel = $('loading');
@@ -20,7 +21,7 @@ document.addEventListener('visibilitychange',()=>{if(!document.hidden)requestDra
 const buttons = ['overview','top','rotate','reset','pool'];
 function fail(message) { panel.hidden=false; $('load-title').textContent='暂时无法显示模型'; $('load-detail').textContent=message; $('progress').hidden=true; document.querySelector('.loader').hidden=true; $('retry').hidden=false; $('render-status').textContent='加载未完成'; buttons.forEach(id=>$(id).disabled=true); }
 $('retry').onclick=()=>location.reload();
-async function metadata(){try{const r=await fetch('./preview/release.json?v=0.4.1',{cache:'no-store'});if(!r.ok)throw Error();const m=await r.json(); if(m.publishedAt) $('published').textContent=`发布日期：${m.publishedAt}`; if(/^[a-f0-9]{40}$/.test(m.modelCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.modelCommit}`;a.textContent=`模型提交：${m.modelCommit.slice(0,12)}`;$('commit').replaceChildren(a);} if(/^[a-f0-9]{40}$/.test(m.basemapCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.basemapCommit}`;a.textContent=`地表提交：${m.basemapCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.viewerCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.viewerCommit}`;a.textContent=`网页提交：${m.viewerCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);}}catch{ const note=document.createElement('small');note.textContent=' · 元数据暂不可用';$('commit').append(note); }}
+async function metadata(){try{const r=await fetch('./preview/release.json?v=0.5.0',{cache:'no-store'});if(!r.ok)throw Error();const m=await r.json(); if(m.publishedAt) $('published').textContent=`发布日期：${m.publishedAt}`; if(/^[a-f0-9]{40}$/.test(m.modelCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.modelCommit}`;a.textContent=`基础资产提交：${m.modelCommit.slice(0,12)}`;$('commit').replaceChildren(a);} if(/^[a-f0-9]{40}$/.test(m.buildingPatchCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.buildingPatchCommit}`;a.textContent=`建筑局部提交：${m.buildingPatchCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.basemapCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.basemapCommit}`;a.textContent=`地表提交：${m.basemapCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.viewerCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.viewerCommit}`;a.textContent=`网页提交：${m.viewerCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);}}catch{ const note=document.createElement('small');note.textContent=' · 元数据暂不可用';$('commit').append(note); }}
 metadata();
 function view(top=false){controls.autoRotate=false;$('rotate').setAttribute('aria-pressed','false');controls.target.copy(center);camera.position.copy(center).add(new THREE.Vector3(top?0.001:0.8,top?1:0.85,top?0.001:1).normalize().multiplyScalar(radius));camera.updateProjectionMatrix();controls.update();updateClipping();}
 async function start(){try{
@@ -37,9 +38,13 @@ const zipped=new Uint8Array(received);let offset=0;for(const chunk of chunks){zi
 const entries=await new Promise((resolve,reject)=>unzip(zipped,{filter:f=>f.name==='SEU_campus_restored_v03.glb'},(err,data)=>err?reject(err):resolve(data)));
 const bytes=entries['SEU_campus_restored_v03.glb'];if(!bytes||bytes.length!==29895536||new DataView(bytes.buffer,bytes.byteOffset,12).getUint32(0,true)!==0x46546c67)throw Error('模型包内容不匹配，无法安全显示。请重试。');
 const digest=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),b=>b.toString(16).padStart(2,'0')).join('');if(digest!=='416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213')throw Error('模型校验失败，请重新下载。');
-$('load-title').textContent='正在构建三维视图';const gltf=await new GLTFLoader().parseAsync(bytes.buffer.slice(bytes.byteOffset,bytes.byteOffset+bytes.byteLength),'');model=gltf.scene;applyPalette(model);scene.add(model);
+$('load-title').textContent='正在构建三维视图';const gltf=await new GLTFLoader().parseAsync(bytes.buffer.slice(bytes.byteOffset,bytes.byteOffset+bytes.byteLength),'');model=gltf.scene;
+const patchResponse=await fetch('./preview/patches.json?v=0.5.0');if(!patchResponse.ok)throw Error('局部修复清单加载失败');
+const patchConfig=await patchResponse.json();
+await applyModelPatches(gltf,patchConfig,new GLTFLoader(),label=>{$('load-title').textContent=`正在加载局部修复：${label}`;});
+applyPalette(model);scene.add(model);
 $('load-title').textContent='正在加载 v0.4 地表底图';
-const overlayMetaResponse=await fetch('./preview/overlay.json?v=0.4.1');if(!overlayMetaResponse.ok)throw Error('底图配置加载失败，请重试。');
+const overlayMetaResponse=await fetch('./preview/overlay.json?v=0.5.0');if(!overlayMetaResponse.ok)throw Error('底图配置加载失败，请重试。');
 const overlayMeta=await overlayMetaResponse.json();
 const overlayResponse=await fetch(overlayMeta.url);if(!overlayResponse.ok)throw Error('底图文件加载失败，请重试。');
 const overlayBytes=await overlayResponse.arrayBuffer();
@@ -54,15 +59,15 @@ sun.castShadow=false;sun.shadow.mapSize.set(2048,2048);const shadowExtent=sphere
 Object.assign(sun.shadow.camera,{left:-shadowExtent,right:shadowExtent,top:shadowExtent,bottom:-shadowExtent,near:1,far:6000});sun.shadow.camera.updateProjectionMatrix();sun.shadow.bias=-.00002;sun.shadow.normalBias=.15;renderer.shadowMap.needsUpdate=true;
 radius=sphere.radius/Math.sin(THREE.MathUtils.degToRad(camera.fov/2))*1.12;if(camera.aspect<1)radius/=camera.aspect;controls.minDistance=sphere.radius*.025;controls.maxDistance=radius*4;view();
 $('pool').onclick=()=>{
- const b=new THREE.Box3();model.traverse(n=>{if(n.isMesh&&n.name.startsWith('SEU_B_OSMWAY_851764288__'))b.expandByObject(n);});
+ const b=new THREE.Box3();model.traverse(n=>{if(n.isMesh&&isEffectivelyVisible(n)&&n.name.startsWith('SEU_B_OSMWAY_851764288_V05'))b.expandByObject(n);});
  if(b.isEmpty()){$('render-status').textContent='泳馆定位数据未找到';return;}
  const c=b.getCenter(new THREE.Vector3()),s=b.getBoundingSphere(new THREE.Sphere());
  controls.autoRotate=false;$('rotate').setAttribute('aria-pressed','false');controls.target.copy(c);
  const distance=Math.max(controls.minDistance*1.2,s.radius/Math.sin(THREE.MathUtils.degToRad(camera.fov/2))*1.4/Math.min(1,camera.aspect));
  camera.position.copy(c).add(new THREE.Vector3(.8,.65,1).normalize().multiplyScalar(distance));controls.update();updateClipping();requestDraw();
- $('render-status').textContent='泳馆 · 已恢复局部模型（非完成精模）';
+ $('render-status').textContent='泳馆 · v0.5 局部修复（非全校完成）';
 };
-$('overview').onclick=()=>view();$('reset').onclick=()=>view();$('top').onclick=()=>view(true);$('rotate').onclick=()=>{controls.autoRotate=!controls.autoRotate;$('rotate').setAttribute('aria-pressed',String(controls.autoRotate));requestDraw();};buttons.forEach(id=>$(id).disabled=false);panel.hidden=true;$('render-status').textContent='建筑 v0.3 ＋ 地表 v0.4 · 校验通过';
+$('overview').onclick=()=>view();$('reset').onclick=()=>view();$('top').onclick=()=>view(true);$('rotate').onclick=()=>{controls.autoRotate=!controls.autoRotate;$('rotate').setAttribute('aria-pressed',String(controls.autoRotate));requestDraw();};buttons.forEach(id=>$(id).disabled=false);panel.hidden=true;$('render-status').textContent='建筑局部 v0.5 ＋ 地表 v0.4 · 校验通过';
 requestDraw();
 }catch(e){console.error('Preview load failed',e);fail(e.message?.includes('fetch')?'网络加载失败，请检查连接后重新加载。':e.message||'模型解析失败，请重新加载。');}}
 start();

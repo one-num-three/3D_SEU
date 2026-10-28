@@ -1,6 +1,6 @@
 {
-  "modelVersion": "0.3",
-  "viewerVersion": "0.4.1",
+  "modelVersion": "0.5",
+  "viewerVersion": "0.5.0",
   "publishedAt": "2026-10-28",
   "modelCommit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "viewerCommit": null,
@@ -9,5 +9,11 @@
   "archiveBytes": 11502592,
   "rawBytes": 29895536,
   "basemapVersion": "0.4",
-  "basemapCommit": "6cf2ea6c06a988c455cfde136603c42f5f4fa6ff"
+  "basemapCommit": "6cf2ea6c06a988c455cfde136603c42f5f4fa6ff",
+  "baseModelVersion": "0.3",
+  "buildingPatchVersion": "0.5",
+  "buildingPatchCommit": "33ce67a42b80f3708e1770b53e80385fb6ca5937",
+  "baseModelSha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "buildingPatchSha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+  "hashScope": "modelSha256/archiveBytes/rawBytes describe the unchanged v0.3 base; v0.5 is base plus the separately hashed replacement patch"
 }

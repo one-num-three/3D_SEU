@@ -18,3 +18,7 @@ Buildings retain the original v0.3 GLB bytes, coordinates and heights. Only sema
 
 ## v0.4.1 corrective display patch
 Restore original v0.3 building material colors for detail and massing; these are inherited working-model colors, not a claim of photo-verified materials. Candidate orange remains a status indicator. Ground is a deterministic cartographic first pass (no depth testing/writing and no shadows); buildings render afterward with normal depth. Hide only the duplicated legacy campus boundary in this display. Raw models, coordinates, heights and licenses remain unchanged.
+
+
+## v0.5.0 partial building integration
+Original v0.3 base and v0.4 basemap are retained. The separately licensed public_assets_v05 patch replaces exactly 54 original author nodes with 111 new nodes via the reviewed replacement manifest; no unrelated old building is hidden. Swimming-pool and specified dormitory repairs are partial, not a completed-campus claim. New materials are preserved from that reviewed patch. The original-color and double-pass v0.4.1 display fixes remain.
