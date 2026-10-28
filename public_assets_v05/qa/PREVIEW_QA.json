@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "source_blend_sha256": "da9fb6ecb85c301adb3d0436cae72bb760c5e77a068cc768a9c0902a54b81e1d",
+  "source_unchanged": true,
+  "source_meshes_before_overlay": 2783,
+  "overlay_surfaces": 107,
+  "geometry_changes": false,
+  "only_road_material_for_preview": true,
+  "candidate_labels_retained": true,
+  "not_a_website_screenshot": true
+}
