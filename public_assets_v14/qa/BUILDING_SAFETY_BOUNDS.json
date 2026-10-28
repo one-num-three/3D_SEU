@@ -1,0 +1,6479 @@
+{
+  "coordinate_system": "same local EPSG32650 metres",
+  "method": "conservative per-stable-ID bounds of raised actual model geometry, not surveyed outlines",
+  "groups": [
+    {
+      "stable_id": "SEU_B_OSMWAY_851764288",
+      "min_xy": [
+        600.9780883789062,
+        118.61273193359375
+      ],
+      "max_xy": [
+        719.6905517578125,
+        167.3419952392578
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_851764288_V05__vault_06",
+        "SEU_B_OSMWAY_851764288_V05__vault_05",
+        "SEU_B_OSMWAY_851764288_V05__vault_04",
+        "SEU_B_OSMWAY_851764288_V05__vault_03",
+        "SEU_B_OSMWAY_851764288_V05__vault_02",
+        "SEU_B_OSMWAY_851764288_V05__vault_01",
+        "SEU_B_OSMWAY_851764288_V05__vault_00",
+        "SEU_B_OSMWAY_851764288_V05__underside_06",
+        "SEU_B_OSMWAY_851764288_V05__underside_05",
+        "SEU_B_OSMWAY_851764288_V05__underside_04",
+        "SEU_B_OSMWAY_851764288_V05__underside_03",
+        "SEU_B_OSMWAY_851764288_V05__underside_02",
+        "SEU_B_OSMWAY_851764288_V05__underside_01",
+        "SEU_B_OSMWAY_851764288_V05__underside_00",
+        "SEU_B_OSMWAY_851764288_V05__transoms_03",
+        "SEU_B_OSMWAY_851764288_V05__transoms_02",
+        "SEU_B_OSMWAY_851764288_V05__transoms_01",
+        "SEU_B_OSMWAY_851764288_V05__transoms_00",
+        "SEU_B_OSMWAY_851764288_V05__mullions_03",
+        "SEU_B_OSMWAY_851764288_V05__mullions_02",
+        "SEU_B_OSMWAY_851764288_V05__mullions_01",
+        "SEU_B_OSMWAY_851764288_V05__mullions_00",
+        "SEU_B_OSMWAY_851764288_V05__glazing_03",
+        "SEU_B_OSMWAY_851764288_V05__glazing_02",
+        "SEU_B_OSMWAY_851764288_V05__glazing_01",
+        "SEU_B_OSMWAY_851764288_V05__glazing_00",
+        "SEU_B_OSMWAY_851764288_V05__east_entrance",
+        "SEU_B_OSMWAY_851764288_V05__cross_seams_06",
+        "SEU_B_OSMWAY_851764288_V05__cross_seams_05",
+        "SEU_B_OSMWAY_851764288_V05__cross_seams_04",
+        "SEU_B_OSMWAY_851764288_V05__cross_seams_03",
+        "SEU_B_OSMWAY_851764288_V05__cross_seams_02",
+        "SEU_B_OSMWAY_851764288_V05__cross_seams_01",
+        "SEU_B_OSMWAY_851764288_V05__cross_seams_00",
+        "SEU_B_OSMWAY_851764288_V05__concrete_edge_03",
+        "SEU_B_OSMWAY_851764288_V05__concrete_edge_02",
+        "SEU_B_OSMWAY_851764288_V05__concrete_edge_01",
+        "SEU_B_OSMWAY_851764288_V05__concrete_edge_00"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "min_xy": [
+        658.93359375,
+        184.77723693847656
+      ],
+      "max_xy": [
+        712.3010864257812,
+        201.82215881347656
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136428__V05_window_mullions",
+        "SEU_B_OSMWAY_630136428__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136428__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136428__0004",
+        "SEU_B_OSMWAY_630136428__0002",
+        "SEU_B_OSMWAY_630136428__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "min_xy": [
+        656.6997680664062,
+        214.82359313964844
+      ],
+      "max_xy": [
+        709.9601440429688,
+        231.68084716796875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136427__V05_window_mullions",
+        "SEU_B_OSMWAY_630136427__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136427__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136427__0004",
+        "SEU_B_OSMWAY_630136427__0002",
+        "SEU_B_OSMWAY_630136427__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "min_xy": [
+        654.132568359375,
+        249.25254821777344
+      ],
+      "max_xy": [
+        707.2828979492188,
+        266.1395263671875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136426__V05_window_mullions",
+        "SEU_B_OSMWAY_630136426__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136426__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136426__0004",
+        "SEU_B_OSMWAY_630136426__0002",
+        "SEU_B_OSMWAY_630136426__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "min_xy": [
+        651.9451904296875,
+        278.6471252441406
+      ],
+      "max_xy": [
+        704.9912109375,
+        295.4122009277344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136425__V05_window_mullions",
+        "SEU_B_OSMWAY_630136425__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136425__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136425__0004",
+        "SEU_B_OSMWAY_630136425__0002",
+        "SEU_B_OSMWAY_630136425__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "min_xy": [
+        594.0350341796875,
+        179.70187377929688
+      ],
+      "max_xy": [
+        647.3653564453125,
+        196.70310974121094
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136424__V05_window_mullions",
+        "SEU_B_OSMWAY_630136424__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136424__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136424__0004",
+        "SEU_B_OSMWAY_630136424__0002",
+        "SEU_B_OSMWAY_630136424__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "min_xy": [
+        591.7051391601562,
+        209.7065887451172
+      ],
+      "max_xy": [
+        644.9967651367188,
+        226.53872680664062
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136423__V05_window_mullions",
+        "SEU_B_OSMWAY_630136423__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136423__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136423__0004",
+        "SEU_B_OSMWAY_630136423__0002",
+        "SEU_B_OSMWAY_630136423__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "min_xy": [
+        589.0193481445312,
+        244.14730834960938
+      ],
+      "max_xy": [
+        642.2800903320312,
+        261.0160827636719
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136422__V05_window_mullions",
+        "SEU_B_OSMWAY_630136422__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136422__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136422__0004",
+        "SEU_B_OSMWAY_630136422__0002",
+        "SEU_B_OSMWAY_630136422__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "min_xy": [
+        586.735107421875,
+        273.6331787109375
+      ],
+      "max_xy": [
+        639.961181640625,
+        290.3813171386719
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136421__V05_window_mullions",
+        "SEU_B_OSMWAY_630136421__V05_roof_panel_array",
+        "SEU_B_OSMWAY_630136421__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136421__0004",
+        "SEU_B_OSMWAY_630136421__0002",
+        "SEU_B_OSMWAY_630136421__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "min_xy": [
+        673.4247436523438,
+        -344.0500183105469
+      ],
+      "max_xy": [
+        726.6903686523438,
+        -327.0917663574219
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141914__V05M9_roof_segment_2",
+        "SEU_B_OSMWAY_630141914__V05M9_roof_segment_1",
+        "SEU_B_OSMWAY_630141914__V05M9_roof_segment_0",
+        "SEU_B_OSMWAY_630141914__0004",
+        "SEU_B_OSMWAY_630141914__0002",
+        "SEU_B_OSMWAY_630141914__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "min_xy": [
+        675.9481201171875,
+        -377.88818359375
+      ],
+      "max_xy": [
+        729.3233032226562,
+        -360.8689270019531
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141912__V05M9_roof_segment_2",
+        "SEU_B_OSMWAY_630141912__V05M9_roof_segment_1",
+        "SEU_B_OSMWAY_630141912__V05M9_roof_segment_0",
+        "SEU_B_OSMWAY_630141912__0004",
+        "SEU_B_OSMWAY_630141912__0002",
+        "SEU_B_OSMWAY_630141912__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "min_xy": [
+        608.1890869140625,
+        -349.248046875
+      ],
+      "max_xy": [
+        661.8491821289062,
+        -331.66461181640625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141910__V05M9_roof_segment_2",
+        "SEU_B_OSMWAY_630141910__V05M9_roof_segment_1",
+        "SEU_B_OSMWAY_630141910__V05M9_roof_segment_0",
+        "SEU_B_OSMWAY_630141910__0004",
+        "SEU_B_OSMWAY_630141910__0002",
+        "SEU_B_OSMWAY_630141910__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "min_xy": [
+        610.9532470703125,
+        -383.00244140625
+      ],
+      "max_xy": [
+        664.3740844726562,
+        -365.9902648925781
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141909__V05M9_roof_segment_2",
+        "SEU_B_OSMWAY_630141909__V05M9_roof_segment_1",
+        "SEU_B_OSMWAY_630141909__V05M9_roof_segment_0",
+        "SEU_B_OSMWAY_630141909__0004",
+        "SEU_B_OSMWAY_630141909__0002",
+        "SEU_B_OSMWAY_630141909__0001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927514",
+      "min_xy": [
+        129.52882385253906,
+        330.6474304199219
+      ],
+      "max_xy": [
+        204.19992065429688,
+        446.205810546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927514_V06__west_windows_3",
+        "SEU_B_OSMWAY_1056927514_V06__west_windows_2",
+        "SEU_B_OSMWAY_1056927514_V06__west_windows_1",
+        "SEU_B_OSMWAY_1056927514_V06__west_windows_0",
+        "SEU_B_OSMWAY_1056927514_V06__west_window_frames_3",
+        "SEU_B_OSMWAY_1056927514_V06__west_window_frames_2",
+        "SEU_B_OSMWAY_1056927514_V06__west_window_frames_1",
+        "SEU_B_OSMWAY_1056927514_V06__west_window_frames_0",
+        "SEU_B_OSMWAY_1056927514_V06__west_mullions_3",
+        "SEU_B_OSMWAY_1056927514_V06__west_mullions_2",
+        "SEU_B_OSMWAY_1056927514_V06__west_mullions_1",
+        "SEU_B_OSMWAY_1056927514_V06__west_mullions_0",
+        "SEU_B_OSMWAY_1056927514_V06__wall_courses_3",
+        "SEU_B_OSMWAY_1056927514_V06__wall_courses_2",
+        "SEU_B_OSMWAY_1056927514_V06__wall_courses_1",
+        "SEU_B_OSMWAY_1056927514_V06__wall_courses_0",
+        "SEU_B_OSMWAY_1056927514_V06__roof_vents_3",
+        "SEU_B_OSMWAY_1056927514_V06__roof_vents_2",
+        "SEU_B_OSMWAY_1056927514_V06__roof_vents_1",
+        "SEU_B_OSMWAY_1056927514_V06__roof_vents_0",
+        "SEU_B_OSMWAY_1056927514_V06__roof_ridge_3",
+        "SEU_B_OSMWAY_1056927514_V06__roof_ridge_2",
+        "SEU_B_OSMWAY_1056927514_V06__roof_ridge_1",
+        "SEU_B_OSMWAY_1056927514_V06__roof_ridge_0",
+        "SEU_B_OSMWAY_1056927514_V06__roof_blue_bands_3",
+        "SEU_B_OSMWAY_1056927514_V06__roof_blue_bands_0",
+        "SEU_B_OSMWAY_1056927514_V06__roof_3",
+        "SEU_B_OSMWAY_1056927514_V06__roof_2",
+        "SEU_B_OSMWAY_1056927514_V06__roof_1",
+        "SEU_B_OSMWAY_1056927514_V06__roof_0",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_joints_3",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_joints_2",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_joints_1",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_joints_0",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_3",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_2",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_1",
+        "SEU_B_OSMWAY_1056927514_V06__industrial_door_0",
+        "SEU_B_OSMWAY_1056927514_V06__body"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927551",
+      "min_xy": [
+        -700.8521118164062,
+        -392.9527893066406
+      ],
+      "max_xy": [
+        -636.2732543945312,
+        -372.2614440917969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927551__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927551__V05JY_window_glazing",
+        "SEU_B_OSMWAY_1056927551__V05JY_window_frames",
+        "SEU_B_OSMWAY_1056927551__V05JY_room_core",
+        "SEU_B_OSMWAY_1056927551__V05JY_roof_panel_array",
+        "SEU_B_OSMWAY_1056927551__V05JY_hip_roof",
+        "SEU_B_OSMWAY_1056927551__V05JY_facade_piers",
+        "SEU_B_OSMWAY_1056927551__V05JY_balcony_slabs",
+        "SEU_B_OSMWAY_1056927551__V05JY_balcony_rails"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927549",
+      "min_xy": [
+        -704.7515258789062,
+        -365.1040954589844
+      ],
+      "max_xy": [
+        -640.13720703125,
+        -344.3947448730469
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927549__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927549__V05JY_window_glazing",
+        "SEU_B_OSMWAY_1056927549__V05JY_window_frames",
+        "SEU_B_OSMWAY_1056927549__V05JY_room_core",
+        "SEU_B_OSMWAY_1056927549__V05JY_roof_panel_array",
+        "SEU_B_OSMWAY_1056927549__V05JY_hip_roof",
+        "SEU_B_OSMWAY_1056927549__V05JY_facade_piers",
+        "SEU_B_OSMWAY_1056927549__V05JY_balcony_slabs",
+        "SEU_B_OSMWAY_1056927549__V05JY_balcony_rails"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927548",
+      "min_xy": [
+        -709.5880737304688,
+        -333.23565673828125
+      ],
+      "max_xy": [
+        -644.9739990234375,
+        -312.52630615234375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927548__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927548__V05JY_window_glazing",
+        "SEU_B_OSMWAY_1056927548__V05JY_window_frames",
+        "SEU_B_OSMWAY_1056927548__V05JY_room_core",
+        "SEU_B_OSMWAY_1056927548__V05JY_roof_panel_array",
+        "SEU_B_OSMWAY_1056927548__V05JY_hip_roof",
+        "SEU_B_OSMWAY_1056927548__V05JY_facade_piers",
+        "SEU_B_OSMWAY_1056927548__V05JY_balcony_slabs",
+        "SEU_B_OSMWAY_1056927548__V05JY_balcony_rails"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927547",
+      "min_xy": [
+        -714.0369873046875,
+        -301.3496398925781
+      ],
+      "max_xy": [
+        -649.423095703125,
+        -280.64031982421875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927547__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927547__V05JY_window_glazing",
+        "SEU_B_OSMWAY_1056927547__V05JY_window_frames",
+        "SEU_B_OSMWAY_1056927547__V05JY_room_core",
+        "SEU_B_OSMWAY_1056927547__V05JY_roof_panel_array",
+        "SEU_B_OSMWAY_1056927547__V05JY_hip_roof",
+        "SEU_B_OSMWAY_1056927547__V05JY_facade_piers",
+        "SEU_B_OSMWAY_1056927547__V05JY_balcony_slabs",
+        "SEU_B_OSMWAY_1056927547__V05JY_balcony_rails"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927546",
+      "min_xy": [
+        -717.3358154296875,
+        -267.5037841796875
+      ],
+      "max_xy": [
+        -652.72216796875,
+        -246.79446411132812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927546__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927546__V05JY_window_glazing",
+        "SEU_B_OSMWAY_1056927546__V05JY_window_frames",
+        "SEU_B_OSMWAY_1056927546__V05JY_room_core",
+        "SEU_B_OSMWAY_1056927546__V05JY_roof_panel_array",
+        "SEU_B_OSMWAY_1056927546__V05JY_hip_roof",
+        "SEU_B_OSMWAY_1056927546__V05JY_facade_piers",
+        "SEU_B_OSMWAY_1056927546__V05JY_balcony_slabs",
+        "SEU_B_OSMWAY_1056927546__V05JY_balcony_rails"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927545",
+      "min_xy": [
+        -796.6726684570312,
+        -276.622314453125
+      ],
+      "max_xy": [
+        -732.0590209960938,
+        -255.9134979248047
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927545__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927545__V05JY_window_glazing",
+        "SEU_B_OSMWAY_1056927545__V05JY_window_frames",
+        "SEU_B_OSMWAY_1056927545__V05JY_room_core",
+        "SEU_B_OSMWAY_1056927545__V05JY_roof_panel_array",
+        "SEU_B_OSMWAY_1056927545__V05JY_hip_roof",
+        "SEU_B_OSMWAY_1056927545__V05JY_facade_piers",
+        "SEU_B_OSMWAY_1056927545__V05JY_balcony_slabs",
+        "SEU_B_OSMWAY_1056927545__V05JY_balcony_rails"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961611",
+      "min_xy": [
+        -740.9107055664062,
+        -487.1800842285156
+      ],
+      "max_xy": [
+        -646.9624633789062,
+        -429.0929870605469
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961611_V07__window_mullions",
+        "SEU_B_OSMWAY_299961611_V07__upper_colonnade",
+        "SEU_B_OSMWAY_299961611_V07__roof",
+        "SEU_B_OSMWAY_299961611_V07__main_body",
+        "SEU_B_OSMWAY_299961611_V07__lower_colonnade",
+        "SEU_B_OSMWAY_299961611_V07__ground_podium",
+        "SEU_B_OSMWAY_299961611_V07__gallery_rails",
+        "SEU_B_OSMWAY_299961611_V07__gallery_deck",
+        "SEU_B_OSMWAY_299961611_V07__gallery_canopy",
+        "SEU_B_OSMWAY_299961611_V07__front_steps",
+        "SEU_B_OSMWAY_299961611_V07__front_glazing",
+        "SEU_B_OSMWAY_299961611_V07__curved_upper_beam",
+        "SEU_B_OSMWAY_299961611_V07__curved_storey_beam",
+        "SEU_B_OSMWAY_299961611_V07__canopy_frames"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630686661",
+      "min_xy": [
+        381.6343078613281,
+        307.34649658203125
+      ],
+      "max_xy": [
+        479.0469970703125,
+        392.145751953125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630686661_V07__upper_main",
+        "SEU_B_OSMWAY_630686661_V07__upper_cantilever",
+        "SEU_B_OSMWAY_630686661_V07__stair_rails",
+        "SEU_B_OSMWAY_630686661_V07__round_front_columns",
+        "SEU_B_OSMWAY_630686661_V07__main_roof",
+        "SEU_B_OSMWAY_630686661_V07__ground_body",
+        "SEU_B_OSMWAY_630686661_V07__glazing_transoms",
+        "SEU_B_OSMWAY_630686661_V07__glazing_mullions",
+        "SEU_B_OSMWAY_630686661_V07__front_top_beam",
+        "SEU_B_OSMWAY_630686661_V07__front_storey_beam",
+        "SEU_B_OSMWAY_630686661_V07__front_glazing",
+        "SEU_B_OSMWAY_630686661_V07__external_stair",
+        "SEU_B_OSMWAY_630686661_V07__cantilever_supports",
+        "SEU_B_OSMWAY_630686661_V07__cantilever_roof",
+        "SEU_B_OSMWAY_630686661_V07__canopy_rafters",
+        "SEU_B_OSMWAY_630686661_V07__canopy_glass",
+        "SEU_B_OSMWAY_630686661_V09__white_equipment_housings",
+        "SEU_B_OSMWAY_630686661_V09__panel_front_frames",
+        "SEU_B_OSMWAY_630686661_V09__panel_back_frames",
+        "SEU_B_OSMWAY_630686661_V09__orange_volume_roofcap",
+        "SEU_B_OSMWAY_630686661_V09__orange_volume_glazing",
+        "SEU_B_OSMWAY_630686661_V09__orange_roof_volume",
+        "SEU_B_OSMWAY_630686661_V09__equipment_panel_arrays",
+        "SEU_B_OSMWAY_630686661_V09__equipment_louvres",
+        "SEU_B_OSMWAY_630686661_V09__equipment_caps"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020042",
+      "min_xy": [
+        -270.05621337890625,
+        -620.2252807617188
+      ],
+      "max_xy": [
+        -166.43948364257812,
+        -541.5604248046875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020042_V08__main_window_mullions",
+        "SEU_B_OSMWAY_300020042_V08__main_window_frames",
+        "SEU_B_OSMWAY_300020042_V08__main_west_hip",
+        "SEU_B_OSMWAY_300020042_V08__main_upper",
+        "SEU_B_OSMWAY_300020042_V08__main_roof",
+        "SEU_B_OSMWAY_300020042_V08__main_middle_hip",
+        "SEU_B_OSMWAY_300020042_V08__main_ground",
+        "SEU_B_OSMWAY_300020042_V08__main_glass",
+        "SEU_B_OSMWAY_300020042_V08__main_eave_edge",
+        "SEU_B_OSMWAY_300020042_V08__main_east_hip",
+        "SEU_B_OSMWAY_300020042_V08__annex_window_mullions",
+        "SEU_B_OSMWAY_300020042_V08__annex_window_frames",
+        "SEU_B_OSMWAY_300020042_V08__annex_upper",
+        "SEU_B_OSMWAY_300020042_V08__annex_south_hip_roof",
+        "SEU_B_OSMWAY_300020042_V08__annex_roof",
+        "SEU_B_OSMWAY_300020042_V08__annex_ground",
+        "SEU_B_OSMWAY_300020042_V08__annex_glass",
+        "SEU_B_OSMWAY_300020042_V08__annex_eave_edge"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1315047648",
+      "min_xy": [
+        -178.51133728027344,
+        371.60321044921875
+      ],
+      "max_xy": [
+        -159.2989044189453,
+        390.81561279296875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1315047648_REUSE_123",
+        "SEU_B_OSMWAY_1315047648_REUSE_122",
+        "SEU_B_OSMWAY_1315047648_REUSE_121",
+        "SEU_B_OSMWAY_1315047648_REUSE_120",
+        "SEU_B_OSMWAY_1315047648_REUSE_119",
+        "SEU_B_OSMWAY_1315047648_REUSE_118",
+        "SEU_B_OSMWAY_1315047648_REUSE_117",
+        "SEU_B_OSMWAY_1315047648_REUSE_116",
+        "SEU_B_OSMWAY_1315047648_REUSE_115",
+        "SEU_B_OSMWAY_1315047648_REUSE_114",
+        "SEU_B_OSMWAY_1315047648_REUSE_113",
+        "SEU_B_OSMWAY_1315047648_REUSE_112",
+        "SEU_B_OSMWAY_1315047648_REUSE_111",
+        "SEU_B_OSMWAY_1315047648_REUSE_110",
+        "SEU_B_OSMWAY_1315047648_REUSE_109",
+        "SEU_B_OSMWAY_1315047648_REUSE_108",
+        "SEU_B_OSMWAY_1315047648_REUSE_107",
+        "SEU_B_OSMWAY_1315047648_REUSE_106",
+        "SEU_B_OSMWAY_1315047648_REUSE_105",
+        "SEU_B_OSMWAY_1315047648_REUSE_104",
+        "SEU_B_OSMWAY_1315047648_REUSE_103",
+        "SEU_B_OSMWAY_1315047648_REUSE_102",
+        "SEU_B_OSMWAY_1315047648_REUSE_101",
+        "SEU_B_OSMWAY_1315047648_REUSE_100",
+        "SEU_B_OSMWAY_1315047648_REUSE_099",
+        "SEU_B_OSMWAY_1315047648_REUSE_098",
+        "SEU_B_OSMWAY_1315047648_REUSE_097",
+        "SEU_B_OSMWAY_1315047648_REUSE_096",
+        "SEU_B_OSMWAY_1315047648_REUSE_095",
+        "SEU_B_OSMWAY_1315047648_REUSE_094",
+        "SEU_B_OSMWAY_1315047648_REUSE_093",
+        "SEU_B_OSMWAY_1315047648_REUSE_092",
+        "SEU_B_OSMWAY_1315047648_REUSE_091",
+        "SEU_B_OSMWAY_1315047648_REUSE_090",
+        "SEU_B_OSMWAY_1315047648_REUSE_089",
+        "SEU_B_OSMWAY_1315047648_REUSE_088",
+        "SEU_B_OSMWAY_1315047648_REUSE_087",
+        "SEU_B_OSMWAY_1315047648_REUSE_086",
+        "SEU_B_OSMWAY_1315047648_REUSE_085",
+        "SEU_B_OSMWAY_1315047648_REUSE_084",
+        "SEU_B_OSMWAY_1315047648_REUSE_083",
+        "SEU_B_OSMWAY_1315047648_REUSE_082",
+        "SEU_B_OSMWAY_1315047648_REUSE_081",
+        "SEU_B_OSMWAY_1315047648_REUSE_080",
+        "SEU_B_OSMWAY_1315047648_REUSE_079",
+        "SEU_B_OSMWAY_1315047648_REUSE_078",
+        "SEU_B_OSMWAY_1315047648_REUSE_077",
+        "SEU_B_OSMWAY_1315047648_REUSE_076",
+        "SEU_B_OSMWAY_1315047648_REUSE_075",
+        "SEU_B_OSMWAY_1315047648_REUSE_074",
+        "SEU_B_OSMWAY_1315047648_REUSE_073",
+        "SEU_B_OSMWAY_1315047648_REUSE_072",
+        "SEU_B_OSMWAY_1315047648_REUSE_071",
+        "SEU_B_OSMWAY_1315047648_REUSE_070",
+        "SEU_B_OSMWAY_1315047648_REUSE_069",
+        "SEU_B_OSMWAY_1315047648_REUSE_068",
+        "SEU_B_OSMWAY_1315047648_REUSE_067",
+        "SEU_B_OSMWAY_1315047648_REUSE_066",
+        "SEU_B_OSMWAY_1315047648_REUSE_065",
+        "SEU_B_OSMWAY_1315047648_REUSE_064",
+        "SEU_B_OSMWAY_1315047648_REUSE_063",
+        "SEU_B_OSMWAY_1315047648_REUSE_062",
+        "SEU_B_OSMWAY_1315047648_REUSE_061",
+        "SEU_B_OSMWAY_1315047648_REUSE_060",
+        "SEU_B_OSMWAY_1315047648_REUSE_059",
+        "SEU_B_OSMWAY_1315047648_REUSE_058",
+        "SEU_B_OSMWAY_1315047648_REUSE_057",
+        "SEU_B_OSMWAY_1315047648_REUSE_056",
+        "SEU_B_OSMWAY_1315047648_REUSE_055",
+        "SEU_B_OSMWAY_1315047648_REUSE_054",
+        "SEU_B_OSMWAY_1315047648_REUSE_053",
+        "SEU_B_OSMWAY_1315047648_REUSE_052",
+        "SEU_B_OSMWAY_1315047648_REUSE_051",
+        "SEU_B_OSMWAY_1315047648_REUSE_050",
+        "SEU_B_OSMWAY_1315047648_REUSE_049",
+        "SEU_B_OSMWAY_1315047648_REUSE_048",
+        "SEU_B_OSMWAY_1315047648_REUSE_047",
+        "SEU_B_OSMWAY_1315047648_REUSE_046",
+        "SEU_B_OSMWAY_1315047648_REUSE_045",
+        "SEU_B_OSMWAY_1315047648_REUSE_044",
+        "SEU_B_OSMWAY_1315047648_REUSE_043",
+        "SEU_B_OSMWAY_1315047648_REUSE_042",
+        "SEU_B_OSMWAY_1315047648_REUSE_041",
+        "SEU_B_OSMWAY_1315047648_REUSE_040",
+        "SEU_B_OSMWAY_1315047648_REUSE_037",
+        "SEU_B_OSMWAY_1315047648_REUSE_036",
+        "SEU_B_OSMWAY_1315047648_REUSE_035",
+        "SEU_B_OSMWAY_1315047648_REUSE_034",
+        "SEU_B_OSMWAY_1315047648_REUSE_031",
+        "SEU_B_OSMWAY_1315047648_REUSE_030",
+        "SEU_B_OSMWAY_1315047648_REUSE_029",
+        "SEU_B_OSMWAY_1315047648_REUSE_028",
+        "SEU_B_OSMWAY_1315047648_REUSE_025",
+        "SEU_B_OSMWAY_1315047648_REUSE_024",
+        "SEU_B_OSMWAY_1315047648_REUSE_023",
+        "SEU_B_OSMWAY_1315047648_REUSE_022",
+        "SEU_B_OSMWAY_1315047648_REUSE_021",
+        "SEU_B_OSMWAY_1315047648_REUSE_020",
+        "SEU_B_OSMWAY_1315047648_REUSE_019",
+        "SEU_B_OSMWAY_1315047648_REUSE_018",
+        "SEU_B_OSMWAY_1315047648_REUSE_014",
+        "SEU_B_OSMWAY_1315047648_REUSE_013",
+        "SEU_B_OSMWAY_1315047648_REUSE_012",
+        "SEU_B_OSMWAY_1315047648_REUSE_011",
+        "SEU_B_OSMWAY_1315047648_REUSE_010",
+        "SEU_B_OSMWAY_1315047648_REUSE_009",
+        "SEU_B_OSMWAY_1315047648_REUSE_008",
+        "SEU_B_OSMWAY_1315047648_REUSE_007",
+        "SEU_B_OSMWAY_1315047648_REUSE_006",
+        "SEU_B_OSMWAY_1315047648_REUSE_005",
+        "SEU_B_OSMWAY_1315047648_REUSE_004",
+        "SEU_B_OSMWAY_1315047648_REUSE_003",
+        "SEU_B_OSMWAY_1315047648_REUSE_002",
+        "SEU_B_OSMWAY_1315047648_REUSE_001",
+        "SEU_B_OSMWAY_1315047648_REUSE_000"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030325",
+      "min_xy": [
+        -592.202880859375,
+        -46.18505096435547
+      ],
+      "max_xy": [
+        -407.91021728515625,
+        25.622764587402344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030325_REUSE__photo_eave_west",
+        "SEU_B_OSMWAY_300030325_REUSE__photo_eave_south",
+        "SEU_B_OSMWAY_300030325_REUSE__photo_eave_north",
+        "SEU_B_OSMWAY_300030325_REUSE__photo_eave_east",
+        "SEU_B_OSMWAY_300030325_REUSE__mapped_narrow_link_estimated",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_west",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_south",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_north",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_lowwest",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_loweast",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_entry",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_east",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_west",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_south",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_north",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_lowwest",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_loweast",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_entry",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_east",
+        "SEU_B_OSMWAY_300030325_REUSE__DETAIL_ENTRY_A2_east",
+        "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_west",
+        "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_south",
+        "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_north",
+        "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_lowwest",
+        "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_loweast",
+        "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_entry",
+        "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_east",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_west_roof",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_west",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_south_roof",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_south",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_north_roof",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_north",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_lowwest_roof",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_lowwest",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_loweast_roof",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_loweast",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_entry_roof",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_entry",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_east_roof",
+        "SEU_B_OSMWAY_300030325_REUSE__A2_east"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030306",
+      "min_xy": [
+        -432.9551086425781,
+        200.523193359375
+      ],
+      "max_xy": [
+        -376.77001953125,
+        218.7991180419922
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030306_PHOTO_west_tower_upper",
+        "SEU_B_OSMWAY_300030306_PHOTO_tower_south_windows",
+        "SEU_B_OSMWAY_300030306_PHOTO_tower_projecting_cap",
+        "SEU_B_OSMWAY_300030306_PHOTO_tower_open_cap_posts",
+        "SEU_B_OSMWAY_300030306_PHOTO_south_vertical_glazing",
+        "SEU_B_OSMWAY_300030306_PHOTO_shallow_hip_roof",
+        "SEU_B_OSMWAY_300030306_PHOTO_main_eave_bands",
+        "SEU_B_OSMWAY_300030306_PHOTO_legacy_window_glass",
+        "SEU_B_OSMWAY_300030306_PHOTO_legacy_window_frames",
+        "SEU_B_OSMWAY_300030306_PHOTO_legacy_body_five_storeys",
+        "SEU_B_OSMWAY_300030306_PHOTO_glazing_mullions"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020030",
+      "min_xy": [
+        440.22869873046875,
+        138.2957305908203
+      ],
+      "max_xy": [
+        476.8569030761719,
+        173.8248748779297
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020030_PHOTO__round_short_blue_windows",
+        "SEU_B_OSMWAY_300020030_PHOTO__round_roof",
+        "SEU_B_OSMWAY_300020030_PHOTO__round_pale_core",
+        "SEU_B_OSMWAY_300020030_PHOTO__round_floor_bands"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020024",
+      "min_xy": [
+        446.4654541015625,
+        126.6590347290039
+      ],
+      "max_xy": [
+        544.8810424804688,
+        191.31239318847656
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020024_PHOTO__silver_front_frame",
+        "SEU_B_OSMWAY_300020024_PHOTO__silver_folded_envelope",
+        "SEU_B_OSMWAY_300020024_PHOTO__red_slit_window",
+        "SEU_B_OSMWAY_300020024_PHOTO__red_entry_volume",
+        "SEU_B_OSMWAY_300020024_PHOTO__rear_unobserved_simple",
+        "SEU_B_OSMWAY_300020024_PHOTO__ground_silver_posts",
+        "SEU_B_OSMWAY_300020024_PHOTO__ground_glazing",
+        "SEU_B_OSMWAY_300020024_PHOTO__ground_floor_fascia",
+        "SEU_B_OSMWAY_300020024_PHOTO__ground_base",
+        "SEU_B_OSMWAY_300020024_PHOTO__front_vertical_mullions",
+        "SEU_B_OSMWAY_300020024_PHOTO__front_horizontal_shades",
+        "SEU_B_OSMWAY_300020024_PHOTO__front_glass",
+        "SEU_B_OSMWAY_300020024_PHOTO__foyer_glazing",
+        "SEU_B_OSMWAY_300020024_PHOTO__foyer_flat_roof",
+        "SEU_B_OSMWAY_300020024_PHOTO__entry_columns",
+        "SEU_B_OSMWAY_300020024_PHOTO__entry_canopy",
+        "SEU_B_OSMWAY_300020024_PHOTO__east_ribbon_glazing",
+        "SEU_B_OSMWAY_300020024_PHOTO__east_horizontal_shades",
+        "SEU_B_OSMWAY_300020024_PHOTO__approach_steps"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020023",
+      "min_xy": [
+        445.29974365234375,
+        180.61521911621094
+      ],
+      "max_xy": [
+        547.8624877929688,
+        212.5634307861328
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020023_PHOTO__rear_west_unverified_core",
+        "SEU_B_OSMWAY_300020023_PHOTO__rear_west_roof",
+        "SEU_B_OSMWAY_300020023_PHOTO__rear_screen_verticals",
+        "SEU_B_OSMWAY_300020023_PHOTO__rear_screen_horizontals",
+        "SEU_B_OSMWAY_300020023_PHOTO__rear_floor_bands",
+        "SEU_B_OSMWAY_300020023_PHOTO__rear_east_roof",
+        "SEU_B_OSMWAY_300020023_PHOTO__rear_east_light"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030310",
+      "min_xy": [
+        -246.8123779296875,
+        -31.02805519104004
+      ],
+      "max_xy": [
+        -37.97843933105469,
+        131.13433837890625
+      ],
+      "objects": [
+        "SEU_LIBRARY_SOUTH_V13_TRANSITION_4",
+        "SEU_LIBRARY_SOUTH_V13_TRANSITION_3",
+        "SEU_B_OSMWAY_300030310__0001",
+        "SEU_B_OSMWAY_300030310__0002",
+        "SEU_B_OSMWAY_300030310__0003",
+        "SEU_B_OSMWAY_300030310__0004",
+        "SEU_B_OSMWAY_300030310__0005",
+        "SEU_B_OSMWAY_300030310__0006",
+        "SEU_B_OSMWAY_300030310__0007",
+        "SEU_B_OSMWAY_300030310__0008",
+        "SEU_B_OSMWAY_300030310__0009",
+        "SEU_B_OSMWAY_300030310__0010",
+        "SEU_B_OSMWAY_300030310__0011",
+        "SEU_B_OSMWAY_300030310__0012",
+        "SEU_B_OSMWAY_300030310__0013",
+        "SEU_B_OSMWAY_300030310__0014",
+        "SEU_B_OSMWAY_300030310__0015",
+        "SEU_B_OSMWAY_300030310__0016",
+        "SEU_B_OSMWAY_300030310__0017",
+        "SEU_B_OSMWAY_300030310__0018",
+        "SEU_B_OSMWAY_300030310__0019",
+        "SEU_B_OSMWAY_300030310__0020",
+        "SEU_B_OSMWAY_300030310__0021",
+        "SEU_B_OSMWAY_300030310__0022",
+        "SEU_B_OSMWAY_300030310__0023",
+        "SEU_B_OSMWAY_300030310__0024",
+        "SEU_B_OSMWAY_300030310__0025",
+        "SEU_B_OSMWAY_300030310__0026",
+        "SEU_B_OSMWAY_300030310__0027",
+        "SEU_B_OSMWAY_300030310__0028",
+        "SEU_B_OSMWAY_300030310__0029",
+        "SEU_B_OSMWAY_300030310__0030",
+        "SEU_B_OSMWAY_300030310__0031",
+        "SEU_B_OSMWAY_300030310__0032",
+        "SEU_B_OSMWAY_300030310__0033",
+        "SEU_B_OSMWAY_300030310__0034",
+        "SEU_B_OSMWAY_300030310__0035",
+        "SEU_B_OSMWAY_300030310__0036",
+        "SEU_B_OSMWAY_300030310__0037",
+        "SEU_B_OSMWAY_300030310__0038",
+        "SEU_B_OSMWAY_300030310__0039",
+        "SEU_B_OSMWAY_300030310__0040",
+        "SEU_B_OSMWAY_300030310__0041",
+        "SEU_B_OSMWAY_300030310__0042",
+        "SEU_B_OSMWAY_300030310__0043",
+        "SEU_B_OSMWAY_300030310__0044",
+        "SEU_B_OSMWAY_300030310__0045",
+        "SEU_B_OSMWAY_300030310__0046",
+        "SEU_B_OSMWAY_300030310__0047",
+        "SEU_B_OSMWAY_300030310__0048",
+        "SEU_B_OSMWAY_300030310__0049",
+        "SEU_B_OSMWAY_300030310__0050",
+        "SEU_B_OSMWAY_300030310__0051",
+        "SEU_B_OSMWAY_300030310__0052",
+        "SEU_B_OSMWAY_300030310__0053",
+        "SEU_B_OSMWAY_300030310__0054",
+        "SEU_B_OSMWAY_300030310__0055",
+        "SEU_B_OSMWAY_300030310__0056",
+        "SEU_B_OSMWAY_300030310__0057",
+        "SEU_B_OSMWAY_300030310__0058",
+        "SEU_B_OSMWAY_300030310__0059",
+        "SEU_B_OSMWAY_300030310__0060",
+        "SEU_B_OSMWAY_300030310__0061",
+        "SEU_B_OSMWAY_300030310__0062",
+        "SEU_B_OSMWAY_300030310__0063",
+        "SEU_B_OSMWAY_300030310__0064",
+        "SEU_B_OSMWAY_300030310__0065",
+        "SEU_B_OSMWAY_300030310__0066",
+        "SEU_B_OSMWAY_300030310__0067",
+        "SEU_B_OSMWAY_300030310__0068",
+        "SEU_B_OSMWAY_300030310__0069",
+        "SEU_B_OSMWAY_300030310__0070",
+        "SEU_B_OSMWAY_300030310__0071",
+        "SEU_B_OSMWAY_300030310__0072",
+        "SEU_B_OSMWAY_300030310__0073",
+        "SEU_B_OSMWAY_300030310__0074",
+        "SEU_B_OSMWAY_300030310__0075",
+        "SEU_B_OSMWAY_300030310__0076",
+        "SEU_B_OSMWAY_300030310__0077",
+        "SEU_B_OSMWAY_300030310__0078",
+        "SEU_B_OSMWAY_300030310__0079",
+        "SEU_B_OSMWAY_300030310__0080",
+        "SEU_B_OSMWAY_300030310__0081",
+        "SEU_B_OSMWAY_300030310__0082",
+        "SEU_B_OSMWAY_300030310__0083",
+        "SEU_B_OSMWAY_300030310__0084",
+        "SEU_B_OSMWAY_300030310__0085",
+        "SEU_B_OSMWAY_300030310__0086",
+        "SEU_B_OSMWAY_300030310__0087",
+        "SEU_B_OSMWAY_300030310__0088",
+        "SEU_B_OSMWAY_300030310__0089",
+        "SEU_B_OSMWAY_300030310__0090",
+        "SEU_B_OSMWAY_300030310__0091",
+        "SEU_B_OSMWAY_300030310__0092",
+        "SEU_B_OSMWAY_300030310__0093",
+        "SEU_B_OSMWAY_300030310__0094",
+        "SEU_B_OSMWAY_300030310__0095",
+        "SEU_B_OSMWAY_300030310__0096",
+        "SEU_B_OSMWAY_300030310__0097",
+        "SEU_B_OSMWAY_300030310__0098",
+        "SEU_B_OSMWAY_300030310__0099",
+        "SEU_B_OSMWAY_300030310__0100",
+        "SEU_B_OSMWAY_300030310__0101",
+        "SEU_B_OSMWAY_300030310__0102",
+        "SEU_B_OSMWAY_300030310__0103",
+        "SEU_B_OSMWAY_300030310__0104",
+        "SEU_B_OSMWAY_300030310__0105",
+        "SEU_B_OSMWAY_300030310__0106",
+        "SEU_B_OSMWAY_300030310__0107",
+        "SEU_B_OSMWAY_300030310__0108",
+        "SEU_B_OSMWAY_300030310__0109",
+        "SEU_B_OSMWAY_300030310__0110",
+        "SEU_B_OSMWAY_300030310__0111",
+        "SEU_B_OSMWAY_300030310__0112",
+        "SEU_B_OSMWAY_300030310__0113",
+        "SEU_B_OSMWAY_300030310__0114",
+        "SEU_B_OSMWAY_300030310__0115",
+        "SEU_B_OSMWAY_300030310__0116",
+        "SEU_B_OSMWAY_300030310__0117",
+        "SEU_B_OSMWAY_300030310__0118",
+        "SEU_B_OSMWAY_300030310__0119",
+        "SEU_B_OSMWAY_300030310__0120",
+        "SEU_B_OSMWAY_300030310__0121",
+        "SEU_B_OSMWAY_300030310__0122",
+        "SEU_B_OSMWAY_300030310__0123",
+        "SEU_B_OSMWAY_300030310__0124",
+        "SEU_B_OSMWAY_300030310__0125",
+        "SEU_B_OSMWAY_300030310__0126",
+        "SEU_B_OSMWAY_300030310__0127",
+        "SEU_B_OSMWAY_300030310__0128",
+        "SEU_B_OSMWAY_300030310__0129",
+        "SEU_B_OSMWAY_300030310__0130",
+        "SEU_B_OSMWAY_300030310__0131",
+        "SEU_B_OSMWAY_300030310__0132",
+        "SEU_B_OSMWAY_300030310__0133",
+        "SEU_B_OSMWAY_300030310__0134",
+        "SEU_B_OSMWAY_300030310__0135",
+        "SEU_B_OSMWAY_300030310__0136",
+        "SEU_B_OSMWAY_300030310__0137",
+        "SEU_B_OSMWAY_300030310__0138",
+        "SEU_B_OSMWAY_300030310__0139",
+        "SEU_B_OSMWAY_300030310__0140",
+        "SEU_B_OSMWAY_300030310__0141",
+        "SEU_B_OSMWAY_300030310__0142",
+        "SEU_B_OSMWAY_300030310__0143",
+        "SEU_B_OSMWAY_300030310__0144",
+        "SEU_B_OSMWAY_300030310__0145",
+        "SEU_B_OSMWAY_300030310__0146",
+        "SEU_B_OSMWAY_300030310__0147",
+        "SEU_B_OSMWAY_300030310__0148",
+        "SEU_B_OSMWAY_300030310__0149",
+        "SEU_B_OSMWAY_300030310__0150",
+        "SEU_B_OSMWAY_300030310__0151",
+        "SEU_B_OSMWAY_300030310__0152",
+        "SEU_B_OSMWAY_300030310__0153",
+        "SEU_B_OSMWAY_300030310__0154",
+        "SEU_B_OSMWAY_300030310__0155",
+        "SEU_B_OSMWAY_300030310__0156",
+        "SEU_B_OSMWAY_300030310__0157",
+        "SEU_B_OSMWAY_300030310__0158",
+        "SEU_B_OSMWAY_300030310__0159",
+        "SEU_B_OSMWAY_300030310__0160",
+        "SEU_B_OSMWAY_300030310__0161",
+        "SEU_B_OSMWAY_300030310__0162",
+        "SEU_B_OSMWAY_300030310__0163",
+        "SEU_B_OSMWAY_300030310__0164",
+        "SEU_B_OSMWAY_300030310__0165",
+        "SEU_B_OSMWAY_300030310__0166",
+        "SEU_B_OSMWAY_300030310__0167",
+        "SEU_B_OSMWAY_300030310__0168",
+        "SEU_B_OSMWAY_300030310__0169",
+        "SEU_B_OSMWAY_300030310__0170",
+        "SEU_B_OSMWAY_300030310__0171",
+        "SEU_B_OSMWAY_300030310__0172",
+        "SEU_B_OSMWAY_300030310__0173",
+        "SEU_B_OSMWAY_300030310__0174",
+        "SEU_B_OSMWAY_300030310__0175",
+        "SEU_B_OSMWAY_300030310__0176",
+        "SEU_B_OSMWAY_300030310__0177",
+        "SEU_B_OSMWAY_300030310__0178",
+        "SEU_B_OSMWAY_300030310__0179",
+        "SEU_B_OSMWAY_300030310__0180",
+        "SEU_B_OSMWAY_300030310__0181",
+        "SEU_B_OSMWAY_300030310__0182",
+        "SEU_B_OSMWAY_300030310__0183",
+        "SEU_B_OSMWAY_300030310__0184",
+        "SEU_B_OSMWAY_300030310__0185",
+        "SEU_B_OSMWAY_300030310__0186",
+        "SEU_B_OSMWAY_300030310__0187",
+        "SEU_B_OSMWAY_300030310__0188",
+        "SEU_B_OSMWAY_300030310__0189",
+        "SEU_B_OSMWAY_300030310__0190",
+        "SEU_B_OSMWAY_300030310__0191",
+        "SEU_B_OSMWAY_300030310__0192",
+        "SEU_B_OSMWAY_300030310__0193",
+        "SEU_B_OSMWAY_300030310__0194",
+        "SEU_B_OSMWAY_300030310__0195",
+        "SEU_B_OSMWAY_300030310__0196",
+        "SEU_B_OSMWAY_300030310__0197",
+        "SEU_B_OSMWAY_300030310__0198",
+        "SEU_B_OSMWAY_300030310__0199",
+        "SEU_B_OSMWAY_300030310__0200",
+        "SEU_B_OSMWAY_300030310__0201",
+        "SEU_B_OSMWAY_300030310__0202",
+        "SEU_B_OSMWAY_300030310__0203",
+        "SEU_B_OSMWAY_300030310__0204",
+        "SEU_B_OSMWAY_300030310__0205",
+        "SEU_B_OSMWAY_300030310__0206",
+        "SEU_B_OSMWAY_300030310__0207",
+        "SEU_B_OSMWAY_300030310__0208",
+        "SEU_B_OSMWAY_300030310__0209",
+        "SEU_B_OSMWAY_300030310__0210",
+        "SEU_B_OSMWAY_300030310__0211",
+        "SEU_B_OSMWAY_300030310__0212",
+        "SEU_B_OSMWAY_300030310__0213",
+        "SEU_B_OSMWAY_300030310__0214",
+        "SEU_B_OSMWAY_300030310__0215",
+        "SEU_B_OSMWAY_300030310__0216",
+        "SEU_B_OSMWAY_300030310__0217",
+        "SEU_B_OSMWAY_300030310__0218",
+        "SEU_B_OSMWAY_300030310__0219",
+        "SEU_B_OSMWAY_300030310__0220",
+        "SEU_B_OSMWAY_300030310__0221",
+        "SEU_B_OSMWAY_300030310__0222",
+        "SEU_B_OSMWAY_300030310__0223",
+        "SEU_B_OSMWAY_300030310__0224",
+        "SEU_B_OSMWAY_300030310__0225",
+        "SEU_B_OSMWAY_300030310__0226",
+        "SEU_B_OSMWAY_300030310__0227",
+        "SEU_B_OSMWAY_300030310__0228",
+        "SEU_B_OSMWAY_300030310__0229",
+        "SEU_B_OSMWAY_300030310__0230",
+        "SEU_B_OSMWAY_300030310__0231",
+        "SEU_B_OSMWAY_300030310__0232",
+        "SEU_B_OSMWAY_300030310__0233",
+        "SEU_B_OSMWAY_300030310__0234",
+        "SEU_B_OSMWAY_300030310__0235",
+        "SEU_B_OSMWAY_300030310__0236",
+        "SEU_B_OSMWAY_300030310__0237",
+        "SEU_B_OSMWAY_300030310__0238",
+        "SEU_B_OSMWAY_300030310__0239",
+        "SEU_B_OSMWAY_300030310__0240",
+        "SEU_B_OSMWAY_300030310__0241",
+        "SEU_B_OSMWAY_300030310__0242",
+        "SEU_B_OSMWAY_300030310__0243",
+        "SEU_B_OSMWAY_300030310__0244",
+        "SEU_B_OSMWAY_300030310__0245",
+        "SEU_B_OSMWAY_300030310__0246",
+        "SEU_B_OSMWAY_300030310__0247",
+        "SEU_B_OSMWAY_300030310__0248",
+        "SEU_B_OSMWAY_300030310__0249",
+        "SEU_B_OSMWAY_300030310__0250",
+        "SEU_B_OSMWAY_300030310__0251",
+        "SEU_B_OSMWAY_300030310__0252",
+        "SEU_B_OSMWAY_300030310__0253",
+        "SEU_B_OSMWAY_300030310__0254",
+        "SEU_B_OSMWAY_300030310__0255",
+        "SEU_B_OSMWAY_300030310__0256",
+        "SEU_B_OSMWAY_300030310__0257",
+        "SEU_B_OSMWAY_300030310__0258",
+        "SEU_B_OSMWAY_300030310__0259",
+        "SEU_B_OSMWAY_300030310__0260",
+        "SEU_B_OSMWAY_300030310__0261",
+        "SEU_B_OSMWAY_300030310__0262",
+        "SEU_B_OSMWAY_300030310__0263",
+        "SEU_B_OSMWAY_300030310__0264",
+        "SEU_B_OSMWAY_300030310__0265",
+        "SEU_B_OSMWAY_300030310__0266",
+        "SEU_B_OSMWAY_300030310__0267",
+        "SEU_B_OSMWAY_300030310__0268",
+        "SEU_B_OSMWAY_300030310__0269",
+        "SEU_B_OSMWAY_300030310__0270",
+        "SEU_B_OSMWAY_300030310__0271",
+        "SEU_B_OSMWAY_300030310__0272",
+        "SEU_B_OSMWAY_300030310__0273",
+        "SEU_B_OSMWAY_300030310__0274",
+        "SEU_B_OSMWAY_300030310__0275",
+        "SEU_B_OSMWAY_300030310__0276",
+        "SEU_B_OSMWAY_300030310__0277",
+        "SEU_B_OSMWAY_300030310__0278",
+        "SEU_B_OSMWAY_300030310__0279",
+        "SEU_B_OSMWAY_300030310__0280",
+        "SEU_B_OSMWAY_300030310__0281",
+        "SEU_B_OSMWAY_300030310__0282",
+        "SEU_B_OSMWAY_300030310__0283",
+        "SEU_B_OSMWAY_300030310__0284",
+        "SEU_B_OSMWAY_300030310__0285",
+        "SEU_B_OSMWAY_300030310__0286",
+        "SEU_B_OSMWAY_300030310__0287",
+        "SEU_B_OSMWAY_300030310__0288",
+        "SEU_B_OSMWAY_300030310__0289",
+        "SEU_B_OSMWAY_300030310__0290",
+        "SEU_B_OSMWAY_300030310__0291",
+        "SEU_B_OSMWAY_300030310__0292",
+        "SEU_B_OSMWAY_300030310__0293",
+        "SEU_B_OSMWAY_300030310__0294",
+        "SEU_B_OSMWAY_300030310__0295",
+        "SEU_B_OSMWAY_300030310__0296",
+        "SEU_B_OSMWAY_300030310__0297",
+        "SEU_B_OSMWAY_300030310__0298",
+        "SEU_B_OSMWAY_300030310__0299",
+        "SEU_B_OSMWAY_300030310__0300",
+        "SEU_B_OSMWAY_300030310__0301",
+        "SEU_B_OSMWAY_300030310__0302",
+        "SEU_B_OSMWAY_300030310__0303",
+        "SEU_B_OSMWAY_300030310__0304",
+        "SEU_B_OSMWAY_300030310__0305",
+        "SEU_B_OSMWAY_300030310__0306",
+        "SEU_B_OSMWAY_300030310__0307",
+        "SEU_B_OSMWAY_300030310__0308",
+        "SEU_B_OSMWAY_300030310__0309",
+        "SEU_B_OSMWAY_300030310__0310",
+        "SEU_B_OSMWAY_300030310__0311",
+        "SEU_B_OSMWAY_300030310__0312",
+        "SEU_B_OSMWAY_300030310__0313",
+        "SEU_B_OSMWAY_300030310__0314",
+        "SEU_B_OSMWAY_300030310__0315",
+        "SEU_B_OSMWAY_300030310__0316",
+        "SEU_B_OSMWAY_300030310__0317",
+        "SEU_B_OSMWAY_300030310__0318",
+        "SEU_B_OSMWAY_300030310__0319",
+        "SEU_B_OSMWAY_300030310__0320",
+        "SEU_B_OSMWAY_300030310__0321",
+        "SEU_B_OSMWAY_300030310__0322",
+        "SEU_B_OSMWAY_300030310__0323",
+        "SEU_B_OSMWAY_300030310__0324",
+        "SEU_B_OSMWAY_300030310__0325",
+        "SEU_B_OSMWAY_300030310__0326",
+        "SEU_B_OSMWAY_300030310__0327",
+        "SEU_B_OSMWAY_300030310__0328",
+        "SEU_B_OSMWAY_300030310__0329",
+        "SEU_B_OSMWAY_300030310__0330",
+        "SEU_B_OSMWAY_300030310__0331",
+        "SEU_B_OSMWAY_300030310__0332",
+        "SEU_B_OSMWAY_300030310__0333",
+        "SEU_B_OSMWAY_300030310__0334",
+        "SEU_B_OSMWAY_300030310__0335",
+        "SEU_B_OSMWAY_300030310__0336",
+        "SEU_B_OSMWAY_300030310__0337",
+        "SEU_B_OSMWAY_300030310__0338",
+        "SEU_B_OSMWAY_300030310__0339",
+        "SEU_B_OSMWAY_300030310__0340",
+        "SEU_B_OSMWAY_300030310__0341",
+        "SEU_B_OSMWAY_300030310__0342",
+        "SEU_B_OSMWAY_300030310__0343",
+        "SEU_B_OSMWAY_300030310__0344",
+        "SEU_B_OSMWAY_300030310__0345",
+        "SEU_B_OSMWAY_300030310__0346",
+        "SEU_B_OSMWAY_300030310__0347",
+        "SEU_B_OSMWAY_300030310__0348",
+        "SEU_B_OSMWAY_300030310__0349",
+        "SEU_B_OSMWAY_300030310__0350",
+        "SEU_B_OSMWAY_300030310__0351",
+        "SEU_B_OSMWAY_300030310__0352",
+        "SEU_B_OSMWAY_300030310__0353",
+        "SEU_B_OSMWAY_300030310__0354",
+        "SEU_B_OSMWAY_300030310__0355",
+        "SEU_B_OSMWAY_300030310__0356",
+        "SEU_B_OSMWAY_300030310__0357",
+        "SEU_B_OSMWAY_300030310__0358",
+        "SEU_B_OSMWAY_300030310__0359",
+        "SEU_B_OSMWAY_300030310__0360",
+        "SEU_B_OSMWAY_300030310__0361",
+        "SEU_B_OSMWAY_300030310__0362",
+        "SEU_B_OSMWAY_300030310__0363",
+        "SEU_B_OSMWAY_300030310__0364",
+        "SEU_B_OSMWAY_300030310__0365",
+        "SEU_B_OSMWAY_300030310__0366",
+        "SEU_B_OSMWAY_300030310__0367",
+        "SEU_B_OSMWAY_300030310__0368",
+        "SEU_B_OSMWAY_300030310__0369",
+        "SEU_B_OSMWAY_300030310__0370",
+        "SEU_B_OSMWAY_300030310__0371",
+        "SEU_B_OSMWAY_300030310__0372",
+        "SEU_B_OSMWAY_300030310__0373",
+        "SEU_B_OSMWAY_300030310__0374",
+        "SEU_B_OSMWAY_300030310__0375",
+        "SEU_B_OSMWAY_300030310__0376",
+        "SEU_B_OSMWAY_300030310__0377",
+        "SEU_B_OSMWAY_300030310__0378",
+        "SEU_B_OSMWAY_300030310__0379",
+        "SEU_B_OSMWAY_300030310__0380",
+        "SEU_B_OSMWAY_300030310__0381",
+        "SEU_B_OSMWAY_300030310__0382",
+        "SEU_B_OSMWAY_300030310__0383",
+        "SEU_B_OSMWAY_300030310__0384",
+        "SEU_B_OSMWAY_300030310__0385",
+        "SEU_B_OSMWAY_300030310__0386",
+        "SEU_B_OSMWAY_300030310__0387",
+        "SEU_B_OSMWAY_300030310__0388",
+        "SEU_B_OSMWAY_300030310__0389",
+        "SEU_B_OSMWAY_300030310__0390",
+        "SEU_B_OSMWAY_300030310__0391",
+        "SEU_B_OSMWAY_300030310__0392",
+        "SEU_B_OSMWAY_300030310__0393",
+        "SEU_B_OSMWAY_300030310__0394",
+        "SEU_B_OSMWAY_300030310__0395",
+        "SEU_B_OSMWAY_300030310__0396",
+        "SEU_B_OSMWAY_300030310__0397",
+        "SEU_B_OSMWAY_300030310__0398",
+        "SEU_B_OSMWAY_300030310__0399",
+        "SEU_B_OSMWAY_300030310__0400",
+        "SEU_B_OSMWAY_300030310__0401",
+        "SEU_B_OSMWAY_300030310__0402",
+        "SEU_B_OSMWAY_300030310__0403",
+        "SEU_B_OSMWAY_300030310__0404",
+        "SEU_B_OSMWAY_300030310__0405",
+        "SEU_B_OSMWAY_300030310__0406",
+        "SEU_B_OSMWAY_300030310__0407",
+        "SEU_B_OSMWAY_300030310__0408",
+        "SEU_B_OSMWAY_300030310__0409",
+        "SEU_B_OSMWAY_300030310__0410",
+        "SEU_B_OSMWAY_300030310__0411",
+        "SEU_B_OSMWAY_300030310__0412",
+        "SEU_B_OSMWAY_300030310__0413",
+        "SEU_B_OSMWAY_300030310__0414",
+        "SEU_B_OSMWAY_300030310__0415",
+        "SEU_B_OSMWAY_300030310__0416",
+        "SEU_B_OSMWAY_300030310__0417",
+        "SEU_B_OSMWAY_300030310__0418",
+        "SEU_B_OSMWAY_300030310__0419",
+        "SEU_B_OSMWAY_300030310__0420",
+        "SEU_B_OSMWAY_300030310__0421",
+        "SEU_B_OSMWAY_300030310__0422",
+        "SEU_B_OSMWAY_300030310__0423",
+        "SEU_B_OSMWAY_300030310__0424",
+        "SEU_B_OSMWAY_300030310__0425",
+        "SEU_B_OSMWAY_300030310__0426",
+        "SEU_B_OSMWAY_300030310__0427",
+        "SEU_B_OSMWAY_300030310__0428",
+        "SEU_B_OSMWAY_300030310__0429",
+        "SEU_B_OSMWAY_300030310__0430",
+        "SEU_B_OSMWAY_300030310__0431",
+        "SEU_B_OSMWAY_300030310__0432",
+        "SEU_B_OSMWAY_300030310__0433",
+        "SEU_B_OSMWAY_300030310__0434",
+        "SEU_B_OSMWAY_300030310__0435",
+        "SEU_B_OSMWAY_300030310__0436",
+        "SEU_B_OSMWAY_300030310__0437",
+        "SEU_B_OSMWAY_300030310__0438",
+        "SEU_B_OSMWAY_300030310__0439",
+        "SEU_B_OSMWAY_300030310__0440",
+        "SEU_B_OSMWAY_300030310__0441",
+        "SEU_B_OSMWAY_300030310__0442",
+        "SEU_B_OSMWAY_300030310__0443",
+        "SEU_B_OSMWAY_300030310__0444",
+        "SEU_B_OSMWAY_300030310__0445",
+        "SEU_B_OSMWAY_300030310__0446",
+        "SEU_B_OSMWAY_300030310__0447",
+        "SEU_B_OSMWAY_300030310__0448",
+        "SEU_B_OSMWAY_300030310__0449",
+        "SEU_B_OSMWAY_300030310__0450",
+        "SEU_B_OSMWAY_300030310__0451",
+        "SEU_B_OSMWAY_300030310__0452",
+        "SEU_B_OSMWAY_300030310__0453",
+        "SEU_B_OSMWAY_300030310__0454",
+        "SEU_B_OSMWAY_300030310__0455",
+        "SEU_B_OSMWAY_300030310__0456",
+        "SEU_B_OSMWAY_300030310__0457",
+        "SEU_B_OSMWAY_300030310__0458",
+        "SEU_B_OSMWAY_300030310__0459",
+        "SEU_B_OSMWAY_300030310__0460",
+        "SEU_B_OSMWAY_300030310__0461",
+        "SEU_B_OSMWAY_300030310__0462",
+        "SEU_B_OSMWAY_300030310__0463",
+        "SEU_B_OSMWAY_300030310__0464",
+        "SEU_B_OSMWAY_300030310__0465",
+        "SEU_B_OSMWAY_300030310__0466",
+        "SEU_B_OSMWAY_300030310__0467",
+        "SEU_B_OSMWAY_300030310__0468",
+        "SEU_B_OSMWAY_300030310__0469",
+        "SEU_B_OSMWAY_300030310__0470",
+        "SEU_B_OSMWAY_300030310__0471",
+        "SEU_B_OSMWAY_300030310__0472",
+        "SEU_B_OSMWAY_300030310__0473",
+        "SEU_B_OSMWAY_300030310__0474",
+        "SEU_B_OSMWAY_300030310__0475",
+        "SEU_B_OSMWAY_300030310__0476",
+        "SEU_B_OSMWAY_300030310__0477",
+        "SEU_B_OSMWAY_300030310__0478",
+        "SEU_B_OSMWAY_300030310__0479",
+        "SEU_B_OSMWAY_300030310__0480",
+        "SEU_B_OSMWAY_300030310__0481",
+        "SEU_B_OSMWAY_300030310__0482",
+        "SEU_B_OSMWAY_300030310__0483",
+        "SEU_B_OSMWAY_300030310__0484",
+        "SEU_B_OSMWAY_300030310__0485",
+        "SEU_B_OSMWAY_300030310__0486",
+        "SEU_B_OSMWAY_300030310__0487",
+        "SEU_B_OSMWAY_300030310__0488",
+        "SEU_B_OSMWAY_300030310__0489",
+        "SEU_B_OSMWAY_300030310__0490",
+        "SEU_B_OSMWAY_300030310__0491",
+        "SEU_B_OSMWAY_300030310__0492",
+        "SEU_B_OSMWAY_300030310__0493",
+        "SEU_B_OSMWAY_300030310__0494",
+        "SEU_B_OSMWAY_300030310__0495",
+        "SEU_B_OSMWAY_300030310__0496",
+        "SEU_B_OSMWAY_300030310__0497",
+        "SEU_B_OSMWAY_300030310__0498",
+        "SEU_B_OSMWAY_300030310__0499",
+        "SEU_B_OSMWAY_300030310__0500",
+        "SEU_B_OSMWAY_300030310__0501",
+        "SEU_B_OSMWAY_300030310__0502",
+        "SEU_B_OSMWAY_300030310__0503",
+        "SEU_B_OSMWAY_300030310__0504",
+        "SEU_B_OSMWAY_300030310__0505",
+        "SEU_B_OSMWAY_300030310__0506",
+        "SEU_B_OSMWAY_300030310__0507",
+        "SEU_B_OSMWAY_300030310__0508",
+        "SEU_B_OSMWAY_300030310__0509",
+        "SEU_B_OSMWAY_300030310__0510",
+        "SEU_B_OSMWAY_300030310__0511",
+        "SEU_B_OSMWAY_300030310__0512",
+        "SEU_B_OSMWAY_300030310__0513",
+        "SEU_B_OSMWAY_300030310__0514",
+        "SEU_B_OSMWAY_300030310__0515",
+        "SEU_B_OSMWAY_300030310__0516",
+        "SEU_B_OSMWAY_300030310__0517",
+        "SEU_B_OSMWAY_300030310__0518",
+        "SEU_B_OSMWAY_300030310__0519",
+        "SEU_B_OSMWAY_300030310__0520",
+        "SEU_B_OSMWAY_300030310__0521",
+        "SEU_B_OSMWAY_300030310__0522",
+        "SEU_B_OSMWAY_300030310__0523",
+        "SEU_B_OSMWAY_300030310__0524",
+        "SEU_B_OSMWAY_300030310__0525",
+        "SEU_B_OSMWAY_300030310__0526",
+        "SEU_B_OSMWAY_300030310__0527",
+        "SEU_B_OSMWAY_300030310__0528",
+        "SEU_B_OSMWAY_300030310__0529",
+        "SEU_B_OSMWAY_300030310__0530",
+        "SEU_B_OSMWAY_300030310__0531",
+        "SEU_B_OSMWAY_300030310__0532",
+        "SEU_B_OSMWAY_300030310__0533",
+        "SEU_B_OSMWAY_300030310__0534",
+        "SEU_B_OSMWAY_300030310__0535",
+        "SEU_B_OSMWAY_300030310__0536",
+        "SEU_B_OSMWAY_300030310__0537",
+        "SEU_B_OSMWAY_300030310__0538",
+        "SEU_B_OSMWAY_300030310__0539",
+        "SEU_B_OSMWAY_300030310__0540",
+        "SEU_B_OSMWAY_300030310__0541",
+        "SEU_B_OSMWAY_300030310__0542",
+        "SEU_B_OSMWAY_300030310__0543",
+        "SEU_B_OSMWAY_300030310__0544",
+        "SEU_B_OSMWAY_300030310__0545",
+        "SEU_B_OSMWAY_300030310__0546",
+        "SEU_B_OSMWAY_300030310__0547",
+        "SEU_B_OSMWAY_300030310__0548",
+        "SEU_B_OSMWAY_300030310__0549",
+        "SEU_B_OSMWAY_300030310__0550",
+        "SEU_B_OSMWAY_300030310__0551",
+        "SEU_B_OSMWAY_300030310__0552",
+        "SEU_B_OSMWAY_300030310__0553",
+        "SEU_B_OSMWAY_300030310__0554",
+        "SEU_B_OSMWAY_300030310__0555",
+        "SEU_B_OSMWAY_300030310__0556",
+        "SEU_B_OSMWAY_300030310__0557",
+        "SEU_B_OSMWAY_300030310__0558",
+        "SEU_B_OSMWAY_300030310__0559",
+        "SEU_B_OSMWAY_300030310__0560",
+        "SEU_B_OSMWAY_300030310__0561",
+        "SEU_B_OSMWAY_300030310__0562",
+        "SEU_B_OSMWAY_300030310__0563",
+        "SEU_B_OSMWAY_300030310__0564",
+        "SEU_B_OSMWAY_300030310__0565",
+        "SEU_B_OSMWAY_300030310__0566",
+        "SEU_B_OSMWAY_300030310__0567",
+        "SEU_B_OSMWAY_300030310__0568",
+        "SEU_B_OSMWAY_300030310__0569",
+        "SEU_B_OSMWAY_300030310__0570",
+        "SEU_B_OSMWAY_300030310__0571",
+        "SEU_B_OSMWAY_300030310__0572",
+        "SEU_B_OSMWAY_300030310__0573",
+        "SEU_B_OSMWAY_300030310__0574",
+        "SEU_B_OSMWAY_300030310__0575",
+        "SEU_B_OSMWAY_300030310__0576",
+        "SEU_B_OSMWAY_300030310__0577",
+        "SEU_B_OSMWAY_300030310__0578",
+        "SEU_B_OSMWAY_300030310__0579",
+        "SEU_B_OSMWAY_300030310__0580",
+        "SEU_B_OSMWAY_300030310__0581",
+        "SEU_B_OSMWAY_300030310__0582",
+        "SEU_B_OSMWAY_300030310__0583",
+        "SEU_B_OSMWAY_300030310__0584",
+        "SEU_B_OSMWAY_300030310__0585",
+        "SEU_B_OSMWAY_300030310__0586",
+        "SEU_B_OSMWAY_300030310__0587",
+        "SEU_B_OSMWAY_300030310__0588",
+        "SEU_B_OSMWAY_300030310__0589",
+        "SEU_B_OSMWAY_300030310__0590",
+        "SEU_B_OSMWAY_300030310__0591",
+        "SEU_B_OSMWAY_300030310__0592",
+        "SEU_B_OSMWAY_300030310__0593",
+        "SEU_B_OSMWAY_300030310__0594",
+        "SEU_B_OSMWAY_300030310__0595",
+        "SEU_B_OSMWAY_300030310__0596",
+        "SEU_B_OSMWAY_300030310__0597",
+        "SEU_B_OSMWAY_300030310__0598",
+        "SEU_B_OSMWAY_300030310__0599",
+        "SEU_B_OSMWAY_300030310__0600",
+        "SEU_B_OSMWAY_300030310__0601",
+        "SEU_B_OSMWAY_300030310__0602",
+        "SEU_B_OSMWAY_300030310__0603",
+        "SEU_B_OSMWAY_300030310__0604",
+        "SEU_B_OSMWAY_300030310__0605",
+        "SEU_B_OSMWAY_300030310__0606",
+        "SEU_B_OSMWAY_300030310__0607",
+        "SEU_B_OSMWAY_300030310__0608",
+        "SEU_B_OSMWAY_300030310__0609",
+        "SEU_B_OSMWAY_300030310__0610",
+        "SEU_B_OSMWAY_300030310__0611",
+        "SEU_B_OSMWAY_300030310__0612",
+        "SEU_B_OSMWAY_300030310__0613",
+        "SEU_B_OSMWAY_300030310__0614",
+        "SEU_B_OSMWAY_300030310__0615",
+        "SEU_B_OSMWAY_300030310__0616",
+        "SEU_B_OSMWAY_300030310__0617",
+        "SEU_B_OSMWAY_300030310__0618",
+        "SEU_B_OSMWAY_300030310__0619",
+        "SEU_B_OSMWAY_300030310__0620",
+        "SEU_B_OSMWAY_300030310__0621",
+        "SEU_B_OSMWAY_300030310__0622",
+        "SEU_B_OSMWAY_300030310__0623",
+        "SEU_B_OSMWAY_300030310__0624",
+        "SEU_B_OSMWAY_300030310__0625",
+        "SEU_B_OSMWAY_300030310__0626",
+        "SEU_B_OSMWAY_300030310__0627",
+        "SEU_B_OSMWAY_300030310__0628",
+        "SEU_B_OSMWAY_300030310__0629",
+        "SEU_B_OSMWAY_300030310__0630",
+        "SEU_B_OSMWAY_300030310__0631",
+        "SEU_B_OSMWAY_300030310__0632",
+        "SEU_B_OSMWAY_300030310__0633",
+        "SEU_B_OSMWAY_300030310__0634",
+        "SEU_B_OSMWAY_300030310__0635",
+        "SEU_B_OSMWAY_300030310__0636",
+        "SEU_B_OSMWAY_300030310__0637",
+        "SEU_B_OSMWAY_300030310__0638",
+        "SEU_B_OSMWAY_300030310__0639",
+        "SEU_B_OSMWAY_300030310__0640",
+        "SEU_B_OSMWAY_300030310__0641",
+        "SEU_B_OSMWAY_300030310__0642",
+        "SEU_B_OSMWAY_300030310__0643",
+        "SEU_B_OSMWAY_300030310__0644",
+        "SEU_B_OSMWAY_300030310__0645",
+        "SEU_B_OSMWAY_300030310__0646",
+        "SEU_B_OSMWAY_300030310__0647",
+        "SEU_B_OSMWAY_300030310__0648",
+        "SEU_B_OSMWAY_300030310__0649",
+        "SEU_B_OSMWAY_300030310__0650",
+        "SEU_B_OSMWAY_300030310__0651",
+        "SEU_B_OSMWAY_300030310__0652",
+        "SEU_B_OSMWAY_300030310__0653",
+        "SEU_B_OSMWAY_300030310__0654",
+        "SEU_B_OSMWAY_300030310__0655",
+        "SEU_B_OSMWAY_300030310__0656",
+        "SEU_B_OSMWAY_300030310__0657",
+        "SEU_B_OSMWAY_300030310__0658",
+        "SEU_B_OSMWAY_300030310__0659",
+        "SEU_B_OSMWAY_300030310__0660",
+        "SEU_B_OSMWAY_300030310__0661",
+        "SEU_B_OSMWAY_300030310__0662",
+        "SEU_B_OSMWAY_300030310__0663",
+        "SEU_B_OSMWAY_300030310__0664",
+        "SEU_B_OSMWAY_300030310__0665",
+        "SEU_B_OSMWAY_300030310__0666",
+        "SEU_B_OSMWAY_300030310__0667",
+        "SEU_B_OSMWAY_300030310__0668",
+        "SEU_B_OSMWAY_300030310__0669",
+        "SEU_B_OSMWAY_300030310__0670",
+        "SEU_B_OSMWAY_300030310__0671",
+        "SEU_B_OSMWAY_300030310__0672",
+        "SEU_B_OSMWAY_300030310__0673",
+        "SEU_B_OSMWAY_300030310__0674",
+        "SEU_B_OSMWAY_300030310__0675",
+        "SEU_B_OSMWAY_300030310__0676",
+        "SEU_B_OSMWAY_300030310__0677",
+        "SEU_B_OSMWAY_300030310__0678",
+        "SEU_B_OSMWAY_300030310__0679",
+        "SEU_B_OSMWAY_300030310__0680",
+        "SEU_B_OSMWAY_300030310__0681",
+        "SEU_B_OSMWAY_300030310__0682",
+        "SEU_B_OSMWAY_300030310__0683",
+        "SEU_B_OSMWAY_300030310__0684",
+        "SEU_B_OSMWAY_300030310__0685",
+        "SEU_B_OSMWAY_300030310__0686",
+        "SEU_B_OSMWAY_300030310__0687",
+        "SEU_B_OSMWAY_300030310__0688",
+        "SEU_B_OSMWAY_300030310__0689",
+        "SEU_B_OSMWAY_300030310__0690",
+        "SEU_B_OSMWAY_300030310__0691",
+        "SEU_B_OSMWAY_300030310__0692",
+        "SEU_B_OSMWAY_300030310__0693",
+        "SEU_B_OSMWAY_300030310__0694",
+        "SEU_B_OSMWAY_300030310__0695",
+        "SEU_B_OSMWAY_300030310__0696",
+        "SEU_B_OSMWAY_300030310__0697",
+        "SEU_B_OSMWAY_300030310__0698",
+        "SEU_B_OSMWAY_300030310__0699",
+        "SEU_B_OSMWAY_300030310__0700",
+        "SEU_B_OSMWAY_300030310__0701",
+        "SEU_B_OSMWAY_300030310__0702",
+        "SEU_B_OSMWAY_300030310__0703",
+        "SEU_B_OSMWAY_300030310__0704",
+        "SEU_B_OSMWAY_300030310__0705",
+        "SEU_B_OSMWAY_300030310__0706",
+        "SEU_B_OSMWAY_300030310__0707",
+        "SEU_B_OSMWAY_300030310__0708",
+        "SEU_B_OSMWAY_300030310__0709",
+        "SEU_B_OSMWAY_300030310__0710",
+        "SEU_B_OSMWAY_300030310__0711",
+        "SEU_B_OSMWAY_300030310__0712",
+        "SEU_B_OSMWAY_300030310__0713",
+        "SEU_B_OSMWAY_300030310__0714",
+        "SEU_B_OSMWAY_300030310__0715",
+        "SEU_B_OSMWAY_300030310__0716",
+        "SEU_B_OSMWAY_300030310__0717",
+        "SEU_B_OSMWAY_300030310__0718",
+        "SEU_B_OSMWAY_300030310__0719",
+        "SEU_B_OSMWAY_300030310__0720",
+        "SEU_B_OSMWAY_300030310__0721",
+        "SEU_B_OSMWAY_300030310__0722",
+        "SEU_B_OSMWAY_300030310__0723",
+        "SEU_B_OSMWAY_300030310__0724",
+        "SEU_B_OSMWAY_300030310__0725",
+        "SEU_B_OSMWAY_300030310__0726",
+        "SEU_B_OSMWAY_300030310__0727",
+        "SEU_B_OSMWAY_300030310__0728",
+        "SEU_B_OSMWAY_300030310__0729",
+        "SEU_B_OSMWAY_300030310__0730",
+        "SEU_B_OSMWAY_300030310__0731",
+        "SEU_B_OSMWAY_300030310__0732",
+        "SEU_B_OSMWAY_300030310__0733",
+        "SEU_B_OSMWAY_300030310__0734",
+        "SEU_B_OSMWAY_300030310__0735",
+        "SEU_B_OSMWAY_300030310__0736",
+        "SEU_B_OSMWAY_300030310__0737",
+        "SEU_B_OSMWAY_300030310__0738",
+        "SEU_B_OSMWAY_300030310__0739",
+        "SEU_B_OSMWAY_300030310__0740",
+        "SEU_B_OSMWAY_300030310__0741",
+        "SEU_B_OSMWAY_300030310__0742",
+        "SEU_B_OSMWAY_300030310__0743",
+        "SEU_B_OSMWAY_300030310__0744",
+        "SEU_B_OSMWAY_300030310__0745",
+        "SEU_B_OSMWAY_300030310__0746",
+        "SEU_B_OSMWAY_300030310__0747",
+        "SEU_B_OSMWAY_300030310__0748",
+        "SEU_B_OSMWAY_300030310__0749",
+        "SEU_B_OSMWAY_300030310__0750",
+        "SEU_B_OSMWAY_300030310__0751",
+        "SEU_B_OSMWAY_300030310__0752",
+        "SEU_B_OSMWAY_300030310__0753",
+        "SEU_B_OSMWAY_300030310__0754",
+        "SEU_B_OSMWAY_300030310__0755",
+        "SEU_B_OSMWAY_300030310__0756",
+        "SEU_B_OSMWAY_300030310__0757",
+        "SEU_B_OSMWAY_300030310__0758",
+        "SEU_B_OSMWAY_300030310__0759",
+        "SEU_B_OSMWAY_300030310__0760",
+        "SEU_B_OSMWAY_300030310__0761",
+        "SEU_B_OSMWAY_300030310__0762",
+        "SEU_B_OSMWAY_300030310__0763",
+        "SEU_B_OSMWAY_300030310__0764",
+        "SEU_B_OSMWAY_300030310__0765",
+        "SEU_B_OSMWAY_300030310__0766",
+        "SEU_B_OSMWAY_300030310__0767",
+        "SEU_B_OSMWAY_300030310__0768",
+        "SEU_B_OSMWAY_300030310__0769",
+        "SEU_B_OSMWAY_300030310__0770",
+        "SEU_B_OSMWAY_300030310__0771",
+        "SEU_B_OSMWAY_300030310__0772",
+        "SEU_B_OSMWAY_300030310__0773",
+        "SEU_B_OSMWAY_300030310__0774",
+        "SEU_B_OSMWAY_300030310__0775",
+        "SEU_B_OSMWAY_300030310__0776",
+        "SEU_B_OSMWAY_300030310__0777",
+        "SEU_B_OSMWAY_300030310__0778",
+        "SEU_B_OSMWAY_300030310__0779",
+        "SEU_B_OSMWAY_300030310__0780",
+        "SEU_B_OSMWAY_300030310__0781",
+        "SEU_B_OSMWAY_300030310__0782",
+        "SEU_B_OSMWAY_300030310__0783",
+        "SEU_B_OSMWAY_300030310__0784",
+        "SEU_B_OSMWAY_300030310__0785",
+        "SEU_B_OSMWAY_300030310__0786",
+        "SEU_B_OSMWAY_300030310__0787",
+        "SEU_B_OSMWAY_300030310__0788",
+        "SEU_B_OSMWAY_300030310__0789",
+        "SEU_B_OSMWAY_300030310__0790",
+        "SEU_B_OSMWAY_300030310__0791",
+        "SEU_B_OSMWAY_300030310__0792",
+        "SEU_B_OSMWAY_300030310__0793",
+        "SEU_B_OSMWAY_300030310__0794",
+        "SEU_B_OSMWAY_300030310__0795",
+        "SEU_B_OSMWAY_300030310__0796",
+        "SEU_B_OSMWAY_300030310__0797",
+        "SEU_B_OSMWAY_300030310__0798",
+        "SEU_B_OSMWAY_300030310__0799",
+        "SEU_B_OSMWAY_300030310__0800",
+        "SEU_B_OSMWAY_300030310__0801",
+        "SEU_B_OSMWAY_300030310__0802",
+        "SEU_B_OSMWAY_300030310__0803",
+        "SEU_B_OSMWAY_300030310__0804",
+        "SEU_B_OSMWAY_300030310__0805",
+        "SEU_B_OSMWAY_300030310__0806",
+        "SEU_B_OSMWAY_300030310__0807",
+        "SEU_B_OSMWAY_300030310__0808",
+        "SEU_B_OSMWAY_300030310__0809",
+        "SEU_B_OSMWAY_300030310__0810",
+        "SEU_B_OSMWAY_300030310__0811",
+        "SEU_B_OSMWAY_300030310__0812",
+        "SEU_B_OSMWAY_300030310__0813",
+        "SEU_B_OSMWAY_300030310__0814",
+        "SEU_B_OSMWAY_300030310__0815",
+        "SEU_B_OSMWAY_300030310__0816",
+        "SEU_B_OSMWAY_300030310__0817",
+        "SEU_B_OSMWAY_300030310__0818",
+        "SEU_B_OSMWAY_300030310__0819",
+        "SEU_B_OSMWAY_300030310__0820",
+        "SEU_B_OSMWAY_300030310__0821",
+        "SEU_B_OSMWAY_300030310__0822",
+        "SEU_B_OSMWAY_300030310__0823",
+        "SEU_B_OSMWAY_300030310__0824",
+        "SEU_B_OSMWAY_300030310__0825",
+        "SEU_B_OSMWAY_300030310__0826",
+        "SEU_B_OSMWAY_300030310__0827",
+        "SEU_B_OSMWAY_300030310__0828",
+        "SEU_B_OSMWAY_300030310__0829",
+        "SEU_B_OSMWAY_300030310__0830",
+        "SEU_B_OSMWAY_300030310__0831",
+        "SEU_B_OSMWAY_300030310__0832",
+        "SEU_B_OSMWAY_300030310__0833",
+        "SEU_B_OSMWAY_300030310__0834",
+        "SEU_B_OSMWAY_300030310__0835",
+        "SEU_B_OSMWAY_300030310__0836",
+        "SEU_B_OSMWAY_300030310__0837",
+        "SEU_B_OSMWAY_300030310__0838",
+        "SEU_B_OSMWAY_300030310__0839",
+        "SEU_B_OSMWAY_300030310__0840",
+        "SEU_B_OSMWAY_300030310__0841",
+        "SEU_B_OSMWAY_300030310__0842",
+        "SEU_B_OSMWAY_300030310__0843",
+        "SEU_B_OSMWAY_300030310__0844",
+        "SEU_B_OSMWAY_300030310__0845",
+        "SEU_B_OSMWAY_300030310__0846",
+        "SEU_B_OSMWAY_300030310__0847",
+        "SEU_B_OSMWAY_300030310__0848",
+        "SEU_B_OSMWAY_300030310__0849",
+        "SEU_B_OSMWAY_300030310__0850",
+        "SEU_B_OSMWAY_300030310__0851",
+        "SEU_B_OSMWAY_300030310__0852",
+        "SEU_B_OSMWAY_300030310__0853",
+        "SEU_B_OSMWAY_300030310__0854",
+        "SEU_B_OSMWAY_300030310__0855",
+        "SEU_B_OSMWAY_300030310__0856",
+        "SEU_B_OSMWAY_300030310__0857",
+        "SEU_B_OSMWAY_300030310__0858",
+        "SEU_B_OSMWAY_300030310__0859",
+        "SEU_B_OSMWAY_300030310__0860",
+        "SEU_B_OSMWAY_300030310__0861",
+        "SEU_B_OSMWAY_300030310__0862",
+        "SEU_B_OSMWAY_300030310__0863",
+        "SEU_B_OSMWAY_300030310__0864",
+        "SEU_B_OSMWAY_300030310__0865",
+        "SEU_B_OSMWAY_300030310__0866",
+        "SEU_B_OSMWAY_300030310__0867",
+        "SEU_B_OSMWAY_300030310__0868",
+        "SEU_B_OSMWAY_300030310__0869",
+        "SEU_B_OSMWAY_300030310__0870",
+        "SEU_B_OSMWAY_300030310__0871",
+        "SEU_B_OSMWAY_300030310__0872",
+        "SEU_B_OSMWAY_300030310__0873",
+        "SEU_B_OSMWAY_300030310__0874",
+        "SEU_B_OSMWAY_300030310__0875",
+        "SEU_B_OSMWAY_300030310__0876",
+        "SEU_B_OSMWAY_300030310__0877",
+        "SEU_B_OSMWAY_300030310__0878",
+        "SEU_B_OSMWAY_300030310__0879",
+        "SEU_B_OSMWAY_300030310__0880",
+        "SEU_B_OSMWAY_300030310__0881",
+        "SEU_B_OSMWAY_300030310__0882",
+        "SEU_B_OSMWAY_300030310__0883",
+        "SEU_B_OSMWAY_300030310__0884",
+        "SEU_B_OSMWAY_300030310__0885",
+        "SEU_B_OSMWAY_300030310__0886",
+        "SEU_B_OSMWAY_300030310__0887",
+        "SEU_B_OSMWAY_300030310__0888",
+        "SEU_B_OSMWAY_300030310__0889",
+        "SEU_B_OSMWAY_300030310__0890",
+        "SEU_B_OSMWAY_300030310__0891",
+        "SEU_B_OSMWAY_300030310__0892",
+        "SEU_B_OSMWAY_300030310__0893",
+        "SEU_B_OSMWAY_300030310__0894",
+        "SEU_B_OSMWAY_300030310__0895",
+        "SEU_B_OSMWAY_300030310__0896",
+        "SEU_B_OSMWAY_300030310__0897",
+        "SEU_B_OSMWAY_300030310__0898",
+        "SEU_B_OSMWAY_300030310__0899",
+        "SEU_B_OSMWAY_300030310__0900",
+        "SEU_B_OSMWAY_300030310__0901",
+        "SEU_B_OSMWAY_300030310__0902",
+        "SEU_B_OSMWAY_300030310__0903",
+        "SEU_B_OSMWAY_300030310__0904",
+        "SEU_B_OSMWAY_300030310__0905",
+        "SEU_B_OSMWAY_300030310__0906",
+        "SEU_B_OSMWAY_300030310__0907",
+        "SEU_B_OSMWAY_300030310__0908",
+        "SEU_B_OSMWAY_300030310__0909",
+        "SEU_B_OSMWAY_300030310__0910",
+        "SEU_B_OSMWAY_300030310__0911",
+        "SEU_B_OSMWAY_300030310__0912",
+        "SEU_B_OSMWAY_300030310__0913",
+        "SEU_B_OSMWAY_300030310__0914",
+        "SEU_B_OSMWAY_300030310__0915",
+        "SEU_B_OSMWAY_300030310__0916",
+        "SEU_B_OSMWAY_300030310__0917",
+        "SEU_B_OSMWAY_300030310__0918",
+        "SEU_B_OSMWAY_300030310__0919",
+        "SEU_B_OSMWAY_300030310__0920",
+        "SEU_B_OSMWAY_300030310__0921",
+        "SEU_B_OSMWAY_300030310__0922",
+        "SEU_B_OSMWAY_300030310__0923",
+        "SEU_B_OSMWAY_300030310__0924",
+        "SEU_B_OSMWAY_300030310__0925",
+        "SEU_B_OSMWAY_300030310__0926",
+        "SEU_B_OSMWAY_300030310__0927",
+        "SEU_B_OSMWAY_300030310__0928",
+        "SEU_B_OSMWAY_300030310__0929",
+        "SEU_B_OSMWAY_300030310__0930",
+        "SEU_B_OSMWAY_300030310__0931",
+        "SEU_B_OSMWAY_300030310__0932",
+        "SEU_B_OSMWAY_300030310__0933",
+        "SEU_B_OSMWAY_300030310__0934",
+        "SEU_B_OSMWAY_300030310__0935",
+        "SEU_B_OSMWAY_300030310__0936",
+        "SEU_B_OSMWAY_300030310__0937",
+        "SEU_B_OSMWAY_300030310__0938",
+        "SEU_B_OSMWAY_300030310__0939",
+        "SEU_B_OSMWAY_300030310__0940",
+        "SEU_B_OSMWAY_300030310__0941",
+        "SEU_B_OSMWAY_300030310__0942",
+        "SEU_B_OSMWAY_300030310__0943",
+        "SEU_B_OSMWAY_300030310__0944",
+        "SEU_B_OSMWAY_300030310__0945",
+        "SEU_B_OSMWAY_300030310__0946",
+        "SEU_B_OSMWAY_300030310__0947",
+        "SEU_B_OSMWAY_300030310__0948",
+        "SEU_B_OSMWAY_300030310__0949",
+        "SEU_B_OSMWAY_300030310__0950",
+        "SEU_B_OSMWAY_300030310__0951",
+        "SEU_B_OSMWAY_300030310__0952",
+        "SEU_B_OSMWAY_300030310__0953",
+        "SEU_B_OSMWAY_300030310__0954",
+        "SEU_B_OSMWAY_300030310__0955",
+        "SEU_B_OSMWAY_300030310__0956",
+        "SEU_B_OSMWAY_300030310__0957",
+        "SEU_B_OSMWAY_300030310__0958",
+        "SEU_B_OSMWAY_300030310__0959",
+        "SEU_B_OSMWAY_300030310__0960",
+        "SEU_B_OSMWAY_300030310__0961",
+        "SEU_B_OSMWAY_300030310__0962",
+        "SEU_B_OSMWAY_300030310__0963",
+        "SEU_B_OSMWAY_300030310__0964",
+        "SEU_B_OSMWAY_300030310__0965",
+        "SEU_B_OSMWAY_300030310__0966",
+        "SEU_B_OSMWAY_300030310__0967",
+        "SEU_B_OSMWAY_300030310__0968",
+        "SEU_B_OSMWAY_300030310__0969",
+        "SEU_B_OSMWAY_300030310__0970",
+        "SEU_B_OSMWAY_300030310__0971",
+        "SEU_B_OSMWAY_300030310__0972"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_171400094",
+      "min_xy": [
+        523.6315307617188,
+        -291.49896240234375
+      ],
+      "max_xy": [
+        550.8027954101562,
+        -250.40977478027344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_171400094_CORRECTED_upper_volume",
+        "SEU_B_OSMWAY_171400094_CORRECTED_ground_wing_1",
+        "SEU_B_OSMWAY_171400094_CORRECTED_ground_wing_0",
+        "SEU_B_OSMWAY_171400094_CORRECTED_flat_roof_estimated"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "min_xy": [
+        155.5988311767578,
+        -413.5674133300781
+      ],
+      "max_xy": [
+        233.23097229003906,
+        -370.798583984375
+      ],
+      "objects": [
+        "TJB_SOUTH_U_HIPPED_ROOF",
+        "SEU_B_OSMWAY_300010619__0001",
+        "SEU_B_OSMWAY_300010619__0002",
+        "SEU_B_OSMWAY_300010619__0003",
+        "SEU_B_OSMWAY_300010619__0004",
+        "SEU_B_OSMWAY_300010619__0005",
+        "SEU_B_OSMWAY_300010619__0006",
+        "SEU_B_OSMWAY_300010619__0007",
+        "SEU_B_OSMWAY_300010619__0008",
+        "SEU_B_OSMWAY_300010619__0009"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010601",
+      "min_xy": [
+        153.7407684326172,
+        -365.623779296875
+      ],
+      "max_xy": [
+        225.90403747558594,
+        -347.5890197753906
+      ],
+      "objects": [
+        "TJB_NORTH_HIPPED_ROOF",
+        "TJB_NORTH_GLAZING",
+        "TJB_NORTH_FRAME_GRID_4_VISIBLE_ROWS",
+        "TJB_NORTH_CORE",
+        "TJB_NORTH_BASE"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630686644",
+      "min_xy": [
+        467.47503662109375,
+        -81.42914581298828
+      ],
+      "max_xy": [
+        664.9155883789062,
+        76.29960632324219
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630686644__0001",
+        "SEU_B_OSMWAY_630686644__0002",
+        "SEU_B_OSMWAY_630686644__0003",
+        "SEU_B_OSMWAY_630686644__0004",
+        "SEU_B_OSMWAY_630686644__0005",
+        "SEU_B_OSMWAY_630686644__0006",
+        "SEU_B_OSMWAY_630686644__0007",
+        "SEU_B_OSMWAY_630686644__0008",
+        "SEU_B_OSMWAY_630686644__0009",
+        "SEU_B_OSMWAY_630686644__0010",
+        "SEU_B_OSMWAY_630686644__0011",
+        "SEU_B_OSMWAY_630686644__0012",
+        "SEU_B_OSMWAY_630686644__0013",
+        "SEU_B_OSMWAY_630686644__0014",
+        "SEU_B_OSMWAY_630686644__0015",
+        "SEU_B_OSMWAY_630686644__0016",
+        "SEU_B_OSMWAY_630686644__0017",
+        "SEU_B_OSMWAY_630686644__0018",
+        "SEU_B_OSMWAY_630686644__0019",
+        "SEU_B_OSMWAY_630686644__0020",
+        "SEU_B_OSMWAY_630686644__0021",
+        "SEU_B_OSMWAY_630686644__0022",
+        "SEU_B_OSMWAY_630686644__0023",
+        "SEU_B_OSMWAY_630686644__0024",
+        "SEU_B_OSMWAY_630686644__0025",
+        "SEU_B_OSMWAY_630686644__0026",
+        "SEU_B_OSMWAY_630686644__0027",
+        "SEU_B_OSMWAY_630686644__0028",
+        "SEU_B_OSMWAY_630686644__0029",
+        "SEU_B_OSMWAY_630686644__0030",
+        "SEU_B_OSMWAY_630686644__0031",
+        "SEU_B_OSMWAY_630686644__0032",
+        "SEU_B_OSMWAY_630686644__0033",
+        "SEU_B_OSMWAY_630686644__0034",
+        "SEU_B_OSMWAY_630686644__0035",
+        "SEU_B_OSMWAY_630686644__0036",
+        "SEU_B_OSMWAY_630686644__0037",
+        "SEU_B_OSMWAY_630686644__0038",
+        "SEU_B_OSMWAY_630686644__0039",
+        "SEU_B_OSMWAY_630686644__0040",
+        "SEU_B_OSMWAY_630686644__0041",
+        "SEU_B_OSMWAY_630686644__0042",
+        "SEU_B_OSMWAY_630686644__0043",
+        "SEU_B_OSMWAY_630686644__0044",
+        "SEU_B_OSMWAY_630686644__0045",
+        "SEU_B_OSMWAY_630686644__0046",
+        "SEU_B_OSMWAY_630686644__0047",
+        "SEU_B_OSMWAY_630686644__0048",
+        "SEU_B_OSMWAY_630686644__0049",
+        "SEU_B_OSMWAY_630686644__0050",
+        "SEU_B_OSMWAY_630686644__0051",
+        "SEU_B_OSMWAY_630686644__0052",
+        "SEU_B_OSMWAY_630686644__0053",
+        "SEU_B_OSMWAY_630686644__0054",
+        "SEU_B_OSMWAY_630686644__0055",
+        "SEU_B_OSMWAY_630686644__0056",
+        "SEU_B_OSMWAY_630686644__0057",
+        "SEU_B_OSMWAY_630686644__0058",
+        "SEU_B_OSMWAY_630686644__0061",
+        "SEU_B_OSMWAY_630686644__0062",
+        "SEU_B_OSMWAY_630686644__0063",
+        "SEU_B_OSMWAY_630686644__0064",
+        "SEU_B_OSMWAY_630686644__0065",
+        "SEU_B_OSMWAY_630686644__0066",
+        "SEU_B_OSMWAY_630686644__0067",
+        "SEU_B_OSMWAY_630686644__0068",
+        "SEU_B_OSMWAY_630686644__0069",
+        "SEU_B_OSMWAY_630686644__0070",
+        "SEU_B_OSMWAY_630686644__0071",
+        "SEU_B_OSMWAY_630686644__0072",
+        "SEU_B_OSMWAY_630686644__0073",
+        "SEU_B_OSMWAY_630686644__0074",
+        "SEU_B_OSMWAY_630686644__0075",
+        "SEU_B_OSMWAY_630686644__0076",
+        "SEU_B_OSMWAY_630686644__0077",
+        "SEU_B_OSMWAY_630686644__0078",
+        "SEU_B_OSMWAY_630686644__0079",
+        "SEU_B_OSMWAY_630686644__0080",
+        "SEU_B_OSMWAY_630686644__0081",
+        "SEU_B_OSMWAY_630686644__0082",
+        "SEU_B_OSMWAY_630686644__0083",
+        "SEU_B_OSMWAY_630686644__0084",
+        "SEU_B_OSMWAY_630686644__0085",
+        "SEU_B_OSMWAY_630686644__0086",
+        "SEU_B_OSMWAY_630686644__0087",
+        "SEU_B_OSMWAY_630686644__0088",
+        "SEU_B_OSMWAY_630686644__0089",
+        "SEU_B_OSMWAY_630686644__0090",
+        "SEU_B_OSMWAY_630686644__0091",
+        "SEU_B_OSMWAY_630686644__0092",
+        "SEU_B_OSMWAY_630686644__0093",
+        "SEU_B_OSMWAY_630686644__0094",
+        "SEU_B_OSMWAY_630686644__0095",
+        "SEU_B_OSMWAY_630686644__0100",
+        "SEU_B_OSMWAY_630686644__0101",
+        "SEU_B_OSMWAY_630686644__0102",
+        "SEU_B_OSMWAY_630686644__0103",
+        "SEU_B_OSMWAY_630686644__0104",
+        "SEU_B_OSMWAY_630686644__0105",
+        "SEU_B_OSMWAY_630686644__0106",
+        "SEU_B_OSMWAY_630686644__0107",
+        "SEU_B_OSMWAY_630686644__0108",
+        "SEU_B_OSMWAY_630686644__0109",
+        "SEU_B_OSMWAY_630686644__0110",
+        "SEU_B_OSMWAY_630686644__0111",
+        "SEU_B_OSMWAY_630686644__0112",
+        "SEU_B_OSMWAY_630686644__0113",
+        "SEU_B_OSMWAY_630686644__0114",
+        "SEU_B_OSMWAY_630686644__0115"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961605",
+      "min_xy": [
+        137.2640380859375,
+        6.527472972869873
+      ],
+      "max_xy": [
+        245.3797149658203,
+        63.01881408691406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961605__0001",
+        "SEU_B_OSMWAY_299961605__0002",
+        "SEU_B_OSMWAY_299961605__0003",
+        "SEU_B_OSMWAY_299961605__0004",
+        "SEU_B_OSMWAY_299961605__0005",
+        "SEU_B_OSMWAY_299961605__0006",
+        "SEU_B_OSMWAY_299961605__0007",
+        "SEU_B_OSMWAY_299961605__0008",
+        "SEU_B_OSMWAY_299961605__0009",
+        "SEU_B_OSMWAY_299961605__0010",
+        "SEU_B_OSMWAY_299961605__0011",
+        "SEU_B_OSMWAY_299961605__0012",
+        "SEU_B_OSMWAY_299961605__0013",
+        "SEU_B_OSMWAY_299961605__0014",
+        "SEU_B_OSMWAY_299961605__0015",
+        "SEU_B_OSMWAY_299961605__0016",
+        "SEU_B_OSMWAY_299961605__0017",
+        "SEU_B_OSMWAY_299961605__0018",
+        "SEU_B_OSMWAY_299961605__0019",
+        "SEU_B_OSMWAY_299961605__0020"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961615",
+      "min_xy": [
+        273.2034912109375,
+        40.6826171875
+      ],
+      "max_xy": [
+        373.05499267578125,
+        97.39986419677734
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961615__0001",
+        "SEU_B_OSMWAY_299961615__0002",
+        "SEU_B_OSMWAY_299961615__0003",
+        "SEU_B_OSMWAY_299961615__0004",
+        "SEU_B_OSMWAY_299961615__0005",
+        "SEU_B_OSMWAY_299961615__0006",
+        "SEU_B_OSMWAY_299961615__0007",
+        "SEU_B_OSMWAY_299961615__0008",
+        "SEU_B_OSMWAY_299961615__0009",
+        "SEU_B_OSMWAY_299961615__0010",
+        "SEU_B_OSMWAY_299961615__0011",
+        "SEU_B_OSMWAY_299961615__0012",
+        "SEU_B_OSMWAY_299961615__0013",
+        "SEU_B_OSMWAY_299961615__0014",
+        "SEU_B_OSMWAY_299961615__0015",
+        "SEU_B_OSMWAY_299961615__0016",
+        "SEU_B_OSMWAY_299961615__0017"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961622",
+      "min_xy": [
+        133.51791381835938,
+        56.84838104248047
+      ],
+      "max_xy": [
+        241.89138793945312,
+        105.98751068115234
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961622__0001",
+        "SEU_B_OSMWAY_299961622__0002",
+        "SEU_B_OSMWAY_299961622__0003",
+        "SEU_B_OSMWAY_299961622__0004",
+        "SEU_B_OSMWAY_299961622__0005",
+        "SEU_B_OSMWAY_299961622__0006",
+        "SEU_B_OSMWAY_299961622__0007",
+        "SEU_B_OSMWAY_299961622__0008",
+        "SEU_B_OSMWAY_299961622__0009",
+        "SEU_B_OSMWAY_299961622__0010",
+        "SEU_B_OSMWAY_299961622__0011",
+        "SEU_B_OSMWAY_299961622__0012",
+        "SEU_B_OSMWAY_299961622__0013",
+        "SEU_B_OSMWAY_299961622__0014",
+        "SEU_B_OSMWAY_299961622__0015",
+        "SEU_B_OSMWAY_299961622__0016",
+        "SEU_B_OSMWAY_299961622__0017",
+        "SEU_B_OSMWAY_299961622__0018"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961617",
+      "min_xy": [
+        268.97259521484375,
+        90.24948120117188
+      ],
+      "max_xy": [
+        369.822998046875,
+        140.3716278076172
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961617__0001",
+        "SEU_B_OSMWAY_299961617__0002",
+        "SEU_B_OSMWAY_299961617__0003",
+        "SEU_B_OSMWAY_299961617__0004",
+        "SEU_B_OSMWAY_299961617__0005",
+        "SEU_B_OSMWAY_299961617__0006",
+        "SEU_B_OSMWAY_299961617__0007",
+        "SEU_B_OSMWAY_299961617__0008",
+        "SEU_B_OSMWAY_299961617__0009",
+        "SEU_B_OSMWAY_299961617__0010",
+        "SEU_B_OSMWAY_299961617__0011",
+        "SEU_B_OSMWAY_299961617__0012",
+        "SEU_B_OSMWAY_299961617__0013",
+        "SEU_B_OSMWAY_299961617__0014",
+        "SEU_B_OSMWAY_299961617__0015",
+        "SEU_B_OSMWAY_299961617__0016",
+        "SEU_B_OSMWAY_299961617__0017"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961591",
+      "min_xy": [
+        152.78628540039062,
+        99.36311340332031
+      ],
+      "max_xy": [
+        237.84474182128906,
+        148.7099151611328
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961591__0001",
+        "SEU_B_OSMWAY_299961591__0002",
+        "SEU_B_OSMWAY_299961591__0003",
+        "SEU_B_OSMWAY_299961591__0004",
+        "SEU_B_OSMWAY_299961591__0005",
+        "SEU_B_OSMWAY_299961591__0006",
+        "SEU_B_OSMWAY_299961591__0007",
+        "SEU_B_OSMWAY_299961591__0008",
+        "SEU_B_OSMWAY_299961591__0009",
+        "SEU_B_OSMWAY_299961591__0010",
+        "SEU_B_OSMWAY_299961591__0011",
+        "SEU_B_OSMWAY_299961591__0012"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961595",
+      "min_xy": [
+        265.4019470214844,
+        133.4740753173828
+      ],
+      "max_xy": [
+        366.50079345703125,
+        183.2529296875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961595__0001",
+        "SEU_B_OSMWAY_299961595__0002",
+        "SEU_B_OSMWAY_299961595__0003",
+        "SEU_B_OSMWAY_299961595__0004",
+        "SEU_B_OSMWAY_299961595__0005",
+        "SEU_B_OSMWAY_299961595__0006",
+        "SEU_B_OSMWAY_299961595__0007",
+        "SEU_B_OSMWAY_299961595__0008",
+        "SEU_B_OSMWAY_299961595__0009",
+        "SEU_B_OSMWAY_299961595__0010",
+        "SEU_B_OSMWAY_299961595__0011",
+        "SEU_B_OSMWAY_299961595__0012",
+        "SEU_B_OSMWAY_299961595__0013",
+        "SEU_B_OSMWAY_299961595__0014",
+        "SEU_B_OSMWAY_299961595__0015",
+        "SEU_B_OSMWAY_299961595__0016",
+        "SEU_B_OSMWAY_299961595__0017"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961592",
+      "min_xy": [
+        124.52958679199219,
+        140.26882934570312
+      ],
+      "max_xy": [
+        274.4482727050781,
+        173.82310485839844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961592__0001",
+        "SEU_B_OSMWAY_299961592__0002",
+        "SEU_B_OSMWAY_299961592__0003",
+        "SEU_B_OSMWAY_299961592__0004",
+        "SEU_B_OSMWAY_299961592__0005",
+        "SEU_B_OSMWAY_299961592__0006",
+        "SEU_B_OSMWAY_299961592__0007",
+        "SEU_B_OSMWAY_299961592__0008",
+        "SEU_B_OSMWAY_299961592__0009",
+        "SEU_B_OSMWAY_299961592__0010",
+        "SEU_B_OSMWAY_299961592__0011",
+        "SEU_B_OSMWAY_299961592__0012",
+        "SEU_B_OSMWAY_299961592__0013",
+        "SEU_B_OSMWAY_299961592__0014",
+        "SEU_B_OSMWAY_299961592__0015"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961586",
+      "min_xy": [
+        261.8594970703125,
+        175.71165466308594
+      ],
+      "max_xy": [
+        348.8382263183594,
+        201.93801879882812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961586__0001",
+        "SEU_B_OSMWAY_299961586__0002",
+        "SEU_B_OSMWAY_299961586__0003",
+        "SEU_B_OSMWAY_299961586__0004",
+        "SEU_B_OSMWAY_299961586__0005",
+        "SEU_B_OSMWAY_299961586__0006",
+        "SEU_B_OSMWAY_299961586__0007",
+        "SEU_B_OSMWAY_299961586__0008"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "min_xy": [
+        -470.9244079589844,
+        338.7499084472656
+      ],
+      "max_xy": [
+        -336.36767578125,
+        396.0663757324219
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927538__0001",
+        "SEU_B_OSMWAY_1056927538__0002",
+        "SEU_B_OSMWAY_1056927538__0003",
+        "SEU_B_OSMWAY_1056927538__0004",
+        "SEU_B_OSMWAY_1056927538__0005",
+        "SEU_B_OSMWAY_1056927538__0006",
+        "SEU_B_OSMWAY_1056927538__0007",
+        "SEU_B_OSMWAY_1056927538__0008",
+        "SEU_B_OSMWAY_1056927538__0009",
+        "SEU_B_OSMWAY_1056927538__0010",
+        "SEU_B_OSMWAY_1056927538__0011",
+        "SEU_B_OSMWAY_1056927538__0012",
+        "SEU_B_OSMWAY_1056927538__0013",
+        "SEU_B_OSMWAY_1056927538__0014",
+        "SEU_B_OSMWAY_1056927538__0015",
+        "SEU_B_OSMWAY_1056927538__0016",
+        "SEU_B_OSMWAY_1056927538__0017",
+        "SEU_B_OSMWAY_1056927538__0018",
+        "SEU_B_OSMWAY_1056927538__0019",
+        "SEU_B_OSMWAY_1056927538__0020",
+        "SEU_B_OSMWAY_1056927538__0021",
+        "SEU_B_OSMWAY_1056927538__0022",
+        "SEU_B_OSMWAY_1056927538__0023",
+        "SEU_B_OSMWAY_1056927538__0024",
+        "SEU_B_OSMWAY_1056927538__0025",
+        "SEU_B_OSMWAY_1056927538__0026",
+        "SEU_B_OSMWAY_1056927538__0027",
+        "SEU_B_OSMWAY_1056927538__0028",
+        "SEU_B_OSMWAY_1056927538__0029",
+        "SEU_B_OSMWAY_1056927538__0030",
+        "SEU_B_OSMWAY_1056927538__0031",
+        "SEU_B_OSMWAY_1056927538__0032"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_549677715",
+      "min_xy": [
+        209.49398803710938,
+        338.2236022949219
+      ],
+      "max_xy": [
+        300.2234191894531,
+        450.63714599609375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_549677715__0001",
+        "SEU_B_OSMWAY_549677715__0002",
+        "SEU_B_OSMWAY_549677715__0003",
+        "SEU_B_OSMWAY_549677715__0004",
+        "SEU_B_OSMWAY_549677715__0005",
+        "SEU_B_OSMWAY_549677715__0006",
+        "SEU_B_OSMWAY_549677715__0007",
+        "SEU_B_OSMWAY_549677715__0008",
+        "SEU_B_OSMWAY_549677715__0009",
+        "SEU_B_OSMWAY_549677715__0010"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030307",
+      "min_xy": [
+        -98.25145721435547,
+        338.0703125
+      ],
+      "max_xy": [
+        -40.89741516113281,
+        405.0168762207031
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030307__0003",
+        "SEU_B_OSMWAY_300030307__0004",
+        "SEU_B_OSMWAY_300030307__0005",
+        "SEU_B_OSMWAY_300030307__0006",
+        "SEU_B_OSMWAY_300030307__0007",
+        "SEU_B_OSMWAY_300030307__0008",
+        "SEU_B_OSMWAY_300030307__0009",
+        "SEU_B_OSMWAY_300030307__0010",
+        "SEU_B_OSMWAY_300030307__0011"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030305",
+      "min_xy": [
+        0.691630482673645,
+        351.1064453125
+      ],
+      "max_xy": [
+        104.35592651367188,
+        428.1566467285156
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030305__0002",
+        "SEU_B_OSMWAY_300030305__0003",
+        "SEU_B_OSMWAY_300030305__0004",
+        "SEU_B_OSMWAY_300030305__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696077",
+      "min_xy": [
+        -88.13003540039062,
+        293.44024658203125
+      ],
+      "max_xy": [
+        -38.281883239746094,
+        316.6979064941406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696077__0002",
+        "SEU_B_OSMWAY_637696077__0003",
+        "SEU_B_OSMWAY_637696077__0004",
+        "SEU_B_OSMWAY_637696077__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696078",
+      "min_xy": [
+        -88.4262466430664,
+        250.3026580810547
+      ],
+      "max_xy": [
+        -34.450618743896484,
+        274.15936279296875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696078__0002",
+        "SEU_B_OSMWAY_637696078__0003",
+        "SEU_B_OSMWAY_637696078__0004",
+        "SEU_B_OSMWAY_637696078__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030322",
+      "min_xy": [
+        -13.501251220703125,
+        297.6197509765625
+      ],
+      "max_xy": [
+        44.128875732421875,
+        322.9439392089844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030322__0002",
+        "SEU_B_OSMWAY_300030322__0003",
+        "SEU_B_OSMWAY_300030322__0004",
+        "SEU_B_OSMWAY_300030322__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696079",
+      "min_xy": [
+        -9.210064888000488,
+        258.0504150390625
+      ],
+      "max_xy": [
+        54.184669494628906,
+        279.6253356933594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696079__0002",
+        "SEU_B_OSMWAY_637696079__0003",
+        "SEU_B_OSMWAY_637696079__0004",
+        "SEU_B_OSMWAY_637696079__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030302",
+      "min_xy": [
+        -440.3548583984375,
+        283.25787353515625
+      ],
+      "max_xy": [
+        -380.78582763671875,
+        302.78131103515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030302__0002",
+        "SEU_B_OSMWAY_300030302__0003",
+        "SEU_B_OSMWAY_300030302__0004",
+        "SEU_B_OSMWAY_300030302__0005",
+        "SEU_B_OSMWAY_300030302__0006"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030321",
+      "min_xy": [
+        -435.0779113769531,
+        239.48486328125
+      ],
+      "max_xy": [
+        -379.8070983886719,
+        260.5406799316406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030321__0002",
+        "SEU_B_OSMWAY_300030321__0003",
+        "SEU_B_OSMWAY_300030321__0004",
+        "SEU_B_OSMWAY_300030321__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927536",
+      "min_xy": [
+        109.98039245605469,
+        496.9525146484375
+      ],
+      "max_xy": [
+        233.4043426513672,
+        606.5457153320312
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927536__0001",
+        "SEU_B_OSMWAY_1056927536__0002",
+        "SEU_B_OSMWAY_1056927536__0003",
+        "SEU_B_OSMWAY_1056927536__0004",
+        "SEU_B_OSMWAY_1056927536__0005",
+        "SEU_B_OSMWAY_1056927536__0006",
+        "SEU_B_OSMWAY_1056927536__0007",
+        "SEU_B_OSMWAY_1056927536__0008",
+        "SEU_B_OSMWAY_1056927536__0009",
+        "SEU_B_OSMWAY_1056927536__0010",
+        "SEU_B_OSMWAY_1056927536__0011",
+        "SEU_B_OSMWAY_1056927536__0012",
+        "SEU_B_OSMWAY_1056927536__0013"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927534",
+      "min_xy": [
+        -618.0260009765625,
+        -341.84814453125
+      ],
+      "max_xy": [
+        -516.7205200195312,
+        -223.42840576171875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927534__0001",
+        "SEU_B_OSMWAY_1056927534__0002",
+        "SEU_B_OSMWAY_1056927534__0003",
+        "SEU_B_OSMWAY_1056927534__0004",
+        "SEU_B_OSMWAY_1056927534__0005",
+        "SEU_B_OSMWAY_1056927534__0006",
+        "SEU_B_OSMWAY_1056927534__0007",
+        "SEU_B_OSMWAY_1056927534__0009",
+        "SEU_B_OSMWAY_1056927534__0010",
+        "SEU_B_OSMWAY_1056927534__0011",
+        "SEU_B_OSMWAY_1056927534__0012",
+        "SEU_B_OSMWAY_1056927534__0013",
+        "SEU_B_OSMWAY_1056927534__0014",
+        "SEU_B_OSMWAY_1056927534__0015",
+        "SEU_B_OSMWAY_1056927534__0016",
+        "SEU_B_OSMWAY_1056927534__0017",
+        "SEU_B_OSMWAY_1056927534__0018",
+        "SEU_B_OSMWAY_1056927534__0019",
+        "SEU_B_OSMWAY_1056927534__0020",
+        "SEU_B_OSMWAY_1056927534__0021",
+        "SEU_B_OSMWAY_1056927534__0022",
+        "SEU_B_OSMWAY_1056927534__0023",
+        "SEU_B_OSMWAY_1056927534__0024",
+        "SEU_B_OSMWAY_1056927534__0025",
+        "SEU_B_OSMWAY_1056927534__0026",
+        "SEU_B_OSMWAY_1056927534__0027",
+        "SEU_B_OSMWAY_1056927534__0028",
+        "SEU_B_OSMWAY_1056927534__0029",
+        "SEU_B_OSMWAY_1056927534__0030",
+        "SEU_B_OSMWAY_1056927534__0031",
+        "SEU_B_OSMWAY_1056927534__0032",
+        "SEU_B_OSMWAY_1056927534__0033",
+        "SEU_B_OSMWAY_1056927534__0034",
+        "SEU_B_OSMWAY_1056927534__0035",
+        "SEU_B_OSMWAY_1056927534__0036",
+        "SEU_B_OSMWAY_1056927534__0037",
+        "SEU_B_OSMWAY_1056927534__0038",
+        "SEU_B_OSMWAY_1056927534__0039",
+        "SEU_B_OSMWAY_1056927534__0040",
+        "SEU_B_OSMWAY_1056927534__0041",
+        "SEU_B_OSMWAY_1056927534__0042",
+        "SEU_B_OSMWAY_1056927534__0043",
+        "SEU_B_OSMWAY_1056927534__0044",
+        "SEU_B_OSMWAY_1056927534__0045",
+        "SEU_B_OSMWAY_1056927534__0046",
+        "SEU_B_OSMWAY_1056927534__0047",
+        "SEU_B_OSMWAY_1056927534__0048",
+        "SEU_B_OSMWAY_1056927534__0049",
+        "SEU_B_OSMWAY_1056927534__0050",
+        "SEU_B_OSMWAY_1056927534__0051"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_171399649__LOW_REMAINDER",
+      "min_xy": [
+        486.39263916015625,
+        -342.5640563964844
+      ],
+      "max_xy": [
+        564.005126953125,
+        -289.57440185546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_171399649__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961587",
+      "min_xy": [
+        -727.8856811523438,
+        -530.3050537109375
+      ],
+      "max_xy": [
+        -675.4295043945312,
+        -512.8338623046875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961587.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961588",
+      "min_xy": [
+        -695.7625732421875,
+        -659.1209106445312
+      ],
+      "max_xy": [
+        -641.73046875,
+        -640.143310546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961588.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961590__LOW_REMAINDER",
+      "min_xy": [
+        -798.1544799804688,
+        -303.2502746582031
+      ],
+      "max_xy": [
+        -732.9452514648438,
+        -281.9847717285156
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961590__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961594",
+      "min_xy": [
+        -631.5328369140625,
+        -654.4406127929688
+      ],
+      "max_xy": [
+        -577.2031860351562,
+        -633.7708740234375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961594.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961596",
+      "min_xy": [
+        -686.7714233398438,
+        -726.9743041992188
+      ],
+      "max_xy": [
+        -632.9686279296875,
+        -705.7342529296875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961596.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961597",
+      "min_xy": [
+        -45.805545806884766,
+        -400.3480224609375
+      ],
+      "max_xy": [
+        31.45358657836914,
+        -370.9624328613281
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961597.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961598__LOW_REMAINDER",
+      "min_xy": [
+        -725.0145263671875,
+        -562.2379760742188
+      ],
+      "max_xy": [
+        -670.5235595703125,
+        -544.4143676757812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961598__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961599__LOW_REMAINDER",
+      "min_xy": [
+        -620.2698364257812,
+        -749.7410278320312
+      ],
+      "max_xy": [
+        -565.9812622070312,
+        -730.8990478515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961599__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961601__LOW_REMAINDER",
+      "min_xy": [
+        -659.8635864257812,
+        -556.5385131835938
+      ],
+      "max_xy": [
+        -605.8822631835938,
+        -539.9459838867188
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961601__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961602",
+      "min_xy": [
+        -649.0834350585938,
+        -589.2322387695312
+      ],
+      "max_xy": [
+        -594.7117919921875,
+        -574.6511840820312
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961602.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961603__LOW_REMAINDER",
+      "min_xy": [
+        -785.342529296875,
+        -369.22637939453125
+      ],
+      "max_xy": [
+        -720.7633666992188,
+        -348.4169921875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961603__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961604__LOW_REMAINDER",
+      "min_xy": [
+        -644.2562255859375,
+        -621.8468017578125
+      ],
+      "max_xy": [
+        -588.3558349609375,
+        -603.7965087890625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961604__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961606__LOW_REMAINDER",
+      "min_xy": [
+        -684.9911499023438,
+        -754.4876098632812
+      ],
+      "max_xy": [
+        -633.0303955078125,
+        -736.434814453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961606__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961608",
+      "min_xy": [
+        -621.6597900390625,
+        -719.0313720703125
+      ],
+      "max_xy": [
+        -567.1956787109375,
+        -702.4781494140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961608.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961609__LOW_REMAINDER",
+      "min_xy": [
+        -237.12168884277344,
+        -412.422119140625
+      ],
+      "max_xy": [
+        -168.4036407470703,
+        -381.7214660644531
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961609__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961612__LOW_REMAINDER",
+      "min_xy": [
+        -710.4521484375,
+        -626.0767822265625
+      ],
+      "max_xy": [
+        -654.5182495117188,
+        -607.9842529296875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961612__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961614__LOW_REMAINDER",
+      "min_xy": [
+        -794.7430419921875,
+        -334.0574035644531
+      ],
+      "max_xy": [
+        -733.0775756835938,
+        -314.9263916015625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961614__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961616__LOW_REMAINDER",
+      "min_xy": [
+        -696.398681640625,
+        -687.8589477539062
+      ],
+      "max_xy": [
+        -640.6544799804688,
+        -669.5408325195312
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961616__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961618",
+      "min_xy": [
+        -713.5061645507812,
+        -596.4506225585938
+      ],
+      "max_xy": [
+        -658.5211791992188,
+        -577.5559692382812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961618.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961619__LOW_REMAINDER",
+      "min_xy": [
+        -782.22265625,
+        -400.9228820800781
+      ],
+      "max_xy": [
+        -721.3555297851562,
+        -380.95343017578125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961619__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961620__LOW_REMAINDER",
+      "min_xy": [
+        -627.2327880859375,
+        -684.4279174804688
+      ],
+      "max_xy": [
+        -575.3406982421875,
+        -664.629150390625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961620__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961621",
+      "min_xy": [
+        -49.2452392578125,
+        -366.5185852050781
+      ],
+      "max_xy": [
+        27.65077781677246,
+        -322.2073974609375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961621.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961623__LOW_REMAINDER",
+      "min_xy": [
+        -241.53956604003906,
+        -375.9779052734375
+      ],
+      "max_xy": [
+        -170.69825744628906,
+        -338.5788269042969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961623__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961624",
+      "min_xy": [
+        -660.3521118164062,
+        -528.2568969726562
+      ],
+      "max_xy": [
+        -606.3160400390625,
+        -510.1865234375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961624.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010604__LOW_REMAINDER",
+      "min_xy": [
+        -505.77471923828125,
+        -184.45265197753906
+      ],
+      "max_xy": [
+        -419.1335144042969,
+        -152.91799926757812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010604__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010611__LOW_REMAINDER",
+      "min_xy": [
+        -600.7800903320312,
+        -197.21746826171875
+      ],
+      "max_xy": [
+        -522.1644897460938,
+        -114.84442901611328
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010611__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010617__LOW_REMAINDER",
+      "min_xy": [
+        -550.4263916015625,
+        -364.44891357421875
+      ],
+      "max_xy": [
+        -475.27911376953125,
+        -296.5118103027344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010617__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010619__LOW_REMAINDER",
+      "min_xy": [
+        155.57730102539062,
+        -413.58892822265625
+      ],
+      "max_xy": [
+        233.25250244140625,
+        -370.7770690917969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010619__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010625__LOW_REMAINDER",
+      "min_xy": [
+        -506.8912353515625,
+        -138.80882263183594
+      ],
+      "max_xy": [
+        -423.64862060546875,
+        -109.50860595703125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010625__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020021__LOW_REMAINDER",
+      "min_xy": [
+        407.2052001953125,
+        221.98968505859375
+      ],
+      "max_xy": [
+        500.2354431152344,
+        280.6167907714844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020021__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020025",
+      "min_xy": [
+        455.581298828125,
+        277.6353759765625
+      ],
+      "max_xy": [
+        487.4848937988281,
+        316.91485595703125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020025.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020029",
+      "min_xy": [
+        747.3485717773438,
+        -275.6430358886719
+      ],
+      "max_xy": [
+        773.5638427734375,
+        -259.6625061035156
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020029.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020032",
+      "min_xy": [
+        -136.92079162597656,
+        -670.740966796875
+      ],
+      "max_xy": [
+        -109.21027374267578,
+        -656.1555786132812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020032.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020036",
+      "min_xy": [
+        338.8938293457031,
+        548.6558837890625
+      ],
+      "max_xy": [
+        384.4737243652344,
+        582.3107299804688
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020036.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020037",
+      "min_xy": [
+        -70.6967544555664,
+        -664.5877685546875
+      ],
+      "max_xy": [
+        -43.54022216796875,
+        -651.0874633789062
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020037.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020038",
+      "min_xy": [
+        568.4349365234375,
+        672.5001831054688
+      ],
+      "max_xy": [
+        644.6973876953125,
+        696.8994140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020038.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030302__LOW_REMAINDER",
+      "min_xy": [
+        -440.68212890625,
+        282.7708740234375
+      ],
+      "max_xy": [
+        -380.43414306640625,
+        303.2662658691406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030302__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030304",
+      "min_xy": [
+        -124.41053009033203,
+        645.0833740234375
+      ],
+      "max_xy": [
+        -86.07157135009766,
+        672.5014038085938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030304.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030305__REMAINDER_01",
+      "min_xy": [
+        83.02240753173828,
+        353.5550231933594
+      ],
+      "max_xy": [
+        101.86363983154297,
+        358.92156982421875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030305__REMAINDER_01"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030305__REMAINDER_02",
+      "min_xy": [
+        78.32066345214844,
+        426.73193359375
+      ],
+      "max_xy": [
+        95.50900268554688,
+        431.45562744140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030305__REMAINDER_02"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030305__REMAINDER_03",
+      "min_xy": [
+        -2.024709463119507,
+        357.0066223144531
+      ],
+      "max_xy": [
+        5.868536949157715,
+        377.4070129394531
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030305__REMAINDER_03"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030305__REMAINDER_04",
+      "min_xy": [
+        -5.336572647094727,
+        386.45880126953125
+      ],
+      "max_xy": [
+        3.284296751022339,
+        413.0593566894531
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030305__REMAINDER_04"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030305__LOW_REMAINDER",
+      "min_xy": [
+        -5.462278842926025,
+        349.15594482421875
+      ],
+      "max_xy": [
+        104.8199462890625,
+        431.5811767578125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030305__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030307__REMAINDER_01",
+      "min_xy": [
+        -53.83268737792969,
+        367.1269836425781
+      ],
+      "max_xy": [
+        -34.780426025390625,
+        404.31842041015625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030307__REMAINDER_01"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030307__REMAINDER_02",
+      "min_xy": [
+        -41.73066329956055,
+        344.2563781738281
+      ],
+      "max_xy": [
+        -37.132972717285156,
+        355.31304931640625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030307__REMAINDER_02"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030307__REMAINDER_03",
+      "min_xy": [
+        -102.51229858398438,
+        340.5086975097656
+      ],
+      "max_xy": [
+        -81.96592712402344,
+        397.5230407714844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030307__REMAINDER_03"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030307__LOW_REMAINDER",
+      "min_xy": [
+        -102.62696838378906,
+        337.86834716796875
+      ],
+      "max_xy": [
+        -34.666259765625,
+        405.1550598144531
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030307__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030309",
+      "min_xy": [
+        -400.01751708984375,
+        467.15234375
+      ],
+      "max_xy": [
+        -351.8873596191406,
+        498.6739807128906
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030309.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030314",
+      "min_xy": [
+        114.15172576904297,
+        659.0814208984375
+      ],
+      "max_xy": [
+        136.72378540039062,
+        670.3901977539062
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030314.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030315",
+      "min_xy": [
+        -78.99483489990234,
+        646.5637817382812
+      ],
+      "max_xy": [
+        -37.71138000488281,
+        678.371826171875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030315.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030316",
+      "min_xy": [
+        -147.60133361816406,
+        644.0946044921875
+      ],
+      "max_xy": [
+        -133.34219360351562,
+        669.283447265625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030316.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030319__LOW_REMAINDER",
+      "min_xy": [
+        -357.02850341796875,
+        200.55636596679688
+      ],
+      "max_xy": [
+        -289.14520263671875,
+        266.35015869140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030319__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030321__LOW_REMAINDER",
+      "min_xy": [
+        -435.4919738769531,
+        239.00189208984375
+      ],
+      "max_xy": [
+        -379.3713073730469,
+        261.02899169921875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030321__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030322__REMAINDER_01",
+      "min_xy": [
+        42.752601623535156,
+        307.14697265625
+      ],
+      "max_xy": [
+        51.48720932006836,
+        323.5139465332031
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030322__REMAINDER_01"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030322__REMAINDER_02",
+      "min_xy": [
+        -12.244178771972656,
+        282.2816467285156
+      ],
+      "max_xy": [
+        7.176898956298828,
+        298.88720703125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030322__REMAINDER_02"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030322__LOW_REMAINDER",
+      "min_xy": [
+        -13.835403442382812,
+        282.18072509765625
+      ],
+      "max_xy": [
+        51.58924865722656,
+        323.6153564453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030322__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030323",
+      "min_xy": [
+        148.9364776611328,
+        641.62353515625
+      ],
+      "max_xy": [
+        202.54815673828125,
+        684.4846801757812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030323.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030326",
+      "min_xy": [
+        119.15046691894531,
+        677.193115234375
+      ],
+      "max_xy": [
+        137.07110595703125,
+        701.3399047851562
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030326.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030330",
+      "min_xy": [
+        -895.0336303710938,
+        543.9063720703125
+      ],
+      "max_xy": [
+        -805.5379638671875,
+        601.9765014648438
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030330.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300162243",
+      "min_xy": [
+        874.5630493164062,
+        37.626747131347656
+      ],
+      "max_xy": [
+        884.5254516601562,
+        53.34282684326172
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300162243.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300162244",
+      "min_xy": [
+        877.0888671875,
+        -3.8309617042541504
+      ],
+      "max_xy": [
+        887.1547241210938,
+        12.826417922973633
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300162244.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300165432",
+      "min_xy": [
+        237.97378540039062,
+        717.254638671875
+      ],
+      "max_xy": [
+        247.51649475097656,
+        722.7999267578125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300165432.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300165442",
+      "min_xy": [
+        209.24464416503906,
+        713.900634765625
+      ],
+      "max_xy": [
+        217.91461181640625,
+        719.6087036132812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300165442.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136421__LOW_REMAINDER",
+      "min_xy": [
+        586.0800170898438,
+        273.04595947265625
+      ],
+      "max_xy": [
+        640.6177978515625,
+        290.9820861816406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136421__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136422__LOW_REMAINDER",
+      "min_xy": [
+        588.3723754882812,
+        243.6524658203125
+      ],
+      "max_xy": [
+        642.93798828125,
+        261.622314453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136422__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136423__LOW_REMAINDER",
+      "min_xy": [
+        591.06201171875,
+        209.16439819335938
+      ],
+      "max_xy": [
+        645.6548461914062,
+        227.1458282470703
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136423__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136424__LOW_REMAINDER",
+      "min_xy": [
+        593.3892822265625,
+        179.18394470214844
+      ],
+      "max_xy": [
+        648.0233154296875,
+        197.309814453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136424__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136425__LOW_REMAINDER",
+      "min_xy": [
+        651.3263549804688,
+        278.0453796386719
+      ],
+      "max_xy": [
+        705.6475830078125,
+        296.0124206542969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136425__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136426__LOW_REMAINDER",
+      "min_xy": [
+        653.5133666992188,
+        248.65029907226562
+      ],
+      "max_xy": [
+        707.9393920898438,
+        266.7408752441406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136426__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136427__LOW_REMAINDER",
+      "min_xy": [
+        656.08935546875,
+        214.23794555664062
+      ],
+      "max_xy": [
+        710.6175537109375,
+        232.28591918945312
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136427__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136428__LOW_REMAINDER",
+      "min_xy": [
+        658.3225708007812,
+        184.20046997070312
+      ],
+      "max_xy": [
+        712.9583740234375,
+        202.42726135253906
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136428__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136429",
+      "min_xy": [
+        587.1539916992188,
+        257.4078063964844
+      ],
+      "max_xy": [
+        597.6419067382812,
+        273.7555847167969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136429.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136431",
+      "min_xy": [
+        592.1350708007812,
+        193.083251953125
+      ],
+      "max_xy": [
+        602.8382568359375,
+        209.8990478515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136431.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136433",
+      "min_xy": [
+        701.0265502929688,
+        201.67918395996094
+      ],
+      "max_xy": [
+        711.8606567382812,
+        218.39768981933594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136433.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136434",
+      "min_xy": [
+        695.8392944335938,
+        265.9666442871094
+      ],
+      "max_xy": [
+        706.8526000976562,
+        282.1352844238281
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136434.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136438__LOW_REMAINDER",
+      "min_xy": [
+        646.537353515625,
+        410.3980712890625
+      ],
+      "max_xy": [
+        700.8673706054688,
+        428.35400390625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136438__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136443__LOW_REMAINDER",
+      "min_xy": [
+        581.3013305664062,
+        405.3986511230469
+      ],
+      "max_xy": [
+        635.8289794921875,
+        423.3235168457031
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136443__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136445",
+      "min_xy": [
+        691.0496826171875,
+        398.3191833496094
+      ],
+      "max_xy": [
+        702.0629272460938,
+        414.48797607421875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136445.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136446__LOW_REMAINDER",
+      "min_xy": [
+        648.7338256835938,
+        381.00299072265625
+      ],
+      "max_xy": [
+        703.149658203125,
+        399.0934143066406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136446__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136447__LOW_REMAINDER",
+      "min_xy": [
+        583.5936279296875,
+        376.005126953125
+      ],
+      "max_xy": [
+        638.1491088867188,
+        393.9637756347656
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136447__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136449",
+      "min_xy": [
+        582.375244140625,
+        389.760498046875
+      ],
+      "max_xy": [
+        592.8630981445312,
+        406.1081237792969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136449.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136454__LOW_REMAINDER",
+      "min_xy": [
+        651.3097534179688,
+        346.5906066894531
+      ],
+      "max_xy": [
+        705.8278198242188,
+        364.63861083984375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136454__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136455__LOW_REMAINDER",
+      "min_xy": [
+        586.2832641601562,
+        341.5170593261719
+      ],
+      "max_xy": [
+        640.865966796875,
+        359.49835205078125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136455__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136456",
+      "min_xy": [
+        587.3563232421875,
+        325.4357604980469
+      ],
+      "max_xy": [
+        598.0499267578125,
+        342.251708984375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136456.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136457__LOW_REMAINDER",
+      "min_xy": [
+        588.60107421875,
+        311.53643798828125
+      ],
+      "max_xy": [
+        643.234375,
+        329.6623229980469
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136457__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136458__LOW_REMAINDER",
+      "min_xy": [
+        653.5430297851562,
+        316.552978515625
+      ],
+      "max_xy": [
+        708.1780395507812,
+        334.7799377441406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136458__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136459",
+      "min_xy": [
+        696.2463989257812,
+        334.0318603515625
+      ],
+      "max_xy": [
+        707.0803833007812,
+        350.7502136230469
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136459.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136460__LOW_REMAINDER",
+      "min_xy": [
+        647.3955078125,
+        552.9593505859375
+      ],
+      "max_xy": [
+        701.724609375,
+        570.9153442382812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136460__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136462__LOW_REMAINDER",
+      "min_xy": [
+        582.160400390625,
+        547.9487915039062
+      ],
+      "max_xy": [
+        636.6873168945312,
+        565.8848266601562
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136462__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136463",
+      "min_xy": [
+        691.9071044921875,
+        540.8804931640625
+      ],
+      "max_xy": [
+        702.9203491210938,
+        557.0492553710938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136463.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136464__LOW_REMAINDER",
+      "min_xy": [
+        649.5919799804688,
+        523.5642700195312
+      ],
+      "max_xy": [
+        704.007080078125,
+        541.6436157226562
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136464__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136465__LOW_REMAINDER",
+      "min_xy": [
+        584.4527587890625,
+        518.5552978515625
+      ],
+      "max_xy": [
+        639.0072631835938,
+        536.5250244140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136465__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136466",
+      "min_xy": [
+        583.2343139648438,
+        532.3106079101562
+      ],
+      "max_xy": [
+        593.7218627929688,
+        548.6582641601562
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136466.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136470__LOW_REMAINDER",
+      "min_xy": [
+        652.1677856445312,
+        489.1406555175781
+      ],
+      "max_xy": [
+        706.68505859375,
+        507.1999206542969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136470__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136471__LOW_REMAINDER",
+      "min_xy": [
+        587.1421508789062,
+        484.078125
+      ],
+      "max_xy": [
+        641.72412109375,
+        502.0596008300781
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136471__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136472",
+      "min_xy": [
+        588.2057495117188,
+        467.9969787597656
+      ],
+      "max_xy": [
+        598.90869140625,
+        484.8129577636719
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136472.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136473__LOW_REMAINDER",
+      "min_xy": [
+        589.4599609375,
+        454.09765625
+      ],
+      "max_xy": [
+        644.092529296875,
+        472.2236022949219
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136473__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136474__LOW_REMAINDER",
+      "min_xy": [
+        654.3917236328125,
+        459.1142578125
+      ],
+      "max_xy": [
+        709.0353393554688,
+        477.34124755859375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136474__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136475",
+      "min_xy": [
+        697.1039428710938,
+        476.5931701660156
+      ],
+      "max_xy": [
+        707.9376220703125,
+        493.3115234375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136475.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136476__LOW_REMAINDER",
+      "min_xy": [
+        499.4146423339844,
+        533.4732055664062
+      ],
+      "max_xy": [
+        554.5919189453125,
+        558.9039306640625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136476__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136478__LOW_REMAINDER",
+      "min_xy": [
+        435.6354675292969,
+        518.9507446289062
+      ],
+      "max_xy": [
+        491.0101013183594,
+        544.3727416992188
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136478__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136479",
+      "min_xy": [
+        545.0064697265625,
+        528.0914916992188
+      ],
+      "max_xy": [
+        558.0615234375,
+        545.3382568359375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136479.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136480__LOW_REMAINDER",
+      "min_xy": [
+        505.9424743652344,
+        504.7164306640625
+      ],
+      "max_xy": [
+        561.21484375,
+        530.2924194335938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136480__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136481__LOW_REMAINDER",
+      "min_xy": [
+        442.2779235839844,
+        490.21771240234375
+      ],
+      "max_xy": [
+        497.6612243652344,
+        515.6734619140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136481__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136482",
+      "min_xy": [
+        438.74761962890625,
+        503.66192626953125
+      ],
+      "max_xy": [
+        451.335205078125,
+        521.0096435546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136482.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136487__LOW_REMAINDER",
+      "min_xy": [
+        513.6047973632812,
+        471.065673828125
+      ],
+      "max_xy": [
+        568.9600219726562,
+        496.6104736328125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136487__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136488__LOW_REMAINDER",
+      "min_xy": [
+        450.0440673828125,
+        456.5025939941406
+      ],
+      "max_xy": [
+        505.4546203613281,
+        481.9810485839844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136488__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136489",
+      "min_xy": [
+        453.1460266113281,
+        440.7828063964844
+      ],
+      "max_xy": [
+        466.00506591796875,
+        458.60870361328125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136489.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136490__LOW_REMAINDER",
+      "min_xy": [
+        456.7687683105469,
+        427.19512939453125
+      ],
+      "max_xy": [
+        512.2486572265625,
+        452.8177185058594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136490__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136491__LOW_REMAINDER",
+      "min_xy": [
+        520.235595703125,
+        441.6902770996094
+      ],
+      "max_xy": [
+        575.736083984375,
+        467.4246826171875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136491__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136492",
+      "min_xy": [
+        559.5917358398438,
+        465.2829895019531
+      ],
+      "max_xy": [
+        572.5623168945312,
+        483.0449523925781
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136492.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141862__LOW_REMAINDER",
+      "min_xy": [
+        543.954833984375,
+        -559.8870239257812
+      ],
+      "max_xy": [
+        598.477294921875,
+        -541.83984375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141862__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141863__LOW_REMAINDER",
+      "min_xy": [
+        478.91290283203125,
+        -564.9596557617188
+      ],
+      "max_xy": [
+        533.5098876953125,
+        -546.9789428710938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141863__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141864",
+      "min_xy": [
+        479.9859924316406,
+        -581.040771484375
+      ],
+      "max_xy": [
+        490.6897277832031,
+        -564.2249145507812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141864.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141865__LOW_REMAINDER",
+      "min_xy": [
+        481.24005126953125,
+        -594.9400634765625
+      ],
+      "max_xy": [
+        535.8779907226562,
+        -576.81494140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141865__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141866__LOW_REMAINDER",
+      "min_xy": [
+        546.1782836914062,
+        -589.9244995117188
+      ],
+      "max_xy": [
+        600.8179931640625,
+        -571.6984252929688
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141866__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141867",
+      "min_xy": [
+        588.8952026367188,
+        -572.4462280273438
+      ],
+      "max_xy": [
+        599.7203979492188,
+        -555.7169189453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141867.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141868__LOW_REMAINDER",
+      "min_xy": [
+        534.2633666992188,
+        -431.88653564453125
+      ],
+      "max_xy": [
+        588.588134765625,
+        -413.9313659667969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141868__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141869__LOW_REMAINDER",
+      "min_xy": [
+        469.01263427734375,
+        -436.8960876464844
+      ],
+      "max_xy": [
+        523.5445556640625,
+        -418.96075439453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141869__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141870",
+      "min_xy": [
+        578.7791748046875,
+        -443.966064453125
+      ],
+      "max_xy": [
+        589.7837524414062,
+        -427.79742431640625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141870.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141871__LOW_REMAINDER",
+      "min_xy": [
+        536.4501953125,
+        -461.2926940917969
+      ],
+      "max_xy": [
+        590.8797607421875,
+        -443.20306396484375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141871__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141872__LOW_REMAINDER",
+      "min_xy": [
+        471.3046569824219,
+        -466.2895812988281
+      ],
+      "max_xy": [
+        525.8643798828125,
+        -448.3206481933594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141872__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141873",
+      "min_xy": [
+        470.08642578125,
+        -452.53424072265625
+      ],
+      "max_xy": [
+        480.5746765136719,
+        -436.18658447265625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141873.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141876__LOW_REMAINDER",
+      "min_xy": [
+        539.0258178710938,
+        -495.7050476074219
+      ],
+      "max_xy": [
+        593.557373046875,
+        -477.6578369140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141876__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141877__LOW_REMAINDER",
+      "min_xy": [
+        473.99371337890625,
+        -500.77764892578125
+      ],
+      "max_xy": [
+        528.5808715820312,
+        -482.7969970703125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141877__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141878",
+      "min_xy": [
+        475.0668029785156,
+        -516.8587646484375
+      ],
+      "max_xy": [
+        485.7610168457031,
+        -500.0431213378906
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141878.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141879__LOW_REMAINDER",
+      "min_xy": [
+        476.3208312988281,
+        -530.758056640625
+      ],
+      "max_xy": [
+        530.9584350585938,
+        -512.6329956054688
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141879__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141880__LOW_REMAINDER",
+      "min_xy": [
+        541.2586669921875,
+        -525.7424926757812
+      ],
+      "max_xy": [
+        595.8980102539062,
+        -507.5164794921875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141880__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141881",
+      "min_xy": [
+        583.9658813476562,
+        -508.264404296875
+      ],
+      "max_xy": [
+        594.8004760742188,
+        -491.53497314453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141881.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141882__LOW_REMAINDER",
+      "min_xy": [
+        670.0097045898438,
+        -422.5194091796875
+      ],
+      "max_xy": [
+        724.3345947265625,
+        -404.5635681152344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141882__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141883__LOW_REMAINDER",
+      "min_xy": [
+        604.7588500976562,
+        -427.5187683105469
+      ],
+      "max_xy": [
+        659.2910766601562,
+        -409.59381103515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141883__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141884",
+      "min_xy": [
+        605.8328247070312,
+        -443.1679992675781
+      ],
+      "max_xy": [
+        616.3214721679688,
+        -426.82025146484375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141884.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141885__LOW_REMAINDER",
+      "min_xy": [
+        607.0514526367188,
+        -456.92333984375
+      ],
+      "max_xy": [
+        661.6112670898438,
+        -438.9537048339844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141885__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141889__LOW_REMAINDER",
+      "min_xy": [
+        612.0684814453125,
+        -521.3917846679688
+      ],
+      "max_xy": [
+        666.7062377929688,
+        -503.2659912109375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141889__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141890__LOW_REMAINDER",
+      "min_xy": [
+        609.740966796875,
+        -491.4002990722656
+      ],
+      "max_xy": [
+        664.3280639648438,
+        -473.4300231933594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141890__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141891",
+      "min_xy": [
+        610.8140258789062,
+        -507.49249267578125
+      ],
+      "max_xy": [
+        621.5086669921875,
+        -490.6767272949219
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141891.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141894__LOW_REMAINDER",
+      "min_xy": [
+        677.0062866210938,
+        -516.3753662109375
+      ],
+      "max_xy": [
+        731.645751953125,
+        -498.1486511230469
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141894__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141895__LOW_REMAINDER",
+      "min_xy": [
+        674.7730102539062,
+        -486.3379211425781
+      ],
+      "max_xy": [
+        729.3046875,
+        -468.2900085449219
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141895__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141896",
+      "min_xy": [
+        719.7131958007812,
+        -498.8966979980469
+      ],
+      "max_xy": [
+        730.5479736328125,
+        -482.1671447753906
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141896.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141899__LOW_REMAINDER",
+      "min_xy": [
+        614.6610107421875,
+        -555.5933227539062
+      ],
+      "max_xy": [
+        669.2581176757812,
+        -537.6119995117188
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141899__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141900",
+      "min_xy": [
+        615.7343139648438,
+        -571.6744995117188
+      ],
+      "max_xy": [
+        626.438232421875,
+        -554.8585205078125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141900.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141901__LOW_REMAINDER",
+      "min_xy": [
+        616.9885864257812,
+        -585.5737915039062
+      ],
+      "max_xy": [
+        671.6266479492188,
+        -567.4479370117188
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141901__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141902__LOW_REMAINDER",
+      "min_xy": [
+        681.9267578125,
+        -580.5573120117188
+      ],
+      "max_xy": [
+        736.5665283203125,
+        -562.33056640625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141902__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141903__LOW_REMAINDER",
+      "min_xy": [
+        679.702880859375,
+        -550.5198364257812
+      ],
+      "max_xy": [
+        734.2254638671875,
+        -532.4718017578125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141903__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141904",
+      "min_xy": [
+        724.6433715820312,
+        -563.0784912109375
+      ],
+      "max_xy": [
+        735.4688110351562,
+        -546.3490600585938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141904.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141906__LOW_REMAINDER",
+      "min_xy": [
+        672.19677734375,
+        -451.9255676269531
+      ],
+      "max_xy": [
+        726.6268310546875,
+        -433.8461608886719
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141906__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141908",
+      "min_xy": [
+        714.9036254882812,
+        -434.5821838378906
+      ],
+      "max_xy": [
+        725.5396728515625,
+        -418.4295959472656
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141908.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141909__LOW_REMAINDER",
+      "min_xy": [
+        610.3021850585938,
+        -383.5087890625
+      ],
+      "max_xy": [
+        665.0321044921875,
+        -365.3829650878906
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141909__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141910__LOW_REMAINDER",
+      "min_xy": [
+        607.6983642578125,
+        -349.8544616699219
+      ],
+      "max_xy": [
+        662.506591796875,
+        -331.2723388671875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141910__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141911",
+      "min_xy": [
+        608.6722412109375,
+        -369.7108459472656
+      ],
+      "max_xy": [
+        619.9308471679688,
+        -349.0716247558594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141911.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141912__LOW_REMAINDER",
+      "min_xy": [
+        675.3414916992188,
+        -378.4923095703125
+      ],
+      "max_xy": [
+        729.980224609375,
+        -360.2654113769531
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141912__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141913",
+      "min_xy": [
+        717.7154541015625,
+        -361.0134582519531
+      ],
+      "max_xy": [
+        728.8824462890625,
+        -340.21942138671875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141913.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141914__LOW_REMAINDER",
+      "min_xy": [
+        672.8146362304688,
+        -344.6556701660156
+      ],
+      "max_xy": [
+        727.3153686523438,
+        -326.4861145019531
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141914__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630142838",
+      "min_xy": [
+        437.6070251464844,
+        -154.025390625
+      ],
+      "max_xy": [
+        459.1011962890625,
+        -124.82647705078125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630142838.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696077__REMAINDER_01",
+      "min_xy": [
+        -39.46778106689453,
+        304.2880859375
+      ],
+      "max_xy": [
+        -33.87092208862305,
+        316.102294921875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696077__REMAINDER_01"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696077__REMAINDER_02",
+      "min_xy": [
+        -97.7715072631836,
+        285.1517028808594
+      ],
+      "max_xy": [
+        -84.70694732666016,
+        311.1452331542969
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696077__REMAINDER_02"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696077__LOW_REMAINDER",
+      "min_xy": [
+        -97.88154602050781,
+        285.04071044921875
+      ],
+      "max_xy": [
+        -33.758541107177734,
+        316.8834533691406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696077__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696078__REMAINDER_01",
+      "min_xy": [
+        -37.80752182006836,
+        256.025634765625
+      ],
+      "max_xy": [
+        -27.30097198486328,
+        280.40673828125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696078__REMAINDER_01"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696078__REMAINDER_02",
+      "min_xy": [
+        -93.8556900024414,
+        252.81625366210938
+      ],
+      "max_xy": [
+        -74.75836181640625,
+        286.0204772949219
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696078__REMAINDER_02"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696078__LOW_REMAINDER",
+      "min_xy": [
+        -93.9704818725586,
+        250.0596923828125
+      ],
+      "max_xy": [
+        -27.185428619384766,
+        286.1358337402344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696078__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696079__REMAINDER_01",
+      "min_xy": [
+        33.24895095825195,
+        278.50848388671875
+      ],
+      "max_xy": [
+        53.185394287109375,
+        301.2001953125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696079__REMAINDER_01"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_637696079__LOW_REMAINDER",
+      "min_xy": [
+        -9.5520658493042,
+        257.55816650390625
+      ],
+      "max_xy": [
+        54.618595123291016,
+        301.30194091796875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_637696079__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_934913057",
+      "min_xy": [
+        42.34148025512695,
+        0.4009329676628113
+      ],
+      "max_xy": [
+        62.72755813598633,
+        40.174095153808594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_934913057.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_998738586",
+      "min_xy": [
+        487.8783874511719,
+        530.8515625
+      ],
+      "max_xy": [
+        502.4992370605469,
+        547.0062866210938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_998738586.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927515",
+      "min_xy": [
+        329.9496154785156,
+        486.31439208984375
+      ],
+      "max_xy": [
+        413.10650634765625,
+        525.3875122070312
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927515.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927520",
+      "min_xy": [
+        347.54425048828125,
+        403.290771484375
+      ],
+      "max_xy": [
+        367.970703125,
+        427.4425048828125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927520.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927522",
+      "min_xy": [
+        418.5141296386719,
+        425.7851867675781
+      ],
+      "max_xy": [
+        439.2980651855469,
+        450.05401611328125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927522.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927539",
+      "min_xy": [
+        -434.77935791015625,
+        256.8748779296875
+      ],
+      "max_xy": [
+        -422.03680419921875,
+        283.8901672363281
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927539.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927540",
+      "min_xy": [
+        -428.9400939941406,
+        216.02182006835938
+      ],
+      "max_xy": [
+        -418.0103759765625,
+        240.16635131835938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927540.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927545__LOW_REMAINDER",
+      "min_xy": [
+        -796.9466552734375,
+        -276.9367370605469
+      ],
+      "max_xy": [
+        -731.7376098632812,
+        -255.6712188720703
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927545__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927546__LOW_REMAINDER",
+      "min_xy": [
+        -717.6098022460938,
+        -267.8182067871094
+      ],
+      "max_xy": [
+        -652.4006958007812,
+        -246.5521697998047
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927546__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927547__LOW_REMAINDER",
+      "min_xy": [
+        -714.3109741210938,
+        -301.6640625
+      ],
+      "max_xy": [
+        -649.1016845703125,
+        -280.3980407714844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927547__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927548__LOW_REMAINDER",
+      "min_xy": [
+        -709.8621215820312,
+        -333.5500793457031
+      ],
+      "max_xy": [
+        -644.652587890625,
+        -312.2840270996094
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927548__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927549__LOW_REMAINDER",
+      "min_xy": [
+        -705.0255737304688,
+        -365.41851806640625
+      ],
+      "max_xy": [
+        -639.8157958984375,
+        -344.1524353027344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927549__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927551__LOW_REMAINDER",
+      "min_xy": [
+        -701.1263427734375,
+        -393.277099609375
+      ],
+      "max_xy": [
+        -635.950439453125,
+        -372.010986328125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927551__LOW_REMAINDER"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056931930",
+      "min_xy": [
+        -493.9595642089844,
+        -159.038330078125
+      ],
+      "max_xy": [
+        -475.11541748046875,
+        -136.5796661376953
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056931930.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056931931",
+      "min_xy": [
+        -438.5782470703125,
+        -153.98358154296875
+      ],
+      "max_xy": [
+        -421.5727844238281,
+        -132.3038330078125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056931931.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056931936",
+      "min_xy": [
+        -567.35400390625,
+        -573.336181640625
+      ],
+      "max_xy": [
+        -541.1446533203125,
+        -557.6098022460938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056931936.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1488713409",
+      "min_xy": [
+        -777.4520874023438,
+        285.7488098144531
+      ],
+      "max_xy": [
+        -669.6484985351562,
+        383.9125671386719
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1488713409.001"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927537",
+      "min_xy": [
+        -14.885834693908691,
+        483.9050598144531
+      ],
+      "max_xy": [
+        58.062644958496094,
+        569.1424560546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927537__0001",
+        "SEU_B_OSMWAY_1056927537__0002",
+        "SEU_B_OSMWAY_1056927537__0003",
+        "SEU_B_OSMWAY_1056927537__0004",
+        "SEU_B_OSMWAY_1056927537__0005",
+        "SEU_B_OSMWAY_1056927537__0006",
+        "SEU_B_OSMWAY_1056927537__0007",
+        "SEU_B_OSMWAY_1056927537__0008",
+        "SEU_B_OSMWAY_1056927537__0009"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_171399649",
+      "min_xy": [
+        490.07958984375,
+        -338.17364501953125
+      ],
+      "max_xy": [
+        561.8900146484375,
+        -293.023193359375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_171399649__0001",
+        "SEU_B_OSMWAY_171399649__0002",
+        "SEU_B_OSMWAY_171399649__0003",
+        "SEU_B_OSMWAY_171399649__0004",
+        "SEU_B_OSMWAY_171399649__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961590",
+      "min_xy": [
+        -797.5181884765625,
+        -302.9417724609375
+      ],
+      "max_xy": [
+        -734.163818359375,
+        -282.27191162109375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961590__0001",
+        "SEU_B_OSMWAY_299961590__0002",
+        "SEU_B_OSMWAY_299961590__0003",
+        "SEU_B_OSMWAY_299961590__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961598",
+      "min_xy": [
+        -723.9885864257812,
+        -561.9576416015625
+      ],
+      "max_xy": [
+        -671.549560546875,
+        -544.6947021484375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961598__0001",
+        "SEU_B_OSMWAY_299961598__0002",
+        "SEU_B_OSMWAY_299961598__0003",
+        "SEU_B_OSMWAY_299961598__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961599",
+      "min_xy": [
+        -619.2891845703125,
+        -749.55908203125
+      ],
+      "max_xy": [
+        -566.9618530273438,
+        -731.0810546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961599__0001",
+        "SEU_B_OSMWAY_299961599__0002",
+        "SEU_B_OSMWAY_299961599__0003",
+        "SEU_B_OSMWAY_299961599__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961601",
+      "min_xy": [
+        -659.355712890625,
+        -556.28369140625
+      ],
+      "max_xy": [
+        -606.9139404296875,
+        -540.1819458007812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961601__0001",
+        "SEU_B_OSMWAY_299961601__0002",
+        "SEU_B_OSMWAY_299961601__0003",
+        "SEU_B_OSMWAY_299961601__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961603",
+      "min_xy": [
+        -784.120361328125,
+        -368.857177734375
+      ],
+      "max_xy": [
+        -721.9856567382812,
+        -348.7861328125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961603__0001",
+        "SEU_B_OSMWAY_299961603__0002",
+        "SEU_B_OSMWAY_299961603__0003",
+        "SEU_B_OSMWAY_299961603__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961604",
+      "min_xy": [
+        -643.1676025390625,
+        -621.5289306640625
+      ],
+      "max_xy": [
+        -589.4443969726562,
+        -604.1144409179688
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961604__0001",
+        "SEU_B_OSMWAY_299961604__0002",
+        "SEU_B_OSMWAY_299961604__0003",
+        "SEU_B_OSMWAY_299961604__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961606",
+      "min_xy": [
+        -684.0026245117188,
+        -754.2952880859375
+      ],
+      "max_xy": [
+        -634.0188598632812,
+        -736.63818359375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961606__0001",
+        "SEU_B_OSMWAY_299961606__0002",
+        "SEU_B_OSMWAY_299961606__0003",
+        "SEU_B_OSMWAY_299961606__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961612",
+      "min_xy": [
+        -709.37158203125,
+        -625.7384033203125
+      ],
+      "max_xy": [
+        -655.5986938476562,
+        -608.3226318359375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961612__0001",
+        "SEU_B_OSMWAY_299961612__0002",
+        "SEU_B_OSMWAY_299961612__0003",
+        "SEU_B_OSMWAY_299961612__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961614",
+      "min_xy": [
+        -793.6041870117188,
+        -333.7553405761719
+      ],
+      "max_xy": [
+        -734.216552734375,
+        -315.2283935546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961614__0001",
+        "SEU_B_OSMWAY_299961614__0002",
+        "SEU_B_OSMWAY_299961614__0003",
+        "SEU_B_OSMWAY_299961614__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961616",
+      "min_xy": [
+        -695.3550415039062,
+        -687.5520629882812
+      ],
+      "max_xy": [
+        -641.6988525390625,
+        -669.84716796875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961616__0001",
+        "SEU_B_OSMWAY_299961616__0002",
+        "SEU_B_OSMWAY_299961616__0003",
+        "SEU_B_OSMWAY_299961616__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961619",
+      "min_xy": [
+        -780.9929809570312,
+        -400.5798645019531
+      ],
+      "max_xy": [
+        -722.5842895507812,
+        -381.2971496582031
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961619__0001",
+        "SEU_B_OSMWAY_299961619__0002",
+        "SEU_B_OSMWAY_299961619__0003",
+        "SEU_B_OSMWAY_299961619__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961620",
+      "min_xy": [
+        -626.2088012695312,
+        -684.1036987304688
+      ],
+      "max_xy": [
+        -576.3646240234375,
+        -664.9539794921875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961620__0001",
+        "SEU_B_OSMWAY_299961620__0002",
+        "SEU_B_OSMWAY_299961620__0003",
+        "SEU_B_OSMWAY_299961620__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300020021",
+      "min_xy": [
+        413.19482421875,
+        225.1355743408203
+      ],
+      "max_xy": [
+        493.7830810546875,
+        277.37701416015625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300020021__0001",
+        "SEU_B_OSMWAY_300020021__0002",
+        "SEU_B_OSMWAY_300020021__0003",
+        "SEU_B_OSMWAY_300020021__0004",
+        "SEU_B_OSMWAY_300020021__0005"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "min_xy": [
+        647.6801147460938,
+        411.2418212890625
+      ],
+      "max_xy": [
+        698.6827392578125,
+        428.11334228515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136438__0001",
+        "SEU_B_OSMWAY_630136438__0002",
+        "SEU_B_OSMWAY_630136438__0003",
+        "SEU_B_OSMWAY_630136438__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "min_xy": [
+        582.4783935546875,
+        406.30059814453125
+      ],
+      "max_xy": [
+        633.6486206054688,
+        423.0704040527344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136443__0001",
+        "SEU_B_OSMWAY_630136443__0002",
+        "SEU_B_OSMWAY_630136443__0003",
+        "SEU_B_OSMWAY_630136443__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "min_xy": [
+        650.8856811523438,
+        381.2474670410156
+      ],
+      "max_xy": [
+        701.9728393554688,
+        398.22528076171875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136446__0001",
+        "SEU_B_OSMWAY_630136446__0002",
+        "SEU_B_OSMWAY_630136446__0003",
+        "SEU_B_OSMWAY_630136446__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "min_xy": [
+        585.7698974609375,
+        376.259521484375
+      ],
+      "max_xy": [
+        636.969970703125,
+        392.5855712890625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136447__0001",
+        "SEU_B_OSMWAY_630136447__0002",
+        "SEU_B_OSMWAY_630136447__0003",
+        "SEU_B_OSMWAY_630136447__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "min_xy": [
+        652.4342651367188,
+        347.42987060546875
+      ],
+      "max_xy": [
+        703.6358032226562,
+        364.3746643066406
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136454__0001",
+        "SEU_B_OSMWAY_630136454__0002",
+        "SEU_B_OSMWAY_630136454__0003",
+        "SEU_B_OSMWAY_630136454__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "min_xy": [
+        587.4485473632812,
+        342.36236572265625
+      ],
+      "max_xy": [
+        638.6558837890625,
+        359.2493896484375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136455__0001",
+        "SEU_B_OSMWAY_630136455__0002",
+        "SEU_B_OSMWAY_630136455__0003",
+        "SEU_B_OSMWAY_630136455__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "min_xy": [
+        590.7915649414062,
+        311.78057861328125
+      ],
+      "max_xy": [
+        642.0540771484375,
+        328.77203369140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136457__0001",
+        "SEU_B_OSMWAY_630136457__0002",
+        "SEU_B_OSMWAY_630136457__0003",
+        "SEU_B_OSMWAY_630136457__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "min_xy": [
+        655.7007446289062,
+        316.8138427734375
+      ],
+      "max_xy": [
+        706.9967041015625,
+        333.88787841796875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136458__0001",
+        "SEU_B_OSMWAY_630136458__0002",
+        "SEU_B_OSMWAY_630136458__0003",
+        "SEU_B_OSMWAY_630136458__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "min_xy": [
+        648.536865234375,
+        553.793701171875
+      ],
+      "max_xy": [
+        699.5354614257812,
+        570.6856689453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136460__0001",
+        "SEU_B_OSMWAY_630136460__0002",
+        "SEU_B_OSMWAY_630136460__0003",
+        "SEU_B_OSMWAY_630136460__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "min_xy": [
+        583.3392333984375,
+        548.8262329101562
+      ],
+      "max_xy": [
+        634.4979248046875,
+        565.6292724609375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136462__0001",
+        "SEU_B_OSMWAY_630136462__0002",
+        "SEU_B_OSMWAY_630136462__0003",
+        "SEU_B_OSMWAY_630136462__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "min_xy": [
+        651.7444458007812,
+        523.8081665039062
+      ],
+      "max_xy": [
+        702.8339233398438,
+        540.8148803710938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136464__0001",
+        "SEU_B_OSMWAY_630136464__0002",
+        "SEU_B_OSMWAY_630136464__0003",
+        "SEU_B_OSMWAY_630136464__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "min_xy": [
+        586.6317749023438,
+        518.8104248046875
+      ],
+      "max_xy": [
+        637.8282470703125,
+        535.14453125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136465__0001",
+        "SEU_B_OSMWAY_630136465__0002",
+        "SEU_B_OSMWAY_630136465__0003",
+        "SEU_B_OSMWAY_630136465__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "min_xy": [
+        653.28173828125,
+        489.9849853515625
+      ],
+      "max_xy": [
+        704.4893188476562,
+        506.950927734375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136470__0001",
+        "SEU_B_OSMWAY_630136470__0002",
+        "SEU_B_OSMWAY_630136470__0003",
+        "SEU_B_OSMWAY_630136470__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "min_xy": [
+        588.2981567382812,
+        484.9515380859375
+      ],
+      "max_xy": [
+        639.511474609375,
+        501.7852783203125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136471__0001",
+        "SEU_B_OSMWAY_630136471__0002",
+        "SEU_B_OSMWAY_630136471__0003",
+        "SEU_B_OSMWAY_630136471__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "min_xy": [
+        591.6572875976562,
+        454.3612976074219
+      ],
+      "max_xy": [
+        642.9126586914062,
+        470.8511657714844
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136473__0001",
+        "SEU_B_OSMWAY_630136473__0002",
+        "SEU_B_OSMWAY_630136473__0003",
+        "SEU_B_OSMWAY_630136473__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "min_xy": [
+        656.5598754882812,
+        459.369873046875
+      ],
+      "max_xy": [
+        707.857421875,
+        476.4853515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136474__0001",
+        "SEU_B_OSMWAY_630136474__0002",
+        "SEU_B_OSMWAY_630136474__0003",
+        "SEU_B_OSMWAY_630136474__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "min_xy": [
+        500.61279296875,
+        535.8024291992188
+      ],
+      "max_xy": [
+        550.4622192382812,
+        558.3658447265625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136476__0001",
+        "SEU_B_OSMWAY_630136476__0002",
+        "SEU_B_OSMWAY_630136476__0003",
+        "SEU_B_OSMWAY_630136476__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "min_xy": [
+        436.8406982421875,
+        521.157470703125
+      ],
+      "max_xy": [
+        486.8826904296875,
+        543.8392944335938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136478__0001",
+        "SEU_B_OSMWAY_630136478__0002",
+        "SEU_B_OSMWAY_630136478__0003",
+        "SEU_B_OSMWAY_630136478__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "min_xy": [
+        510.06036376953125,
+        505.261474609375
+      ],
+      "max_xy": [
+        560.00390625,
+        527.917724609375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136480__0001",
+        "SEU_B_OSMWAY_630136480__0002",
+        "SEU_B_OSMWAY_630136480__0003",
+        "SEU_B_OSMWAY_630136480__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "min_xy": [
+        446.38409423828125,
+        490.7540283203125
+      ],
+      "max_xy": [
+        496.4504699707031,
+        513.4048461914062
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136481__0001",
+        "SEU_B_OSMWAY_630136481__0002",
+        "SEU_B_OSMWAY_630136481__0003",
+        "SEU_B_OSMWAY_630136481__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "min_xy": [
+        514.7724609375,
+        473.3865661621094
+      ],
+      "max_xy": [
+        564.7994995117188,
+        496.0668029785156
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136487__0001",
+        "SEU_B_OSMWAY_630136487__0002",
+        "SEU_B_OSMWAY_630136487__0003",
+        "SEU_B_OSMWAY_630136487__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "min_xy": [
+        451.25531005859375,
+        458.8141784667969
+      ],
+      "max_xy": [
+        501.3161926269531,
+        481.44061279296875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136488__0001",
+        "SEU_B_OSMWAY_630136488__0002",
+        "SEU_B_OSMWAY_630136488__0003",
+        "SEU_B_OSMWAY_630136488__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "min_xy": [
+        460.9456787109375,
+        427.6662292480469
+      ],
+      "max_xy": [
+        511.0342712402344,
+        450.4340515136719
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136490__0001",
+        "SEU_B_OSMWAY_630136490__0002",
+        "SEU_B_OSMWAY_630136490__0003",
+        "SEU_B_OSMWAY_630136490__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "min_xy": [
+        524.37890625,
+        442.23846435546875
+      ],
+      "max_xy": [
+        574.5242309570312,
+        464.6708984375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630136491__0001",
+        "SEU_B_OSMWAY_630136491__0002",
+        "SEU_B_OSMWAY_630136491__0003",
+        "SEU_B_OSMWAY_630136491__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141862",
+      "min_xy": [
+        545.0733642578125,
+        -559.0205688476562
+      ],
+      "max_xy": [
+        596.2723388671875,
+        -542.0862426757812
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141862__0001",
+        "SEU_B_OSMWAY_630141862__0002",
+        "SEU_B_OSMWAY_630141862__0003",
+        "SEU_B_OSMWAY_630141862__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141863",
+      "min_xy": [
+        480.0841064453125,
+        -564.0916748046875
+      ],
+      "max_xy": [
+        531.2982788085938,
+        -547.224853515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141863__0001",
+        "SEU_B_OSMWAY_630141863__0002",
+        "SEU_B_OSMWAY_630141863__0003",
+        "SEU_B_OSMWAY_630141863__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141865",
+      "min_xy": [
+        483.435546875,
+        -594.6986083984375
+      ],
+      "max_xy": [
+        534.69384765625,
+        -577.719482421875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141865__0001",
+        "SEU_B_OSMWAY_630141865__0002",
+        "SEU_B_OSMWAY_630141865__0003",
+        "SEU_B_OSMWAY_630141865__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141866",
+      "min_xy": [
+        548.348876953125,
+        -589.6813354492188
+      ],
+      "max_xy": [
+        599.6333618164062,
+        -572.6068115234375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141866__0001",
+        "SEU_B_OSMWAY_630141866__0002",
+        "SEU_B_OSMWAY_630141866__0003",
+        "SEU_B_OSMWAY_630141866__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141868",
+      "min_xy": [
+        535.40087890625,
+        -431.0108947753906
+      ],
+      "max_xy": [
+        586.40087890625,
+        -414.1711730957031
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141868__0001",
+        "SEU_B_OSMWAY_630141868__0002",
+        "SEU_B_OSMWAY_630141868__0003",
+        "SEU_B_OSMWAY_630141868__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141869",
+      "min_xy": [
+        470.195068359375,
+        -436.0246276855469
+      ],
+      "max_xy": [
+        521.3538818359375,
+        -419.2015075683594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141869__0001",
+        "SEU_B_OSMWAY_630141869__0002",
+        "SEU_B_OSMWAY_630141869__0003",
+        "SEU_B_OSMWAY_630141869__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141871",
+      "min_xy": [
+        538.6058959960938,
+        -461.05206298828125
+      ],
+      "max_xy": [
+        589.6994018554688,
+        -444.1002197265625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141871__0001",
+        "SEU_B_OSMWAY_630141871__0002",
+        "SEU_B_OSMWAY_630141871__0003",
+        "SEU_B_OSMWAY_630141871__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141872",
+      "min_xy": [
+        473.4811706542969,
+        -466.050537109375
+      ],
+      "max_xy": [
+        524.681396484375,
+        -449.21728515625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141872__0001",
+        "SEU_B_OSMWAY_630141872__0002",
+        "SEU_B_OSMWAY_630141872__0003",
+        "SEU_B_OSMWAY_630141872__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141876",
+      "min_xy": [
+        540.15380859375,
+        -494.83807373046875
+      ],
+      "max_xy": [
+        591.3524169921875,
+        -477.90423583984375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141876__0001",
+        "SEU_B_OSMWAY_630141876__0002",
+        "SEU_B_OSMWAY_630141876__0003",
+        "SEU_B_OSMWAY_630141876__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141877",
+      "min_xy": [
+        475.16485595703125,
+        -499.9090881347656
+      ],
+      "max_xy": [
+        526.37646484375,
+        -483.0430603027344
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141877__0001",
+        "SEU_B_OSMWAY_630141877__0002",
+        "SEU_B_OSMWAY_630141877__0003",
+        "SEU_B_OSMWAY_630141877__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141879",
+      "min_xy": [
+        478.5163269042969,
+        -530.5165405273438
+      ],
+      "max_xy": [
+        529.7742919921875,
+        -513.5375366210938
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141879__0001",
+        "SEU_B_OSMWAY_630141879__0002",
+        "SEU_B_OSMWAY_630141879__0003",
+        "SEU_B_OSMWAY_630141879__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141880",
+      "min_xy": [
+        543.4293212890625,
+        -525.499267578125
+      ],
+      "max_xy": [
+        594.7134399414062,
+        -508.4249267578125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141880__0001",
+        "SEU_B_OSMWAY_630141880__0002",
+        "SEU_B_OSMWAY_630141880__0003",
+        "SEU_B_OSMWAY_630141880__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141882",
+      "min_xy": [
+        671.147216796875,
+        -421.6436767578125
+      ],
+      "max_xy": [
+        722.147216796875,
+        -404.80340576171875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141882__0001",
+        "SEU_B_OSMWAY_630141882__0002",
+        "SEU_B_OSMWAY_630141882__0003",
+        "SEU_B_OSMWAY_630141882__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141883",
+      "min_xy": [
+        605.9412841796875,
+        -426.6496887207031
+      ],
+      "max_xy": [
+        657.1029663085938,
+        -409.8338928222656
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141883__0001",
+        "SEU_B_OSMWAY_630141883__0002",
+        "SEU_B_OSMWAY_630141883__0003",
+        "SEU_B_OSMWAY_630141883__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141885",
+      "min_xy": [
+        609.2282104492188,
+        -456.68426513671875
+      ],
+      "max_xy": [
+        660.4282836914062,
+        -439.85052490234375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141885__0001",
+        "SEU_B_OSMWAY_630141885__0002",
+        "SEU_B_OSMWAY_630141885__0003",
+        "SEU_B_OSMWAY_630141885__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141889",
+      "min_xy": [
+        614.26416015625,
+        -521.1502075195312
+      ],
+      "max_xy": [
+        665.5220947265625,
+        -504.170654296875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141889__0001",
+        "SEU_B_OSMWAY_630141889__0002",
+        "SEU_B_OSMWAY_630141889__0003",
+        "SEU_B_OSMWAY_630141889__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141890",
+      "min_xy": [
+        610.9127807617188,
+        -490.53167724609375
+      ],
+      "max_xy": [
+        662.1235961914062,
+        -473.67608642578125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141890__0001",
+        "SEU_B_OSMWAY_630141890__0002",
+        "SEU_B_OSMWAY_630141890__0003",
+        "SEU_B_OSMWAY_630141890__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141894",
+      "min_xy": [
+        679.1770629882812,
+        -516.132080078125
+      ],
+      "max_xy": [
+        730.4611206054688,
+        -499.05718994140625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141894__0001",
+        "SEU_B_OSMWAY_630141894__0002",
+        "SEU_B_OSMWAY_630141894__0003",
+        "SEU_B_OSMWAY_630141894__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141895",
+      "min_xy": [
+        675.9010009765625,
+        -485.4708557128906
+      ],
+      "max_xy": [
+        727.0995483398438,
+        -468.5364685058594
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141895__0001",
+        "SEU_B_OSMWAY_630141895__0002",
+        "SEU_B_OSMWAY_630141895__0003",
+        "SEU_B_OSMWAY_630141895__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141899",
+      "min_xy": [
+        615.8322143554688,
+        -554.7252197265625
+      ],
+      "max_xy": [
+        667.0463256835938,
+        -537.85791015625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141899__0001",
+        "SEU_B_OSMWAY_630141899__0002",
+        "SEU_B_OSMWAY_630141899__0003",
+        "SEU_B_OSMWAY_630141899__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141901",
+      "min_xy": [
+        619.1842041015625,
+        -585.3321533203125
+      ],
+      "max_xy": [
+        670.4424438476562,
+        -568.3525390625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141901__0001",
+        "SEU_B_OSMWAY_630141901__0002",
+        "SEU_B_OSMWAY_630141901__0003",
+        "SEU_B_OSMWAY_630141901__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141902",
+      "min_xy": [
+        684.0975341796875,
+        -580.3140869140625
+      ],
+      "max_xy": [
+        735.3819580078125,
+        -563.2391357421875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141902__0001",
+        "SEU_B_OSMWAY_630141902__0002",
+        "SEU_B_OSMWAY_630141902__0003",
+        "SEU_B_OSMWAY_630141902__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141903",
+      "min_xy": [
+        680.8217163085938,
+        -549.6526489257812
+      ],
+      "max_xy": [
+        732.0296020507812,
+        -532.7183227539062
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141903__0001",
+        "SEU_B_OSMWAY_630141903__0002",
+        "SEU_B_OSMWAY_630141903__0003",
+        "SEU_B_OSMWAY_630141903__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_630141906",
+      "min_xy": [
+        674.3528442382812,
+        -451.6854553222656
+      ],
+      "max_xy": [
+        725.4465942382812,
+        -434.7417297363281
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_630141906__0001",
+        "SEU_B_OSMWAY_630141906__0002",
+        "SEU_B_OSMWAY_630141906__0003",
+        "SEU_B_OSMWAY_630141906__0004"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "min_xy": [
+        -458.29656982421875,
+        -415.4710998535156
+      ],
+      "max_xy": [
+        -271.38763427734375,
+        -212.45361328125
+      ],
+      "objects": [
+        "SEU_B_LEGACY_PLAN_C3__0001",
+        "SEU_B_LEGACY_PLAN_C3__0002",
+        "SEU_B_LEGACY_PLAN_C3__0003",
+        "SEU_B_LEGACY_PLAN_C3__0004",
+        "SEU_B_LEGACY_PLAN_C3__0005",
+        "SEU_B_LEGACY_PLAN_C3__0006",
+        "SEU_B_LEGACY_PLAN_C3__0007",
+        "SEU_B_LEGACY_PLAN_C3__0008",
+        "SEU_B_LEGACY_PLAN_C3__0009",
+        "SEU_B_LEGACY_PLAN_C3__0010",
+        "SEU_B_LEGACY_PLAN_C3__0011",
+        "SEU_B_LEGACY_PLAN_C3__0012"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300030319",
+      "min_xy": [
+        -347.0793762207031,
+        201.56947326660156
+      ],
+      "max_xy": [
+        -296.95538330078125,
+        265.9205322265625
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300030319__RESTORED_004",
+        "SEU_B_OSMWAY_300030319__RESTORED_005",
+        "SEU_B_OSMWAY_300030319__RESTORED_006",
+        "SEU_B_OSMWAY_300030319__RESTORED_007",
+        "SEU_B_OSMWAY_300030319__RESTORED_008",
+        "SEU_B_OSMWAY_300030319__RESTORED_009",
+        "SEU_B_OSMWAY_300030319__RESTORED_010",
+        "SEU_B_OSMWAY_300030319__RESTORED_011",
+        "SEU_B_OSMWAY_300030319__RESTORED_012",
+        "SEU_B_OSMWAY_300030319__RESTORED_013",
+        "SEU_B_OSMWAY_300030319__RESTORED_014",
+        "SEU_B_OSMWAY_300030319__RESTORED_015",
+        "SEU_B_OSMWAY_300030319__RESTORED_016",
+        "SEU_B_OSMWAY_300030319__RESTORED_017",
+        "SEU_B_OSMWAY_300030319__RESTORED_018",
+        "SEU_B_OSMWAY_300030319__RESTORED_019",
+        "SEU_B_OSMWAY_300030319__RESTORED_020",
+        "SEU_B_OSMWAY_300030319__RESTORED_021",
+        "SEU_B_OSMWAY_300030319__RESTORED_022",
+        "SEU_B_OSMWAY_300030319__RESTORED_023",
+        "SEU_B_OSMWAY_300030319__RESTORED_024",
+        "SEU_B_OSMWAY_300030319__RESTORED_025",
+        "SEU_B_OSMWAY_300030319__RESTORED_026",
+        "SEU_B_OSMWAY_300030319__RESTORED_027",
+        "SEU_B_OSMWAY_300030319__RESTORED_028",
+        "SEU_B_OSMWAY_300030319__RESTORED_029",
+        "SEU_B_OSMWAY_300030319__RESTORED_030",
+        "SEU_B_OSMWAY_300030319__RESTORED_031",
+        "SEU_B_OSMWAY_300030319__RESTORED_032",
+        "SEU_B_OSMWAY_300030319__RESTORED_033"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961623",
+      "min_xy": [
+        -238.06727600097656,
+        -376.0514831542969
+      ],
+      "max_xy": [
+        -168.9624481201172,
+        -338.2725830078125
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961623__RESTORED_001",
+        "SEU_B_OSMWAY_299961623__RESTORED_002",
+        "SEU_B_OSMWAY_299961623__RESTORED_003",
+        "SEU_B_OSMWAY_299961623__RESTORED_004",
+        "SEU_B_OSMWAY_299961623__RESTORED_005",
+        "SEU_B_OSMWAY_299961623__RESTORED_006",
+        "SEU_B_OSMWAY_299961623__RESTORED_007",
+        "SEU_B_OSMWAY_299961623__RESTORED_008",
+        "SEU_B_OSMWAY_299961623__RESTORED_009",
+        "SEU_B_OSMWAY_299961623__RESTORED_010",
+        "SEU_B_OSMWAY_299961623__RESTORED_011",
+        "SEU_B_OSMWAY_299961623__RESTORED_012",
+        "SEU_B_OSMWAY_299961623__RESTORED_013",
+        "SEU_B_OSMWAY_299961623__RESTORED_014",
+        "SEU_B_OSMWAY_299961623__RESTORED_015",
+        "SEU_B_OSMWAY_299961623__RESTORED_016",
+        "SEU_B_OSMWAY_299961623__RESTORED_017",
+        "SEU_B_OSMWAY_299961623__RESTORED_018",
+        "SEU_B_OSMWAY_299961623__RESTORED_019",
+        "SEU_B_OSMWAY_299961623__RESTORED_020",
+        "SEU_B_OSMWAY_299961623__RESTORED_021",
+        "SEU_B_OSMWAY_299961623__RESTORED_022",
+        "SEU_B_OSMWAY_299961623__RESTORED_023",
+        "SEU_B_OSMWAY_299961623__RESTORED_024"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_299961609",
+      "min_xy": [
+        -244.1865997314453,
+        -409.79876708984375
+      ],
+      "max_xy": [
+        -172.46762084960938,
+        -381.73065185546875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_299961609__RESTORED_001",
+        "SEU_B_OSMWAY_299961609__RESTORED_002",
+        "SEU_B_OSMWAY_299961609__RESTORED_003",
+        "SEU_B_OSMWAY_299961609__RESTORED_004",
+        "SEU_B_OSMWAY_299961609__RESTORED_005",
+        "SEU_B_OSMWAY_299961609__RESTORED_006",
+        "SEU_B_OSMWAY_299961609__RESTORED_007",
+        "SEU_B_OSMWAY_299961609__RESTORED_008",
+        "SEU_B_OSMWAY_299961609__RESTORED_009",
+        "SEU_B_OSMWAY_299961609__RESTORED_010",
+        "SEU_B_OSMWAY_299961609__RESTORED_011",
+        "SEU_B_OSMWAY_299961609__RESTORED_012",
+        "SEU_B_OSMWAY_299961609__RESTORED_013",
+        "SEU_B_OSMWAY_299961609__RESTORED_014",
+        "SEU_B_OSMWAY_299961609__RESTORED_015",
+        "SEU_B_OSMWAY_299961609__RESTORED_016",
+        "SEU_B_OSMWAY_299961609__RESTORED_017",
+        "SEU_B_OSMWAY_299961609__RESTORED_018",
+        "SEU_B_OSMWAY_299961609__RESTORED_019",
+        "SEU_B_OSMWAY_299961609__RESTORED_020",
+        "SEU_B_OSMWAY_299961609__RESTORED_021",
+        "SEU_B_OSMWAY_299961609__RESTORED_022",
+        "SEU_B_OSMWAY_299961609__RESTORED_023",
+        "SEU_B_OSMWAY_299961609__RESTORED_024"
+      ]
+    },
+    {
+      "stable_id": "SEU_COMPOUND_OSMWAY_300020027",
+      "min_xy": [
+        304.7225646972656,
+        609.3462524414062
+      ],
+      "max_xy": [
+        374.42755126953125,
+        659.5433959960938
+      ],
+      "objects": [
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_001",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_002",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_003",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_004",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_005",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_007",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_008",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_009",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_010",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_011",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_012",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_013",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_014",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_015",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_016",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_017",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_018",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_019",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_020",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_021",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_022",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_023",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_024",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_025",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_026",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_027",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_028",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_029",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_030",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_031",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_032",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_033",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_034",
+        "SEU_COMPOUND_OSMWAY_300020027__RESTORED_035"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010611",
+      "min_xy": [
+        -600.576416015625,
+        -195.0759735107422
+      ],
+      "max_xy": [
+        -521.996337890625,
+        -116.76626586914062
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010611__RESTORED_004",
+        "SEU_B_OSMWAY_300010611__RESTORED_005",
+        "SEU_B_OSMWAY_300010611__RESTORED_006",
+        "SEU_B_OSMWAY_300010611__RESTORED_007",
+        "SEU_B_OSMWAY_300010611__RESTORED_008",
+        "SEU_B_OSMWAY_300010611__RESTORED_009",
+        "SEU_B_OSMWAY_300010611__RESTORED_010",
+        "SEU_B_OSMWAY_300010611__RESTORED_011",
+        "SEU_B_OSMWAY_300010611__RESTORED_012",
+        "SEU_B_OSMWAY_300010611__RESTORED_013",
+        "SEU_B_OSMWAY_300010611__RESTORED_014",
+        "SEU_B_OSMWAY_300010611__RESTORED_015",
+        "SEU_B_OSMWAY_300010611__RESTORED_016"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010625",
+      "min_xy": [
+        -506.2524719238281,
+        -138.2119598388672
+      ],
+      "max_xy": [
+        -424.77606201171875,
+        -110.12445068359375
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010625__0001",
+        "SEU_B_OSMWAY_300010625__0002",
+        "SEU_B_OSMWAY_300010625__0003"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010604",
+      "min_xy": [
+        -505.0603942871094,
+        -183.7211151123047
+      ],
+      "max_xy": [
+        -420.2315673828125,
+        -153.59939575195312
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010604__0001",
+        "SEU_B_OSMWAY_300010604__0002",
+        "SEU_B_OSMWAY_300010604__0003"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "min_xy": [
+        -549.3169555664062,
+        -362.7368469238281
+      ],
+      "max_xy": [
+        -479.1827087402344,
+        -297.2834167480469
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_300010617__0001",
+        "SEU_B_OSMWAY_300010617__0002",
+        "SEU_B_OSMWAY_300010617__0003",
+        "SEU_B_OSMWAY_300010617__0004",
+        "SEU_B_OSMWAY_300010617__0005",
+        "SEU_B_OSMWAY_300010617__0006",
+        "SEU_B_OSMWAY_300010617__0007",
+        "SEU_B_OSMWAY_300010617__0008",
+        "SEU_B_OSMWAY_300010617__0009"
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_1056927550",
+      "min_xy": [
+        398.87249755859375,
+        576.3228759765625
+      ],
+      "max_xy": [
+        526.4012451171875,
+        718.141357421875
+      ],
+      "objects": [
+        "SEU_B_OSMWAY_1056927550__0001",
+        "SEU_B_OSMWAY_1056927550__0002",
+        "SEU_B_OSMWAY_1056927550__0003",
+        "SEU_B_OSMWAY_1056927550__0004",
+        "SEU_B_OSMWAY_1056927550__0005",
+        "SEU_B_OSMWAY_1056927550__0006",
+        "SEU_B_OSMWAY_1056927550__0007",
+        "SEU_B_OSMWAY_1056927550__0008",
+        "SEU_B_OSMWAY_1056927550__0009",
+        "SEU_B_OSMWAY_1056927550__0010",
+        "SEU_B_OSMWAY_1056927550__0011",
+        "SEU_B_OSMWAY_1056927550__0012",
+        "SEU_B_OSMWAY_1056927550__0013",
+        "SEU_B_OSMWAY_1056927550__0014",
+        "SEU_B_OSMWAY_1056927550__0015",
+        "SEU_B_OSMWAY_1056927550__0016",
+        "SEU_B_OSMWAY_1056927550__0017",
+        "SEU_B_OSMWAY_1056927550__0018",
+        "SEU_B_OSMWAY_1056927550__0019",
+        "SEU_B_OSMWAY_1056927550__0020",
+        "SEU_B_OSMWAY_1056927550__0021",
+        "SEU_B_OSMWAY_1056927550__0022",
+        "SEU_B_OSMWAY_1056927550__0023",
+        "SEU_B_OSMWAY_1056927550__0024",
+        "SEU_B_OSMWAY_1056927550__0025",
+        "SEU_B_OSMWAY_1056927550__0026",
+        "SEU_B_OSMWAY_1056927550__0027",
+        "SEU_B_OSMWAY_1056927550__0028",
+        "SEU_B_OSMWAY_1056927550__0029",
+        "SEU_B_OSMWAY_1056927550__0030",
+        "SEU_B_OSMWAY_1056927550__0031",
+        "SEU_B_OSMWAY_1056927550__0032",
+        "SEU_B_OSMWAY_1056927550__0033",
+        "SEU_B_OSMWAY_1056927550__0034",
+        "SEU_B_OSMWAY_1056927550__0035",
+        "SEU_B_OSMWAY_1056927550__0036",
+        "SEU_B_OSMWAY_1056927550__0037",
+        "SEU_B_OSMWAY_1056927550__0038",
+        "SEU_B_OSMWAY_1056927550__0039",
+        "SEU_B_OSMWAY_1056927550__0040",
+        "SEU_B_OSMWAY_1056927550__0041",
+        "SEU_B_OSMWAY_1056927550__0042",
+        "SEU_B_OSMWAY_1056927550__0043",
+        "SEU_B_OSMWAY_1056927550__0044",
+        "SEU_B_OSMWAY_1056927550__0045",
+        "SEU_B_OSMWAY_1056927550__0046",
+        "SEU_B_OSMWAY_1056927550__0047",
+        "SEU_B_OSMWAY_1056927550__0048",
+        "SEU_B_OSMWAY_1056927550__0049",
+        "SEU_B_OSMWAY_1056927550__0050",
+        "SEU_B_OSMWAY_1056927550__0051",
+        "SEU_B_OSMWAY_1056927550__0052",
+        "SEU_B_OSMWAY_1056927550__0053",
+        "SEU_B_OSMWAY_1056927550__0054",
+        "SEU_B_OSMWAY_1056927550__0055",
+        "SEU_B_OSMWAY_1056927550__0056",
+        "SEU_B_OSMWAY_1056927550__0057",
+        "SEU_B_OSMWAY_1056927550__0058",
+        "SEU_B_OSMWAY_1056927550__0059",
+        "SEU_B_OSMWAY_1056927550__0060",
+        "SEU_B_OSMWAY_1056927550__0061",
+        "SEU_B_OSMWAY_1056927550__0062",
+        "SEU_B_OSMWAY_1056927550__0063",
+        "SEU_B_OSMWAY_1056927550__0064",
+        "SEU_B_OSMWAY_1056927550__0065"
+      ]
+    }
+  ]
+}
