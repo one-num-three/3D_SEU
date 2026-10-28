@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
   "patches": [
     {
@@ -349,6 +349,36 @@
         "SEU_B_OSMWAY_630686661_V07__canopy_glass"
       ],
       "append_node_count": 30
+    },
+    {
+      "label": "行政办公楼局部修复",
+      "url": "./public_assets_v08/assets/SEU_building_patch_v08.glb",
+      "bytes": 1748416,
+      "sha256": "580a3f89867930aaf92f1b9390b2477768b1931a12095637db42594b10c73871",
+      "replace_names": [
+        "SEU_B_OSMWAY_300020042.001"
+      ],
+      "append_names": [
+        "SEU_B_OSMWAY_300020042_V08__main_window_mullions",
+        "SEU_B_OSMWAY_300020042_V08__main_window_frames",
+        "SEU_B_OSMWAY_300020042_V08__main_west_hip",
+        "SEU_B_OSMWAY_300020042_V08__main_upper",
+        "SEU_B_OSMWAY_300020042_V08__main_roof",
+        "SEU_B_OSMWAY_300020042_V08__main_middle_hip",
+        "SEU_B_OSMWAY_300020042_V08__main_ground",
+        "SEU_B_OSMWAY_300020042_V08__main_glass",
+        "SEU_B_OSMWAY_300020042_V08__main_eave_edge",
+        "SEU_B_OSMWAY_300020042_V08__main_east_hip",
+        "SEU_B_OSMWAY_300020042_V08__annex_window_mullions",
+        "SEU_B_OSMWAY_300020042_V08__annex_window_frames",
+        "SEU_B_OSMWAY_300020042_V08__annex_upper",
+        "SEU_B_OSMWAY_300020042_V08__annex_south_hip_roof",
+        "SEU_B_OSMWAY_300020042_V08__annex_roof",
+        "SEU_B_OSMWAY_300020042_V08__annex_ground",
+        "SEU_B_OSMWAY_300020042_V08__annex_glass",
+        "SEU_B_OSMWAY_300020042_V08__annex_eave_edge"
+      ],
+      "append_node_count": 18
     }
   ]
 }

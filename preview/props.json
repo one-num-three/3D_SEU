@@ -1,0 +1,15 @@
+{
+  "model": {
+    "url": "./public_assets_v08/reuse_props/assets/R1_MOB_008_display.glb",
+    "bytes": 541708,
+    "sha256": "0b76b1f5933a256fff300dbd14cbf9a876c53940ac5b35b031edd1cffe52b95b"
+  },
+  "instances": {
+    "url": "./public_assets_v08/reuse_props/data/optional_prop_instances.json",
+    "bytes": 4712,
+    "sha256": "71425ee05de56f09315bf3b69edafa393af143e1991ec92f33805c3eb852f86e"
+  },
+  "version": "0.8.0",
+  "label": "停车示例（数量/摆放未实测）",
+  "defaultEnabled": false
+}
