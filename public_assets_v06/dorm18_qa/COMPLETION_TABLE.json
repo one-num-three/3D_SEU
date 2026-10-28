@@ -1,0 +1,686 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_630136421",
+    "name": "桃园2A",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        586.735107421875,
+        273.6331787109375,
+        0
+      ],
+      "max": [
+        639.961181640625,
+        290.3813171386719,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136422",
+    "name": "桃园2B",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        589.0193481445312,
+        244.14730834960938,
+        0
+      ],
+      "max": [
+        642.2800903320312,
+        261.0160827636719,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136423",
+    "name": "桃园1A",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        591.7051391601562,
+        209.7065887451172,
+        0
+      ],
+      "max": [
+        644.9967651367188,
+        226.53872680664062,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136424",
+    "name": "桃园1B",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        594.0350341796875,
+        179.70187377929688,
+        0
+      ],
+      "max": [
+        647.3653564453125,
+        196.70310974121094,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136425",
+    "name": "桃园2C",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        651.9451904296875,
+        278.6471252441406,
+        0
+      ],
+      "max": [
+        704.9912109375,
+        295.4122009277344,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136426",
+    "name": "桃园2D",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        654.132568359375,
+        249.25254821777344,
+        0
+      ],
+      "max": [
+        707.2828979492188,
+        266.1395263671875,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136427",
+    "name": "桃园1C",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        656.6997680664062,
+        214.82359313964844,
+        0
+      ],
+      "max": [
+        709.9601440429688,
+        231.68084716796875,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136428",
+    "name": "桃园1D",
+    "group": "桃园1/2",
+    "package": "dorm_patch_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2023 architect aerial, six levels visually interpreted; not surveyed",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        658.93359375,
+        184.77723693847656,
+        0
+      ],
+      "max": [
+        712.3010864257812,
+        201.82215881347656,
+        22.450000762939453
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141909",
+    "name": "梅园9B",
+    "group": "梅园9",
+    "package": "meiyuan9_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2009 official sixth-floor topping-out text plus 2026 aerial location",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        610.9532470703125,
+        -383.00244140625,
+        0
+      ],
+      "max": [
+        664.3740844726562,
+        -365.9902648925781,
+        23.049999237060547
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": false,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141910",
+    "name": "梅园9A",
+    "group": "梅园9",
+    "package": "meiyuan9_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2009 official sixth-floor topping-out text plus 2026 aerial location",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        608.1890869140625,
+        -349.248046875,
+        0
+      ],
+      "max": [
+        661.8491821289062,
+        -331.66461181640625,
+        23.049999237060547
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": false,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141912",
+    "name": "梅园9C",
+    "group": "梅园9",
+    "package": "meiyuan9_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2009 official sixth-floor topping-out text plus 2026 aerial location",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        675.9481201171875,
+        -377.88818359375,
+        0
+      ],
+      "max": [
+        729.3233032226562,
+        -360.8689270019531,
+        23.049999237060547
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": false,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141914",
+    "name": "梅园9D",
+    "group": "梅园9",
+    "package": "meiyuan9_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 132,
+    "floor_count_evidence": "2009 official sixth-floor topping-out text plus 2026 aerial location",
+    "window_row_centers_z_m_estimated": [
+      1.6,
+      4.83,
+      8.06,
+      11.29,
+      14.52,
+      17.75
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        673.4247436523438,
+        -344.0500183105469,
+        0
+      ],
+      "max": [
+        726.6903686523438,
+        -327.0917663574219,
+        23.049999237060547
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": false,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "No invented balcony mesh added",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927545",
+    "name": "橘园9舍",
+    "group": "橘园9–14",
+    "package": "juyuan3_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 190,
+    "floor_count_evidence": "2017 official completed-project text explicitly six levels",
+    "window_row_centers_z_m_estimated": [
+      1.58,
+      4.81,
+      8.04,
+      11.27,
+      14.5,
+      17.73
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        -796.6726684570312,
+        -276.622314453125,
+        0.0
+      ],
+      "max": [
+        -732.0590209960938,
+        -255.9134979248047,
+        21.899999618530273
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "Observed piered/recessed facade; recess depth/railing construction/function inferred, not surveyed",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927546",
+    "name": "橘园10舍",
+    "group": "橘园9–14",
+    "package": "juyuan3_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 190,
+    "floor_count_evidence": "2017 official completed-project text explicitly six levels",
+    "window_row_centers_z_m_estimated": [
+      1.58,
+      4.81,
+      8.04,
+      11.27,
+      14.5,
+      17.73
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        -717.3358154296875,
+        -267.5037841796875,
+        0.0
+      ],
+      "max": [
+        -652.72216796875,
+        -246.79446411132812,
+        21.899999618530273
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "Observed piered/recessed facade; recess depth/railing construction/function inferred, not surveyed",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927547",
+    "name": "橘园11舍",
+    "group": "橘园9–14",
+    "package": "juyuan3_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 190,
+    "floor_count_evidence": "2017 official completed-project text explicitly six levels",
+    "window_row_centers_z_m_estimated": [
+      1.58,
+      4.81,
+      8.04,
+      11.27,
+      14.5,
+      17.73
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        -714.0369873046875,
+        -301.3496398925781,
+        0.0
+      ],
+      "max": [
+        -649.423095703125,
+        -280.64031982421875,
+        21.899999618530273
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "Observed piered/recessed facade; recess depth/railing construction/function inferred, not surveyed",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927548",
+    "name": "橘园12舍",
+    "group": "橘园9–14",
+    "package": "juyuan3_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 190,
+    "floor_count_evidence": "2017 official completed-project text explicitly six levels",
+    "window_row_centers_z_m_estimated": [
+      1.58,
+      4.81,
+      8.04,
+      11.27,
+      14.5,
+      17.73
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        -709.5880737304688,
+        -333.23565673828125,
+        0.0
+      ],
+      "max": [
+        -644.9739990234375,
+        -312.52630615234375,
+        21.899999618530273
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "Observed piered/recessed facade; recess depth/railing construction/function inferred, not surveyed",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927549",
+    "name": "橘园13舍",
+    "group": "橘园9–14",
+    "package": "juyuan3_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 190,
+    "floor_count_evidence": "2017 official completed-project text explicitly six levels",
+    "window_row_centers_z_m_estimated": [
+      1.58,
+      4.81,
+      8.04,
+      11.27,
+      14.5,
+      17.73
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        -704.7515258789062,
+        -365.1040954589844,
+        0.0
+      ],
+      "max": [
+        -640.13720703125,
+        -344.3947448730469,
+        21.899999618530273
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "Observed piered/recessed facade; recess depth/railing construction/function inferred, not surveyed",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927551",
+    "name": "橘园14舍",
+    "group": "橘园9–14",
+    "package": "juyuan3_rectified",
+    "modeled_window_rows": 6,
+    "window_count": 190,
+    "floor_count_evidence": "2017 official completed-project text explicitly six levels",
+    "window_row_centers_z_m_estimated": [
+      1.58,
+      4.81,
+      8.04,
+      11.27,
+      14.5,
+      17.73
+    ],
+    "all_mesh_bbox_local_m": {
+      "min": [
+        -700.8521118164062,
+        -392.9527893066406,
+        0.0
+      ],
+      "max": [
+        -636.2732543945312,
+        -372.2614440917969,
+        21.899999618530273
+      ]
+    },
+    "all_mesh_projection_outside_source_m2": 0.0,
+    "roof_dark_panel_type_observed": true,
+    "panel_technology_confirmed": false,
+    "panel_count_measured": false,
+    "metric_height_measured": false,
+    "entrance_doorway_geometry_verified": false,
+    "courtyard_infilled": false,
+    "balcony_or_recess_note": "Observed piered/recessed facade; recess depth/railing construction/function inferred, not surveyed",
+    "completion_state": "photo-informed partial facade/roof detail, not full surveyed building"
+  }
+]
