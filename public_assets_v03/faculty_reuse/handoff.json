@@ -1,0 +1,33 @@
+{
+  "status": "READY_FOR_INTEGRATION",
+  "module_blend": "SEU_FACULTY_RESTORED_v03.blend",
+  "module_glb": "SEU_FACULTY_RESTORED_v03.glb",
+  "collection": "PUBLIC_FACULTY_RESTORED_V03",
+  "active_components": 132,
+  "group_counts": {
+    "C7": 48,
+    "C16": 33,
+    "C4": 16,
+    "hospital_compound": 35
+  },
+  "stable_building_ids": [
+    "SEU_B_OSMWAY_299961623",
+    "SEU_B_OSMWAY_299961609",
+    "SEU_B_OSMWAY_300030319",
+    "SEU_B_OSMWAY_300010611"
+  ],
+  "compound_id": "SEU_COMPOUND_OSMWAY_300020027",
+  "mask": "restored_projection_masks.local.geojson",
+  "held_conflict_counts": {
+    "C16_west_original_objects": 11,
+    "C4_west_split_parts": 4
+  },
+  "original_source_models_mutated": false,
+  "limitations": [
+    "Heights/facades artistic approximations, not new photo refinement",
+    "C4 east cross-axis0.70634 adaptation is form revision; longitudinal factor1.00001",
+    "C7 north small stepped-corner residual retained",
+    "Partial source coverage; remove duplicate simple masses using masks rather than declaring full buildings complete",
+    "Hospital amenity polygon is land-use compound not building footprint"
+  ]
+}
