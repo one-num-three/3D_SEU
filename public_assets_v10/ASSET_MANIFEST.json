@@ -1,0 +1,247 @@
+{
+  "version": "0.10.0",
+  "scope": "recovered Zhishan pavilion and Jizhong; estimated geometry and approximately registered legacy details; all unrelated meshes retained",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 4062,
+      "sha256": "81eb3c64e192e83027657bae6815955eaf3ec2abffc7599613175131076614c7"
+    },
+    "assets/SEU_building_patch_v10.glb": {
+      "bytes": 2412220,
+      "sha256": "6d9d2be73efb9b3b19be9b7322cf264b8f9311a72791dc561a428d87ab238449"
+    },
+    "assets/SEU_campus_photorefined_v10.blend": {
+      "bytes": 22212599,
+      "sha256": "8a39d38abe343af6182e454948f5c458608da8937aebce360fd049c9460aca7f"
+    },
+    "data/MODULE_INPUTS.json": {
+      "bytes": 270,
+      "sha256": "53a57cdd51c9e6e93ae52b579084790108b049459e925c8e3b61bc10039e6c4e"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 8057,
+      "sha256": "a04cf13ecd4f7f1fd2f17067bc1aaaa9aab1886b1d4849f8c1fd280e6ed73d8b"
+    },
+    "jizhong_reuse/FILE_MANIFEST.json": {
+      "bytes": 2879,
+      "sha256": "f1357f9cc8bf5d760a01bc8a3df4dba20df3efd4c7ec488fcce0d582742a189c"
+    },
+    "jizhong_reuse/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "jizhong_reuse/README.md": {
+      "bytes": 3459,
+      "sha256": "29cf1b8d0ccff89335dbca64a51a5a25ce5265e5113db59ff918fd94ea13be61"
+    },
+    "jizhong_reuse/assets/SEU_Jizhong_reused.blend": {
+      "bytes": 222318,
+      "sha256": "88d29791e311c56c526c3c53563501a5d1fd52c88ccc10f4dd4b7233d37fa1e7"
+    },
+    "jizhong_reuse/assets/SEU_Jizhong_reused.glb": {
+      "bytes": 1209504,
+      "sha256": "a59e912a8462576b46ae6848b9e82ac3a0c5bbecc72c3cb1a1312295e94bc217"
+    },
+    "jizhong_reuse/data/FULL_PROJECTION.local.geojson": {
+      "bytes": 35661,
+      "sha256": "2872bf3075ae4673c6c0cc6718ffb8b7aa34ab9dace45c8aae192a7a5a866f3c"
+    },
+    "jizhong_reuse/data/INTEGRATION.json": {
+      "bytes": 2448,
+      "sha256": "404adad1e7a15ee1cc8b8c4d5ab1ab7149ad5760edbd82e962becb421a47dfeb"
+    },
+    "jizhong_reuse/data/REGISTRATION.json": {
+      "bytes": 3151,
+      "sha256": "53c1f7218a783c36082784b74a4930062022157767c594278da58f70fda43ac9"
+    },
+    "jizhong_reuse/data/TARGET_FOOTPRINT.json": {
+      "bytes": 2635,
+      "sha256": "4f1bb7fe7739eaa755f4a22b76c68b0f0ad951a5403a32c1b345d13fd7c5b3ca"
+    },
+    "jizhong_reuse/data/geometry_database.json.gz": {
+      "bytes": 168498,
+      "sha256": "2f9db967e5cecab688b9535c5612e4fd8c1943de622f00227134dd72a8ac5f0f"
+    },
+    "jizhong_reuse/data/source_meshes.json.gz": {
+      "bytes": 133186,
+      "sha256": "dc50710c9c02f26bf826ec700c5a78decbc9e7e61da3cac9d231f65ca8fa57ee"
+    },
+    "jizhong_reuse/previews/JIZHONG_REUSE_REVIEW.png": {
+      "bytes": 1215810,
+      "sha256": "28f7c89d278fd3d55c908a538a7ac078d70a6b9baee31ff0cc0afb10ff6478f7"
+    },
+    "jizhong_reuse/qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 493,
+      "sha256": "45694416f56a66513f45c0226a840f72686666763be231dea959a946e53e62d8"
+    },
+    "jizhong_reuse/qa/PRIVACY_SCAN.json": {
+      "bytes": 157,
+      "sha256": "4454941d51c57a564eacc078e71df07784c2a71b7e1eccbc9adcf30c6bd2a874"
+    },
+    "jizhong_reuse/qa/PROJECTION.json": {
+      "bytes": 4450,
+      "sha256": "ab4c11aaaf04a206ef3fab0fb30c3a394efe5302d0ae0df001585b1cf1ff56c7"
+    },
+    "jizhong_reuse/qa/RETAINED_WINDOW_ROWS.json": {
+      "bytes": 992,
+      "sha256": "6463c98cedcca370b0a621e22839b6237561c8e526a944d5e3fbd89c6dcea13d"
+    },
+    "jizhong_reuse/scripts/build.py": {
+      "bytes": 1655,
+      "sha256": "6f9059e41f0a183cc35fbb44354d931f8769ba88e6e113915bc6412ca6e8df14"
+    },
+    "jizhong_reuse/scripts/check_projection.py": {
+      "bytes": 1433,
+      "sha256": "31afd2f1220b7f39e59efc6aa57cbd730341d038ce64aa474fc7deb0ed34b7ec"
+    },
+    "jizhong_reuse/scripts/prepare.py": {
+      "bytes": 3924,
+      "sha256": "5f57d34cedf3d8d8268fa4ef013a49021c8b8f7deec1b52a4acd10a7c68c8ad2"
+    },
+    "jizhong_reuse/scripts/validate.py": {
+      "bytes": 1381,
+      "sha256": "9a4e2a1dae772ebcadaa5a4ff5a2918c99ecb702337aef4dfcbb8fc485d18a9e"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 1003,
+      "sha256": "b5c5a2808d54899822bcb0a150a8af9e6580d2d56efce567215d8f3b018ba60c"
+    },
+    "previews/JIZHONG_BEFORE_AFTER.png": {
+      "bytes": 504221,
+      "sha256": "f2a0c9e0966580f0e0dd72e863d902d2cd6f058a18824a90d3dd0544432d9c08"
+    },
+    "previews/ZHISHAN_BEFORE_AFTER.png": {
+      "bytes": 349138,
+      "sha256": "3a577186e14b58a966c57b41f7a7373b51d100975a4a4c7a4859f174b49a05bd"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 181380,
+      "sha256": "81dfe2c73b5a89a42829f1be7ad8d037ac2e21367c8e24bf1157d6b75363c3e6"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 446,
+      "sha256": "af0117681efb43e3c5bed71affa00c7f89600eff4b1f48c2b2beed92d5ce0cd0"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 304375,
+      "sha256": "3cfad767ceb209e3a4e218a82350fc48368be403bff4279728a778a812ef4201"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "8d3958313f6d74b5a18c8b8365777dd2d58bcb81a2f44e95c63bb40a5e776179"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 313,
+      "sha256": "d148ce7b68a57ab4375f7ee607f39cdc6d691e5e7dd6a696cfa2e7d29fe576c0"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1738,
+      "sha256": "65c75bc16d2aef4ebd71ff81e11a8fa3bcbc38cd0b897654c2695e1caa981bcf"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5490,
+      "sha256": "2bcd3e8feb11015b633870ea3ce147db8eee676e9e7efd3d5dcf0971f63f3847"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 1909,
+      "sha256": "c9f2e3a74f446f39b27fd34310c186b12d48e8a052ab9a55b9fba3fd21b91228"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 771,
+      "sha256": "7f95aca7d8662d288496e2114b020850b209e10afa97973f94e1f28705e49722"
+    },
+    "zhishan_reuse/FILE_MANIFEST.json": {
+      "bytes": 3237,
+      "sha256": "8b7bb004bea32a22614487e192fbdbd082c31cf08cda5b24ba00e67f54f39125"
+    },
+    "zhishan_reuse/README.md": {
+      "bytes": 3991,
+      "sha256": "147c47dc4b5bce66d69ec2e7778ff7e27df2d5c372c1b2af1d67c051dc8cfb8d"
+    },
+    "zhishan_reuse/assets/SEU_zhishan_reuse_candidate.blend": {
+      "bytes": 371192,
+      "sha256": "3c402758fb2c751ad2e646e1507d3aa2f743378cb88111cc3418e0a94172fa1d"
+    },
+    "zhishan_reuse/assets/SEU_zhishan_reuse_candidate.glb": {
+      "bytes": 1201952,
+      "sha256": "31c19857a16319fa12fc45a26bbfce1d65c417e6dbe79a26fd5ca806c5615454"
+    },
+    "zhishan_reuse/data/ORIGINAL_PARAMETERS.json": {
+      "bytes": 438,
+      "sha256": "949326bcca83234e53347d33291ad54183d374725c80969f5208c975bcf38235"
+    },
+    "zhishan_reuse/data/REGISTRATION.json": {
+      "bytes": 1205,
+      "sha256": "d7fe4389ad5d3d8096f5d675f6667f138036ab0e003dd009a0872e5769710b50"
+    },
+    "zhishan_reuse/data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 5741,
+      "sha256": "65cc71c2ec4cb7587d37a939bae685fe437f3346454fb47c432b7cf0d7a2f270"
+    },
+    "zhishan_reuse/data/SOURCE_EVIDENCE.json": {
+      "bytes": 1084,
+      "sha256": "72f55b033ce421590bace653656c1c3a240a2d62edc2e67cde6d227d1339b7f7"
+    },
+    "zhishan_reuse/data/original_raw_mesh_fingerprints.json.gz": {
+      "bytes": 6129,
+      "sha256": "e3dc74c6f3612a7e37d5f6c6862b623e06c14394121da9dabd3ad25310868fd0"
+    },
+    "zhishan_reuse/data/registered_geometry_database.json.gz": {
+      "bytes": 239195,
+      "sha256": "22e60c3088f906ae2b80487952b2060b1d83a58e5d070849d2927efcd872290c"
+    },
+    "zhishan_reuse/data/source_geometry_database.json.gz": {
+      "bytes": 201228,
+      "sha256": "88894a8237789ca471628e9ea1cb0793adce9e9f022acd29349910af7421dab8"
+    },
+    "zhishan_reuse/licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "zhishan_reuse/licenses/README.md": {
+      "bytes": 874,
+      "sha256": "521218c58ed3242bf95dd1186f1fdbdd1736512804cdfb151613bb9520c51639"
+    },
+    "zhishan_reuse/previews/CANDIDATE_PLAN_REVIEW.png": {
+      "bytes": 108621,
+      "sha256": "dff2d3322b9d1df4d5f25dfeb974b70a63403c3e443c49cf0eab8c3a33d0a998"
+    },
+    "zhishan_reuse/previews/CANDIDATE_REGISTERED_OBLIQUE.png": {
+      "bytes": 863906,
+      "sha256": "99767f731905fdd2320728196ee71c76da24fe8c1dd3f33b1460cd950c1d2b22"
+    },
+    "zhishan_reuse/qa/COLD_OPEN_AND_REVERSIBILITY.json": {
+      "bytes": 386,
+      "sha256": "f7c7b2060f0e1930b8ec901eaac7674700089c2c3f3ed28800891a923fca2e42"
+    },
+    "zhishan_reuse/qa/PROJECTION_QA.json": {
+      "bytes": 1205,
+      "sha256": "d7fe4389ad5d3d8096f5d675f6667f138036ab0e003dd009a0872e5769710b50"
+    },
+    "zhishan_reuse/qa/R3D_REGISTRATION_COMPARISON.json": {
+      "bytes": 870,
+      "sha256": "bb71dc2dd90c73e48ffafe3999bf6757b51d3f0f985f3093876ba80b413ddacd"
+    },
+    "zhishan_reuse/scripts/rebuild.py": {
+      "bytes": 1775,
+      "sha256": "cc29e3a2a3f345249ac6e6f2f92c2c1af89d25ce7f8d6f062a8f1ccb2bf13aac"
+    },
+    "zhishan_reuse/scripts/validate.py": {
+      "bytes": 2615,
+      "sha256": "3e5e5b414fc942cbca6bac47f84ad1e95ca3ded34dc4bb3788f373ca771b1455"
+    }
+  }
+}
