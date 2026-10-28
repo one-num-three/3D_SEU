@@ -1,7 +1,7 @@
 """Check framework release allowlist/privacy boundaries; not legal clearance."""
 import pathlib,json,re,sys,hashlib
 R=pathlib.Path(__file__).resolve().parents[1]
-allowed={'LICENSE','.gitignore','README.md','AGENTS.md','CONTRIBUTING.md','NOTICE.md','tasks.json','modules.json','project_contract.json','schemas/evidence.schema.json','examples/evidence.template.json','tools/coop.py','tools/test_coop.py','tools/validate_candidate.py','docs/TEST_RESULTS.json','docs/RELEASE_READINESS.md','docs/CANDIDATE_SCAN.json','FILE_MANIFEST.json'}
+allowed={'LICENSE','.gitignore','README.md','AGENTS.md','CONTRIBUTING.md','NOTICE.md','tasks.json','modules.json','project_contract.json','schemas/evidence.schema.json','examples/evidence.template.json','tools/coop.py','tools/test_coop.py','tools/validate_candidate.py','docs/TEST_RESULTS.json','docs/RELEASE_READINESS.md','docs/CANDIDATE_SCAN.json','FILE_MANIFEST.json','docs/AI_HANDOFF.md','docs/history/TASK_TEMPLATE_V010.md','tools/validate_contract.py','tools/test_contract.py'}
 errors=[];files=[]
 # Preview is independently inventoried; it never joins the framework manifest.
 preview_manifest=R/'preview/FILE_MANIFEST.json'
@@ -43,5 +43,5 @@ for asset_dir in ['public_assets','public_assets_v02','public_assets_v03','publi
   import subprocess
   child=subprocess.run([sys.executable,str(R/asset_dir/'scripts/validate_release.py')],capture_output=True,text=True)
   if child.returncode:errors.append({'file':asset_dir,'reason':'independent asset validation failed','detail':child.stdout})
-result={'technical_scan':'PASS'if not errors else'FAIL','errors':errors,'file_count':len(files),'preview_manifested_files':len(preview_paths),'framework_license':'MIT','framework_release_authorized':True,'campus_assets_legal_clearance':False,'public_release_performed':False,'limits':'Pattern scan does not prove absence of every possible secret. Framework excludes all model/image assets; third-party campus asset clearance remains separate.'}
+result={'technical_scan':'PASS'if not errors else'FAIL','errors':errors,'file_count':len(files),'preview_manifested_files':len(preview_paths),'framework_license':'MIT','framework_release_authorized':True,'campus_assets_legal_clearance':False,'public_release_performed':False,'limits':'Pattern scan does not prove absence of every possible secret. Framework and versioned campus assets have independent manifests and layered licenses; this scan is not rights clearance.'}
 print(json.dumps(result,indent=2));sys.exit(bool(errors))
