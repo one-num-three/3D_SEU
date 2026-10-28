@@ -1,0 +1,8 @@
+{
+  "same_steps_visual_overlap_m2": 5.2500355961951835,
+  "non_steps_road_overlap_m2": 0.0,
+  "non_steps_road_minimum_clearance_m": 2.8368133410542633,
+  "existing_first_step_contact_overlap_m": 0.025,
+  "not_asbuilt": true,
+  "requires_existing_road_geometry_change": false
+}

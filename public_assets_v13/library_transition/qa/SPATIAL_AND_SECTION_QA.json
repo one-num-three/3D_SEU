@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "new_meshes": 4,
+  "new_vertices": 32,
+  "new_triangles": 48,
+  "full_projection_area_m2": 204.7500288415202,
+  "retained_tree_count": 603,
+  "tree_source_sha256": "fa29928204d0210aa2a5aae979b62ecffd9ff690e3af238dbcce9a2292527458",
+  "minimum_tree_crown_distance_m": 228.0016121371236,
+  "same_steps_osm_overlap_m2": 5.2500355961951835,
+  "all_other_roads_overlap_m2": 0,
+  "actual_centerline_new_to_old_tops_m": [
+    0.148,
+    0.296,
+    0.444,
+    0.592,
+    0.752,
+    0.914,
+    1.076,
+    1.238,
+    1.4
+  ],
+  "maximum_riser_observed_m": 0.16200000000000003,
+  "existing_first_edge_overlap_m": 0.025,
+  "old_model_changed": false
+}

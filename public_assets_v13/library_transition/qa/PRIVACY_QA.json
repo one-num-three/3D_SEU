@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "blend_decompressed_codec": "zstd",
+  "file_browser_directory_residue_zeroed": 1,
+  "blocked_paths_remaining": [],
+  "render_filepath": "//renders/",
+  "glb_images": 0,
+  "png_metadata_empty": true,
+  "original_reference_pixels_included": false
+}
