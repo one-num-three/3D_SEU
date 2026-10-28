@@ -1,9 +1,9 @@
-import {resolutionPolicy} from './resolution-policy.js?v=0.14.2';
-import {loadRuntime,disposeModel,abortCheck} from './runtime-loader.js?v=0.14.2';
-import {createBridgeDisplay} from './bridge-display.js?v=0.14.2';
-import {applyModelPatches,isEffectivelyVisible} from './model-patches.js?v=0.14.2';
-import {configureGroundPass} from './ground-pass.js?v=0.14.2';
-import {applyPalette} from './palette.js?v=0.14.2';
+import {resolutionPolicy} from './resolution-policy.js?v=0.14.3';
+import {loadRuntime,disposeModel,abortCheck} from './runtime-loader.js?v=0.14.3';
+import {createBridgeDisplay} from './bridge-display.js?v=0.14.3';
+import {applyModelPatches,isEffectivelyVisible} from './model-patches.js?v=0.14.3';
+import {configureGroundPass} from './ground-pass.js?v=0.14.3';
+import {applyPalette} from './palette.js?v=0.14.3';
 /* MIT © 2026 3D_SEU contributors. Geometry and data retain their separate licenses. */
 const $ = id => document.getElementById(id);
 const host = $('canvas-host'), panel = $('loading');
@@ -32,8 +32,8 @@ $('trees-toggle').onchange=()=>{if(landscape){landscape.root.visible=$('trees-to
 async function initializeLandscape(loader){
  if(landscapeLoading||landscape)return;landscapeLoading=true;$('trees-retry').hidden=true;$('trees-status').textContent='树木加载中（不影响建筑）';
  try{
-  const {loadLandscape,treeBudget}=await import('./landscape-layer.js?v=0.14.2');
-  const r=await fetch('./preview/landscape.json?v=0.14.2');if(!r.ok)throw Error('植被配置暂不可用');const config=await r.json();
+  const {loadLandscape,treeBudget}=await import('./landscape-layer.js?v=0.14.3');
+  const r=await fetch('./preview/landscape.json?v=0.14.3');if(!r.ok)throw Error('植被配置暂不可用');const config=await r.json();
   const max=treeBudget({coarse:matchMedia('(pointer: coarse)').matches,width:innerWidth,memory:navigator.deviceMemory||8,count:config.instanceCount});
   landscape=await loadLandscape(THREE,loader,config,model,max);landscape.root.visible=$('trees-toggle').checked;scene.add(landscape.root);
   const allBounds=new THREE.Box3().setFromObject(model);allBounds.union(new THREE.Box3().setFromObject(landscape.root));const sphere=allBounds.getBoundingSphere(new THREE.Sphere());boundsSphere=sphere;
@@ -48,8 +48,8 @@ async function initializeProps(loader){
  if(propsLoading||!$('props-toggle').checked)return;
  propsLoading=true;$('props-retry').hidden=true;$('props-status').textContent='停车示例加载中，建筑仍可使用';
  try{
-  const {loadOptionalProps}=await import('./props-layer.js?v=0.14.2');
-  const r=await fetch('./preview/props.json?v=0.14.2');if(!r.ok)throw Error('停车示例配置不可用');
+  const {loadOptionalProps}=await import('./props-layer.js?v=0.14.3');
+  const r=await fetch('./preview/props.json?v=0.14.3');if(!r.ok)throw Error('停车示例配置不可用');
   propsLayer=await loadOptionalProps(THREE,loader,await r.json());
   propsLayer.root.visible=$('props-toggle').checked;scene.add(propsLayer.root);
   $('props-status').textContent='8 辆静态示例 · 1 绘制批次 · 非实测车辆';requestDraw();
@@ -59,7 +59,7 @@ async function initializeProps(loader){
 
 async function initializeBatching(){
  try{
-  const [{batchStaticBuildings},{mergeGeometries},{batchPolicy,createBatchController}]=await Promise.all([import('./batch-buildings.js?v=0.14.2'),import('./vendor/BufferGeometryUtils.js'),import('./batch-controller.js?v=0.14.2')]);
+  const [{batchStaticBuildings},{mergeGeometries},{batchPolicy,createBatchController}]=await Promise.all([import('./batch-buildings.js?v=0.14.3'),import('./vendor/BufferGeometryUtils.js'),import('./batch-controller.js?v=0.14.3')]);
   const policy=batchPolicy(navigator.deviceMemory);
   batchController=createBatchController({
    build:signal=>batchStaticBuildings(THREE,mergeGeometries,model,{signal,maxAdditionalBytes:policy.maxAdditionalBytes}),
@@ -72,7 +72,7 @@ async function initializeBatching(){
  }catch(e){console.warn('Optional batching unavailable',e);$('batch-status').textContent='优化组件不可用，原模型仍可使用';}
 }
 
-async function metadata(){try{const r=await fetch('./preview/release.json?v=0.14.2',{cache:'no-store'});if(!r.ok)throw Error();const m=await r.json(); if(m.publishedAt) $('published').textContent=`发布日期：${m.publishedAt}`; if(/^[a-f0-9]{40}$/.test(m.modelCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.modelCommit}`;a.textContent=`基础资产提交：${m.modelCommit.slice(0,12)}`;$('commit').replaceChildren(a);} if(/^[a-f0-9]{40}$/.test(m.buildingPatchCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.buildingPatchCommit}`;a.textContent=`建筑局部提交：${m.buildingPatchCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} for(const prior of m.buildingPatchHistory||[]){if(!/^[a-f0-9]{40}$/.test(prior.commit||''))continue;const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${prior.commit}`;a.textContent=`v${prior.version} 修复：${prior.commit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.basemapCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.basemapCommit}`;a.textContent=`地表提交：${m.basemapCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.runtimeSnapshotSourceCommit||'')){const n=document.createElement('small');n.textContent=` · 运行快照 v${m.runtimeSnapshotVersion}，来源模型 ${m.runtimeSnapshotSourceCommit.slice(0,12)}`;$('commit').append(n);} if(/^[a-f0-9]{40}$/.test(m.viewerCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.viewerCommit}`;a.textContent=`网页提交：${m.viewerCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);}}catch{ const note=document.createElement('small');note.textContent=' · 元数据暂不可用';$('commit').append(note); }}
+async function metadata(){try{const r=await fetch('./preview/release.json?v=0.14.3',{cache:'no-store'});if(!r.ok)throw Error();const m=await r.json(); if(m.publishedAt) $('published').textContent=`发布日期：${m.publishedAt}`; if(/^[a-f0-9]{40}$/.test(m.modelCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.modelCommit}`;a.textContent=`基础资产提交：${m.modelCommit.slice(0,12)}`;$('commit').replaceChildren(a);} if(/^[a-f0-9]{40}$/.test(m.buildingPatchCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.buildingPatchCommit}`;a.textContent=`建筑局部提交：${m.buildingPatchCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} for(const prior of m.buildingPatchHistory||[]){if(!/^[a-f0-9]{40}$/.test(prior.commit||''))continue;const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${prior.commit}`;a.textContent=`v${prior.version} 修复：${prior.commit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.basemapCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.basemapCommit}`;a.textContent=`地表提交：${m.basemapCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.runtimeSnapshotSourceCommit||'')){const n=document.createElement('small');n.textContent=` · 运行快照 v${m.runtimeSnapshotVersion}，来源模型 ${m.runtimeSnapshotSourceCommit.slice(0,12)}`;$('commit').append(n);} if(/^[a-f0-9]{40}$/.test(m.viewerCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.viewerCommit}`;a.textContent=`网页提交：${m.viewerCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);}}catch{ const note=document.createElement('small');note.textContent=' · 元数据暂不可用';$('commit').append(note); }}
 metadata();
 function view(top=false){controls.autoRotate=false;$('rotate').setAttribute('aria-pressed','false');controls.target.copy(center);camera.position.copy(center).add(new THREE.Vector3(top?0.001:0.8,top?1:0.85,top?0.001:1).normalize().multiplyScalar(radius));camera.updateProjectionMatrix();controls.update();updateClipping();}
 async function start(){try{
@@ -81,19 +81,19 @@ const [{OrbitControls},{GLTFLoader},{unzip}] = await Promise.all([import('./vend
 $('trees-retry').onclick=()=>initializeLandscape(new GLTFLoader());
 $('props-toggle').onchange=()=>initializeProps(new GLTFLoader());
 $('props-retry').onclick=()=>{$('props-toggle').checked=true;initializeProps(new GLTFLoader());};
-try{renderer=new THREE.WebGLRenderer({antialias:true,alpha:false,powerPreference:'default'});}catch{throw Error('浏览器无法启用 WebGL 2。请启用硬件加速，或换用支持 WebGL 2 的浏览器后重试。');}
+try{renderer=new THREE.WebGLRenderer({antialias:true,alpha:false,powerPreference:'default',logarithmicDepthBuffer:true});}catch{throw Error('浏览器无法启用 WebGL 2。请启用硬件加速，或换用支持 WebGL 2 的浏览器后重试。');}
 renderer.setClearColor(0xf0f4eb);renderer.outputColorSpace=THREE.SRGBColorSpace;renderer.toneMapping=THREE.NoToneMapping;renderer.autoClear=false;renderer.shadowMap.enabled=false;renderer.shadowMap.type=THREE.PCFSoftShadowMap;renderer.shadowMap.autoUpdate=false;host.append(renderer.domElement);
 renderer.domElement.addEventListener('webglcontextlost',e=>{e.preventDefault();contextLost=true;loadAbort.abort();fail('显卡上下文已中断。请关闭其他高负载页面后点击重新加载。');});
-scene=new THREE.Scene();camera=new THREE.PerspectiveCamera(42,1,0.1,100000);controls=new OrbitControls(camera,renderer.domElement);controls.enableDamping=true;controls.dampingFactor=.08;controls.maxPolarAngle=Math.PI*.49;controls.autoRotateSpeed=.6;controls.listenToKeyEvents(host);controls.addEventListener('change',requestDraw);scene.add(new THREE.HemisphereLight(0xffffff,0xe2e5d8,1.8));const sun=new THREE.DirectionalLight(0xfff8eb,1.65);sun.position.set(-1000,2000,1000);scene.add(sun);
+scene=new THREE.Scene();camera=new THREE.PerspectiveCamera(42,1,0.1,100000);controls=new OrbitControls(camera,renderer.domElement);controls.touches.ONE=THREE.TOUCH.PAN;controls.touches.TWO=THREE.TOUCH.DOLLY_ROTATE;controls.screenSpacePanning=false;controls.enableDamping=true;controls.dampingFactor=.08;controls.maxPolarAngle=Math.PI*.49;controls.autoRotateSpeed=.6;controls.listenToKeyEvents(host);controls.addEventListener('change',requestDraw);scene.add(new THREE.HemisphereLight(0xffffff,0xe2e5d8,1.8));const sun=new THREE.DirectionalLight(0xfff8eb,1.65);sun.position.set(-1000,2000,1000);scene.add(sun);
 const gl=renderer.getContext();const maxRenderbufferSize=gl.getParameter(gl.MAX_RENDERBUFFER_SIZE),maxViewportDims=Array.from(gl.getParameter(gl.MAX_VIEWPORT_DIMS));
 const resize=()=>{const {width,height}=host.getBoundingClientRect();const policy=resolutionPolicy({width,height,dpr:devicePixelRatio,manualSaving:$('resolution-saving').checked,maxRenderbufferSize,maxViewportDims});$('resolution-status').textContent=`${policy.manualSaving?'手动省资源':'原生清晰度'} · 像素比 ${policy.pixelRatio.toFixed(2)}${policy.hardwareLimited?'（已达到显卡最大画布尺寸，按硬件限制降低）':''}`;renderer.setDrawingBufferSize(width,height,policy.pixelRatio);camera.aspect=width/height;camera.updateProjectionMatrix();requestDraw();};$('resolution-saving').onchange=resize;window.addEventListener('resize',resize);stopResize=()=>window.removeEventListener('resize',resize);
 resizeObserver=new ResizeObserver(resize);resizeObserver.observe(host);resize();
 $('load-detail').textContent=loadMode==='snapshot'?'建筑快照约 14.3 MB · 解压约 48.1 MB':'旧链建筑约 30.2 MB · 与快照为同一模型';
-const runtimeResponse=await fetch('./preview/runtime.json?v=0.14.2',{signal:loadAbort.signal});if(!runtimeResponse.ok)throw Error('运行快照配置加载失败');
+const runtimeResponse=await fetch('./preview/runtime.json?v=0.14.3',{signal:loadAbort.signal});if(!runtimeResponse.ok)throw Error('运行快照配置加载失败');
 model=await loadRuntime({mode:loadMode,config:await runtimeResponse.json(),loader:new GLTFLoader(),unzip,signal:loadAbort.signal,onProgress:p=>{if(p.phase==='download'){$('load-title').textContent='正在下载并校验模型';$('progress').value=p.received/p.total*100;$('load-detail').textContent=`已下载 ${(p.received/1e6).toFixed(1)} / ${(p.total/1e6).toFixed(1)} MB`;}else{$('load-title').textContent=({unzip:'正在无损解压',verify:'正在校验快照',parse:'正在解析三维几何',patch:'正在加载旧链修复'})[p.phase];$('load-detail').textContent=p.label||'几何与材质不变 · 不承诺降低帧耗时';}}});
 abortCheck(loadAbort.signal);applyPalette(model);
 $('load-title').textContent='正在加载 v0.4 地表底图';
-const overlayMetaResponse=await fetch('./preview/overlay.json?v=0.14.2',{signal:loadAbort.signal});if(!overlayMetaResponse.ok)throw Error('底图配置加载失败，请重试。');
+const overlayMetaResponse=await fetch('./preview/overlay.json?v=0.14.3',{signal:loadAbort.signal});if(!overlayMetaResponse.ok)throw Error('底图配置加载失败，请重试。');
 const overlayMeta=await overlayMetaResponse.json();
 const overlayResponse=await fetch(overlayMeta.url,{signal:loadAbort.signal});if(!overlayResponse.ok)throw Error('底图文件加载失败，请重试。');
 const overlayBytes=await overlayResponse.arrayBuffer();

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.14.2",
+  "viewer_version": "0.14.3",
   "model_version": "0.14",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
@@ -9,8 +9,8 @@
   "files": [
     {
       "path": "index.html",
-      "bytes": 10328,
-      "sha256": "2537026b82b5809529b20dfefb196960169d7703661ded3982227f3cca0b95f7"
+      "bytes": 10389,
+      "sha256": "00fd1b8428d13d30d4063d88bddd59330865d2243413a37bcf988281d388cffe"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 17556,
-      "sha256": "0887be02965cc8d56f542da46b63d04489631069ca60c128b634dd099f2cc6df"
+      "bytes": 17701,
+      "sha256": "1cf1edf645f75f77c71671177ad0c6d29d0ac087b5baae92485620bbb9202e5e"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -45,12 +45,12 @@
     {
       "path": "preview/bridge-display.js",
       "bytes": 1015,
-      "sha256": "db0899d911c3e978fd2ab46b562d026889367e802c25dd5ed3c31aefcd7cfdd7"
+      "sha256": "a28408952f517deb6106450e4943a9a502fabb9a1dce794f07a2b89e6d89a801"
     },
     {
       "path": "preview/ground-pass.js",
       "bytes": 2268,
-      "sha256": "82ef98a22a996a67c26db158efdef58185811b9dd72509519f6004c67ceb6226"
+      "sha256": "f404b171b5d8a8c2f272c47e1d6e3ab273e679547df7ea7932656422e93d9aac"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -60,7 +60,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1645,
-      "sha256": "84278604921f1ad7ef2aba0b71eae69421888580e71d3086a3387d32ae1ea808"
+      "sha256": "67e720a2cfd2c70121bd7ba3f20eb80eb063fe05564dc9b8538c899286781b3b"
     },
     {
       "path": "preview/landscape.json",
@@ -95,7 +95,7 @@
     {
       "path": "preview/props-layer.js",
       "bytes": 1177,
-      "sha256": "cbe591cf4fa24657fc48ee437286fa31fa311cbd7ab80aa81d7ddb0e373097b5"
+      "sha256": "f1da19430322ed2627e1a006a00384b241edcab21450e635825f5d81a74700f9"
     },
     {
       "path": "preview/props.json",
@@ -104,8 +104,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 2670,
-      "sha256": "21724da4458da0e82bf07462b152feae8bada0cd5e73d0f314936b5f8c7b39b0"
+      "bytes": 2790,
+      "sha256": "cdd3215bd76cd50f1279cc23095596aa3c4b373786d26d55085fc03f00515eb8"
     },
     {
       "path": "preview/resolution-policy.js",
@@ -115,7 +115,7 @@
     {
       "path": "preview/runtime-loader.js",
       "bytes": 5597,
-      "sha256": "7ce00e5fbdbf7d7333591e54faebd7bd809f4d8c93cc6124fd732dc627679b08"
+      "sha256": "31ef430bdbe8ed438cdd4779a8fca04c2eb96401115ceec5e78756167293bdf0"
     },
     {
       "path": "preview/runtime.json",

@@ -1,6 +1,6 @@
 /* MIT. Deterministic cartographic ground pass: no depth-buffer competition. */
 import {MeshBasicMaterial,DoubleSide} from './vendor/three.module.js';
-import {semantic,role} from './palette.js?v=0.14.2';
+import {semantic,role} from './palette.js?v=0.14.3';
 function setGround(node,order){
  node.layers.set(1);node.renderOrder=order;node.castShadow=false;node.receiveShadow=false;
  const flat=m=>new MeshBasicMaterial({color:m.color.clone(),side:DoubleSide,depthTest:false,depthWrite:false,toneMapped:false});

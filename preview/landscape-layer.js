@@ -1,5 +1,5 @@
 /* MIT. Optional, hash-verified vegetation: failure cannot disable building preview. */
-import {makeLandscapeInstances,applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.14.2';
+import {makeLandscapeInstances,applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.14.3';
 export async function verifiedBytes(spec){
  const response=await fetch(spec.url);if(!response.ok)throw Error('植被文件请求失败');
  const bytes=await response.arrayBuffer();const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),b=>b.toString(16).padStart(2,'0')).join('');
