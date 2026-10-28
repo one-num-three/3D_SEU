@@ -1,6 +1,6 @@
 {
-  "modelVersion": "0.10",
-  "viewerVersion": "0.10.0",
+  "modelVersion": "0.11",
+  "viewerVersion": "0.11.0",
   "publishedAt": "2026-10-28",
   "modelCommit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "viewerCommit": null,
@@ -11,11 +11,11 @@
   "basemapVersion": "0.4",
   "basemapCommit": "6cf2ea6c06a988c455cfde136603c42f5f4fa6ff",
   "baseModelVersion": "0.3",
-  "buildingPatchVersion": "0.10",
-  "buildingPatchCommit": "823c7d89b7d28a5c4986673bd0c0673196e28567",
+  "buildingPatchVersion": "0.11",
+  "buildingPatchCommit": "98e05369dbc9d657ec21489898e3bad0f53acbc0",
   "baseModelSha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
-  "buildingPatchSha256": "6d9d2be73efb9b3b19be9b7322cf264b8f9311a72791dc561a428d87ab238449",
-  "hashScope": "Original v0.3 base + verified v0.5 through v0.10 incremental patches; individual hashes in patches.json",
+  "buildingPatchSha256": "8e5f564af60f8dbe31d28f0162f97d23e525f9d4c05fdefc484d5bb7dbd5fa20",
+  "hashScope": "Original v0.3 base + verified v0.5 through v0.11 incremental patches; individual hashes in patches.json",
   "landscapeVersion": "0.6",
   "landscapeCommit": "2aaa94b5c9cc98b8b7f831fea8894da89d1a3c19",
   "previousBuildingPatchVersion": "0.5",
@@ -41,6 +41,10 @@
     {
       "version": "0.9",
       "commit": "0d9a4d1459672063cc046ceb6b50ec8110ccc450"
+    },
+    {
+      "version": "0.10",
+      "commit": "823c7d89b7d28a5c4986673bd0c0673196e28567"
     }
   ],
   "propsVersion": "R1-display-v0.8",
