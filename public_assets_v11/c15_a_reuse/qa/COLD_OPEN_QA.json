@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "mesh_count": 12,
+  "vertices": 2110,
+  "triangles": 3172,
+  "geometry_database_max_error_m": 1.524210819070504e-05,
+  "images": 0,
+  "fonts": 0,
+  "texts": 0,
+  "libraries": 0,
+  "weak_refs": 0,
+  "unit_scale": 1.0,
+  "glb_reimport_max_error_m": 0,
+  "glb_reimport_meshes": 12
+}

@@ -1,0 +1,93 @@
+{
+  "status": "PASS",
+  "all_visible_meshes_inside_target": true,
+  "rows": [
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_legacy_footing",
+      "projection_area_m2": 808.1702967849841,
+      "outside_target_m2": 0.0,
+      "z_min": 0.0,
+      "z_max": 0.3200000077486038
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_legacy_body_five_storeys",
+      "projection_area_m2": 808.0077852170233,
+      "outside_target_m2": 0.0,
+      "z_min": 0.32,
+      "z_max": 18.4
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_legacy_window_frames",
+      "projection_area_m2": 5.4721533525631445,
+      "outside_target_m2": 0.0,
+      "z_min": 1.0499999523162842,
+      "z_max": 17.35000076293945
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_legacy_window_glass",
+      "projection_area_m2": 1.4364115360033476,
+      "outside_target_m2": 0.0,
+      "z_min": 1.1500000357627869,
+      "z_max": 17.250000381469725
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_shallow_hip_roof",
+      "projection_area_m2": 791.7887989720427,
+      "outside_target_m2": 0.0,
+      "z_min": 18.4,
+      "z_max": 19.7
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_west_tower_upper",
+      "projection_area_m2": 44.890000000000036,
+      "outside_target_m2": 0.0,
+      "z_min": 18.4,
+      "z_max": 20.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_tower_open_cap_posts",
+      "projection_area_m2": 1.2099999999999431,
+      "outside_target_m2": 0.0,
+      "z_min": 20,
+      "z_max": 22.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_tower_projecting_cap",
+      "projection_area_m2": 49.00000000000014,
+      "outside_target_m2": 0.0,
+      "z_min": 22,
+      "z_max": 22.7
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_tower_south_windows",
+      "projection_area_m2": 0.21500000000005115,
+      "outside_target_m2": 0.0,
+      "z_min": 1.1,
+      "z_max": 17.2
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_south_vertical_glazing",
+      "projection_area_m2": 0.5425000000000895,
+      "outside_target_m2": 0.0,
+      "z_min": 0.65,
+      "z_max": 18.15
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_glazing_mullions",
+      "projection_area_m2": 0.8602000000001022,
+      "outside_target_m2": 0.0,
+      "z_min": 0.615,
+      "z_max": 18.185
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030306_PHOTO_main_eave_bands",
+      "projection_area_m2": 23.143049268370987,
+      "outside_target_m2": 0.0,
+      "z_min": 18.08,
+      "z_max": 18.4
+    }
+  ],
+  "maximum_outside_target_m2": 0.0,
+  "top_height_m": 22.7,
+  "target_OSM_area_m2": 883.504425742147
+}
