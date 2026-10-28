@@ -1,0 +1,21 @@
+# Campus v0.13 — source-based omissions and ground continuity
+
+This is a targeted correction batch, not a global height increase or a claim that all campus reconstruction is complete. Prior releases remain unchanged. Exactly one old thin marker is replaced and ten new meshes are added: four restaurant masses, four supported approach tiers and two athletics surfaces. The full checkpoint has 3,971 meshes (2,585,417 triangles); all 3,961 unrelated prior meshes are retained. These counts describe model components, not buildings.
+
+## Three corrections
+1. **Library south approach:** preserve the existing library and all 845 retained south-side details. Four supported approach tiers resolve the model's approximately 0.717m jump from nearby displayed ground to the first retained tread. Their heights/count/depth are estimated continuity parameters, not survey measurements or accessibility certification. No displaced historical round plaza or isolated high side walks are restored. The only road overlap is the existing OSM representation of the same entrance steps.
+2. **Restaurant 171400094:** a local building passage had incorrectly reduced the entire 975.59㎡ building to a thin marker. OSM records two levels. Restore only a neutral two-level mass, retaining the passage and original footprint; 6.4m height and roof appearance are estimates. This is **not photo-refined architecture**. Do not apply the same height to other unidentified retail/toilet markers or to the 96 partial residual plates that already have raised detailed geometry.
+3. **Taoyuan and Meiyuan athletics surfaces:** the retained OSM snapshot has two multipolygon relations whose outer surfaces were omitted by the earlier way-only surface importer. Restore their valid outer-minus-inner polygons, preserving the holes and the distinct softball/soccer infield identities. These are tartan athletics-area polygons, not surveyed individual lane boundaries. No speculative eight-lane markings, goalposts or incorrect historical ellipses are added. Exact infield display colour overrides use isolated material clones and do not change original basemap geometry or tags.
+
+## Retained boardwalk — no duplicate restoration
+`boardwalk_review/` records exact retention of seven C17 low-wing platform/stair/guard meshes and the distinction between a building's map name and a restaurant occupying it. User photographs support the overall platform and two-end connection types. Nineteen steps, 3.2m height and the precise courtyard-side geometry remain unverified estimates. Retained does not mean user-accepted or fully surveyed. No older single-stair variant is blindly appended.
+
+## Reproduction and checks
+The root replacement manifest is the authoritative exact old/new object list. Apply this increment only after prior patches through v0.12. The full Blend is a complete saved checkpoint; the GLB is incremental. Module directories include actual source data, geometry, parameters, source references and reconstruction/validation scripts. `scripts/validate_release.py` checks all published files and nested module manifests.
+
+The relation regression verifies closed rings, holes, triangulated area, both expected relations and failure on missing/open rings. Its relation inventory covers the retained source snapshot, not all future OpenStreetMap changes. Original OSM data are not rewritten.
+
+## Rendering, accuracy and rights
+Raised stair/body geometry uses the normal depth-tested 3D pass. Flat athletics surfaces use the established ordered ground pass, with existing paths above; they must not compete as near-coplanar depth layers on phones. Source material and old geometry retention checks are distinct from device FPS testing. Keep previous bridge performance controls and every prior detailed building patch.
+
+Geographic data and derived facts: © OpenStreetMap contributors, ODbL 1.0. Original visual contributions: © 2026 3D_SEU contributors, CC BY 4.0. Scripts: MIT. Third-party photographs/maps/architecture are not relicensed; no reference pixels, credentials, private workspace paths or unknown textures are included. Render previews show the actual model, not a site photograph or browser screenshot. See per-module qualifications and `licenses/`.
