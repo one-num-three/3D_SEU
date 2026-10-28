@@ -1,0 +1,251 @@
+{
+  "version": "0.15.0",
+  "scope": "Full authored sports restoration and approximate Zhongshan courtyard massing correction; precise replacement list; no LOD",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 4198,
+      "sha256": "ff55af02a0229daa7d72ccdfda55266f34c99fd29d75be5b8f02a67b6e332063"
+    },
+    "assets/SEU_building_patch_v15_GLB.zip": {
+      "bytes": 7996120,
+      "sha256": "47ab4437f374975ac7988e331cbbaf5652adfce3413c4adafe452fad270c2d61"
+    },
+    "assets/SEU_campus_full_quality_v15.blend": {
+      "bytes": 19552330,
+      "sha256": "9013914f7e8a98fc84cd0f79c99b390f906668d674274ec1aee751d8066295c0"
+    },
+    "data/CURRENT_COMPLETION.json": {
+      "bytes": 920,
+      "sha256": "bdd61eb61a657e534eb5403c14f1260717187ce949f22d1bb1d350a087464cdc"
+    },
+    "data/MODULE_INPUTS.json": {
+      "bytes": 357,
+      "sha256": "c918774b7c894f8ce6af702a15f21008ae2722274142495a00f93e8ca035478e"
+    },
+    "data/PATCH_ARCHIVE.json": {
+      "bytes": 359,
+      "sha256": "df031714bbba7faf7db884804aac1519d5f78a9d71bf7019cd57b8e1852940ee"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 48308,
+      "sha256": "73309859f872c093edd342bdaba4d2f5763eb2c5dba4f5ee8abe6397be14ef1c"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 1002,
+      "sha256": "48d568fbf3c0d8bd25a11bf119e2be83de4932090de915fedcef620e319e1677"
+    },
+    "previews/SPORTS_FULL_QUALITY_BEFORE_AFTER.png": {
+      "bytes": 847911,
+      "sha256": "f83e383aa655c1c4f03db7d274ff02a1b09f3d4a52deb1296ee8b82b6d685515"
+    },
+    "previews/V15_FULL_QUALITY_WITH_WOODLAND.png": {
+      "bytes": 1619992,
+      "sha256": "919756fcbdc2c696b1d782ac3d53b559c876c4369dcc9546bdd33374f0e0d0a9"
+    },
+    "qa/BASKETBALL_FULL_BOTTOM_SUPPORT_XY.json": {
+      "bytes": 7656,
+      "sha256": "e6062b470e316afebb89a9287ca9a41f05dd9d2792065254d213d312307c6174"
+    },
+    "qa/BASKETBALL_GROUND_ALIGNMENT.json": {
+      "bytes": 61157,
+      "sha256": "615b7d27c8e54f36b7a7d6762ecc70b803877ff10309bfbf07e20c470dbb6ddb"
+    },
+    "qa/BASKETBALL_SUPPORT_AFTER.json": {
+      "bytes": 61632,
+      "sha256": "ec7294a64d03b515a136f7a679e4fe59f6bdc34722edbb745938503ad5c2e4be"
+    },
+    "qa/BASKETBALL_SUPPORT_BEFORE.json": {
+      "bytes": 28575,
+      "sha256": "93845bbe20e7a64948ed5fdb636b8d6e639c4e1e7315233767aceb189e0a6de9"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 185377,
+      "sha256": "88e564a4cfba9a1967bd2822d551e4872fc6de14e7323d3c839f80ceabfd1e56"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 959,
+      "sha256": "4824126213cf06500196620fded16567c6f835a632f5089042396b2c7a70a950"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 394173,
+      "sha256": "1f7f44d6546232bbeabc0b0283590dc74b4867c5dc7d356cee50a009a285b40d"
+    },
+    "qa/LOSSLESS_SOURCE_COMPRESSION.json": {
+      "bytes": 312,
+      "sha256": "75cb677e6eb339d6ff2fc8a8048f6e380cfdbc22bf4ad353d10f1e46bec40d3f"
+    },
+    "qa/OPTIONAL_BIKE_CLEARANCE_QA.json": {
+      "bytes": 2083,
+      "sha256": "bf0d2e6f0044fa6f3416861fb29fc0d3d93765fbf4ab1323178a9f5d7df73c48"
+    },
+    "qa/PNG_METADATA_QA.json": {
+      "bytes": 824,
+      "sha256": "aeb968ac371094da6f9284f5d4a5f13e35e87db9cabe9b2edd82ff77d3ccc254"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "bda2eb4ebd6ea1198f7d944ad3338f27639a75dd47e9b52a6dbc83bb5dfd7514"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 335,
+      "sha256": "33a3e1dffb0868af30fa053a01fff38d414df06baf9900db3a94e769e8151df9"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "scripts/check_optional_bikes.py": {
+      "bytes": 1565,
+      "sha256": "7c8c20d8b9e6e0006c4642d8f6194ad81e414de6acbb9e9949d07948836abf53"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1802,
+      "sha256": "920191d22518416d323ac6bda4430216b552df07e984fa251a469544a96298d6"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 6880,
+      "sha256": "6f6010415082abef9d4fb4003d73d3345e4f9612aaaf4a9caa485856fc822014"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 3638,
+      "sha256": "dfec642958bdc9a8f745ef5eb74d629b5b6d68dae0551217166ad15989c8a96a"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1815,
+      "sha256": "21df3b9c206fc512630036f26e945a59fd6c8140379d3b61ed63d2fcc7ff795d"
+    },
+    "sports_full/LICENSE_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "sports_full/PBR_COMPATIBILITY.md": {
+      "bytes": 847,
+      "sha256": "a750e07208052968f089237d1f7dba9a7a5a3b412a9d34c1bfec4577d397ec65"
+    },
+    "sports_full/README.md": {
+      "bytes": 1378,
+      "sha256": "84e815d61ef882450d0b0140362f39c4448b2fffce3c22552e887ca33b53794c"
+    },
+    "sports_full/data/FULL_PROJECTION.local.geojson": {
+      "bytes": 90706,
+      "sha256": "6194debdedc2a55a01b2fee608dde61d8d7c62fa2f1b0f172b0fbcff3b681658"
+    },
+    "sports_full/data/FULL_QUALITY_GEOMETRY.json.gz": {
+      "bytes": 8579839,
+      "sha256": "2d5f242552534eb0d7f031abaf1d26b604afc5b0ab4395cba8326495e5930c86"
+    },
+    "sports_full/data/INTEGRATION.json": {
+      "bytes": 46669,
+      "sha256": "c4769201f03728797c0c0f250ef0d21be01f8d5bc95f194f2bc858fe72c1ae0f"
+    },
+    "sports_full/data/OFFICIAL_TENNIS_EVIDENCE.json": {
+      "bytes": 1076,
+      "sha256": "5fd511e39a3899e0b8ecafee2d0b1cf4e4ba09752d2e2b733dcb5c4b8f32d69e"
+    },
+    "sports_full/data/ORIGINAL_LOCAL_COORDINATES.json.gz": {
+      "bytes": 743941,
+      "sha256": "cb00a9acfa8f0c2b8787493ee8cab2345c5b507f655ae2837133d254cb9e2f75"
+    },
+    "sports_full/data/ORIGINAL_SHADING.json.gz": {
+      "bytes": 34986,
+      "sha256": "61a3506a946909401cf5daabe3e1a26282b245d214c39105db1f1f36e330a3b3"
+    },
+    "sports_full/data/PREVIOUS_INTEGRATION.json": {
+      "bytes": 21071,
+      "sha256": "b7253b51ebbfa522a9d02b3c691929ba6c481a27cdd338362cfbf0b6d3d3a145"
+    },
+    "sports_full/data/RESTORATION_DECISIONS.json": {
+      "bytes": 153080,
+      "sha256": "c0c03a1ee9a806bfb91375f363402987a8d05e948fe0b350b59e6b917e352119"
+    },
+    "sports_full/data/SOURCE_SPORTS_POLYGONS.local.geojson": {
+      "bytes": 11258,
+      "sha256": "d2b6108bf79994a78fd92710db9b9bebf872361860f281ebf9cc68952a84413c"
+    },
+    "sports_full/data/V12_SOURCE_TO_LOD_DIFF.json": {
+      "bytes": 164228,
+      "sha256": "9e5ce710f14824ed15cc3b93e07d3748c95e48ba8ed4e480bc1aa7d287503e26"
+    },
+    "sports_full/qa/EXPORT_QA.json": {
+      "bytes": 497,
+      "sha256": "bd1ea04063469115801c0ab526c286ceb62992404fbcdab1c3af1c93accf8066"
+    },
+    "sports_full/qa/FULL_QUALITY_COLD_QA.json": {
+      "bytes": 1191,
+      "sha256": "15eb9d47679039e53aa6c0b71ce7842f2376b66cbbf0245d6f9b534f21f04ce1"
+    },
+    "sports_full/qa/SPATIAL_QA.json": {
+      "bytes": 2903,
+      "sha256": "0fbeb86e524ab9afc65231284aaa35d9f631eac3b57bf5d89485a4973a675ed4"
+    },
+    "sports_full/scripts/build_full_quality.py": {
+      "bytes": 4501,
+      "sha256": "8256a75d0c120494d0f2d0d2571d2526d056ba5f627ecd254020156430107856"
+    },
+    "zhongshan_courtyard/LICENSE_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "zhongshan_courtyard/README.md": {
+      "bytes": 2874,
+      "sha256": "b2b8d63633c872dfed876dff08e08ea4f8f7843a06a3349c4df664ccd4b3da8f"
+    },
+    "zhongshan_courtyard/data/APPROXIMATE_LAYOUT.json": {
+      "bytes": 8024,
+      "sha256": "d740747e856249edf4d00cdb8868106658043f48b81f6529957acefabd25db6a"
+    },
+    "zhongshan_courtyard/data/INTEGRATION_REVIEW_ONLY.json": {
+      "bytes": 1379,
+      "sha256": "24329f0faa48898457048c88df7f37030ef835d48ae3ac7d949d026117129e6f"
+    },
+    "zhongshan_courtyard/data/SOURCE_COMPOUND.json": {
+      "bytes": 1630,
+      "sha256": "0625e01db6cac74fa0667fbd1bbe005a643184ee743b4fc4ed31afed5290707b"
+    },
+    "zhongshan_courtyard/data/SOURCE_ROAD_AREAS.local.geojson": {
+      "bytes": 1194652,
+      "sha256": "e09e7ae9f1fba56633faacd090d78fcab4314fa13002f9cf0ef9b85ad91ed0a1"
+    },
+    "zhongshan_courtyard/data/SOURCE_WATER_AREAS.local.json": {
+      "bytes": 27081,
+      "sha256": "5479ecc3955a6680d23e608292add6b72100f6e9b3dd4ff13e4d00cdef1fa4d3"
+    },
+    "zhongshan_courtyard/data/geometry_database.json.gz": {
+      "bytes": 9234,
+      "sha256": "86358357c61a2b01039fcf6bc39488a9db606ef2565fd9573ef8ae4b7e2a06ba"
+    },
+    "zhongshan_courtyard/previews/ZHONGSHAN_BEFORE_AFTER_REVIEW.png": {
+      "bytes": 1851185,
+      "sha256": "eb36112b38d9ebf7eb5d70d9a92b55a5db2fe0f9865adcd8c270735222e055f0"
+    },
+    "zhongshan_courtyard/previews/ZHONGSHAN_PLAN_REVIEW.png": {
+      "bytes": 940014,
+      "sha256": "5517e0347cc30bd2a7221926e8c9284807a5936e28e2896ac4181dcdb6594908"
+    },
+    "zhongshan_courtyard/qa/APPROXIMATION_AND_PROJECTION_QA.json": {
+      "bytes": 1319,
+      "sha256": "45baf5f05db5ed14e6b4e3fba280456cc47c79b2a68a2fa9d02b0b28c81ec523"
+    },
+    "zhongshan_courtyard/qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 444,
+      "sha256": "67aa2b843911cf8982057a9f543fbf6e109057c84867a3fedadc96241bfc20b2"
+    },
+    "zhongshan_courtyard/scripts/build_candidate.py": {
+      "bytes": 1949,
+      "sha256": "ef44c3a5ba1a28ef73e646f1fbe1c8aa148266ae655ffe3b2753dae57389d12c"
+    },
+    "zhongshan_courtyard/scripts/prepare_candidate.py": {
+      "bytes": 8289,
+      "sha256": "7f48968245a10eb66c99f28ec99a0b967306dd7c7649f1b64140c4affc156276"
+    }
+  }
+}
