@@ -22,7 +22,7 @@ export function role(node){
 export function applyPalette(root){
  const counts={},cache=new WeakMap();
  root.traverse(n=>{if(!n.isMesh)return;const kind=role(n);counts[kind]=(counts[kind]||0)+1;
- if(kind==='unchanged')return;
+ if(['unchanged','detail','massing'].includes(kind))return;
  const recolor=original=>{let variants=cache.get(original);if(!variants){variants=new Map();cache.set(original,variants);}if(variants.has(kind))return variants.get(kind);const m=original.clone();const light=(m.color.r+m.color.g+m.color.b)/3;const color=kind==='detail'?(light<.22?palette.glass:light<.48?palette.mid:palette.facade):palette[kind];m.color.setHex(color);variants.set(kind,m);return m;};
  n.material=Array.isArray(n.material)?n.material.map(recolor):recolor(n.material);
  n.castShadow=['candidate','massing','detail'].includes(kind);n.receiveShadow=true;

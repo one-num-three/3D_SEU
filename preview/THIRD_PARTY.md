@@ -14,3 +14,7 @@ See ../public_assets_v03/licenses/README.md in the repository for source rights.
 
 ## Viewer v0.4.0 display revision
 Buildings retain the original v0.3 GLB bytes, coordinates and heights. Only semantic display colors and soft lighting/shadows change. C3 and Lanyuan candidates retain the orange category. The independently licensed v0.4 geographic surface overlay is loaded from public_assets_v04; consult its source/rights and manifest. Display tints do not claim surveyed surface materials or building heights.
+
+
+## v0.4.1 corrective display patch
+Restore original v0.3 building material colors for detail and massing; these are inherited working-model colors, not a claim of photo-verified materials. Candidate orange remains a status indicator. Ground is a deterministic cartographic first pass (no depth testing/writing and no shadows); buildings render afterward with normal depth. Hide only the duplicated legacy campus boundary in this display. Raw models, coordinates, heights and licenses remain unchanged.

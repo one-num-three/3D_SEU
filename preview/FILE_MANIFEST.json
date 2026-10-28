@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.4.0",
+  "viewer_version": "0.4.1",
   "model_version": "0.3",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
@@ -9,8 +9,8 @@
   "files": [
     {
       "path": "index.html",
-      "bytes": 4031,
-      "sha256": "623b8ffcfed13cd17f2ee0df761e09ffefc02f4e220f7c4c0fb70a3b0e43669b"
+      "bytes": 4119,
+      "sha256": "b9915b85bfb2e2dbbf66d7c6e6fedc20f9d515cfba60df5ef886022fad4052a5"
     },
     {
       "path": "preview/LICENSE",
@@ -19,18 +19,23 @@
     },
     {
       "path": "preview/THIRD_PARTY.md",
-      "bytes": 1783,
-      "sha256": "f692a67d959dabffd00f48295bd936ace5b23ffb872f46a93bde91ef99d1e014"
+      "bytes": 2287,
+      "sha256": "45d3ceb2420f769c887b7f377ff9a1f79d778427e122c441a71d50e5d139f9b1"
     },
     {
       "path": "preview/app.js",
-      "bytes": 8999,
-      "sha256": "1995f11e28fd333c0e2b5eaeb7d06d7951ea04c00c6f743999b4e9d8ff08918e"
+      "bytes": 9964,
+      "sha256": "8daac414728841ebe85039ef682e1ca79f96eaade8cf3850794efbf43d7e785a"
     },
     {
       "path": "preview/assets/campus-v03.zip",
       "bytes": 11502592,
       "sha256": "618485d27a40b4b50de40aa0fa180d47dd47c3a2fe1bdc7429c57baa227ceda2"
+    },
+    {
+      "path": "preview/ground-pass.js",
+      "bytes": 1328,
+      "sha256": "dc0931b35985f28e42bb17e6cc41cc2c4e99c9415ef9a47f6f86a073582f03b7"
     },
     {
       "path": "preview/overlay.json",
@@ -39,18 +44,18 @@
     },
     {
       "path": "preview/palette.js",
-      "bytes": 1764,
-      "sha256": "b1396f41c3b9b745636b1a0d093b26d0a0e5bb77646b3cd228cf5fc6a27ef171"
+      "bytes": 1793,
+      "sha256": "839ba5c67233fceab3e43a7ae9ebc3d1ae2cfcab11656db180dee640e3c2b9e8"
     },
     {
       "path": "preview/release.json",
       "bytes": 424,
-      "sha256": "97a555aeb9f28b709b06e11f94a5042781823f8aae7cc93a94624b8e8f188ae4"
+      "sha256": "b05f464a97e32441f64d7dd451f3fd4c3f85ff75e044b85519af0ea43afa1d97"
     },
     {
       "path": "preview/style.css",
       "bytes": 4547,
-      "sha256": "c7c75c9c386abc252d5a1a5f3db8bb9465eafea1ecf93ac6b633616c65838f90"
+      "sha256": "ad78289c25241af190b1336c415f2a58c149abf637e4985152a60a2e0bf9800d"
     },
     {
       "path": "preview/vendor/BufferGeometryUtils.js",
