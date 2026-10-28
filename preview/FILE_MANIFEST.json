@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.5.0",
-  "model_version": "0.5",
+  "viewer_version": "0.6.0",
+  "model_version": "0.6",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 4275,
-      "sha256": "cd2eeb3bcd881d1307ba06f70cee08970a6658fc88f55ca1c145ee5b00de8460"
+      "bytes": 4901,
+      "sha256": "d71318d9a1d21a5680c6ff7d076f466cf9141f4da5c9b4f703e81cabcd3f5f16"
     },
     {
       "path": "preview/LICENSE",
@@ -19,13 +19,13 @@
     },
     {
       "path": "preview/THIRD_PARTY.md",
-      "bytes": 2770,
-      "sha256": "3b4479494618fc8e746d3d8a4943d2451bb45b47618fbf2fa6257d9bceb94d56"
+      "bytes": 3438,
+      "sha256": "de69225fb3d201c5864cf83a11b48c7ec357cd6db349c4042153c8892827542c"
     },
     {
       "path": "preview/app.js",
-      "bytes": 10691,
-      "sha256": "322799c084427d119251ac89dd32ca95e40938de8e5bc4c7c7fca54aafbfce8c"
+      "bytes": 12622,
+      "sha256": "248d9eedc4b26ed2e1338b1078cc7a1919e365268d8b1e02c6d9eb775cb6a5c5"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -35,7 +35,22 @@
     {
       "path": "preview/ground-pass.js",
       "bytes": 1328,
-      "sha256": "1b82d532dc96a0b039b1b6a3eff466bed6df9c624fa79af7ad712679dddca532"
+      "sha256": "dde12fddd00fd24ef567c1b97322c6e6cdb672f06781da26be3773d497f43cf1"
+    },
+    {
+      "path": "preview/landscape-adapter.js",
+      "bytes": 4486,
+      "sha256": "ea8d933432a839bd334ac049723601b7a378df7b8a6f90975d8c57df0faa5f21"
+    },
+    {
+      "path": "preview/landscape-layer.js",
+      "bytes": 1721,
+      "sha256": "7ebdcf0c5d5fa84dabd4aa617f13c7c3ec1c66368b27d0c156e284c11db300ef"
+    },
+    {
+      "path": "preview/landscape.json",
+      "bytes": 969,
+      "sha256": "d8837d2f97b29c6452f0a6a7fa162e0568ab155979418d4ef2b68d05fda132c9"
     },
     {
       "path": "preview/model-patches.js",
@@ -54,18 +69,18 @@
     },
     {
       "path": "preview/patches.json",
-      "bytes": 8064,
-      "sha256": "f73341f554035b93b3c003aa4ba7331809665632ab6e1ff8eb8db7ab286c8dab"
+      "bytes": 14605,
+      "sha256": "8ce362bbaecb8cd7e1133c0cb66e71fe41109e87fc2fdeb5c7d19688a572a811"
     },
     {
       "path": "preview/release.json",
-      "bytes": 881,
-      "sha256": "d2fdf2c76365930e5b0d4921d288c2cce0ae4e910154d79092527902cd472074"
+      "bytes": 1065,
+      "sha256": "428f1e24d1a3816dffc3dca24747da7faec9d4b2608627437cad7ec448e0e8bd"
     },
     {
       "path": "preview/style.css",
-      "bytes": 4547,
-      "sha256": "ad78289c25241af190b1336c415f2a58c149abf637e4985152a60a2e0bf9800d"
+      "bytes": 4897,
+      "sha256": "76202cce470b5590e78a3329f398f36fb6b545e4edd729bc4f3a136d421a36a8"
     },
     {
       "path": "preview/vendor/BufferGeometryUtils.js",
@@ -103,5 +118,6 @@
       "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
     }
   ],
-  "base_model_version": "0.3"
+  "base_model_version": "0.3",
+  "landscape_version": "0.6"
 }

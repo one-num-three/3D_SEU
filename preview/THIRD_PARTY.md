@@ -22,3 +22,7 @@ Restore original v0.3 building material colors for detail and massing; these are
 
 ## v0.5.0 partial building integration
 Original v0.3 base and v0.4 basemap are retained. The separately licensed public_assets_v05 patch replaces exactly 54 original author nodes with 111 new nodes via the reviewed replacement manifest; no unrelated old building is hidden. Swimming-pool and specified dormitory repairs are partial, not a completed-campus claim. New materials are preserved from that reviewed patch. The original-color and double-pass v0.4.1 display fixes remain.
+
+
+## v0.6.0 partial building and optional woodland layer
+Retain v0.5 repairs; append the independently reviewed v0.6 patch by exact replacement lists. Trees are generic CC BY4 display geometry from the project, instanced only inside mapped woodland with procedural, unsurveyed positions/species/sizes. Geographic inputs remain © OpenStreetMap contributors, ODbL1.0. See public_assets_v06/landscape/ATTRIBUTION.txt. Road styles alter colors only, not geometry/width, and are class-based estimates. The local landscape adapter is project runtime code (MIT). No external tracking, imagery or font fetch is introduced. Props/bikes/benches are not loaded by this release.

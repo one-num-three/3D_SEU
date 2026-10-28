@@ -1,0 +1,26 @@
+{
+  "version": "0.6",
+  "approximateNotSurveyed": true,
+  "lod0": {
+    "url": "./public_assets_v06/landscape/assets/tree_lod0.glb",
+    "bytes": 6536,
+    "sha256": "b7e16f904dba981c57631e808a7eea8ad2b6923cd98448f7d59df9ebf8f0e344"
+  },
+  "lod1": {
+    "url": "./public_assets_v06/landscape/assets/tree_lod1.glb",
+    "bytes": 2636,
+    "sha256": "5462d83028e65f3b98b8a75ae449a3c36ab94102ac84aa9d9103daff8d07ecdb"
+  },
+  "instances": {
+    "url": "./public_assets_v06/landscape/data/tree_instances.json",
+    "bytes": 318230,
+    "sha256": "fa29928204d0210aa2a5aae979b62ecffd9ff690e3af238dbcce9a2292527458"
+  },
+  "roads": {
+    "url": "./public_assets_v06/landscape/data/road_material_overrides.json",
+    "bytes": 204989,
+    "sha256": "9dd3a5aa0cad2321e80dd61fb2bd030abcdccea843290333cf560231751b4460"
+  },
+  "instanceCount": 603,
+  "clearance": "Filtered against final v0.6 integrated building safety bounds (307 groups); fixed positions only culled, not moved"
+}
