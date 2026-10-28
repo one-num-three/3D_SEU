@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-10-28",
+  "stable_id": "SEU_B_OSMWAY_1056927538",
+  "geometry_status": "retained_exact_world_geometry_match",
+  "identity": {
+    "legacy_osm_building_name": "人文社科科研楼",
+    "legacy_project_alias": "C17 新文科楼",
+    "official_service_location": "综合楼310会议室，从湖滨餐厅一楼乘垂直电梯上三楼",
+    "occupant_function": "湖滨餐厅",
+    "name_rule": "Building identity and occupant/function are separate. Do not rename the entire compound or every low wing as the restaurant.",
+    "confidence": {
+      "whole_building_stable_id": "high",
+      "restaurant_function_within_comprehensive_building": "supported_by_official_text",
+      "precise_occupied_rooms_and_all_wing_extent": "unverified",
+      "low_wing_terrace_correspondence": "supported_by_user_photo_and_legacy_geometry_location"
+    }
+  },
+  "retained_objects": [
+    {
+      "legacy_name": "C17P_05_Terrace_slab_and_planks",
+      "current_name": "SEU_B_OSMWAY_1056927538__0014",
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "world_geometry_sha256": "43574bb00647b01600041f725227710497723b41dd7c1a600dc03614b5dd9e31",
+      "exact_match": true,
+      "vertices": 2272,
+      "faces": 1704,
+      "bbox": [
+        [
+          -470.8923034667969,
+          361.75921630859375,
+          2.809999942779541
+        ],
+        [
+          -432.11859130859375,
+          388.55230712890625,
+          3.200000047683716
+        ]
+      ]
+    },
+    {
+      "legacy_name": "C17P_06_Near_end_single_flight",
+      "current_name": "SEU_B_OSMWAY_1056927538__0015",
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "world_geometry_sha256": "3e888a1bda856569e21c0efe0be67a3d4fee14e3948254e027a9ec1702b55903",
+      "exact_match": true,
+      "vertices": 160,
+      "faces": 120,
+      "bbox": [
+        [
+          -464.6129455566406,
+          386.1679382324219,
+          -0.15000000596046448
+        ],
+        [
+          -460.34600830078125,
+          393.9446716308594,
+          3.200000047683716
+        ]
+      ]
+    },
+    {
+      "legacy_name": "C17P_07_Near_stair_guard_and_sidewalls",
+      "current_name": "SEU_B_OSMWAY_1056927538__0016",
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "world_geometry_sha256": "cd33f8da6402edd1760f6e3d7a09e4679502a45f5d539a6ab7bfb7d713cf0831",
+      "exact_match": true,
+      "vertices": 328,
+      "faces": 216,
+      "bbox": [
+        [
+          -464.3965148925781,
+          386.1431579589844,
+          -0.3199999928474426
+        ],
+        [
+          -460.2543029785156,
+          392.395751953125,
+          4.349827766418457
+        ]
+      ]
+    },
+    {
+      "legacy_name": "C17P_08_Courtyard_two_segment_stair",
+      "current_name": "SEU_B_OSMWAY_1056927538__0017",
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "world_geometry_sha256": "bbb22f3dbfd3cd098071cc648067eb8ce5353c5320b6dfa8c70abc78265e4e90",
+      "exact_match": true,
+      "vertices": 168,
+      "faces": 126,
+      "bbox": [
+        [
+          -432.47442626953125,
+          366.2216491699219,
+          -0.15000000596046448
+        ],
+        [
+          -423.3697509765625,
+          370.0025329589844,
+          3.200000047683716
+        ]
+      ]
+    },
+    {
+      "legacy_name": "C17P_09_Courtyard_guards_sidewall",
+      "current_name": "SEU_B_OSMWAY_1056927538__0018",
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "world_geometry_sha256": "fca907ecd7103c2aa3fa3d5e54c18f024e0565b6a02c55654709e35ac9e14e2b",
+      "exact_match": true,
+      "vertices": 648,
+      "faces": 424,
+      "bbox": [
+        [
+          -432.49920654296875,
+          366.12994384765625,
+          -0.3199999928474426
+        ],
+        [
+          -424.82330322265625,
+          369.8393249511719,
+          4.349827766418457
+        ]
+      ]
+    },
+    {
+      "legacy_name": "C17P_10_Terrace_perimeter_glass_guard",
+      "current_name": "SEU_B_OSMWAY_1056927538__0019",
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "world_geometry_sha256": "d53b940ba020e1fbaa53fab820c26e336f1fa7fa42fd17a6cc8f2684075633d6",
+      "exact_match": true,
+      "vertices": 2028,
+      "faces": 1342,
+      "bbox": [
+        [
+          -470.9244079589844,
+          361.72711181640625,
+          3.200000047683716
+        ],
+        [
+          -432.08648681640625,
+          388.58441162109375,
+          4.3532867431640625
+        ]
+      ]
+    },
+    {
+      "legacy_name": "C17P_11_Terrace_furniture_and_planters",
+      "current_name": "SEU_B_OSMWAY_1056927538__0020",
+      "stable_id": "SEU_B_OSMWAY_1056927538",
+      "world_geometry_sha256": "59062f9c5b987c4e269df6c182a286dc8500df2e55120b7bcd0723910fd6fbc5",
+      "exact_match": true,
+      "vertices": 1100,
+      "faces": 780,
+      "bbox": [
+        [
+          -468.62420654296875,
+          362.20489501953125,
+          3.200000047683716
+        ],
+        [
+          -438.2384033203125,
+          387.7984619140625,
+          5.75
+        ]
+      ]
+    }
+  ],
+  "totals": {
+    "meshes": 7,
+    "vertices": 6704,
+    "faces": 4712
+  },
+  "sources": [
+    {
+      "url": "https://zwc.seu.edu.cn/cyfw_61983/list.htm",
+      "type": "official school general-affairs dining directory",
+      "facts_used": "Lakefront restaurant in northwest campus; four levels including basement kitchen and second-floor mezzanine. Not a four-full-storey building-height measurement."
+    },
+    {
+      "url": "https://archives.seu.edu.cn/2026/0615/c22049a571723/page.htm",
+      "type": "official school archive notice",
+      "facts_used": "Restaurant first-floor elevator connects to comprehensive-building room310."
+    },
+    {
+      "type": "Owner-provided reference photograph, visually inspected; original not distributed",
+      "redistribute_original": false
+    }
+  ],
+  "visible_observations": [
+    "Continuous dark timber-finish terrace at the lake-facing low wing, below the upper glass volume.",
+    "Glazed perimeter guard with white edge beam and exposed lower white columns; not a solid filled earth terrace.",
+    "At the lake end (photo right), straight descending external flight connects deck to lower perimeter walkway.",
+    "At the courtyard/main-building end (photo left), angled side-wall/guard boundaries and an intermediate landing-like area are visible; part of the lower flight is obscured and insufficient to count all risers."
+  ],
+  "geometry_limits": [
+    "Owner acceptance of current stair revision",
+    "Exact photo-derived cardinal camera pose",
+    "19 actual risers at both ends",
+    "Surveyed 3.2m deck elevation",
+    "Exact courtyard return angle or uninterrupted straight flight",
+    "Correct current ground/road contact"
+  ],
+  "stair_status": {
+    "near_end": "Single straight flight present; broad type and outward descent agree with the clearest photo.",
+    "courtyard_end": "Two collinear model runs with intermediate landing present; photo supports an end connection and landing/angled guard but not precise run alignment.",
+    "model_rises_each_end": 19,
+    "model_deck_top_m": 3.2,
+    "model_intermediate_landing_top_m": 1.515789,
+    "height_status": "inherited_estimated_not_surveyed",
+    "acceptance": "No claim of user acceptance or complete photographic verification."
+  },
+  "action": "Retain existing geometry. No R4 append, geometry replacement, floor-height modification or new asset generated by this audit. Ground landing contact requires separate surface QA.",
+  "rights": "This review redistributes no reference image. Model original visual contributions remain under project CC BY4.0; OSM-derived geographic content remains ODbL. Official page text is paraphrased; no third-party image licence is implied."
+}
