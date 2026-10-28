@@ -1,0 +1,107 @@
+{
+  "version": "0.9.0",
+  "scope": "additive north canteen roof features; array counts and arrangement estimated; all prior models retained",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 2656,
+      "sha256": "d27d5572a323f3c43a4121305bd3bcf4a1b27e3346c49b98842c907d4f8cef13"
+    },
+    "assets/SEU_building_patch_v09.glb": {
+      "bytes": 577060,
+      "sha256": "109a6fe893b8ac9bd61129ada727b7d2b11054c9ae81dee2cc3bb972bb73a9f8"
+    },
+    "assets/SEU_campus_photorefined_v09.blend": {
+      "bytes": 21863018,
+      "sha256": "81ada409f62611d82d0abe0282c254beb8c167c5a0c1ec67f411fc4f35ef871e"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 1101,
+      "sha256": "ce497c3033a00a863be3ad767c3c3800300e496008bd029ca2b6604c874a5896"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 788,
+      "sha256": "47adb90d4739f4003adf93a82036095325f5feb9824e74b61685fd310389c8b4"
+    },
+    "north_roof_patch/assets/SEU_north_canteen_roof_v09.blend": {
+      "bytes": 1307776,
+      "sha256": "4afb1d34d38ee805de213678090aa21d565362a7904a047561b6e1d3eb5858bd"
+    },
+    "north_roof_patch/assets/SEU_north_canteen_roof_v09.glb": {
+      "bytes": 576612,
+      "sha256": "acdd41cb9ff6670c9978ca1c5c87fb32e710c204400e8d35323033c8e2ea8cf3"
+    },
+    "north_roof_patch/data/PATCH_MANIFEST.json": {
+      "bytes": 785,
+      "sha256": "7e0e06571b796de385f583832ebbcfa9d89f5ad0faa0644aa9ba8351aa773e6b"
+    },
+    "north_roof_patch/data/geometry_database.json.gz": {
+      "bytes": 182799,
+      "sha256": "cf725d88485b87532e4dd1043d9986b66d7242b388e4667b9655cab537d0e51f"
+    },
+    "north_roof_patch/data/roof_parameters.json": {
+      "bytes": 2578,
+      "sha256": "f6adaec1ec6692317087939ca9047177a2800bd07c98afba6a300cfed7f74df1"
+    },
+    "north_roof_patch/qa/PROJECTION_QA.json": {
+      "bytes": 95,
+      "sha256": "2f6c3f3363824c53df4b438ebbaf3ada009d9aef19b6afcb5664f91dc15ffbec"
+    },
+    "north_roof_patch/scripts/build_roof.py": {
+      "bytes": 4919,
+      "sha256": "22c96c232c4ea24b7357a7340a7677e087ef074f9c26be6c00ec45dcf7f66497"
+    },
+    "previews/NORTH_ROOF_DETAIL.png": {
+      "bytes": 1454492,
+      "sha256": "683b8e97f5cd3fbf37a2513d9c9b2919b012e7876acb191a1f8293eed3e64f72"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 173820,
+      "sha256": "061fa3cb4579d8462078dc53f479ca62436971509d1b9f80598cad9890284f83"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 443,
+      "sha256": "fb859f4d565d544a342a58a693587d9fec0e9b9209e897c6d27059b335cf9c5f"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 303470,
+      "sha256": "ed149c9bbbdf014797965d3c5e00bd8020aa4dea383d16eb38cc577310bd4eef"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "397e0d4e1d41e114045f8278a971595f088787a069e34424fcbbdc6433da0686"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 313,
+      "sha256": "227d9a5319403deebc26d71c6babc591e7cb1b6ace15dcda2ff9b17c93e251a8"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1738,
+      "sha256": "4de3b167ddb93efeceb3c769ff7d97ad445a2200290847dfd067e414979e438f"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5271,
+      "sha256": "09e1af915876cd17445734c795f36d7fab154c3e0b20a4d71bdf1a70d0c6b802"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 1905,
+      "sha256": "80f7252400397e01a8888a0f7ffd28a59d57ea3d92b839e1bc9c7f1859f1902c"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 771,
+      "sha256": "7f95aca7d8662d288496e2114b020850b209e10afa97973f94e1f28705e49722"
+    }
+  }
+}
