@@ -6,7 +6,15 @@
 
 本框架代码与文档采用 [MIT License](LICENSE)，Copyright (c) 2026 3D_SEU contributors。第三方地理数据、影像、字体及模型资产不因本LICENSE被重新授权；见 [NOTICE.md](NOTICE.md)。
 
-## 最新：v0.3 生医南向修正与旧楼恢复
+## 最新预览：v0.4.0 轻快底图与显示修复
+
+[在线查看校园](https://one-num-three.github.io/3D_SEU/) · [v0.4 地表说明](public_assets_v04/README.md)
+
+网页 v0.4.0（2026-10-28）在原建筑模型 v0.3 上叠加同坐标的地表层：106 项 OSM 地表要素及一层底板，区分绿地、水面、运动场和施工区；采用浅暖建筑、柔绿地面与湖蓝水面。道路与地面的深度显示修复属于网页显示层，不改建筑高度、轮廓或既有道路几何。C3／兰园仍是近似位置候选，不代表实测或完整校园。
+
+v0.1、v0.2、v0.3 原资产逐字节保留。新增地表独立使用 `public_assets_v04/ASSET_MANIFEST.json`，网页使用 `preview/FILE_MANIFEST.json`；代码 MIT、自有视觉贡献 CC BY 4.0、OSM 派生地理数据 ODbL 1.0，具体来源和边界见各版说明。无私人照片或卫星截图。
+
+## v0.3 生医南向修正与旧楼恢复
 
 [工程说明](public_assets_v03/README.md) · [全景](public_assets_v03/previews/CAMPUS_OBLIQUE.png) · [完整Blender](public_assets_v03/assets/SEU_campus_restored_v03.blend) · [完整GLB ZIP](public_assets_v03/assets/SEU_campus_restored_v03_GLB.zip)（解压后打开GLB）
 
