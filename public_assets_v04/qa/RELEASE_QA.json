@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "106_surface_vertex_sets_float32_exact": true,
+  "source_feature_counts": {
+    "green": 61,
+    "construction_site": 4,
+    "sports": 39,
+    "water": 2
+  },
+  "embedded_images": 0,
+  "private_path_credential_scan": "PASS",
+  "v03_original_mesh_geometry_hash_unchanged": true,
+  "script_compile": "PASS",
+  "precision": "Export coordinates are expected float32 GLB rounding of original meter coordinates; no shape fitting or arbitrary relocation."
+}

@@ -1,0 +1,68 @@
+{
+  "status": "PASS_DISPLAY_ONLY",
+  "display_material_counts": {
+    "ground": 1,
+    "outline": 201,
+    "road": 398,
+    "detail": 1857,
+    "building": 192,
+    "candidate": 77
+  },
+  "source_sha256_before": "89c7e18d73a564fa3115e85a7612eef91b5581cd0619da0ee52eacd4d63f2a27",
+  "source_sha256_after": "89c7e18d73a564fa3115e85a7612eef91b5581cd0619da0ee52eacd4d63f2a27",
+  "source_immutable": true,
+  "original_geometry_hash_before": "11b5a9b18810098f66a962d464b73ce5568d755f2dea171f5cc4222cecbacff1",
+  "original_geometry_hash_after": "11b5a9b18810098f66a962d464b73ce5568d755f2dea171f5cc4222cecbacff1",
+  "source_mesh_object_count": 2726,
+  "original_mesh_object_transforms_unchanged": true,
+  "vertical_reference_pole_height_m": 20,
+  "vertical_exaggeration_factor": 1,
+  "horizontal_scale_factor": 1,
+  "geometry_height_changes": false,
+  "road_preview_material_changes": 398,
+  "surface_z_m": {
+    "ground": -0.008,
+    "green": -0.006,
+    "construction_site": -0.005,
+    "sports": -0.004,
+    "water": -0.003
+  },
+  "neutral_ground_z_m": -0.008,
+  "original_roads_z_m": [
+    0.005,
+    0.035
+  ],
+  "ground_layers": "zero-thickness display-only surfaces below roads, not terrain survey",
+  "camera_clip_start_end_m": [
+    10,
+    6000
+  ],
+  "new_surfaces": 106,
+  "views": [
+    {
+      "image": "V04_LIGHT_BASEMAP_TOP.png",
+      "camera": "orthographic north-up",
+      "ortho_scale_m": 2080,
+      "north": "grid north +Y",
+      "scale_bar_world_length_m": 100
+    },
+    {
+      "image": "V04_LIGHT_BASEMAP_OBLIQUE.png",
+      "camera": "orthographic oblique, actual world XYZ",
+      "ortho_scale_m": 1170,
+      "target_local_xyz": [
+        190.0,
+        45.0,
+        5.0
+      ],
+      "scale_bar_world_length_m": 100,
+      "scale_bar_note": "Ground-plane bar foreshortens naturally in this oblique view"
+    }
+  ],
+  "limitations": [
+    "Existing OSM snapshot surface coverage only; neutral areas are not invented greenery",
+    "Inherited model heights/registration uncertainty remains unchanged",
+    "Grid north annotation, not an independently surveyed true-north azimuth",
+    "Original v03 blend remains unchanged; new overlay assets are separately versioned v04"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "mesh_count": 107,
+  "osm_surface_features": 106,
+  "source_data_sha256": "a3bf283d1180588fb1340e4cd35df7a5f4ec5e6b5ef4806760f26db0ef91b49a",
+  "origin": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "units": "metres",
+  "source_crs": "EPSG:32650",
+  "glb_axis_mapping": "X=x Y=z Z=-y",
+  "surface_z_m": {
+    "ground": -0.008,
+    "green": -0.006,
+    "construction_site": -0.005,
+    "sports": -0.004,
+    "water": -0.003
+  },
+  "building_changes": 0,
+  "road_geometry_changes": 0,
+  "images": 0,
+  "texts": 0,
+  "libraries": 0
+}

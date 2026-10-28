@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "glb_sha256": "315e8a13d102b8e23dc700084f11d6c67ecf6cd21624dd00ea25994efaf08885",
+  "glb_bytes": 182792,
+  "imported_meshes": 107,
+  "images": 0,
+  "external_resources": false,
+  "glb_materials": 5,
+  "source_preserved": true
+}
