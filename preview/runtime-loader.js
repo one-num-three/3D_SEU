@@ -1,5 +1,5 @@
 /* MIT. Verified immutable snapshot or explicitly selected legacy chain. No automatic fallback. */
-import {applyModelPatches} from './model-patches.js?v=0.14.1';
+import {applyModelPatches} from './model-patches.js?v=0.14.2';
 export const abortCheck=signal=>{if(signal?.aborted)throw new DOMException('已取消加载','AbortError');};
 export function disposeModel(root){if(!root)return;const g=new Set(),m=new Set();root.traverse(n=>{if(n.geometry)g.add(n.geometry);for(const mat of Array.isArray(n.material)?n.material:[n.material])if(mat)m.add(mat);});for(const x of g)x.dispose();for(const x of m)x.dispose();root.removeFromParent();}
 export async function sha256(bytes){return Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),b=>b.toString(16).padStart(2,'0')).join('');}

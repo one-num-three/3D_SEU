@@ -2,7 +2,7 @@
  * Load tree_lod0.glb + tree_lod1.glb with the viewer's GLTFLoader first.
  * Positions: local EPSG32650 metre X east/Y north/Z up -> glTF X=x,Y=z,Z=-y.
  */
-export function makeLandscapeInstances(THREE, lod0Scene, lod1Scene, data, {maxInstances=384, chunkSize=400, lodDistance=850}={}) {
+export function makeLandscapeInstances(THREE, lod0Scene, lod1Scene, data, {maxInstances=Infinity, chunkSize=400, lodDistance=Infinity}={}) {
   function prototype(scene) {
     scene.updateMatrixWorld(true);
     let mesh; scene.traverse(o=>{if(o.isMesh && !mesh) mesh=o;});

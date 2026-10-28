@@ -1,6 +1,6 @@
 {
   "modelVersion": "0.14",
-  "viewerVersion": "0.14.1",
+  "viewerVersion": "0.14.2",
   "publishedAt": "2026-10-28",
   "modelCommit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "viewerCommit": null,
@@ -65,5 +65,6 @@
   "runtimeSnapshotSourceCommit": "1a30a944d2dcd5a0b278330fa755268ddea89427",
   "runtimeSnapshotCommit": "2e2968196f11cabe0a921d3dd5abd18134a54ded",
   "runtimeSnapshotSha256": "531c786bcd8e4922a7eb6dd33815936c385cc543154da180535785884e6e995e",
-  "runtimeSnapshotStatus": "published"
+  "runtimeSnapshotStatus": "published",
+  "displayQuality": "Source bridge transmission and all 603 highest-detail trees by default; no automatic visual reduction. Sports source recovery separately pending."
 }
