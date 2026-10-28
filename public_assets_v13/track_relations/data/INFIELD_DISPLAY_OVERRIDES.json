@@ -1,0 +1,53 @@
+{
+  "target_asset": "public_assets_v04/assets/SEU_basemap_overlay_v04.glb",
+  "overrides": [
+    {
+      "target_exact_node_name": "V04_OSMWAY_817128568_sports",
+      "source_material_name": "V04_sports",
+      "source_baseColorFactor": [
+        0.68668532371521,
+        0.6104955673217773,
+        0.47353148460388184,
+        1
+      ],
+      "source_extras": {
+        "layer": "sports",
+        "role": "basemap_surface",
+        "stable_id": "V04_OSMWAY_817128568_sports",
+        "source_license": "ODbL-1.0",
+        "attribution": "\u00a9 OpenStreetMap contributors",
+        "z_is_display_order_not_elevation": true,
+        "source_url": "https://www.openstreetmap.org/way/817128568",
+        "name_source_osm": "unknown"
+      },
+      "new_srgb_hex": "#85A75B",
+      "must_clone_material_for_target_node_only": true,
+      "geometry_and_source_sport_tags_unchanged": true,
+      "RGB_estimated_not_measured": true
+    },
+    {
+      "target_exact_node_name": "V04_OSMWAY_817128624_sports",
+      "source_material_name": "V04_sports",
+      "source_baseColorFactor": [
+        0.68668532371521,
+        0.6104955673217773,
+        0.47353148460388184,
+        1
+      ],
+      "source_extras": {
+        "layer": "sports",
+        "role": "basemap_surface",
+        "stable_id": "V04_OSMWAY_817128624_sports",
+        "source_license": "ODbL-1.0",
+        "attribution": "\u00a9 OpenStreetMap contributors",
+        "z_is_display_order_not_elevation": true,
+        "source_url": "https://www.openstreetmap.org/way/817128624",
+        "name_source_osm": "unknown"
+      },
+      "new_srgb_hex": "#85A75B",
+      "must_clone_material_for_target_node_only": true,
+      "geometry_and_source_sport_tags_unchanged": true,
+      "RGB_estimated_not_measured": true
+    }
+  ]
+}

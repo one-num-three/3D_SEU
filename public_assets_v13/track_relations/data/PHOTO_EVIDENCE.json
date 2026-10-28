@@ -1,0 +1,18 @@
+{
+  "taoyuan": {
+    "page": "https://news.seu.edu.cn/2023/0906/c5495a463692/page.htm",
+    "image": "https://news.seu.edu.cn/_upload/article/images/9e/01/2b163bea4900a71976ac95c264bb/a4d6f45b-2d5d-4ee8-98e4-08cd611773f2.jpg",
+    "actually_viewed": true,
+    "observed": "red-ochre track with white lines beside green field",
+    "not_inferred": "field green does not replace OSM softball tag with soccer"
+  },
+  "meiyuan": {
+    "page": "https://news.seu.edu.cn/2022/1115/c5495a427575/page.htm",
+    "image": "https://news.seu.edu.cn/_upload/article/images/8a/22/959e2ad8414394a06319f7c98e87/c72e2078-788a-4410-9ce2-dbb3ee5ca1a4.jpg",
+    "actually_viewed": true,
+    "observed": "red surrounding track and green striped field behind tennis courts",
+    "not_generated": "stripe count or field markings not reproduced"
+  },
+  "pixel_files_included": false,
+  "rgb_values_estimated": true
+}
