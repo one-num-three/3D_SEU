@@ -1,0 +1,36 @@
+{
+  "status": "CANDIDATE_ONLY_NOT_APPLIED",
+  "osm_platform_centroid_local_m": [
+    -168.90512794415372,
+    381.20942301282184
+  ],
+  "rotation_z_degrees": 183.8591862834236,
+  "scale_xyz": [
+    1,
+    1,
+    1
+  ],
+  "z_offset_m": 0,
+  "position_basis": "centroid of undifferentiated OSM platform; not a surveyed pavilion centre",
+  "orientation_basis": "southern OSM axial footway direction; north-facing blank-medallion side inferred from observed aerial photograph with library behind pavilion",
+  "source_meshes": 124,
+  "original_platform_projection_m2": 462.13498475194,
+  "candidate_projection_m2": 462.1349847519402,
+  "outside_osm_undifferentiated_envelope_m2": 0.0,
+  "road_surface_overlaps": [],
+  "original_total_height_m": 12.5,
+  "original_body_width_depth_m": [
+    10.2,
+    10.2
+  ],
+  "original_platform_max_width_depth_m": [
+    27.2,
+    27.2
+  ],
+  "osm_envelope_m2": 983.8788160451312,
+  "limitations": [
+    "Not ground-surveyed placement; centre and axis inferred from map and aerial context.",
+    "Do not turn the entire OSM envelope into a 12.5m solid or uniformly rescale the pavilion.",
+    "Platform/path contact is expected at the approach; retains real openings."
+  ]
+}

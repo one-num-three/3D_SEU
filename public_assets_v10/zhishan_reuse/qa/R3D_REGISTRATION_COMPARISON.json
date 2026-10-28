@@ -1,0 +1,30 @@
+{
+  "old_R3D_mesh_count": 124,
+  "old_R3D_bounds_min": [
+    -182.82009887695312,
+    367.29443359375,
+    0.0
+  ],
+  "old_R3D_bounds_max": [
+    -154.99014282226562,
+    395.1243896484375,
+    12.5
+  ],
+  "old_R3D_center_from_symmetric_platform_bounds": [
+    -168.90512084960938,
+    381.20941162109375
+  ],
+  "old_R3D_front_medallion_center": [
+    -168.5352783203125,
+    376.0727081298828
+  ],
+  "old_R3D_rotation_from_medallion_direction_degrees": 4.118188349415128,
+  "new_candidate_center": [
+    -168.90512794415372,
+    381.20942301282184
+  ],
+  "new_candidate_rotation_degrees": 183.8591862834236,
+  "center_shift_m": 1.3420284215337165e-05,
+  "decision": "new candidate retained; old front medallion faced south despite explicit unresolved facade180 flag; observed library-background aerial supports north-facing front",
+  "not_applied_to_main_scene": true
+}

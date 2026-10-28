@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "mesh_count": 124,
+  "evaluated_vertices": 13344,
+  "triangles": 26244,
+  "original_evaluated_faces_unchanged": true,
+  "inverse_transform_max_error_m": 5.09039217268314e-05,
+  "images": 0,
+  "fonts": 0,
+  "texts": 0,
+  "external_libraries": 0,
+  "weak_reference_count": 0,
+  "unit_scale": 1.0,
+  "glb_reimport_mesh_count": 124,
+  "glb_position_max_error_m": 0
+}
