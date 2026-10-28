@@ -1,0 +1,91 @@
+{
+  "pass": true,
+  "tests": [
+    {
+      "name": "snapshot real parse no legacy requests",
+      "pass": true,
+      "meshCount": 4329
+    },
+    {
+      "name": "explicit legacy exact 10 patch chain, full scene bounds identical",
+      "pass": true,
+      "requests": 12
+    },
+    {
+      "name": "reject schema without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject modelcommit without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject size without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject archivehash without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject memberhash without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject membername without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject nodenames without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject nodecount without parse/fallback",
+      "pass": true
+    },
+    {
+      "name": "reject invalidzip",
+      "pass": true
+    },
+    {
+      "name": "reject extramember",
+      "pass": true
+    },
+    {
+      "name": "reject invalidglb",
+      "pass": true
+    },
+    {
+      "name": "preabort no network",
+      "pass": true
+    },
+    {
+      "name": "download cancel",
+      "pass": true
+    },
+    {
+      "name": "late parse cancel disposes detached root",
+      "pass": true,
+      "disposed": 4329
+    },
+    {
+      "name": "unzip cancellation",
+      "pass": true
+    },
+    {
+      "name": "retry repeats SHA validation and only snapshot fetch",
+      "pass": true
+    },
+    {
+      "name": "legacy lastpatch failure no half commit, all detached resources disposed, no snapshot fallback",
+      "pass": true,
+      "legacyDisposed": 4413
+    },
+    {
+      "name": "legacy patch cancellation",
+      "pass": true
+    }
+  ],
+  "atomicSceneAttach": "loader returns only fully verified scene, never attaches",
+  "gpu": "unavailable; Node actual parse/state only"
+}

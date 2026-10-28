@@ -1,0 +1,76 @@
+{
+  "sceneOnlyPostGC": {
+    "memory": {
+      "rss": 256815104,
+      "heapTotal": 99217408,
+      "heapUsed": 27748536,
+      "external": 51600620,
+      "arrayBuffers": 45048567
+    },
+    "peakRSSKiB": 324556
+  },
+  "retainedSceneNodeCount": 2736,
+  "mode": "chain",
+  "baseline": {
+    "rss": 50925568,
+    "heapTotal": 18665472,
+    "heapUsed": 9016472,
+    "external": 6823813,
+    "arrayBuffers": 359951
+  },
+  "stages": [
+    {
+      "stage": "unzip",
+      "ms": 177.31659700000003,
+      "memory": {
+        "rss": 105758720,
+        "heapTotal": 18927616,
+        "heapUsed": 10709000,
+        "external": 57054140,
+        "arrayBuffers": 50590274
+      },
+      "peakRSSKiB": 103280
+    },
+    {
+      "stage": "baseParse",
+      "ms": 196.837352,
+      "memory": {
+        "rss": 213340160,
+        "heapTotal": 102957056,
+        "heapUsed": 52505144,
+        "external": 137907430,
+        "arrayBuffers": 97280357
+      },
+      "peakRSSKiB": 235248
+    },
+    {
+      "stage": "patchFetchVerifyParseApply",
+      "ms": 162.77265799999998,
+      "memory": {
+        "rss": 331952128,
+        "heapTotal": 107233280,
+        "heapUsed": 41018600,
+        "external": 166905912,
+        "arrayBuffers": 154814503
+      },
+      "peakRSSKiB": 324220
+    }
+  ],
+  "elapsedMs": 595.322691,
+  "postGC": {
+    "memory": {
+      "rss": 256815104,
+      "heapTotal": 99217408,
+      "heapUsed": 27776448,
+      "external": 51600620,
+      "arrayBuffers": 45048567
+    },
+    "peakRSSKiB": 324556
+  },
+  "primitives": 4419,
+  "hiddenPrimitives": 90,
+  "uniqueAttributeBufferBytes": 44623080,
+  "visibleAttributeBufferBytes": 44166096,
+  "hiddenOnlyAttributeBufferBytes": 456984,
+  "warning": "Node CPU/RSS process measurements, not phone/browser/GPU memory or FPS"
+}

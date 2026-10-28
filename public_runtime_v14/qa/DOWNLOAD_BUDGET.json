@@ -1,0 +1,179 @@
+{
+  "defaultFrontendFiles": [
+    {
+      "path": "index.html",
+      "bytes": 9339
+    },
+    {
+      "path": "preview/style.css",
+      "bytes": 4897
+    },
+    {
+      "path": "preview/bridge-display.js",
+      "bytes": 1016
+    },
+    {
+      "path": "preview/ground-pass.js",
+      "bytes": 2268
+    },
+    {
+      "path": "preview/batch-buildings.js",
+      "bytes": 6282
+    },
+    {
+      "path": "preview/landscape-adapter.js",
+      "bytes": 4486
+    },
+    {
+      "path": "preview/landscape-layer.js",
+      "bytes": 1722
+    },
+    {
+      "path": "preview/palette.js",
+      "bytes": 1793
+    },
+    {
+      "path": "preview/app.js",
+      "bytes": 16237
+    },
+    {
+      "path": "preview/batch-controller.js",
+      "bytes": 1109
+    },
+    {
+      "path": "preview/model-patches.js",
+      "bytes": 2129
+    },
+    {
+      "path": "preview/vendor/BufferGeometryUtils.js",
+      "bytes": 31768
+    },
+    {
+      "path": "preview/vendor/GLTFLoader.js",
+      "bytes": 110266
+    },
+    {
+      "path": "preview/vendor/OrbitControls.js",
+      "bytes": 32134
+    },
+    {
+      "path": "preview/vendor/fflate.js",
+      "bytes": 89198
+    },
+    {
+      "path": "preview/vendor/three.module.js",
+      "bytes": 1314681
+    },
+    {
+      "path": "preview/release.json",
+      "bytes": 2182
+    },
+    {
+      "path": "preview/patches.json",
+      "bytes": 82914
+    },
+    {
+      "path": "preview/overlay.json",
+      "bytes": 315
+    },
+    {
+      "path": "preview/landscape.json",
+      "bytes": 969
+    }
+  ],
+  "frontendBytes": 1715705,
+  "buildingsBytes": 30194820,
+  "overlayBytes": 182792,
+  "treesAndRoadsBytes": 532391,
+  "totalDefaultResourceBodyBytes": 32625708,
+  "snapshotCandidateSameOtherAssetsBytes": 16723325,
+  "note": "File/body-byte budget excluding HTTP headers and negotiated transfer compression; no browser HAR/GPU. Optional props off. Snapshot loader config not implemented so frontend prospective total may shift.",
+  "newSnapshotFrontendBytes": 1641036,
+  "newSnapshotDefaultBodyBytes": 16648656,
+  "newSnapshotFrontendFiles": [
+    {
+      "path": "index.html",
+      "bytes": 9558
+    },
+    {
+      "path": "preview/style.css",
+      "bytes": 4897
+    },
+    {
+      "path": "preview/bridge-display.js",
+      "bytes": 1016
+    },
+    {
+      "path": "preview/ground-pass.js",
+      "bytes": 2268
+    },
+    {
+      "path": "preview/batch-buildings.js",
+      "bytes": 6282
+    },
+    {
+      "path": "preview/runtime-loader.js",
+      "bytes": 5597
+    },
+    {
+      "path": "preview/landscape-adapter.js",
+      "bytes": 4486
+    },
+    {
+      "path": "preview/landscape-layer.js",
+      "bytes": 1722
+    },
+    {
+      "path": "preview/palette.js",
+      "bytes": 1793
+    },
+    {
+      "path": "preview/app.js",
+      "bytes": 16763
+    },
+    {
+      "path": "preview/batch-controller.js",
+      "bytes": 1109
+    },
+    {
+      "path": "preview/model-patches.js",
+      "bytes": 2532
+    },
+    {
+      "path": "preview/vendor/BufferGeometryUtils.js",
+      "bytes": 31768
+    },
+    {
+      "path": "preview/vendor/GLTFLoader.js",
+      "bytes": 110266
+    },
+    {
+      "path": "preview/vendor/OrbitControls.js",
+      "bytes": 32134
+    },
+    {
+      "path": "preview/vendor/fflate.js",
+      "bytes": 89198
+    },
+    {
+      "path": "preview/vendor/three.module.js",
+      "bytes": 1314681
+    },
+    {
+      "path": "preview/release.json",
+      "bytes": 2462
+    },
+    {
+      "path": "preview/runtime.json",
+      "bytes": 1220
+    },
+    {
+      "path": "preview/overlay.json",
+      "bytes": 315
+    },
+    {
+      "path": "preview/landscape.json",
+      "bytes": 969
+    }
+  ]
+}

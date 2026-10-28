@@ -1,0 +1,1 @@
+PASS browser real fflate worker / GLTF parse: 3976 nodes; no GPU assertion

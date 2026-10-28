@@ -1,0 +1,10 @@
+{
+  "pass": true,
+  "authorNodes": 3976,
+  "triangles": 2589673,
+  "exactBufferAndAccessorChecks": 10118,
+  "sourceNodeTransformsExtrasNamesExact": true,
+  "sourceMaterialParametersExtensionsExact": true,
+  "sourceGeometryBytesExact": true,
+  "sourceMeshSharingPreservedWithinEachAsset": true
+}

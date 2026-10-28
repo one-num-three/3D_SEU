@@ -1,0 +1,164 @@
+{
+  "pass": true,
+  "tjbParts": 6,
+  "tjbBounds": {
+    "isBox3": true,
+    "min": {
+      "x": 153.7407684326172,
+      "y": 0.11999999731779099,
+      "z": 347.5890197753906
+    },
+    "max": {
+      "x": 233.23097229003906,
+      "y": 26.700000762939453,
+      "z": 413.5674133300781
+    }
+  },
+  "qualityToggleRebatchPass": true,
+  "qualityCounts": [
+    {
+      "high": true,
+      "draws": 1777,
+      "triangles": 2589518
+    },
+    {
+      "high": false,
+      "draws": 1591,
+      "triangles": 2589518
+    }
+  ],
+  "midBuildAbortAtYieldPass": true,
+  "bridgeQuality": "low_cost_default",
+  "bridgeCloneAndRestorePass": true,
+  "passCounts": {
+    "hiddenLegacyBoundary": 1,
+    "roads": 398,
+    "outlines": 201,
+    "overlay": 107,
+    "buildings": 3643,
+    "sportsPaint": 50,
+    "sportsLines": 36,
+    "tennisOverride": 1,
+    "infieldOverrides": 2
+  },
+  "layerChecks": {
+    "bridgeTransmissivePrimitives": 188,
+    "bridge": 552,
+    "equipment": 328,
+    "paint": 50,
+    "linework": 36,
+    "oldRoad": 398
+  },
+  "exactThreeIsolatedOverlayRecolors": true,
+  "pavilionParts": 124,
+  "pavilionFocusBounds": {
+    "isBox3": true,
+    "min": {
+      "x": -182.80145263671875,
+      "y": 0,
+      "z": -395.1057434082031
+    },
+    "max": {
+      "x": -155.0087890625,
+      "y": 12.5,
+      "z": -367.3130798339844
+    }
+  },
+  "applied": {
+    "snapshot": true,
+    "authorNodes": 3976
+  },
+  "priorAppendOnlyRetained": true,
+  "propsInsideExistingClippingBounds": true,
+  "defaultPropsDoNotChangeScene": true,
+  "canteenParts": 25,
+  "canteenFocusBounds": {
+    "isBox3": true,
+    "min": {
+      "x": 381.6343078613281,
+      "y": 0.10000000149011612,
+      "z": -392.145751953125
+    },
+    "max": {
+      "x": 479.0469970703125,
+      "y": 12.15999984741211,
+      "z": -307.34649658203125
+    }
+  },
+  "snapshotLoadOnlyNoNewFallbackSchemaYet": true,
+  "toggleReenableRestorePass": true,
+  "overlayReloadPass": true,
+  "externalHiddenMeshNotResurrected": true,
+  "budgetFallbackPass": true,
+  "injectedBuildFailureAtomic": true,
+  "abortAtomic": true,
+  "experimentalNotPublished": true,
+  "buildMsNodeCpuReference": 256.00717799999995,
+  "memoryBefore": {
+    "rss": 248217600,
+    "heapTotal": 197439488,
+    "heapUsed": 39867712,
+    "external": 103207543,
+    "arrayBuffers": 88862273
+  },
+  "memoryAfter": {
+    "rss": 369045504,
+    "heapTotal": 237842432,
+    "heapUsed": 89457504,
+    "external": 128314523,
+    "arrayBuffers": 113969213
+  },
+  "sampledPeakMemory": {
+    "rss": 385028096,
+    "heapTotal": 262840320,
+    "heapUsed": 140975136,
+    "external": 128314523,
+    "arrayBuffers": 113969213
+  },
+  "processPeakRssBeforeKiB": 323544,
+  "processPeakRssAfterKiB": 379076,
+  "before": {
+    "draws": 4435,
+    "triangles": 2589518
+  },
+  "after": {
+    "draws": 1591,
+    "triangles": 2589518
+  },
+  "drawReduction": 2844,
+  "reductionPercent": 64.12626832018039,
+  "batchStats": {
+    "eligibleSourceMeshes": 3643,
+    "mergedSourceMeshes": 3105,
+    "generatedDraws": 261,
+    "netDrawReduction": 2844,
+    "unmergedOrExcluded": 538,
+    "tileSize": 400,
+    "additionalGeometryBytes": 25107060,
+    "memoryBudgetBytes": 25165824,
+    "budgetSkippedSources": 86
+  },
+  "maxAttributeDifference": 0,
+  "indexChecks": 4340298,
+  "originalGeometryBuffersUnchanged": true,
+  "originalMaterialObjectIdentityRetained": true,
+  "sourceRangeCount": 3105,
+  "missingStableIds": 0,
+  "poolRangeCount": 37,
+  "poolFocusAll39PartsUnchanged": true,
+  "pickRangeChecks": 6210,
+  "poolMappedBounds": {
+    "min": [
+      600.9780883789062,
+      0,
+      -167.3419952392578
+    ],
+    "max": [
+      719.6905517578125,
+      11.085000038146973,
+      -118.61273193359375
+    ]
+  },
+  "restoreExact": true,
+  "gpu": "UNAVAILABLE; not an FPS or visual pass"
+}
