@@ -1,0 +1,19 @@
+{
+  "stable_id": "SEU_B_OSMWAY_630686661",
+  "replace_object_names": [],
+  "append_object_names": [
+    "SEU_B_OSMWAY_630686661_V09__equipment_panel_arrays",
+    "SEU_B_OSMWAY_630686661_V09__panel_front_frames",
+    "SEU_B_OSMWAY_630686661_V09__panel_back_frames",
+    "SEU_B_OSMWAY_630686661_V09__white_equipment_housings",
+    "SEU_B_OSMWAY_630686661_V09__equipment_caps",
+    "SEU_B_OSMWAY_630686661_V09__equipment_louvres",
+    "SEU_B_OSMWAY_630686661_V09__orange_roof_volume",
+    "SEU_B_OSMWAY_630686661_V09__orange_volume_roofcap",
+    "SEU_B_OSMWAY_630686661_V09__orange_volume_glazing"
+  ],
+  "retain_original_outline": true,
+  "new_mesh_count": 9,
+  "array_cells_estimated": 405,
+  "generation_note": "cell count is model approximation, not a survey or equipment inventory"
+}

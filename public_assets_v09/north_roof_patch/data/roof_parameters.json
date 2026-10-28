@@ -1,0 +1,108 @@
+{
+  "stable_id": "SEU_B_OSMWAY_630686661",
+  "name": "桃园北食堂",
+  "origin_world_xy": [
+    398.918545875233,
+    306.879638056271
+  ],
+  "rotation_radians": 0.2740532828760789,
+  "footprint_world_xy": [
+    [
+      381.2658836802,
+      371.003216767218
+    ],
+    [
+      457.787449853844,
+      392.515480165835
+    ],
+    [
+      477.061397451907,
+      324.837267218158
+    ],
+    [
+      479.434413640643,
+      316.493325734977
+    ],
+    [
+      455.581299893907,
+      314.296232284047
+    ],
+    [
+      454.537426498719,
+      318.426241545007
+    ],
+    [
+      453.67535275931,
+      321.871743873693
+    ],
+    [
+      398.918545875233,
+      306.879638056271
+    ]
+  ],
+  "replace_object_names": [],
+  "mode": "additive detail; retain all previous building meshes",
+  "source_page": "https://jbjsc.seu.edu.cn/2017/0920/c18724a198637/page.htm",
+  "source_photo": "https://jbjsc.seu.edu.cn/_upload/article/images/83/d1/280bbe0d406a859f0d5b5cf50143/a9c1553b-27fc-4d29-ae0c-7f5dcd689879.jpg",
+  "observed": "historic official aerial: extensive dark blue rooftop panel arrays, white equipment housings and vents, orange protruding roof/frontage volume, white fascia and two-storey glazing",
+  "image_actual_pixels_reviewed": true,
+  "reference_pixels_distributed": false,
+  "source_date_limit": "Page published 2017-09-20; exact photo capture date unknown. Current dining page mentions 2018, do not infer exact completion date or unchanged current equipment.",
+  "estimated_features": [
+    "panel quantity, dimensions, exact array gaps and tilt",
+    "equipment count, shapes, positions and function",
+    "roof orange-volume dimensions",
+    "frontage orange piers location inferred from oblique image and existing orientation",
+    "colors and all metric heights"
+  ],
+  "panel_equipment_technology_status": "Do not label exact technology or capacity; dark blue equipment-panel appearance observed only",
+  "roof_existing_z_m_estimated": 9.5,
+  "height_policy": "no campus-wide scale change; original occupied floors retained",
+  "panel_groups_local_xy": [
+    [
+      3,
+      26,
+      20,
+      40
+    ],
+    [
+      3,
+      25,
+      44,
+      63
+    ],
+    [
+      30,
+      52,
+      17,
+      39
+    ],
+    [
+      30,
+      52,
+      43,
+      63
+    ],
+    [
+      57,
+      77,
+      19,
+      37
+    ],
+    [
+      57,
+      77,
+      42,
+      63
+    ]
+  ],
+  "orange_roof_volume_local": [
+    8,
+    20,
+    5,
+    14,
+    9.52,
+    12.0
+  ],
+  "generation_origin": "independent procedural geometry; not photogrammetry or image-textured mesh"
+}
