@@ -1,0 +1,96 @@
+{
+  "version": "jiuqu-bridge-legacy-reuse-candidate",
+  "scope": "Only listed files; independent candidate, no main integration",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3261,
+      "sha256": "707190a85d9e9513377e40b2b120d57f2609e2706edccd527a2d3e4efc4523c3"
+    },
+    {
+      "path": "assets/SEU_jiuqu_bridge_reuse_candidate.blend",
+      "bytes": 362609,
+      "sha256": "63f5d05cff3d9d45fe957a68ba1fc99a318bd749ff42ddcb1626b06785114a55"
+    },
+    {
+      "path": "assets/SEU_jiuqu_bridge_reuse_candidate.glb",
+      "bytes": 1198548,
+      "sha256": "472d897f2b47527339dd5894cdfe2df23ccc77a4c60179fbdaf765a9ddac84e3"
+    },
+    {
+      "path": "data/INTEGRATION.json",
+      "bytes": 27997,
+      "sha256": "4cc56da015c1625dd1bc7b50d09d2497c13740847efb2e4f9f021e95c9a453fd"
+    },
+    {
+      "path": "data/ORIGINAL_RAW_FINGERPRINTS.json",
+      "bytes": 282465,
+      "sha256": "91b1f5757794ac733d690af8931dcd4115cc3824c18c6474354fe0750fb251a7"
+    },
+    {
+      "path": "data/OSM_ROUTE_SOURCE.local.geojson",
+      "bytes": 11483,
+      "sha256": "98f1a2522c61b05dbbcecd25e9753dc317b385ec80ac39f3f4af576dc688385b"
+    },
+    {
+      "path": "data/PREVIEW_CONTEXT.local.json",
+      "bytes": 12141,
+      "sha256": "2ce2e12ae913961db8383f8ca4c36394ad75db7df87f4c1c0c7194066aeefdf2"
+    },
+    {
+      "path": "data/registered_geometry_database.json.gz",
+      "bytes": 57594,
+      "sha256": "695b5de660e8413facef8a07706e609e4f9825abcb2502f21ec1f1c821a6d92b"
+    },
+    {
+      "path": "data/source_geometry_database.json.gz",
+      "bytes": 57590,
+      "sha256": "5a236de75572677d24619faf6aa7cdab4a6e328ffc5178fc148d9675ee65637f"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 861,
+      "sha256": "d3ff7e1c4cab575be0deddf2ebd079b9591cecfb7d7c0d4b491c61b77886e347"
+    },
+    {
+      "path": "previews/BRIDGE_WATER_BANKS.png",
+      "bytes": 1420902,
+      "sha256": "709a1c57ac55a59a0919b5bd4780c7cfac89c899518692a26c7c05aa5d16f1f4"
+    },
+    {
+      "path": "qa/COLD_OPEN_QA.json",
+      "bytes": 285,
+      "sha256": "39470f92b27262d23cc6e2fe7812dc252b695e126b0d7a83c1f2cbaded35440d"
+    },
+    {
+      "path": "qa/EXCLUSION_AND_IDENTITY_QA.json",
+      "bytes": 1053,
+      "sha256": "85645760796e89f5e5688de9d42b8f4b9df0f7f98197ac379af0e341427da940"
+    },
+    {
+      "path": "qa/SPATIAL_QA.json",
+      "bytes": 1466,
+      "sha256": "2b54e3be1bf411727d16ca189771ad535e8cb6cc91bffda3ef4f9912ad835d0f"
+    },
+    {
+      "path": "scripts/rebuild.py",
+      "bytes": 1881,
+      "sha256": "f0708f06e3a93e7ef87456bd671a81b5340b85d8ed57f58a4f6e1f641ce111a0"
+    },
+    {
+      "path": "scripts/render_review.py",
+      "bytes": 2214,
+      "sha256": "13327ab5ca257ef36f9eeedf37090d9cb03808cc1231af1b1f6851c7ad9d0545"
+    },
+    {
+      "path": "scripts/validate.py",
+      "bytes": 1842,
+      "sha256": "fdf945d8997e98a782140a0bb9d18ab3e8ad263f3053b5858306f38a70ad3b07"
+    }
+  ]
+}
