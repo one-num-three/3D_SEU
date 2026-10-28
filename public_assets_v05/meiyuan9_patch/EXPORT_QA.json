@@ -1,0 +1,61 @@
+{
+  "rows": [
+    {
+      "id": "SEU_B_OSMWAY_630141909",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630141910",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630141912",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630141914",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    }
+  ],
+  "glb_mesh_count": 24,
+  "image_textures": 0,
+  "vertices": 8790,
+  "faces": 6581,
+  "render_reviewed": true
+}

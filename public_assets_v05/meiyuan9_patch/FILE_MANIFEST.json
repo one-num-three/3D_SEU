@@ -1,0 +1,14 @@
+{
+  "EXPORT_QA.json": "26ef6001a7b8b6fc971e3b0cf2f49cc1356e61d685c71d0488d48ec3340a0493",
+  "GEOMETRY_QA.json": "df1819f53a423d4a5d10b8ba85fc97eb2f6e0c751cf07d2c04864f25de9a2c2b",
+  "INTEGRATION.json": "479370e4879790f5cfa39768f98b877328cfc97ca1a0ae6f3e2cd3acc2097678",
+  "MEIYUAN9_REVIEW.png": "39aa1c96428e9c1acb54d4312428205783ea34f61c53fa25554d6b66cd2a3a87",
+  "README.md": "be13360492cbf4fec3c65b787de0e81d9a57969d9675707caca7d2276e381f19",
+  "build_patch.py": "6403f61f278e202eb7b30edf093ed3447ce7c1aba7f57a7740811dfc6813d713",
+  "geometry_database.json.gz": "697234ac6255cf3dfe5ed8b7230433e5ff5b49c9a1328ee332a6b320aae52f6b",
+  "objects_manifest.json": "62acbc901583fd5c58208130a9d59dc1f23898213a3fcff9fa7603b67d14dc9f",
+  "rebuild_clean.py": "132da9c2680606e04ebb2185c8b20ce05f4a7fb6740dc6b320fa50322cb8007a",
+  "seu_meiyuan9_detail_v05.blend": "90d43e3493bf956a7b3791ec1c42fe9c6a147e626a562ea441398ba48e77a8b2",
+  "seu_meiyuan9_detail_v05.glb": "55c8f3a829dffceda518f8f279cb8946ec24aeb040db544f998364dde6420ec0",
+  "validate_patch.py": "e74290694708a05bd31343583e973d384053d9f75090555f264d53e92ba5c972"
+}

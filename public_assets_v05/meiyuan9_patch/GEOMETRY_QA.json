@@ -1,0 +1,70 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_630141909",
+    "new_projection_outside_source_m2": 0.0,
+    "new_projection_outside_legacy_body_m2": 0.0,
+    "original_body_projection_m2": 577.5489721801132,
+    "rectified_body_projection_m2": 674.8561638509855,
+    "all_visible_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "d267fa74caa6294dc595fc9a687b53180ff25deab6b6278ce2d9d1644d9d24b4",
+    "assumed_roof_heights_m": {
+      "main_eaves": 20.25,
+      "main_ridge": 22.2,
+      "end_eaves": 21.15,
+      "end_peak": 23.05
+    },
+    "end_head_exact_dimensions_confirmed": false,
+    "solar_panels_added": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141910",
+    "new_projection_outside_source_m2": 0.0,
+    "new_projection_outside_legacy_body_m2": 0.0,
+    "original_body_projection_m2": 604.2342538516968,
+    "rectified_body_projection_m2": 709.104213767685,
+    "all_visible_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "db9e85e4f23e18562a5571cfb15f93378fcbcfeb5f8f804061550f5e3cde4f43",
+    "assumed_roof_heights_m": {
+      "main_eaves": 20.25,
+      "main_ridge": 22.2,
+      "end_eaves": 21.15,
+      "end_peak": 23.05
+    },
+    "end_head_exact_dimensions_confirmed": false,
+    "solar_panels_added": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141912",
+    "new_projection_outside_source_m2": 0.0,
+    "new_projection_outside_legacy_body_m2": 0.0,
+    "original_body_projection_m2": 580.482977565378,
+    "rectified_body_projection_m2": 678.9772079130635,
+    "all_visible_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "9b24b164baa2e2d3d5459c5f2105626894c8dc1348e6296caf50e9418c0d623e",
+    "assumed_roof_heights_m": {
+      "main_eaves": 20.25,
+      "main_ridge": 22.2,
+      "end_eaves": 21.15,
+      "end_peak": 23.05
+    },
+    "end_head_exact_dimensions_confirmed": false,
+    "solar_panels_added": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141914",
+    "new_projection_outside_source_m2": 0.0,
+    "new_projection_outside_legacy_body_m2": 0.0,
+    "original_body_projection_m2": 575.0867852875963,
+    "rectified_body_projection_m2": 672.1744041331112,
+    "all_visible_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "e3b8238f7bbc1f9d7030e9392f2ff5dc1f8f510615c065bc99792b61149c80b7",
+    "assumed_roof_heights_m": {
+      "main_eaves": 20.25,
+      "main_ridge": 22.2,
+      "end_eaves": 21.15,
+      "end_peak": 23.05
+    },
+    "end_head_exact_dimensions_confirmed": false,
+    "solar_panels_added": false
+  }
+]

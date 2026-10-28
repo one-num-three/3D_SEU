@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "object_count": 24,
+  "source_outline_id_count": 4,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630141909__V05M9_roof_segment_0",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "7f0d39d8093c758679b859a419a9e1df7a9037a838a0fa444d7a80527ef8492f",
+      "vertex_count": 22,
+      "polygon_count": 14
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__V05M9_roof_segment_1",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "central_roof",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "ff9e81926d3bcc5ba6809d155c54398f4581668b79d716e09736decec63791aa",
+      "vertex_count": 14,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__V05M9_roof_segment_2",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "5b4d35c74f6fa4e9a958d31f87cc0884ee20eafaedae8d6bd1382f28648570e3",
+      "vertex_count": 19,
+      "polygon_count": 12
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__0001",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "ab1e363a54b267beeccb30c0757bfcb8f2ac548a45beb24af907a2cafb8ddf65",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__0002",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "48ea8bac6badecf7137ad4e0b8bae69fe9fec0780b91e1638ecbf251ec24a691",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__0004",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "c4c236b9de78a7890e79345610d5d5da5fc8e48f4c3e70e2982417a8fc050de2",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__V05M9_roof_segment_0",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "aa5e985196b56d7fb5c800f18f5b03745cc5184af10067755f5feabb5850d91c",
+      "vertex_count": 22,
+      "polygon_count": 15
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__V05M9_roof_segment_1",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "central_roof",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "3b9bb9c5f59479c647d19a6a0c8cfa578fc51f48d7c5c17f3cfb1aa2e0b692a9",
+      "vertex_count": 14,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__V05M9_roof_segment_2",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "ee214252da6ee0de4fdcf08ddf9de77975bf0b1c92b373f9a4e423f0b77c5ac8",
+      "vertex_count": 19,
+      "polygon_count": 12
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__0001",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "9637d8548fe1e3660b56ff9cd2c008c0ea65a9dc2cfb895fbfbb677ab1a110d0",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__0002",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "eeda58decf9f0f756bbeb6f2788c535d95700e7fa8ce67e6076864e6d09a7a7c",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__0004",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "4860e86145fa39c352d8ffa270c962dc0a389d3ec25efc4a4d6ecbd7ca89fd5e",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__V05M9_roof_segment_0",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "e1cf00098f4d80a757e80590177b490a48b4a6f65a78a30cb77720d62f83cfb6",
+      "vertex_count": 19,
+      "polygon_count": 12
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__V05M9_roof_segment_1",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "central_roof",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "55f91269d1b7ad05c2848a7cf4be9827919caa6a2a342a7baf6e519b8a8aaf5c",
+      "vertex_count": 14,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__V05M9_roof_segment_2",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "147bb445bc23f3a19631d6ee7365263bad70f9a4b8adc3aacbc8fb3804cc0d6c",
+      "vertex_count": 19,
+      "polygon_count": 12
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__0001",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "30dd52712e89376ea99c60426aba8e6533462fe01b4ea20694f96c946d3ce04c",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__0002",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "3e1d2c605d0b953c0e59aa5ad94eb84795d504c6a676a63e0a4bea5d042fd650",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__0004",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "8a8cc86220419807752f75f0d7af96b6a06c27b1f9e54eb9b037a58f9ac50eec",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__V05M9_roof_segment_0",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "91485e7c2c12a5341c04b7f34ba0def2b7f91524683c11638e1009b9f5c0b1b1",
+      "vertex_count": 19,
+      "polygon_count": 12
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__V05M9_roof_segment_1",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "central_roof",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "6956b9fc866b84faf8f738c7a3f0bbed8b628a0ceb90c30e1a956c77e64e36d4",
+      "vertex_count": 14,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__V05M9_roof_segment_2",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "end_stair_head_roof_type_estimate",
+      "assumption": "Meiyuan 9 group identified from existing registered source and 2026 official aerial, corroborated with private location-only satellite reference. Six storeys documented 2009. Roof/end-head type supported by official Meiyuan photographs; precise geometry and dimensions estimated, not surveyed.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "7e40dbabe02e46a93dbe3b7b034024d1d69e6815abfad4c819d93435a892acf2",
+      "vertex_count": 19,
+      "polygon_count": 12
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__0001",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "0950bc7a2f3351d0bfd6162a1ffeb32ed4fecedc85d58774d2e8fbacab64990f",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__0002",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "43f7ffe50861dc0464079d9a4f42fd07ef238a6ffd0daa14e6ac41f4b1e8da52",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__0004",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid body corrected to accepted OSM inset rectangle; five-row old window placement replaced by six rows/132 framed panes. Warm pale wall and dark glazing type follows official Meiyuan photos; color values estimated, not current calibrated survey.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "03cab60beab0fc26d605c24fa29beaa34133752696e3f3470b9694db3ec9d2ba",
+      "vertex_count": 32,
+      "polygon_count": 26
+    }
+  ]
+}
