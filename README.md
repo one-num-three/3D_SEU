@@ -2,9 +2,21 @@
 
 仓库：https://github.com/one-num-three/3D_SEU
 
-这是九龙湖校园重建项目：轻量 AI 协作框架用于任务认领、独立模块、交接证据与统一验收；本次另在 `public_assets/` 提供已审核的OSM校园基底、教1–8与体育馆工作模型。**这不是完整校园最终模型；不附私人照片或卫星截图。**框架与资产分别记录许可和清单，未收录资产不因此自动开放。
+这是九龙湖校园重建项目：轻量 AI 协作框架用于任务认领、独立模块、交接证据与统一验收；`public_assets/`、`public_assets_v02/` 与 `public_assets_v03/` 分版保留已审核的校园基底、工作模型、体块样板和本轮修复。**这不是完整校园最终模型；不附私人照片或卫星截图。**框架与资产分别记录许可和清单，未收录资产不因此自动开放。
 
 本框架代码与文档采用 [MIT License](LICENSE)，Copyright (c) 2026 3D_SEU contributors。第三方地理数据、影像、字体及模型资产不因本LICENSE被重新授权；见 [NOTICE.md](NOTICE.md)。
+
+## 最新：v0.3 生医南向修正与旧楼恢复
+
+[工程说明](public_assets_v03/README.md) · [全景](public_assets_v03/previews/CAMPUS_OBLIQUE.png) · [完整Blender](public_assets_v03/assets/SEU_campus_restored_v03.blend) · [完整GLB ZIP](public_assets_v03/assets/SEU_campus_restored_v03_GLB.zip)（解压后打开GLB）
+
+生医高楼已改南侧；恢复旧宿舍、学院和游泳馆细部。工科C3和兰园独立标为近似候选，行政及部分翼楼仍待核，不等同全校完成。2726是网格组件数，不是楼数。保留v0.1/v0.2回退。
+
+代码MIT、自有视觉贡献CC BY4.0、OSM派生地理数据库ODbL1.0；C3事实来源及第三方权利边界另列，不将原规划图重新授权。无原始私人照片、卫星截图或第三方纹理。
+
+本版ASSET_MANIFEST独立覆盖174文件（其中173哈希条目＋清单本身）；DEPENDENCIES记录三项固定上版输入。完整模型可独立打开；源复建需整个仓库保留相邻public_assets_v02。
+
+![v0.3全览](public_assets_v03/previews/CAMPUS_OBLIQUE.png)
 
 ## 全校体块样板 v0.2
 
