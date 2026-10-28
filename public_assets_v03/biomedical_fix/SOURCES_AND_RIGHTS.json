@@ -1,0 +1,39 @@
+{
+  "status": "prepared_for_project_review_not_published_by_this_export",
+  "attribution": [
+    "3D_SEU contributors",
+    "\u00a9 OpenStreetMap contributors"
+  ],
+  "geographic_database": {
+    "scope": "OSM-derived positioning, geographic content, building identifiers and related adaptations, including the corresponding geographic content in the final machine-readable geometry database",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_attribution_url": "https://www.openstreetmap.org/copyright",
+    "database_file": "geometry_database.json.gz",
+    "note": "Directory separation and format conversion do not remove ODbL obligations. The supplied final geometry database enables inspection and rebuilding of this model subset. It does not replace the complete project geographic database."
+  },
+  "authored_visual_contributions": {
+    "scope": "Original authored visual geometry and approximate solid-color materials, to the extent those authorial rights are held by the project; without relicensing OSM-derived geographic database content",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_name": "3D_SEU contributors",
+    "authorization": "User explicitly approved this license and attribution for authored model contributions."
+  },
+  "observational_references": {
+    "classes": [
+      "User-supplied building photographs",
+      "User-supplied satellite screenshot",
+      "Existing campus plan references used for factual layout; originals not embedded or redistributed"
+    ],
+    "use": "Observation of building shapes and visible architectural facts for independently constructed geometry; no original raster images, photo textures or screenshot pixels are embedded.",
+    "redistribution": "Original reference images are not included or authorized for public redistribution by this preparation step.",
+    "limitations": "Factual observation does not imply blanket clearance of every source or third-party right. Overall source/right classification remains subject to project licensing review."
+  },
+  "combined_assets": {
+    "files": [
+      "seu_biomedical_south_high_v03.blend",
+      "seu_biomedical_south_high_v03.glb"
+    ],
+    "notice": "Combined assets contain both geographic/database-derived content and original visual contributions. Do not label the entire combined asset simply CC BY, MIT, or free of ODbL obligations."
+  }
+}

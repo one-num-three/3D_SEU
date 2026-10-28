@@ -1,0 +1,44 @@
+{
+  "module_blend": "seu_biomedical_south_high_v03.blend",
+  "module_glb": "seu_biomedical_south_high_v03.glb",
+  "collection": "SEU_BIOMEDICAL_FIX",
+  "replace_clean_object_names": [
+    "SEU_B_OSMWAY_1056927537__0001",
+    "SEU_B_OSMWAY_1056927537__0002",
+    "SEU_B_OSMWAY_1056927537__0003",
+    "SEU_B_OSMWAY_1056927537__0004",
+    "SEU_B_OSMWAY_1056927537__0005",
+    "SEU_B_OSMWAY_1056927537__0006",
+    "SEU_B_OSMWAY_1056927537__0007",
+    "SEU_B_OSMWAY_1056927537__0008"
+  ],
+  "new_object_names": [
+    "SEU_B_OSMWAY_1056927537__0001",
+    "SEU_B_OSMWAY_1056927537__0002",
+    "SEU_B_OSMWAY_1056927537__0003",
+    "SEU_B_OSMWAY_1056927537__0004",
+    "SEU_B_OSMWAY_1056927537__0005",
+    "SEU_B_OSMWAY_1056927537__0006",
+    "SEU_B_OSMWAY_1056927537__0007",
+    "SEU_B_OSMWAY_1056927537__0008",
+    "SEU_B_OSMWAY_1056927537__0009"
+  ],
+  "stable_building_ids": [
+    "SEU_B_OSMWAY_1056927537"
+  ],
+  "other_source_ids_untouched": 13,
+  "base_rotation_applied": false,
+  "correction": "High wing rigidly reoriented from east to south; original geographic base and entry unchanged.",
+  "limitations": [
+    "User confirms side orientation, not every detailed dimension.",
+    "Original estimated height about53.35m retained.",
+    "Supporting south podium extended internally; courtyard remains open north of revised interior edge.",
+    "Low-roof service geometry conflicting with new tower removed, not teleported into unverified locations.",
+    "Previous30 hidden legacy pieces were intentionally replaced by8 photo-informed batched meshes, not accidentally omitted."
+  ],
+  "qa": [
+    "VALIDATION_REPORT.json",
+    "SPATIAL_CORRECTION_QA.json",
+    "PRIVACY_REPORT.json"
+  ]
+}

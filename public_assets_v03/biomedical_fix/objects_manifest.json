@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "object_count": 9,
+  "source_outline_id_count": 1,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0001",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "ca0d1ec3eda79a269e7b1e5289461d963cce82108524b77e0f8fd1ebf771409a",
+      "vertex_count": 18912,
+      "polygon_count": 14184
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0002",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "055cae474770921e38af5b269e956ac8a22263847406d4ea467c92abd54f06b5",
+      "vertex_count": 16496,
+      "polygon_count": 12372
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0003",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "37aa89d13f08cf4cfd4b122c057768ec6ef6bfac544b22d118817d7ed9849ed1",
+      "vertex_count": 152,
+      "polygon_count": 114
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0004",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "3b2d57eaa3f6e24c4a39815e171fb72de2c1d27bd795b8f4ca6102da4e3eff17",
+      "vertex_count": 416,
+      "polygon_count": 312
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0005",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "6d867b3a60c2c549d8b8aa4d4d1b2e2162348242ce3d785accb8ac1c1b01d921",
+      "vertex_count": 2048,
+      "polygon_count": 1536
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0006",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "8d03a3513c5db32078bf7f43a9f80b174dc6a4133649df4965ead18ca127207a",
+      "vertex_count": 240,
+      "polygon_count": 180
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0007",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "24d4ba055d5105b1af3ffef76fb2d7b1bd843af720e3ffe7127265fb55ed63e4",
+      "vertex_count": 96,
+      "polygon_count": 72
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0008",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "User-confirmed high wing on SOUTH; high components rigidly reoriented within fixed OSM base. Heights and detailed dimensions remain estimated; podium support and service clearance adapted.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "79ca4da456823cc3e5193770d9f30722870fdf2e2e43726b723e72f0525a59bf",
+      "vertex_count": 41576,
+      "polygon_count": 41432
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927537__0009",
+      "stableID": "SEU_B_OSMWAY_1056927537",
+      "role": "biomedical_south_high_wing_correction",
+      "assumption": "Estimated south podium infill supporting relocated high wing; courtyard retained north of local y22.5.",
+      "sourceclass": "osm_positioning_and_independent_geometry_observed_building_facts",
+      "geometry_fingerprint": "1d9f9ef0ef7f405624dd89cc5c5b1d6eae5a557259af3f2fcc50067d2dc02ff4",
+      "vertex_count": 16,
+      "polygon_count": 12
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scene_render_filepath": "//preview.png",
+  "external_or_embedded_images_fonts_texts_actions_libraries": 0,
+  "private_custom_properties": 0,
+  "glb_and_geometry_database_recursive_private_reference_matches": 0,
+  "old_evidence_names_in_model_datablocks": 0,
+  "checked_patterns_description": [
+    "workspace/home/tmp absolute paths",
+    "Library file IDs",
+    "private photo identifiers and filenames",
+    "private source folders",
+    "room message IDs",
+    "gallery credential/header and origin references"
+  ],
+  "source_geometry_equivalence": "See VALIDATION_REPORT.json; raw source lineage remains outside this public detail directory.",
+  "decompressed_blend_private_reference_matches": 0
+}

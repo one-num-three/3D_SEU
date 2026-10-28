@@ -1,0 +1,55 @@
+{
+  "stableID": "SEU_B_OSMWAY_1056927537",
+  "fixed_accepted_outer_polygon_local_m": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -14.690365108079,
+          563.091201006901
+        ],
+        [
+          -7.332543426659,
+          484.178516178858
+        ],
+        [
+          57.924267453374,
+          490.217612043023
+        ],
+        [
+          50.565941929584,
+          569.130272228271
+        ],
+        [
+          -14.690365108079,
+          563.091201006901
+        ]
+      ]
+    ]
+  },
+  "within_building_local_frame_origin_xy_m": [
+    -7.33254343,
+    484.17851618
+  ],
+  "within_building_local_frame_angle_rad": 0.0922806923898946,
+  "high_component_rigid_transform_xy": [
+    [
+      0,
+      1,
+      -12
+    ],
+    [
+      -1,
+      0,
+      65.4
+    ]
+  ],
+  "north": "UTM +Y; unchanged",
+  "evidence": "User explicitly corrected tall-wing side to south; detailed dimensions remain estimated.",
+  "ground_courtyard_void_local_after": [
+    18,
+    43,
+    22.5,
+    61
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "PASS",
+  "stableID": "SEU_B_OSMWAY_1056927537",
+  "north_axis": "UTM +Y",
+  "before": {
+    "high_zone_world_aabb_m": [
+      [
+        28.299802780151367,
+        56.374244689941406
+      ],
+      [
+        501.6908264160156,
+        565.1226196289062
+      ],
+      [
+        16.450000762939453,
+        53.349998474121094
+      ]
+    ],
+    "high_projection_m2": 1380.7021220615811,
+    "high_projection_outside_source_m2": 0.0
+  },
+  "after": {
+    "high_zone_world_aabb_m": [
+      [
+        -7.795770168304443,
+        55.636024475097656
+      ],
+      [
+        484.4876708984375,
+        512.5621337890625
+      ],
+      [
+        16.450000762939453,
+        53.349998474121094
+      ]
+    ],
+    "high_projection_m2": 1380.701603462393,
+    "high_projection_outside_source_m2": 0.0
+  },
+  "new_high_main_body_outside_source_m2": 0.0,
+  "low_roof_services_overlap_high_xy_m2": 0.0,
+  "entry_and_inscription_geometry_fingerprints_unchanged": true,
+  "fixed_OSM_outline_rotated": false,
+  "other_13_reused_source_ids_untouched": true,
+  "replacement_objects": 8,
+  "corrected_objects": 9,
+  "court_void_local_after": [
+    18,
+    43,
+    22.5,
+    61
+  ],
+  "height_and_details_assumed": true,
+  "outer_facade_projection_note": "Any small upper facade overhang outside OSM is reported separately from main-body fit; no survey accuracy claim.",
+  "road_check_scope": "No new road-width claim; outer geographic base unchanged. This report tests source-outline fit and roof-service conflicts."
+}

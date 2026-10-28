@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "database_only_rebuild": true,
+  "glb_byte_identical": true,
+  "object_count": 9
+}
