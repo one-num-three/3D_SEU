@@ -1,0 +1,110 @@
+{
+  "status": "frozen_candidate_not_integrated_not_published",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2642,
+      "sha256": "4b592d1b4b323652793372f240f22d7872c0b843e0154e41eb0cb84d14ccccb9"
+    },
+    {
+      "path": "assets/SEU_c15_a_reuse_candidate.blend",
+      "bytes": 116838,
+      "sha256": "40039e1b396eb3521718242f74223ac10466108e7d2e35d4998647c42346c770"
+    },
+    {
+      "path": "assets/SEU_c15_a_reuse_candidate.glb",
+      "bytes": 180964,
+      "sha256": "1fbea783e6f41fbb2fb9a9636083e94c97b9956379d03675aa92d957659a467e"
+    },
+    {
+      "path": "data/FIT_PARAMETERS.json",
+      "bytes": 829,
+      "sha256": "a030eca75af6d95567390a21d6562eddfaa78439f406dc7e91fa73c94d2a8555"
+    },
+    {
+      "path": "data/REGISTRATION.json",
+      "bytes": 1533,
+      "sha256": "d406f622e6679fb5f9ac6e0975f5175338045b7263e92d2870f3ce26994690f1"
+    },
+    {
+      "path": "data/REPLACEMENT_MANIFEST.json",
+      "bytes": 1065,
+      "sha256": "06a72764a236ce2f67c8efc248fd8be3c864d7eb226e475a75872aff49be324c"
+    },
+    {
+      "path": "data/SOURCE_EVIDENCE.json",
+      "bytes": 1532,
+      "sha256": "f14604b52761db8d9f5c2b9ebe00ce5f669c37abd9d2e47c77119db5558dc44d"
+    },
+    {
+      "path": "data/SOURCE_TO_REFINED_CHANGES.json",
+      "bytes": 6157,
+      "sha256": "ad98b84bafc4548acc7de9799be397bcb5a3165e863ef4d0030eefe1d5849f70"
+    },
+    {
+      "path": "data/original_raw_mesh_fingerprints.json.gz",
+      "bytes": 481,
+      "sha256": "7c3b8c7457ad6263f2f2959cfbd0a572deb26f742599338a4d85e72d7fd9674c"
+    },
+    {
+      "path": "data/registered_geometry_database.json.gz",
+      "bytes": 24170,
+      "sha256": "bbbc4e1af600927f4c33511de262e3a76dfc2bbd1487dd9fa6d83cb95aa8c4ea"
+    },
+    {
+      "path": "data/source_geometry_database.json.gz",
+      "bytes": 27193,
+      "sha256": "59f209a4cce9381b816c62e2d0f35436bec8585365295b33215e9d447431b0a5"
+    },
+    {
+      "path": "data/target_footprint.local.geojson",
+      "bytes": 1509,
+      "sha256": "063bb578d5fc0ac123bf357bc476e8aba06987d3f15535faaf9502e3f0b89faa"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 874,
+      "sha256": "521218c58ed3242bf95dd1186f1fdbdd1736512804cdfb151613bb9520c51639"
+    },
+    {
+      "path": "previews/A_REFINED_CANDIDATE.png",
+      "bytes": 858373,
+      "sha256": "1a68e5481b31e321127948b152a986a71dfbf57d94a08c3eeebe1b3ec4c07ec9"
+    },
+    {
+      "path": "qa/COLD_OPEN_QA.json",
+      "bytes": 303,
+      "sha256": "5e793251bfe12da72b5859c361188ea25b2182956209475774cef93bc6c561ed"
+    },
+    {
+      "path": "qa/PROJECTION_QA.json",
+      "bytes": 2642,
+      "sha256": "26ded43fea3f0795341989408a7d106214c576653ef3435eaec0960a1b112980"
+    },
+    {
+      "path": "qa/REPRODUCTION_QA.json",
+      "bytes": 181,
+      "sha256": "42667cac6aa408d478179597aae56cbb62ec352a5e53af7fd6eeb300ea82577c"
+    },
+    {
+      "path": "scripts/rebuild.py",
+      "bytes": 1814,
+      "sha256": "5f8207abbc4da7f45b680d6db05c744f4ec9e8c1a26e3202df1ad030fd978948"
+    },
+    {
+      "path": "scripts/refine_from_source.py",
+      "bytes": 7662,
+      "sha256": "4cf3513711a06beed8df7ea40177d55379279aaabf14c39c91f957aa1d9ed24f"
+    },
+    {
+      "path": "scripts/validate.py",
+      "bytes": 1826,
+      "sha256": "955b34eaf87fab3bf9b77a6711f36269712dce4921149d949300a3fe1e8ec2e5"
+    }
+  ]
+}
