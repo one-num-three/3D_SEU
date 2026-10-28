@@ -1,0 +1,24 @@
+{
+  "stable_id": "SEU_B_OSMWAY_299961611",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_299961611.001"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_299961611_V07__main_body",
+    "SEU_B_OSMWAY_299961611_V07__roof",
+    "SEU_B_OSMWAY_299961611_V07__ground_podium",
+    "SEU_B_OSMWAY_299961611_V07__gallery_deck",
+    "SEU_B_OSMWAY_299961611_V07__gallery_canopy",
+    "SEU_B_OSMWAY_299961611_V07__curved_upper_beam",
+    "SEU_B_OSMWAY_299961611_V07__curved_storey_beam",
+    "SEU_B_OSMWAY_299961611_V07__upper_colonnade",
+    "SEU_B_OSMWAY_299961611_V07__canopy_frames",
+    "SEU_B_OSMWAY_299961611_V07__lower_colonnade",
+    "SEU_B_OSMWAY_299961611_V07__gallery_rails",
+    "SEU_B_OSMWAY_299961611_V07__front_glazing",
+    "SEU_B_OSMWAY_299961611_V07__window_mullions",
+    "SEU_B_OSMWAY_299961611_V07__front_steps"
+  ],
+  "retain_original_outline": true,
+  "new_mesh_count": 14
+}
