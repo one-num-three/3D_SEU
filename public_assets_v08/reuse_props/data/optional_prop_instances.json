@@ -1,0 +1,141 @@
+{
+  "enabled_by_default": false,
+  "layer_label": "R1旧素材静态停放示例 非实测车辆",
+  "source_package": "R1_library24_PORTABLE_FINAL.zip",
+  "coordinate_reference": {
+    "epsg": 32650,
+    "offset_easting_northing_m": [
+      671709.6990725585,
+      3529586.400278158
+    ],
+    "x_axis": "grid east",
+    "y_axis": "grid north",
+    "units": "meters",
+    "rotation_degrees": 0
+  },
+  "instances": [
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136435_0",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        658.2165,
+        242.8759,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.07890074666405515,
+      "scale": 1,
+      "source_parking_way": 630136435,
+      "source_url": "https://www.openstreetmap.org/way/630136435",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    },
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136435_1",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        661.8819,
+        242.8759,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.07890074666405515,
+      "scale": 1,
+      "source_parking_way": 630136435,
+      "source_url": "https://www.openstreetmap.org/way/630136435",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    },
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136437_0",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        593.12,
+        237.8173,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.07903494188164106,
+      "scale": 1,
+      "source_parking_way": 630136437,
+      "source_url": "https://www.openstreetmap.org/way/630136437",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    },
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136437_1",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        596.7944,
+        237.8173,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.07903494188164106,
+      "scale": 1,
+      "source_parking_way": 630136437,
+      "source_url": "https://www.openstreetmap.org/way/630136437",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    },
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136450_0",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        588.3406,
+        370.1699,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.0790470322652185,
+      "scale": 1,
+      "source_parking_way": 630136450,
+      "source_url": "https://www.openstreetmap.org/way/630136450",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    },
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136450_1",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        592.0143,
+        370.1699,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.0790470322652185,
+      "scale": 1,
+      "source_parking_way": 630136450,
+      "source_url": "https://www.openstreetmap.org/way/630136450",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    },
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136453_0",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        653.4369,
+        375.2285,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.07890187151072252,
+      "scale": 1,
+      "source_parking_way": 630136453,
+      "source_url": "https://www.openstreetmap.org/way/630136453",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    },
+    {
+      "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136453_1",
+      "asset_id": "R1_MOB_008",
+      "position_blender_m": [
+        657.1023,
+        375.2285,
+        0.04
+      ],
+      "rotation_blender_z_rad": 0.07890187151072252,
+      "scale": 1,
+      "source_parking_way": 630136453,
+      "source_url": "https://www.openstreetmap.org/way/630136453",
+      "evidence": "OSM bicycle_parking area only; bicycle count/model/location/orientation are illustrative, not surveyed"
+    }
+  ],
+  "unplaced_assets": [
+    {
+      "asset_id": "R1_FIX_002",
+      "reason": "No confirmed campus bench position; show only in separate asset gallery"
+    },
+    {
+      "asset_id": "R1_MOB_014",
+      "reason": "No confirmed electric scooter parking rule/position; show only in separate asset gallery"
+    }
+  ],
+  "no_new_markings_bays_or_parking_geometry": true
+}
