@@ -39,8 +39,8 @@
     },
     {
       "path": "dorm_patch/FILE_MANIFEST.json",
-      "bytes": 1114,
-      "sha256": "2ea3de22c3f7092af02c351cce56368d80b3ebdd6bda30dbc6fccb66fb791723"
+      "bytes": 1115,
+      "sha256": "15aba3b84b0aec08c46fd76fa59ac25dac76c6cc731bcb805b636742b3e81c49"
     },
     {
       "path": "dorm_patch/GEOMETRY_QA.json",
@@ -59,8 +59,8 @@
     },
     {
       "path": "dorm_patch/TAOYUAN_1_2_REVIEW.png",
-      "bytes": 2231223,
-      "sha256": "e48e28409d50995c99ccca02f8a313318fcb1ad6fc02b19b6fd182a3ff7d0059"
+      "bytes": 2231098,
+      "sha256": "e496e033672b222345d20b7bdfd21c6e40c6e255aa4d4a1a9d08be82235495ca"
     },
     {
       "path": "dorm_patch/build_patch.py",
@@ -114,8 +114,8 @@
     },
     {
       "path": "meiyuan9_patch/FILE_MANIFEST.json",
-      "bytes": 1113,
-      "sha256": "9cf3c8190848d39ca9f3c7c820c1e0da8f909348159403be43aa6d2c5684a433"
+      "bytes": 1114,
+      "sha256": "1fc891693b875bdd21f7863b69a0a3507d5f8076b42c53888b76c2c7660ccf07"
     },
     {
       "path": "meiyuan9_patch/GEOMETRY_QA.json",
@@ -129,8 +129,8 @@
     },
     {
       "path": "meiyuan9_patch/MEIYUAN9_REVIEW.png",
-      "bytes": 2015811,
-      "sha256": "39aa1c96428e9c1acb54d4312428205783ea34f61c53fa25554d6b66cd2a3a87"
+      "bytes": 2015687,
+      "sha256": "6f5f568c68e87db28a37560e360d2ace09d92742554aa936d655838fbc8ddf28"
     },
     {
       "path": "meiyuan9_patch/README.md",
@@ -204,8 +204,8 @@
     },
     {
       "path": "pool_patch/previews/POOL_V05_IN_CONTEXT.png",
-      "bytes": 2006918,
-      "sha256": "07dd47b7b61942740840ed8a2a5dc13bb71916a42898331a6949de5cef0c1aee"
+      "bytes": 2006800,
+      "sha256": "e8e54d6133e6e23e891e3bf186819eff2dc57668e1992a6fdd08d7a3aee1d0a8"
     },
     {
       "path": "pool_patch/qa/BUILD_QA.json",
@@ -234,13 +234,13 @@
     },
     {
       "path": "previews/V05_CAMPUS_TOP.png",
-      "bytes": 2679969,
-      "sha256": "63c760ab2bb5f2a8015c9834be36de92a6446566077533004e99f75dae50013f"
+      "bytes": 2679816,
+      "sha256": "6ef323cdf64bdf1b65ff3eb895660d2957f4347518157025ef079bcd7de9cc30"
     },
     {
       "path": "previews/V05_POOL_TAOYUAN_CONTEXT.png",
-      "bytes": 4127621,
-      "sha256": "b401e7ba031944aeaa9130819bd78076c3ddc6e6785a032a03306f9cd69ecbec"
+      "bytes": 4127468,
+      "sha256": "75483ac4ec14472b9b61daca0c5cec181235c1bdabdf24c48b2f22e87e936cea"
     },
     {
       "path": "qa/BUILDING_SAFETY_BOUNDS.json",
