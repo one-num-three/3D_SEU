@@ -1,0 +1,291 @@
+{
+  "version": "0.5.0",
+  "scope": "public_assets_v05 only; previous versions remain unchanged",
+  "files": [
+    {
+      "path": "PROJECT_PHASES.md",
+      "bytes": 1042,
+      "sha256": "d2cf0b37c6cfffdc6e0f7719eb9740f4b750fe85aa23d467115468beb880a91c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3195,
+      "sha256": "6b98eeef883aa1db29bafbe756e3fb9d207c05154360b7c927e3f8790f68fe17"
+    },
+    {
+      "path": "assets/SEU_building_patch_v05.glb",
+      "bytes": 3581432,
+      "sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9"
+    },
+    {
+      "path": "assets/SEU_campus_photorefined_v05.blend",
+      "bytes": 21005686,
+      "sha256": "da9fb6ecb85c301adb3d0436cae72bb760c5e77a068cc768a9c0902a54b81e1d"
+    },
+    {
+      "path": "data/BUILDING_PROGRESS.json",
+      "bytes": 78803,
+      "sha256": "b27e3baf1c4777505e2793fc0828ba7529b5fce7684731f72a22322725c3ffa0"
+    },
+    {
+      "path": "data/REPLACEMENT_MANIFEST.json",
+      "bytes": 7452,
+      "sha256": "7e6b22b5b79868b4015b835e0a78eb7eed7cf64e9e2fc6c6beeda3804e5654ea"
+    },
+    {
+      "path": "dorm_patch/EXPORT_QA.json",
+      "bytes": 2155,
+      "sha256": "f8d997e0c4947d3958b0ad9ade12c3e375bbd27d61112392446d912ce2f58ffa"
+    },
+    {
+      "path": "dorm_patch/FILE_MANIFEST.json",
+      "bytes": 1114,
+      "sha256": "2ea3de22c3f7092af02c351cce56368d80b3ebdd6bda30dbc6fccb66fb791723"
+    },
+    {
+      "path": "dorm_patch/GEOMETRY_QA.json",
+      "bytes": 4074,
+      "sha256": "b3d5177405812606d30eb7d38f4e8e139cfb96d440c275998b1e97576942ae61"
+    },
+    {
+      "path": "dorm_patch/INTEGRATION.json",
+      "bytes": 4029,
+      "sha256": "a2fe43d9f98f7b6a30cd7695bd545517026763c07b155263b7a25a01867515b8"
+    },
+    {
+      "path": "dorm_patch/README.md",
+      "bytes": 2826,
+      "sha256": "268a6502c9da3d2030a40b8f5f97782d5a4c18b19cb7db68d3e9ec08b1cb9f0f"
+    },
+    {
+      "path": "dorm_patch/TAOYUAN_1_2_REVIEW.png",
+      "bytes": 2231223,
+      "sha256": "e48e28409d50995c99ccca02f8a313318fcb1ad6fc02b19b6fd182a3ff7d0059"
+    },
+    {
+      "path": "dorm_patch/build_patch.py",
+      "bytes": 10094,
+      "sha256": "ecbc08634be14224f8038e12290daf8474f7706fc927ceee8c67be2e0f96e984"
+    },
+    {
+      "path": "dorm_patch/geometry_database.json.gz",
+      "bytes": 336077,
+      "sha256": "4e9be90ae2431f6d9bfdbc1b963a80918a5cbf88979e217780e842741706d76d"
+    },
+    {
+      "path": "dorm_patch/objects_manifest.json",
+      "bytes": 31176,
+      "sha256": "081f3178bdc0ff32ba6ce1d4bc7c2a41ce9e99b062b147344efe1802f614dddd"
+    },
+    {
+      "path": "dorm_patch/rebuild_clean.py",
+      "bytes": 3076,
+      "sha256": "ba640314dffcb00a63d9a720c92c679c540c806076b6be32692be306b266c973"
+    },
+    {
+      "path": "dorm_patch/seu_taoyuan_detail_v05.blend",
+      "bytes": 190673,
+      "sha256": "c9a21711ba4c29b70aac41e61af571a074e6c59b75cab697d9eb97679caa99bd"
+    },
+    {
+      "path": "dorm_patch/seu_taoyuan_detail_v05.glb",
+      "bytes": 396928,
+      "sha256": "ce872b149106189d44d22225cf3ec84a274536d4e7101db1b19db0f292f34165"
+    },
+    {
+      "path": "dorm_patch/validate_patch.py",
+      "bytes": 1768,
+      "sha256": "d21d253baf6ef1c301455192cf4aa87e975c8e05e310d4620cdc59c73f5cec73"
+    },
+    {
+      "path": "licenses/MIT_CODE.txt",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "licenses/README.md",
+      "bytes": 742,
+      "sha256": "b79b87acd6787d95004267a3727ff17cbe7ed3e9cad19bb5ae8861994ce63268"
+    },
+    {
+      "path": "meiyuan9_patch/EXPORT_QA.json",
+      "bytes": 1141,
+      "sha256": "26ef6001a7b8b6fc971e3b0cf2f49cc1356e61d685c71d0488d48ec3340a0493"
+    },
+    {
+      "path": "meiyuan9_patch/FILE_MANIFEST.json",
+      "bytes": 1113,
+      "sha256": "9cf3c8190848d39ca9f3c7c820c1e0da8f909348159403be43aa6d2c5684a433"
+    },
+    {
+      "path": "meiyuan9_patch/GEOMETRY_QA.json",
+      "bytes": 2552,
+      "sha256": "df1819f53a423d4a5d10b8ba85fc97eb2f6e0c751cf07d2c04864f25de9a2c2b"
+    },
+    {
+      "path": "meiyuan9_patch/INTEGRATION.json",
+      "bytes": 2176,
+      "sha256": "479370e4879790f5cfa39768f98b877328cfc97ca1a0ae6f3e2cd3acc2097678"
+    },
+    {
+      "path": "meiyuan9_patch/MEIYUAN9_REVIEW.png",
+      "bytes": 2015811,
+      "sha256": "39aa1c96428e9c1acb54d4312428205783ea34f61c53fa25554d6b66cd2a3a87"
+    },
+    {
+      "path": "meiyuan9_patch/README.md",
+      "bytes": 3268,
+      "sha256": "be13360492cbf4fec3c65b787de0e81d9a57969d9675707caca7d2276e381f19"
+    },
+    {
+      "path": "meiyuan9_patch/build_patch.py",
+      "bytes": 9199,
+      "sha256": "6403f61f278e202eb7b30edf093ed3447ce7c1aba7f57a7740811dfc6813d713"
+    },
+    {
+      "path": "meiyuan9_patch/geometry_database.json.gz",
+      "bytes": 97576,
+      "sha256": "697234ac6255cf3dfe5ed8b7230433e5ff5b49c9a1328ee332a6b320aae52f6b"
+    },
+    {
+      "path": "meiyuan9_patch/objects_manifest.json",
+      "bytes": 16988,
+      "sha256": "62acbc901583fd5c58208130a9d59dc1f23898213a3fcff9fa7603b67d14dc9f"
+    },
+    {
+      "path": "meiyuan9_patch/rebuild_clean.py",
+      "bytes": 3079,
+      "sha256": "132da9c2680606e04ebb2185c8b20ce05f4a7fb6740dc6b320fa50322cb8007a"
+    },
+    {
+      "path": "meiyuan9_patch/seu_meiyuan9_detail_v05.blend",
+      "bytes": 132009,
+      "sha256": "90d43e3493bf956a7b3791ec1c42fe9c6a147e626a562ea441398ba48e77a8b2"
+    },
+    {
+      "path": "meiyuan9_patch/seu_meiyuan9_detail_v05.glb",
+      "bytes": 143120,
+      "sha256": "55c8f3a829dffceda518f8f279cb8946ec24aeb040db544f998364dde6420ec0"
+    },
+    {
+      "path": "meiyuan9_patch/validate_patch.py",
+      "bytes": 1769,
+      "sha256": "e74290694708a05bd31343583e973d384053d9f75090555f264d53e92ba5c972"
+    },
+    {
+      "path": "pool_patch/README.md",
+      "bytes": 1772,
+      "sha256": "1468f690639ddb0bb9816becaa19a7844ec693cd66c281e8efe29a95903c31d7"
+    },
+    {
+      "path": "pool_patch/assets/SEU_pool_exterior_v05.blend",
+      "bytes": 368299,
+      "sha256": "505d2812d785708607c4be5aa4760dec79132e8f45408e4c33ed53aba83a8a81"
+    },
+    {
+      "path": "pool_patch/assets/SEU_pool_exterior_v05.glb",
+      "bytes": 933192,
+      "sha256": "9719f5c6671e701cfb371f273ab19eecb75dd6d2555c782b6d59565bd09aa311"
+    },
+    {
+      "path": "pool_patch/data/PATCH_MANIFEST.json",
+      "bytes": 2391,
+      "sha256": "be87bcc23cbcfafdd11bdd43d8876bac169be85aa2b96eced8433f419f6928af"
+    },
+    {
+      "path": "pool_patch/data/geometry_database.json.gz",
+      "bytes": 584268,
+      "sha256": "564287a8ae5726fa5efdc1fc15cf29626e493afe756e7ca369e2bc422f02845a"
+    },
+    {
+      "path": "pool_patch/data/pool_parameters.json",
+      "bytes": 3908,
+      "sha256": "d2c29eaceb182819bd06c0ed76debecdaf8ac9a368563ffdafdb0de7e36daa37"
+    },
+    {
+      "path": "pool_patch/previews/POOL_V05_IN_CONTEXT.png",
+      "bytes": 2006918,
+      "sha256": "07dd47b7b61942740840ed8a2a5dc13bb71916a42898331a6949de5cef0c1aee"
+    },
+    {
+      "path": "pool_patch/qa/BUILD_QA.json",
+      "bytes": 304,
+      "sha256": "b313535085d65d0a99a26b1b615d763f81180d547e5edad6b508bb6fd584ad6e"
+    },
+    {
+      "path": "pool_patch/qa/EXPORT_QA.json",
+      "bytes": 404,
+      "sha256": "dafc5113d2800532308bd959351c3705468f1354207b10397286859116d8a9af"
+    },
+    {
+      "path": "pool_patch/qa/PROJECTION_QA.json",
+      "bytes": 428,
+      "sha256": "c694937b3e10229b010073cb7c3d3d02777f990b3dd9f0c82a776464008f6b52"
+    },
+    {
+      "path": "pool_patch/scripts/build_pool.py",
+      "bytes": 8919,
+      "sha256": "129afa3d0bfad308a1d34d6c82e797a11c438637759d7b5346f7b8e215a655d2"
+    },
+    {
+      "path": "pool_patch/scripts/validate_pool.py",
+      "bytes": 1656,
+      "sha256": "530fc103c5e2b8511da1449057d6511b24c0abb22bc95130d4e0e777bd1f908a"
+    },
+    {
+      "path": "previews/V05_CAMPUS_TOP.png",
+      "bytes": 2679969,
+      "sha256": "63c760ab2bb5f2a8015c9834be36de92a6446566077533004e99f75dae50013f"
+    },
+    {
+      "path": "previews/V05_POOL_TAOYUAN_CONTEXT.png",
+      "bytes": 4127621,
+      "sha256": "b401e7ba031944aeaa9130819bd78076c3ddc6e6785a032a03306f9cd69ecbec"
+    },
+    {
+      "path": "qa/BUILDING_SAFETY_BOUNDS.json",
+      "bytes": 166662,
+      "sha256": "120d15613746eb1845f3c232388deb1ef6b9ca5c6079cc763871a757b1872558"
+    },
+    {
+      "path": "qa/COLD_OPEN_EXPORT_QA.json",
+      "bytes": 446,
+      "sha256": "bfdc0494a83212d7abfde588d6a6d9ab34f3e1e33c809244cdaa94f95d0a0f62"
+    },
+    {
+      "path": "qa/INTEGRATION_QA.json",
+      "bytes": 277092,
+      "sha256": "89bc45897ac9576c88a8f29d7806d9325a2f093d4d465d5c53f70b55110b2f6a"
+    },
+    {
+      "path": "qa/PREVIEW_QA.json",
+      "bytes": 354,
+      "sha256": "f765d09b0a6d832a014c35ff4dc111cb19a0b2ba9f38dba04feaa58d8d2d051f"
+    },
+    {
+      "path": "qa/PRIVACY_SCAN.json",
+      "bytes": 179,
+      "sha256": "5b99d8bff86e3f18a475ad885ffe69e9411173afc30400d6f336d1efa8570c55"
+    },
+    {
+      "path": "scripts/integrate_checkpoint.py",
+      "bytes": 5426,
+      "sha256": "fbbf0585edec1b3025526c935134bc0a7805a10e3f81113e20499b06a74c9e33"
+    },
+    {
+      "path": "scripts/render_checkpoint.py",
+      "bytes": 3550,
+      "sha256": "7b39ec80df95a99d4df579892433bf59dfc80a0f6504854777fc04665577c89a"
+    },
+    {
+      "path": "scripts/validate_checkpoint_blender.py",
+      "bytes": 1909,
+      "sha256": "8034d6cdc53afb19f22116a2a953b85d98c4b51135303f8132024d4a5cefc5a9"
+    },
+    {
+      "path": "scripts/validate_release.py",
+      "bytes": 1276,
+      "sha256": "59ec299459fe3e7909b1e854223a399ea71b2e4f1a2190f6d904ccfd00944f66"
+    }
+  ]
+}
