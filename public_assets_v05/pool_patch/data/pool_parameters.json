@@ -1,0 +1,160 @@
+{
+  "stable_id": "SEU_B_OSMWAY_851764288",
+  "display_name": "九龙湖游泳馆",
+  "origin_world_xy": [
+    660.3343048095703,
+    142.97736358642578
+  ],
+  "rotation_radians": 0.07633035571221397,
+  "roof_length_m": 116,
+  "roof_width_m": 40,
+  "bay_count": 7,
+  "roof_peak_z_m": 11.05,
+  "roof_spring_z_m": 0.55,
+  "base_z_m": 0.32,
+  "cross_vault_formula": "upper envelope of two elliptical barrel profiles in each bay; visual approximation, not structural reconstruction",
+  "height_status": "2019 official design total height 11.05m, not as-built survey; supersedes old generic11.37m template",
+  "placement_status": "OSM base unchanged; no center or orientation movement; old chamfered placeholder body corrected locally",
+  "old_replace_object_names": [
+    "SEU_B_OSMWAY_851764288__0001",
+    "SEU_B_OSMWAY_851764288__0002",
+    "SEU_B_OSMWAY_851764288__0003",
+    "SEU_B_OSMWAY_851764288__0004",
+    "SEU_B_OSMWAY_851764288__0005",
+    "SEU_B_OSMWAY_851764288__0006"
+  ],
+  "visual_sources": [
+    {
+      "url": "https://adri.seu.edu.cn/2023/1225/c56277a511272/page.htm",
+      "role": "architect official description, seven arches/materials"
+    },
+    {
+      "url": "https://www.gooood.cn/natatorium-of-southeast-university-by-zhou-qi-studio-architects-and-engineers-associates-of-southeast-university.htm",
+      "role": "architect-supplied article and completed exterior photographs, privately inspected; photos not distributed"
+    },
+    {
+      "url": "https://news.seu.edu.cn/2019/0430/c5487a271243/page.htm",
+      "role": "official design height 11.05m; design rather than as-built measurement"
+    }
+  ],
+  "uncertain": [
+    "Exact shell curvature/thickness",
+    "Curtain-wall bay dimensions and glass reflectance",
+    "Unseen internal rooms omitted",
+    "116x40m envelope estimated using source registration and architect120x40m construction-site description, not measured building dimensions"
+  ],
+  "colors_srgb": {
+    "terracotta": "#BA6248",
+    "concrete": "#C6C3B8",
+    "glass": "#59848D",
+    "metal": "#A5AAA5",
+    "door": "#385C65",
+    "tile_seam": "#A65743",
+    "foundation": "#D5D3C8"
+  },
+  "legacy_placeholder_footprint_xy": [
+    [
+      600.0714721679688,
+      149.5159912109375
+    ],
+    [
+      604.4177856445312,
+      125.07626342773438
+    ],
+    [
+      617.4852905273438,
+      116.16679382324219
+    ],
+    [
+      711.0719604492188,
+      123.32420349121094
+    ],
+    [
+      719.9814453125,
+      136.3916473388672
+    ],
+    [
+      715.6351318359375,
+      160.83139038085938
+    ],
+    [
+      700.1047973632812,
+      169.552490234375
+    ],
+    [
+      613.9065551757812,
+      162.9601287841797
+    ]
+  ],
+  "legacy_placeholder_local_xy": [
+    [
+      -59.5887512271209,
+      11.115006810344475
+    ],
+    [
+      -57.11877526631689,
+      -13.584992252543563
+    ],
+    [
+      -44.76872245630644,
+      -23.464998734608834
+    ],
+    [
+      49.09124398424326,
+      -23.464998734608834
+    ],
+    [
+      58.97126102635533,
+      -11.115007945613803
+    ],
+    [
+      56.50128622912945,
+      13.585006331633554
+    ],
+    [
+      41.68121059504128,
+      23.464997712574718
+    ],
+    [
+      -44.76875288502509,
+      23.464986812822282
+    ]
+  ],
+  "footprint_original_xy": [
+    [
+      604.0283112904187,
+      118.61273566352777
+    ],
+    [
+      719.6905485853113,
+      127.45846140763673
+    ],
+    [
+      716.6402983287219,
+      167.34199150932378
+    ],
+    [
+      600.9780610338294,
+      158.49626576521482
+    ]
+  ],
+  "footprint_local_xy": [
+    [
+      -58,
+      -20
+    ],
+    [
+      58,
+      -20
+    ],
+    [
+      58,
+      20
+    ],
+    [
+      -58,
+      20
+    ]
+  ],
+  "footprint_status": "Rectangular built form supported by architect description and completed photographs; estimated116x40m envelope inside unchanged accepted OSM outline. Center and orientation retained; dimensions are not surveyed."
+}
