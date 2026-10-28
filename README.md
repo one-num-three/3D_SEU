@@ -6,7 +6,15 @@
 
 本框架代码与文档采用 [MIT License](LICENSE)，Copyright (c) 2026 3D_SEU contributors。第三方地理数据、影像、字体及模型资产不因本LICENSE被重新授权；见 [NOTICE.md](NOTICE.md)。
 
-## 最新预览：v0.4.0 轻快底图与显示修复
+## 最新：局部建筑 v0.5 / 网页 v0.5.0
+
+[在线查看](https://one-num-three.github.io/3D_SEU/) · [本轮资产与来源](public_assets_v05/README.md) · [泳馆与桃园预览](public_assets_v05/previews/V05_POOL_TAOYUAN_CONTEXT.png)
+
+本轮更新游泳馆 1 座、桃园 8 条宿舍与梅园九舍 4 条宿舍：外廓、屋面、墙窗及材料逐模块重建。按精确清单替换 54 个旧对象、添加 111 个新对象，保留其余 2672 个原对象；2783 是网格对象数，不是楼栋数。原始 v0.1–v0.4 资产保留不改，浏览器在固定 v0.3 基础上载入独立 v0.5 增量，继续使用 v0.4 地表。来源照片仅用于观察，不公开原像素、不嵌入纹理。
+
+网页保留 v0.4.1 的分层地表渲染与泳馆定位、保留建筑原材质。该发布是阶段性改进，不是全校精模完成：估计尺寸、楼高及 C3／兰园近似定位限制仍有效。新增资产由 `public_assets_v05/ASSET_MANIFEST.json` 独立校验；分层许可不变。真机显示与性能需继续验收，不把无 GPU 环境的解析检查冒充手机实渲通过。
+
+## v0.4.0 轻快底图与显示修复
 
 [在线查看校园](https://one-num-three.github.io/3D_SEU/) · [v0.4 地表说明](public_assets_v04/README.md)
 
