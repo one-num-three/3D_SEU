@@ -1,0 +1,42 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_630686661",
+    "name_osm": "桃园北食堂",
+    "priority": 1,
+    "state": "v07_patch_in_progress",
+    "whole_marker_confirmed_v06": true,
+    "no_global_raise": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300020042",
+    "name_osm": "行政办公楼",
+    "priority": 2,
+    "state": "evidence_required_before_geometry",
+    "whole_marker_confirmed_v06": true,
+    "no_global_raise": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_171400094",
+    "name_osm": "特色餐厅",
+    "priority": 3,
+    "state": "evidence_required_before_geometry",
+    "whole_marker_confirmed_v06": true,
+    "no_global_raise": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300020025",
+    "name_osm": "",
+    "priority": 4,
+    "state": "evidence_required_before_geometry",
+    "whole_marker_confirmed_v06": true,
+    "no_global_raise": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300020029",
+    "name_osm": "",
+    "priority": 5,
+    "state": "evidence_required_before_geometry",
+    "whole_marker_confirmed_v06": true,
+    "no_global_raise": true
+  }
+]
