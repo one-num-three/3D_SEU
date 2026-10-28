@@ -1,0 +1,2397 @@
+{
+  "detailed_source_meshes": 417,
+  "runtime_meshes": 304,
+  "runtime_triangles_calculated": 94768,
+  "all_source_geometry_archived": true,
+  "changes": [
+    {
+      "source_name": "GEO_COURT_817128601_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128601_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128601_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128601_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128601_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128601_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128601_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128601_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128601_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128601_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128601_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128602_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128602_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128602_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128602_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128602_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128602_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128602_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128602_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128602_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128602_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128602_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128603_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128603_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128603_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128603_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128603_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128603_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128603_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128603_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128603_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128603_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128603_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128604_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128604_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128604_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128604_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128604_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128604_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128604_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128604_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128604_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128604_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128604_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128608_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128608_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128608_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128608_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128608_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128608_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128608_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128608_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128608_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128608_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128608_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128611_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128611_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128611_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128611_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128611_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128611_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128611_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128611_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128611_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128611_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128611_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128612_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128612_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128612_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128612_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128612_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128612_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128612_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128612_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128612_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128612_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128612_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128614_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128614_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128614_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128614_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128614_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128614_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128614_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128614_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128614_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128614_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128614_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128619_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128619_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128619_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128619_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128619_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128619_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128619_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128619_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128619_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128619_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128619_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128620_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128620_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128620_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128620_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128620_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128620_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128620_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128620_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128620_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128620_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128620_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128621_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128621_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128621_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128621_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128621_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128621_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128621_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128621_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128621_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128621_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128621_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_COURT_817128622_BACKBOARDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128622_BACKBOARDS",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128622_BACKSTOP",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128622_BACKSTOP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128622_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128622_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_COURT_817128622_NETS",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128622_NETS",
+      "action": "source_dimension_orange_rim_24x6_LOD_and_white_net_coarse_LOD",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_COURT_817128622_OSM_PAD",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_COURT_817128622_SURFACE",
+      "runtime_name": "SEU_SPORT_V12__GEO_COURT_817128622_SURFACE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_CONTINUOUS_TEAL_PLATFORM",
+      "action": "omitted_runtime",
+      "reason": "avoid duplicate ground slab; existing basemap preserved"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_NORTH_END_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_NORTH_END_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_NORTH_END_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_1_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_1_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_1_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_1_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_1_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_1_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_2_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_2_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_2_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_2_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_2_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_2_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_3_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_3_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_3_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_3_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_3_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_3_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_4_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_4_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_4_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_4_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_4_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_1_ROW_4_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_1_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_1_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_1_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_1_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_1_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_1_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_2_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_2_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_2_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_2_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_2_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_2_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_3_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_3_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_3_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_3_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_3_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_3_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_4_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_4_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_4_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_4_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_4_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_2_ROW_4_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_1_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_1_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_1_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_1_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_1_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_1_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_2_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_2_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_2_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_2_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_2_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_2_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_3_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_3_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_3_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_3_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_3_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_3_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_4_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_4_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_4_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_4_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_4_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_3_ROW_4_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_1_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_1_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_1_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_1_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_1_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_1_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_2_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_2_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_2_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_2_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_2_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_2_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_3_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_3_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_3_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_3_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_3_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_3_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_4_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_4_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_4_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_4_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_4_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_4_ROW_4_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_1_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_1_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_1_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_1_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_1_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_1_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_2_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_2_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_2_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_2_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_2_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_2_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_3_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_3_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_3_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_3_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_3_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_3_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_4_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_4_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_4_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_4_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_4_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_5_ROW_4_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_1_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_1_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_1_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_1_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_1_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_1_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_2_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_2_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_2_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_2_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_2_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_2_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_3_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_3_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_3_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_3_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_3_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_3_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_4_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_4_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_4_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_4_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_4_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_6_ROW_4_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_1_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_1_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_1_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_1_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_1_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_1_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_2_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_2_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_2_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_2_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_2_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_2_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_3_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_3_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_3_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_3_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_3_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_3_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_4_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_4_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_4_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_4_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_4_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_PARTIAL_SIDE_7_ROW_4_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C01_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C01_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C01_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C01_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C01_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C01_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C01_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C01_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C02_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C02_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C02_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C02_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C02_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C02_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C02_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C02_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C03_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C03_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C03_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C03_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C03_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C03_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C03_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C03_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C04_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C04_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C04_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C04_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C04_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C04_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C04_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C04_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C05_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C05_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C05_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C05_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C05_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C05_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C05_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C05_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C06_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C06_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C06_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C06_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C06_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C06_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R01_C06_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R01_C06_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C01_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C01_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C01_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C01_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C01_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C01_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C01_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C01_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C02_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C02_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C02_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C02_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C02_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C02_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C02_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C02_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C03_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C03_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C03_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C03_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C03_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C03_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C03_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C03_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C04_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C04_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C04_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C04_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C04_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C04_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C04_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C04_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C05_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C05_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C05_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C05_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C05_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C05_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C05_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C05_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C06_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C06_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C06_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C06_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C06_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C06_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R02_C06_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R02_C06_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C01_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C01_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C01_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C01_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C01_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C01_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C01_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C01_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C02_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C02_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C02_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C02_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C02_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C02_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C02_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C02_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C03_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C03_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C03_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C03_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C03_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C03_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C03_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C03_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C04_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C04_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C04_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C04_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C04_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C04_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C04_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C04_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C05_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C05_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C05_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C05_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C05_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C05_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C05_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C05_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C06_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C06_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C06_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C06_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C06_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C06_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R03_C06_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R03_C06_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C01_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C01_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C01_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C01_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C01_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C01_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C01_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C01_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C01_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C01_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C02_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C02_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C02_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C02_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C02_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C02_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C02_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C02_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C02_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C02_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C03_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C03_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C03_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C03_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C03_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C03_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C03_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C03_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C03_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C03_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C04_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C04_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C04_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C04_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C04_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C04_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C04_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C04_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C04_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C04_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C05_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C05_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C05_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C05_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C05_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C05_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C05_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C05_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C05_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C05_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C06_CYAN_PLAYING_RECTANGLE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C06_CYAN_PLAYING_RECTANGLE",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "surface_paint"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C06_DARK_NET_STRANDS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C06_DARK_NET_STRANDS",
+      "action": "coarse_net_LOD_inside_original_net_envelope_full_net_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C06_NET_POSTS_AND_CENTRE_STRAP",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C06_PAIRED_CURVED_WHITE_FIXTURE",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C06_PALE_NARROW_TOP_TAPE",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C06_PALE_NARROW_TOP_TAPE",
+      "action": "double_sided_sag_profile_ribbon_LOD_16_segments_full_source_archived",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_R04_C06_WHITE_MARKINGS",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_R04_C06_WHITE_MARKINGS",
+      "action": "original_top_faces_only_shape_preserved",
+      "role": "linework"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_3_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_3_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_3_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_4_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_4_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_4_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_5_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_5_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_5_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_6_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_6_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_6_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_7_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_7_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_N_7_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_3_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_3_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_3_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_4_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_4_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_4_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_5_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_5_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_5_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_6_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_6_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_6_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_7_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_7_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_1_S_7_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_3_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_3_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_3_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_4_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_4_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_4_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_5_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_5_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_5_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_6_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_6_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_6_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_7_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_7_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_N_7_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_3_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_3_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_3_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_4_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_4_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_4_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_5_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_5_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_5_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_6_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_6_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_6_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_7_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_7_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_2_S_7_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_3_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_3_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_3_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_4_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_4_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_4_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_5_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_5_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_5_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_6_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_6_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_6_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_7_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_7_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_N_7_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_1_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_1_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_1_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_2_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_2_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_2_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_3_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_3_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_3_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_4_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_4_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_4_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_5_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_5_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_5_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_6_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_6_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_6_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_7_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_7_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_ROW_PASSAGE_3_S_7_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_SOUTH_END_FINE_WIRE",
+      "action": "omitted_runtime",
+      "reason": "fine fence wire LOD"
+    },
+    {
+      "source_name": "GEO_SPORT_R7_TENNIS_SOUTH_END_FRAME",
+      "runtime_name": "SEU_SPORT_V12__GEO_SPORT_R7_TENNIS_SOUTH_END_FRAME",
+      "action": "retained_exact_geometry",
+      "role": "equipment"
+    }
+  ]
+}

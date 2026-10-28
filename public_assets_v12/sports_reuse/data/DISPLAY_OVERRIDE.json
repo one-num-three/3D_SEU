@@ -1,0 +1,20 @@
+{
+  "target_asset": "public_assets_v04/assets/SEU_basemap_overlay_v04.glb",
+  "target_exact_node_name": "V04_OSMWAY_300010628_sports",
+  "source_material_name": "V04_sports",
+  "source_baseColorFactor": [
+    0.68668532371521,
+    0.6104955673217773,
+    0.47353148460388184,
+    1
+  ],
+  "new_srgb_hex": "#1BA66B",
+  "new_linear_rgba": [
+    0.010960094006488246,
+    0.38132601143253014,
+    0.14702726649759498,
+    1
+  ],
+  "must_clone_material_for_target_node_only": true,
+  "original_asset_bytes_unchanged": true
+}
