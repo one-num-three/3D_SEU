@@ -1,0 +1,5 @@
+R1 campus furniture and mobility models: SEU campus project contributors, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Source branch: R1 24-design preview-led reconstruction, 2026-10-22. Not the recovered original 206-design collection; not surveyed SEU furniture.
+Changes in this display derivative: component meshes merged; original geometry, dimensions and palette retained; material base colors baked to vertex colors; surface roughness unified. Original per-material PBR settings remain available in the editable R1 source.
+Parking geographic data: © OpenStreetMap contributors, https://www.openstreetmap.org/copyright ; ODbL-1.0, https://opendatacommons.org/licenses/odbl/1-0/
+Optional parked bicycles are illustrative: only the source parking areas are mapped. Bicycle count, models, exact placement and orientation are not surveyed. Bench and scooter assets have no assigned campus placement.
