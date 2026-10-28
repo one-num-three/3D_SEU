@@ -1,0 +1,15 @@
+{
+  "status": "PASS_FORMAT_AND_ROUNDTRIP_NOT_GEOGRAPHIC_CALIBRATION",
+  "meshes": 35,
+  "triangles": 1098,
+  "roundtrip_1mm_triangle_fingerprints_equal": true,
+  "v14_original_unchanged": true,
+  "images_fonts_texts_external_libraries": 0,
+  "not_verified": [
+    "individual building footprint registration",
+    "actual metric heights",
+    "complete entry topology",
+    "interior and basement",
+    "current project completion status"
+  ]
+}

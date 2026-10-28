@@ -1,0 +1,35 @@
+{
+  "status": "APPROXIMATE_INTERNAL_LAYOUT_REVIEW_ONLY",
+  "source_compound_is_envelope_not_individual_building_footprints": true,
+  "compound_area_m2": 9095.253623133403,
+  "old_15m_solid_area_m2": 9095.253623133403,
+  "proposed_main_volume_projection_m2": 2034.9891234485165,
+  "remaining_non_body_area_m2": 7060.2644996848885,
+  "proposed_full_upper_projection_m2": 2348.4229774700434,
+  "outside_compound_m2": 0.0,
+  "road_overlap_m2": 0.0,
+  "minimum_distance_to_estimated_road_area_m": 15.873862198049364,
+  "court_center_tall_body_overlap": false,
+  "accepted_ground_control_points": 0,
+  "registration_residual_m": null,
+  "absolute_accuracy_bound_m": null,
+  "registration_method": "inferred image framing in existing OSM compound axes; NOT georeferenced individual building footprints",
+  "image_frame_assumption_pixels": [
+    110,
+    -12,
+    498,
+    354
+  ],
+  "rotation_deg": 4.659778058023846,
+  "all_heights_estimated": true,
+  "old_R7_geometry_copied": false,
+  "unseen_windows_or_basement_constructed": false,
+  "open_court_center_local_m": [
+    -724.6862771798164,
+    335.97557794888854
+  ],
+  "mesh_count": 35,
+  "distance_to_mapped_water_surface_m": 57.140899272656874,
+  "mapped_water_overlap_m2": 0.0,
+  "shore_accuracy_note": "existing simplified OSM water polygon; not surveyed bank edge"
+}
