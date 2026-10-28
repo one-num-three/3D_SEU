@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "tree_count": 603,
+  "unchanged_tree_source_sha256": "fa29928204d0210aa2a5aae979b62ecffd9ff690e3af238dbcce9a2292527458",
+  "minimum_crown_to_projection_m": 49.44324659973242,
+  "clearance_threshold_m": 7,
+  "conflicts": [],
+  "tree_positions_modified": false
+}

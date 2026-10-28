@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "source_footprint_m2": 975.5929861787292,
+  "source_holes": 0,
+  "lower_floor_parts": 2,
+  "lower_footprint_m2": 901.8309892851115,
+  "preserved_passage_area_m2": 73.76199689361873,
+  "lower_blockage_road_area_m2": 0.0,
+  "full_projection_excess_m2": 1.0547118733938987e-12,
+  "full_projection_missing_m2": 0,
+  "source_road_display_top_z_m": 0.035,
+  "estimated_under_slab_clearance_above_road_m": 3.2849999999999997,
+  "passage_floor_slab_z_m": 3.32,
+  "metric_clearance_measured": false,
+  "upper_projection_overlap_road_classification": "legal building_passage; no ground wall in source corridor",
+  "not_a_courtyard_fill": "source polygon has zero holes; known passage retained lower only"
+}

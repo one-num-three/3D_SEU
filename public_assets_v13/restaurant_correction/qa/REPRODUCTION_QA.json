@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "rebuild_source_to_final_semantic_match": true,
+  "source_final_meshes": 4,
+  "all_parameters_included": true
+}
