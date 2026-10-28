@@ -1,0 +1,26 @@
+{
+  "version": "0.9.0",
+  "base_model_version": "0.3",
+  "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "patch_file": "assets/SEU_building_patch_v09.glb",
+  "replace_object_names": [],
+  "append_object_names": [
+    "SEU_B_OSMWAY_630686661_V09__white_equipment_housings",
+    "SEU_B_OSMWAY_630686661_V09__panel_front_frames",
+    "SEU_B_OSMWAY_630686661_V09__panel_back_frames",
+    "SEU_B_OSMWAY_630686661_V09__orange_volume_roofcap",
+    "SEU_B_OSMWAY_630686661_V09__orange_volume_glazing",
+    "SEU_B_OSMWAY_630686661_V09__orange_roof_volume",
+    "SEU_B_OSMWAY_630686661_V09__equipment_panel_arrays",
+    "SEU_B_OSMWAY_630686661_V09__equipment_louvres",
+    "SEU_B_OSMWAY_630686661_V09__equipment_caps"
+  ],
+  "retain_base_outlines": true,
+  "material_policy": "retain evidence-based patch colors; do not apply global gray override",
+  "display_basemap_version": "0.4",
+  "old_source_count": 2896,
+  "replaced_count": 0,
+  "appended_count": 9,
+  "merged_count": 2905,
+  "requires_prior_building_patch": "public_assets_v08/data/REPLACEMENT_MANIFEST.json"
+}
