@@ -1,0 +1,32 @@
+[
+  {
+    "name": "TJB_NORTH_CORE",
+    "outside_osm_m2": 0.0,
+    "max_z_m": 12.12
+  },
+  {
+    "name": "TJB_NORTH_BASE",
+    "outside_osm_m2": 0.0,
+    "max_z_m": 0.85
+  },
+  {
+    "name": "TJB_NORTH_FRAME_GRID_4_VISIBLE_ROWS",
+    "outside_osm_m2": 0.0,
+    "max_z_m": 11.0
+  },
+  {
+    "name": "TJB_NORTH_GLAZING",
+    "outside_osm_m2": 0.0,
+    "max_z_m": 10.920000000000002
+  },
+  {
+    "name": "TJB_NORTH_HIPPED_ROOF",
+    "outside_osm_m2": 0.0,
+    "max_z_m": 14.27
+  },
+  {
+    "name": "TJB_SOUTH_U_HIPPED_ROOF",
+    "outside_osm_m2": 0.0,
+    "max_z_m": 26.7
+  }
+]

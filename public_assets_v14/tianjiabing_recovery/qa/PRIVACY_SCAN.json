@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "decompressed_blend_and_gzip_scanned": true,
+  "no_private_paths_tokens_or_photos": true,
+  "excluded": [
+    "__pycache__",
+    ".pyc",
+    ".blend1",
+    "private_reference"
+  ],
+  "cleaned_default_filebrowser_strings": 1
+}
