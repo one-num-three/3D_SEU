@@ -1,0 +1,155 @@
+{
+  "version": "0.8.0",
+  "scope": "administrative building low-marker recovery with estimated wing allocation; optional reused R1 bicycles; prior models retained",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 6503,
+      "sha256": "940f862cb4119a7c7a5aec42128b08fb511ce8f9b579751631c52445c1ffb9e3"
+    },
+    "admin_patch/assets/SEU_administration_v08.blend": {
+      "bytes": 2749912,
+      "sha256": "c48243011512b3fb9ef7f5393afea8d4263e9d4ca9635363a8b3e344151cec3c"
+    },
+    "admin_patch/assets/SEU_administration_v08.glb": {
+      "bytes": 1747936,
+      "sha256": "a1b6c548341f68ff3a2031584c5273dc882d6b3ced2ea2e99835d3d23b71133b"
+    },
+    "admin_patch/data/PATCH_MANIFEST.json": {
+      "bytes": 1099,
+      "sha256": "6e4d8bebb93128153a6c56f6bed5da7ac183e7a2e5e90788da60868450941e64"
+    },
+    "admin_patch/data/admin_parameters.json": {
+      "bytes": 25519,
+      "sha256": "93e25cf15ab4084074df36cc67d8b78e944acc426561c920536117cafcbb9eef"
+    },
+    "admin_patch/data/evidence.json": {
+      "bytes": 1364,
+      "sha256": "435da84f6dae8a348affb0630ad2c408dd3fa6c1086c035aaf3ea7e97b1ffb89"
+    },
+    "admin_patch/data/geometry_database.json.gz": {
+      "bytes": 384031,
+      "sha256": "f95dc6dcb1d1b1449ee6f820de79026da26a91677ddd030eae3ded26c3e781cb"
+    },
+    "admin_patch/data/source_footprint.geojson": {
+      "bytes": 3250,
+      "sha256": "3af5e681ca4242bf527cac8bdd8a2175c76f2c8b1baabbeb1d87814c0da5616b"
+    },
+    "admin_patch/data/source_passage.local.geojson": {
+      "bytes": 4003,
+      "sha256": "4b6fa9a7b522020ef1e3a7d5dd77d7c44adaa4f647f807dfad44ed5dacbc1f92"
+    },
+    "admin_patch/qa/PASSAGE_QA.json": {
+      "bytes": 178,
+      "sha256": "d9549c412ae8c38c4a2e91b8ec3afadeddba36b20aaf6e9ed2d3f80c91a2d29f"
+    },
+    "admin_patch/qa/PROJECTION_QA.json": {
+      "bytes": 96,
+      "sha256": "ab8984c24d6322997e23674d286bb6a85f11bcddeae35623cf606ac05569fde1"
+    },
+    "admin_patch/scripts/build_admin.py": {
+      "bytes": 6587,
+      "sha256": "34d1cf7b22ab2b67ca9e07029998af5c351b2a589d681bc1bb5bfaf32c5aba9d"
+    },
+    "assets/SEU_building_patch_v08.glb": {
+      "bytes": 1748416,
+      "sha256": "580a3f89867930aaf92f1b9390b2477768b1931a12095637db42594b10c73871"
+    },
+    "assets/SEU_campus_photorefined_v08.blend": {
+      "bytes": 21821655,
+      "sha256": "417989054a449595ef0471aabf4597b9d372c284714d60999ef02e3cfada5049"
+    },
+    "data/PROGRESS.json": {
+      "bytes": 817,
+      "sha256": "f9e08f6c8f58f6eea8d1460ce621507079d7cf8f0ea546f84f04efbcc27d4786"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 1542,
+      "sha256": "5d1288499c05491d8b51e087c00219f923c486e061b11a4116659d83bd022d63"
+    },
+    "data/SEMANTIC_RECOVERY_300020029.json": {
+      "bytes": 1187,
+      "sha256": "978fd9ab118ee1a8f26373f3f1dabad58aa3f9dbf08c8205636f9d0662823bae"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 847,
+      "sha256": "bd1deb0a3c4ada71b5663e975e713be3335f44304800575e24813c67fb439224"
+    },
+    "previews/ADMIN_BEFORE_AFTER.png": {
+      "bytes": 426171,
+      "sha256": "bb121aba291b6acd07e181d2ed0d91e48f675a129ad7f96fe74693ecdcd15255"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 173288,
+      "sha256": "99a2ca2cbb2152723d79729253bf7eb0fa0e5c9ed94582fa576db7b299a7e06f"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 445,
+      "sha256": "334f8db23a484b602a859ee753a24b7e68a093c795bab38572074d2540f9ceae"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 301347,
+      "sha256": "2700a9c0f4e4aeef9a0ab8c97fd5112797c6fbccf53c151370960d2282f472f0"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "9ace765c3c6dfc6368ba35d7625cada17b8541b67050ae7ac961237464739ac2"
+    },
+    "qa/R1_CLEARANCE_V08.json": {
+      "bytes": 595,
+      "sha256": "c804484f4aaffca2e1c776827d3c9b940c4730b00a44c4466e602745e551447f"
+    },
+    "qa/R1_RUNTIME_QA.json": {
+      "bytes": 548,
+      "sha256": "645717d7d354397c8354fb9ca33697876c4d2e764677962dea3398d9c30ad99e"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 313,
+      "sha256": "7855abfd07b661b9a533e6ac5cfa4373781b948b5139c15cc151e4219241cd51"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "reuse_props/ATTRIBUTION.txt": {
+      "bytes": 913,
+      "sha256": "ff4e04570ea2b50d57b02d3724636a67c22ee6eca60e58c7e9a96dae05706d6b"
+    },
+    "reuse_props/assets/R1_MOB_008_display.glb": {
+      "bytes": 541708,
+      "sha256": "0b76b1f5933a256fff300dbd14cbf9a876c53940ac5b35b031edd1cffe52b95b"
+    },
+    "reuse_props/data/optional_prop_instances.json": {
+      "bytes": 4712,
+      "sha256": "71425ee05de56f09315bf3b69edafa393af143e1991ec92f33805c3eb852f86e"
+    },
+    "reuse_props/data/parking_source_polygons.json": {
+      "bytes": 30517,
+      "sha256": "20833212ae610987d3dc6008d547badf94be2a8d55f0b82ce2aeaec346f25a5c"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1738,
+      "sha256": "49183541150ddfbb3dba12cc2a87b445a13a408ea0b18e8f62b4c73007267729"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5259,
+      "sha256": "42236d475be4ac0fa6e65200aa1e0b94cdf7bc9072825657a320c59e1100c63c"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 1907,
+      "sha256": "d1321a00e30e8ed9258f938b332014eac407a64e27baf34749a08dbd5a43304d"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 771,
+      "sha256": "7f95aca7d8662d288496e2114b020850b209e10afa97973f94e1f28705e49722"
+    }
+  }
+}
