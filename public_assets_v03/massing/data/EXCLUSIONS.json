@@ -1,0 +1,94 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_299961586",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961591",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961592",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961595",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961605",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961615",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961617",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961622",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300030310",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_549677715",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630686644",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_851764288",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_998738587",
+    "reason": "deferred_scope"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927516",
+    "reason": "deferred_scope"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927517",
+    "reason": "deferred_scope"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927518",
+    "reason": "deferred_scope"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927519",
+    "reason": "deferred_scope"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927521",
+    "reason": "deferred_scope"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927534",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927536",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927537",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927538",
+    "reason": "replaced_by_existing_model"
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927550",
+    "reason": "replaced_by_existing_model"
+  }
+]
