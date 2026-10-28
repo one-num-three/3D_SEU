@@ -1,4 +1,4 @@
-import {applyPalette} from './palette.js';
+import {applyPalette} from './palette.js?v=0.4.0';
 /* MIT © 2026 3D_SEU contributors. Geometry and data retain their separate licenses. */
 const $ = id => document.getElementById(id);
 const host = $('canvas-host'), panel = $('loading');
@@ -19,7 +19,7 @@ document.addEventListener('visibilitychange',()=>{if(!document.hidden)requestDra
 const buttons = ['overview','top','rotate','reset'];
 function fail(message) { panel.hidden=false; $('load-title').textContent='暂时无法显示模型'; $('load-detail').textContent=message; $('progress').hidden=true; document.querySelector('.loader').hidden=true; $('retry').hidden=false; $('render-status').textContent='加载未完成'; buttons.forEach(id=>$(id).disabled=true); }
 $('retry').onclick=()=>location.reload();
-async function metadata(){try{const r=await fetch('./preview/release.json',{cache:'no-store'});if(!r.ok)throw Error();const m=await r.json(); if(m.publishedAt) $('published').textContent=`发布日期：${m.publishedAt}`; if(/^[a-f0-9]{40}$/.test(m.modelCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.modelCommit}`;a.textContent=`模型提交：${m.modelCommit.slice(0,12)}`;$('commit').replaceChildren(a);} if(/^[a-f0-9]{40}$/.test(m.basemapCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.basemapCommit}`;a.textContent=`地表提交：${m.basemapCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.viewerCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.viewerCommit}`;a.textContent=`网页提交：${m.viewerCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);}}catch{ const note=document.createElement('small');note.textContent=' · 元数据暂不可用';$('commit').append(note); }}
+async function metadata(){try{const r=await fetch('./preview/release.json?v=0.4.0',{cache:'no-store'});if(!r.ok)throw Error();const m=await r.json(); if(m.publishedAt) $('published').textContent=`发布日期：${m.publishedAt}`; if(/^[a-f0-9]{40}$/.test(m.modelCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.modelCommit}`;a.textContent=`模型提交：${m.modelCommit.slice(0,12)}`;$('commit').replaceChildren(a);} if(/^[a-f0-9]{40}$/.test(m.basemapCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.basemapCommit}`;a.textContent=`地表提交：${m.basemapCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);} if(/^[a-f0-9]{40}$/.test(m.viewerCommit||'')){const a=document.createElement('a');a.href=`https://github.com/one-num-three/3D_SEU/commit/${m.viewerCommit}`;a.textContent=`网页提交：${m.viewerCommit.slice(0,12)}`;a.style.display='block';$('commit').append(a);}}catch{ const note=document.createElement('small');note.textContent=' · 元数据暂不可用';$('commit').append(note); }}
 metadata();
 function view(top=false){controls.autoRotate=false;$('rotate').setAttribute('aria-pressed','false');controls.target.copy(center);camera.position.copy(center).add(new THREE.Vector3(top?0.001:0.8,top?1:0.85,top?0.001:1).normalize().multiplyScalar(radius));camera.updateProjectionMatrix();controls.update();updateClipping();}
 async function start(){try{
@@ -38,7 +38,7 @@ const bytes=entries['SEU_campus_restored_v03.glb'];if(!bytes||bytes.length!==298
 const digest=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),b=>b.toString(16).padStart(2,'0')).join('');if(digest!=='416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213')throw Error('模型校验失败，请重新下载。');
 $('load-title').textContent='正在构建三维视图';const gltf=await new GLTFLoader().parseAsync(bytes.buffer.slice(bytes.byteOffset,bytes.byteOffset+bytes.byteLength),'');model=gltf.scene;applyPalette(model);scene.add(model);
 $('load-title').textContent='正在加载 v0.4 地表底图';
-const overlayMetaResponse=await fetch('./preview/overlay.json');if(!overlayMetaResponse.ok)throw Error('底图配置加载失败，请重试。');
+const overlayMetaResponse=await fetch('./preview/overlay.json?v=0.4.0');if(!overlayMetaResponse.ok)throw Error('底图配置加载失败，请重试。');
 const overlayMeta=await overlayMetaResponse.json();
 const overlayResponse=await fetch(overlayMeta.url);if(!overlayResponse.ok)throw Error('底图文件加载失败，请重试。');
 const overlayBytes=await overlayResponse.arrayBuffer();

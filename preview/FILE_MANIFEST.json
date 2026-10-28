@@ -9,8 +9,8 @@
   "files": [
     {
       "path": "index.html",
-      "bytes": 4015,
-      "sha256": "8faebc0f47fe2bc5a678c1dc1bc8d8b23dc252e8eb3296d16e57cd2852d153da"
+      "bytes": 4031,
+      "sha256": "623b8ffcfed13cd17f2ee0df761e09ffefc02f4e220f7c4c0fb70a3b0e43669b"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 8975,
-      "sha256": "af0751851148e3f0b2729e51f7cbac18b73722805c181b917feacea5f2406bf6"
+      "bytes": 8999,
+      "sha256": "1995f11e28fd333c0e2b5eaeb7d06d7951ea04c00c6f743999b4e9d8ff08918e"
     },
     {
       "path": "preview/assets/campus-v03.zip",
