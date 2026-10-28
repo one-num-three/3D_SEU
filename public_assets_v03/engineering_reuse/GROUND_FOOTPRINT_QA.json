@@ -1,0 +1,9 @@
+{
+  "status": "PASS_NO_GROUND_ROAD_SURFACE_OVERLAP",
+  "scope": "C3 evaluated mesh bottom triangles z<1m; OSM DRAFT02 road display surfaces, not surveyed widths",
+  "ground_area_m2": 17829.628956811433,
+  "road_surface_overlap_m2": 0,
+  "road_hits": [],
+  "objects": 12,
+  "geometry_identity": "six source wings plus six roof finishes; not twelve buildings"
+}

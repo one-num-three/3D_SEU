@@ -1,0 +1,328 @@
+[
+  {
+    "id": "SW-C3-upper-west",
+    "name_cn": "工科大楼·upper-west",
+    "group": "academic",
+    "status": "under_construction",
+    "footprint_px": [
+      [
+        299,
+        555
+      ],
+      [
+        310,
+        547
+      ],
+      [
+        310,
+        558
+      ],
+      [
+        312,
+        569
+      ],
+      [
+        312,
+        585
+      ],
+      [
+        321,
+        590
+      ],
+      [
+        321,
+        598
+      ],
+      [
+        309,
+        602
+      ],
+      [
+        301,
+        596
+      ]
+    ],
+    "height_m": 32,
+    "height_confidence": "estimated",
+    "height_note": "2025 plan marks construction. Main wings use an estimated 32 m massing height; contractor reports structural maximum 47.7 m, which is not a uniform roof height. Tower position is not reliably identifiable, so no 85 m tower is invented. https://ccusc.cscec.com/dxxinwenzhongxin/xwkx11/202411/3827067.html ; 2026 construction update https://jbjsc.seu.edu.cn/2026/0826/c44715a580451/page.htm",
+    "plan_label": "C3",
+    "plan_status_2025": "under_construction"
+  },
+  {
+    "id": "SW-C3-upper-north",
+    "name_cn": "工科大楼·upper-north",
+    "group": "academic",
+    "status": "under_construction",
+    "footprint_px": [
+      [
+        310,
+        547
+      ],
+      [
+        337,
+        547
+      ],
+      [
+        347,
+        563
+      ],
+      [
+        339,
+        571
+      ],
+      [
+        329,
+        556
+      ],
+      [
+        313,
+        568
+      ],
+      [
+        310,
+        558
+      ]
+    ],
+    "height_m": 32,
+    "height_confidence": "estimated",
+    "height_note": "2025 plan marks construction. Main wings use an estimated 32 m massing height; contractor reports structural maximum 47.7 m, which is not a uniform roof height. Tower position is not reliably identifiable, so no 85 m tower is invented. https://ccusc.cscec.com/dxxinwenzhongxin/xwkx11/202411/3827067.html ; 2026 construction update https://jbjsc.seu.edu.cn/2026/0826/c44715a580451/page.htm",
+    "plan_label": "C3",
+    "plan_status_2025": "under_construction"
+  },
+  {
+    "id": "SW-C3-upper-east",
+    "name_cn": "工科大楼·upper-east",
+    "group": "academic",
+    "status": "under_construction",
+    "footprint_px": [
+      [
+        339,
+        571
+      ],
+      [
+        347,
+        563
+      ],
+      [
+        359,
+        573
+      ],
+      [
+        353,
+        575
+      ],
+      [
+        348,
+        575
+      ],
+      [
+        346,
+        584
+      ],
+      [
+        336,
+        591
+      ],
+      [
+        324,
+        598
+      ],
+      [
+        321,
+        590
+      ],
+      [
+        332,
+        583
+      ]
+    ],
+    "height_m": 32,
+    "height_confidence": "estimated",
+    "height_note": "2025 plan marks construction. Main wings use an estimated 32 m massing height; contractor reports structural maximum 47.7 m, which is not a uniform roof height. Tower position is not reliably identifiable, so no 85 m tower is invented. https://ccusc.cscec.com/dxxinwenzhongxin/xwkx11/202411/3827067.html ; 2026 construction update https://jbjsc.seu.edu.cn/2026/0826/c44715a580451/page.htm",
+    "plan_label": "C3",
+    "plan_status_2025": "under_construction"
+  },
+  {
+    "id": "SW-C3-upper-east-annex",
+    "name_cn": "工科大楼·upper-east-annex",
+    "group": "academic",
+    "status": "under_construction",
+    "footprint_px": [
+      [
+        359,
+        573
+      ],
+      [
+        363,
+        578
+      ],
+      [
+        366,
+        587
+      ],
+      [
+        361,
+        593
+      ],
+      [
+        347,
+        592
+      ],
+      [
+        346,
+        584
+      ],
+      [
+        348,
+        584
+      ],
+      [
+        355,
+        583
+      ],
+      [
+        358,
+        580
+      ],
+      [
+        353,
+        575
+      ]
+    ],
+    "height_m": 32,
+    "height_confidence": "estimated",
+    "height_note": "2025 plan marks construction. Main wings use an estimated 32 m massing height; contractor reports structural maximum 47.7 m, which is not a uniform roof height. Tower position is not reliably identifiable, so no 85 m tower is invented. https://ccusc.cscec.com/dxxinwenzhongxin/xwkx11/202411/3827067.html ; 2026 construction update https://jbjsc.seu.edu.cn/2026/0826/c44715a580451/page.htm",
+    "plan_label": "C3",
+    "plan_status_2025": "under_construction"
+  },
+  {
+    "id": "SW-C3-lower-west",
+    "name_cn": "工科大楼·lower-west",
+    "group": "academic",
+    "status": "under_construction",
+    "footprint_px": [
+      [
+        309,
+        602
+      ],
+      [
+        321,
+        598
+      ],
+      [
+        335,
+        593
+      ],
+      [
+        346,
+        592
+      ],
+      [
+        343,
+        601
+      ],
+      [
+        336,
+        613
+      ],
+      [
+        338,
+        621
+      ],
+      [
+        345,
+        627
+      ],
+      [
+        340,
+        638
+      ],
+      [
+        331,
+        631
+      ],
+      [
+        324,
+        619
+      ],
+      [
+        324,
+        611
+      ],
+      [
+        316,
+        614
+      ]
+    ],
+    "height_m": 32,
+    "height_confidence": "estimated",
+    "height_note": "2025 plan marks construction. Main wings use an estimated 32 m massing height; contractor reports structural maximum 47.7 m, which is not a uniform roof height. Tower position is not reliably identifiable, so no 85 m tower is invented. https://ccusc.cscec.com/dxxinwenzhongxin/xwkx11/202411/3827067.html ; 2026 construction update https://jbjsc.seu.edu.cn/2026/0826/c44715a580451/page.htm",
+    "plan_label": "C3",
+    "plan_status_2025": "under_construction"
+  },
+  {
+    "id": "SW-C3-lower-east-south",
+    "name_cn": "工科大楼·lower-east-south",
+    "group": "academic",
+    "status": "under_construction",
+    "footprint_px": [
+      [
+        347,
+        592
+      ],
+      [
+        361,
+        588
+      ],
+      [
+        379,
+        592
+      ],
+      [
+        379,
+        628
+      ],
+      [
+        367,
+        638
+      ],
+      [
+        357,
+        641
+      ],
+      [
+        340,
+        638
+      ],
+      [
+        345,
+        627
+      ],
+      [
+        357,
+        628
+      ],
+      [
+        368,
+        622
+      ],
+      [
+        367,
+        608
+      ],
+      [
+        357,
+        600
+      ],
+      [
+        343,
+        601
+      ]
+    ],
+    "height_m": 32,
+    "height_confidence": "estimated",
+    "height_note": "2025 plan marks construction. Main wings use an estimated 32 m massing height; contractor reports structural maximum 47.7 m, which is not a uniform roof height. Tower position is not reliably identifiable, so no 85 m tower is invented. https://ccusc.cscec.com/dxxinwenzhongxin/xwkx11/202411/3827067.html ; 2026 construction update https://jbjsc.seu.edu.cn/2026/0826/c44715a580451/page.htm",
+    "plan_label": "C3",
+    "plan_status_2025": "under_construction"
+  }
+]

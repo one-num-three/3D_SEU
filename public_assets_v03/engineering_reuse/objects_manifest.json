@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "object_count": 12,
+  "source_outline_id_count": 1,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0001",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_roof",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "02bfce19e0ffd5195e4e43956d8b1c2b64f108863b124d47c9ff29f69a53c5d4",
+      "vertex_count": 72,
+      "polygon_count": 71
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0002",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_wing",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "098738bcfc69a9301650abe0f76dc666a43e7e023204493ff6b5886d538210ea",
+      "vertex_count": 72,
+      "polygon_count": 71
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0003",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_roof",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "b6a03570725c0bf880aab74651020b96a6f0a8443dee2d4bcdd5eb44d4b2702a",
+      "vertex_count": 70,
+      "polygon_count": 68
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0004",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_wing",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "c474c9e79e475e8c520adece98b70ea19004207a0d249c06725b5cbff77c5e5c",
+      "vertex_count": 70,
+      "polygon_count": 68
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0005",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_roof",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "cb5d0d85ec3cac4f62b3e37d05b3d7a5a5df1a5e730dd1e5a448b1ad76b4a9c6",
+      "vertex_count": 52,
+      "polygon_count": 50
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0006",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_wing",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "0807ac20842bf9ef6fe8849a05e90eff74dc5c53669d3e0885e8fc7a631fc15a",
+      "vertex_count": 52,
+      "polygon_count": 50
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0007",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_roof",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "145898c7fcf30187b12ba5a72d48d2c4a902f05b132f7180ecbb8c05240d80ec",
+      "vertex_count": 56,
+      "polygon_count": 56
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0008",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_wing",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "b42ac702296fafa91618dd670e2a13d4f26740ff0d8968af2ff7b85d3980561c",
+      "vertex_count": 56,
+      "polygon_count": 56
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0009",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_roof",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "16dc786074968066790d8498c22ca6bb0e845b7abe2b3deb4a19a40998050172",
+      "vertex_count": 40,
+      "polygon_count": 41
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0010",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_wing",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "d2b29317a40535a1ec5190f2bfcb26539571d001f5cd3c570f5b4b138397d7e0",
+      "vertex_count": 40,
+      "polygon_count": 41
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0011",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_roof",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "d5abf597dbc85a45841a115db8dd030eb03913cf5be17dea40a9cd117897399b",
+      "vertex_count": 50,
+      "polygon_count": 50
+    },
+    {
+      "name": "SEU_B_LEGACY_PLAN_C3__0012",
+      "stable_id": "SEU_B_LEGACY_PLAN_C3",
+      "role": "legacy_schematic_wing",
+      "assumption": "Legacy C3 six-wing shape and estimated 32m height recovered. Local five-neighbour centroid alignment, RMS 11.22m/max15.77m. Not measured; no OSM identity claimed.",
+      "sourceclass": "legacy_official_plan_trace_geometry_locally_aligned_with_osm",
+      "geometry_fingerprint": "c400957b4012efe256aab90147aba615a070bc5891d92252ade55618de7e4ee6",
+      "vertex_count": 50,
+      "polygon_count": 50
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stable_id": "SEU_B_LEGACY_PLAN_C3",
+  "name": "工科综合科研大楼 C3",
+  "source_url": "https://jbjsc.seu.edu.cn/2025/0630/c44712a534647/page.htm",
+  "source_date": "2025",
+  "source_kind": "official campus plan, legacy manually transcribed six-wing factual/schematic building projections",
+  "source_raster_included": false,
+  "official_source_open_license_or_authorization": "not established; do not claim university authorization",
+  "source_geometry_rights_scope": "Plan-derived factual/schematic geometry is identified separately, not asserted wholly original or covered by our CC BY grant. No source-map artwork, labels, crest, legend, crops or color scheme included.",
+  "original_contributions_license": "CC-BY-4.0 applies only to independently authored 3D expression such as estimated height, roof finishing, bevels and visual materials, to extent rights held by 3D_SEU contributors",
+  "code_license": "MIT",
+  "OSM_relationship": "Positioning controls use OSM nearby buildings; such geographic/database contributions retain ODbL-1.0 obligations; no fabricated OSM C3 ID",
+  "status": "approximate_location_pending_review",
+  "alignment_rms_m": 11.22324231844557,
+  "alignment_max_m": 15.766934040830618,
+  "leave_one_out_max_m": 33.42775979166528,
+  "height_m": 32,
+  "height_is_estimated": true,
+  "construction_status": "inherited historical plan, not independently verified current construction state",
+  "legal_review_limit": "Factual geometry extraction plus independent expression assessment, not a guarantee that all third-party rights have been cleared"
+}

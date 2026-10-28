@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "source_topology_identical": true,
+  "source_height_unchanged": true,
+  "inverse_transform_max_error_m": 1.8185309569571034e-05,
+  "transformation": "one uniform XY similarity; no per-wing distortion; all source objects retained",
+  "objects": 12
+}

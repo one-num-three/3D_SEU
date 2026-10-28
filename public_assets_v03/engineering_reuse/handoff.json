@@ -1,0 +1,50 @@
+{
+  "status": "candidate_ready_for_separate_approximate_collection",
+  "stable_building_id": "SEU_B_LEGACY_PLAN_C3",
+  "display_name": "工科综合科研大楼 C3（旧形体恢复；位置待确认）",
+  "module_path": "seu_engineering_reuse_v03.blend",
+  "collection_name": "C3_ENGINEERING_APPROXIMATE_LOCATION_PENDING_REVIEW",
+  "mesh_objects": 12,
+  "body_wings": 6,
+  "roof_finishes": 6,
+  "not_building_count": true,
+  "geometry_database": "geometry_database.json.gz",
+  "source_geometry_database": "source_geometry_database.json.gz",
+  "source_label": "C3 / SW-C3-*",
+  "no_osm_id_assignment": true,
+  "registration_status": "approximate_location_pending_review",
+  "source_height_m": 32,
+  "height_status": "estimated_not_measured",
+  "xy_frame": "EPSG:32650 local origin (671709.6990725585,3529586.400278158)",
+  "xy_alignment_rms_m": 11.22324231844557,
+  "xy_alignment_max_m": 15.766934040830618,
+  "leave_one_out_max_m": 33.42775979166528,
+  "location_bbox_m": [
+    [
+      -458.3173858145723,
+      -415.4711166028644
+    ],
+    [
+      -271.3752153419605,
+      -212.44120072042628
+    ]
+  ],
+  "remove_or_hide_current_objects": [],
+  "remove_current_massing_ids": [],
+  "candidate_style": "pale orange solid, separate collection",
+  "checks": [
+    "VALIDATION_REPORT.json",
+    "SOURCE_PRESERVATION_QA.json",
+    "GROUND_FOOTPRINT_QA.json",
+    "LOCAL_REGISTRATION_QA.json"
+  ],
+  "review_image": "C3_BEFORE_AFTER_LOCAL_REVIEW.png",
+  "public_release": "Prepared separate approximate candidate with source rights boundaries in SOURCES_AND_RIGHTS.json; no original map raster included; not a full rights-clearance guarantee",
+  "warnings": [
+    "This is six-wing schematic shape recovery, not detailed facade reconstruction.",
+    "Five nearby centroid proxies yield visibly approximate placement; not same-ground corner registration.",
+    "851764288 is swimming hall, not C3. C4 industrial/training 300010611 is also a different building.",
+    "Legacy under-construction status retained as historical metadata, not independent current-site certification.",
+    "No invented observation tower is added."
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "status": "PROVISIONAL_LOCAL_SIMILARITY_FIT_NOT_SURVEYED",
+  "stable_id": "SEU_B_LEGACY_PLAN_C3",
+  "identity": "工科综合科研大楼 C3, inherited from original official-plan-tracing manifest; no OSM ID assignment",
+  "source_unchanged": true,
+  "source_unit_mapping": "x=(px-520)*1.9; y=(470-py)*1.9",
+  "local_reference_ids": {
+    "C2": [
+      300010604,
+      300010625
+    ],
+    "C4": [
+      300010611
+    ],
+    "C5": [
+      1056927534
+    ],
+    "C6": [
+      300010617
+    ],
+    "C7": [
+      299961623,
+      299961609
+    ]
+  },
+  "anchors": [
+    {
+      "plan_label": "C2",
+      "old_model_centroid": [
+        -413.39512730465333,
+        -91.42769973661107
+      ],
+      "target_osm_outline_centroid": [
+        -463.85461885232036,
+        -147.55485715704222
+      ],
+      "osm_ids": [
+        300010604,
+        300010625
+      ],
+      "method": "area-weighted union centroid proxy; no surveyed corners; compound source definitions differ",
+      "residual_m": 10.061582811239086
+    },
+    {
+      "plan_label": "C4",
+      "old_model_centroid": [
+        -506.9056603773585,
+        -91.39716981132077
+      ],
+      "target_osm_outline_centroid": [
+        -558.2618330683731,
+        -155.89546492532872
+      ],
+      "osm_ids": [
+        300010611
+      ],
+      "method": "area-weighted union centroid proxy; no surveyed corners; compound source definitions differ",
+      "residual_m": 8.932152418766147
+    },
+    {
+      "plan_label": "C5",
+      "old_model_centroid": [
+        -510.9373226111631,
+        -182.65974456007555
+      ],
+      "target_osm_outline_centroid": [
+        -571.5793322235841,
+        -276.0658498350125
+      ],
+      "osm_ids": [
+        1056927534
+      ],
+      "method": "area-weighted union centroid proxy; no surveyed corners; compound source definitions differ",
+      "residual_m": 12.836258227483576
+    },
+    {
+      "plan_label": "C6",
+      "old_model_centroid": [
+        -482.46853785900817,
+        -237.7728459530026
+      ],
+      "target_osm_outline_centroid": [
+        -508.555807356696,
+        -330.84282705689753
+      ],
+      "osm_ids": [
+        300010617
+      ],
+      "method": "area-weighted union centroid proxy; no surveyed corners; compound source definitions differ",
+      "residual_m": 15.766934040830618
+    },
+    {
+      "plan_label": "C7",
+      "old_model_centroid": [
+        -205.9937563451776,
+        -294.82502538071043
+      ],
+      "target_osm_outline_centroid": [
+        -205.1602567380282,
+        -375.68590682375026
+      ],
+      "osm_ids": [
+        299961623,
+        299961609
+      ],
+      "method": "area-weighted union centroid proxy; no surveyed corners; compound source definitions differ",
+      "residual_m": 5.951580534841357
+    }
+  ],
+  "similarity": {
+    "xy_scale": 1.157349384934685,
+    "rotation_row_vector": [
+      [
+        0.9974416587568297,
+        0.07148522488195883
+      ],
+      [
+        -0.07148522488195878,
+        0.9974416587568298
+      ]
+    ],
+    "translation_m": [
+      13.048900210567126,
+      -14.787768003103992
+    ],
+    "formula": "target_xy = xy_scale * source_xy @ rotation_row_vector + translation_m",
+    "rms_m": 11.22324231844557,
+    "max_error_m": 15.766934040830618,
+    "rotation_degrees": 4.099298080989644
+  },
+  "rigid_alternative": {
+    "rms_m": 24.694445908146815,
+    "max_error_m": 36.17739677877975
+  },
+  "leave_one_out": [
+    {
+      "holdout": "C2",
+      "error_m": 13.988612844026228,
+      "prediction": [
+        -453.7762480711589,
+        -157.2557711190092
+      ]
+    },
+    {
+      "holdout": "C4",
+      "error_m": 13.74370061631538,
+      "prediction": [
+        -567.9458526172864,
+        -165.6478529409469
+      ]
+    },
+    {
+      "holdout": "C5",
+      "error_m": 17.76770152311509,
+      "prediction": [
+        -557.8480844978642,
+        -264.7900326446968
+      ]
+    },
+    {
+      "holdout": "C6",
+      "error_m": 21.588792538996472,
+      "prediction": [
+        -530.0251113053646,
+        -328.57457855827295
+      ]
+    },
+    {
+      "holdout": "C7",
+      "error_m": 33.42775979166528,
+      "prediction": [
+        -178.17685839343432,
+        -355.95493273562573
+      ]
+    }
+  ],
+  "bbox_min": [
+    -458.3173858145723,
+    -415.4711166028644
+  ],
+  "bbox_max": [
+    -271.3752153419605,
+    -212.44120072042628
+  ],
+  "centroid": [
+    -366.1419562026036,
+    -313.51723890433317
+  ],
+  "footprint_area_m2": 17830.612451946352,
+  "nearby_osm_buildings": [
+    {
+      "id": "SEU_B_OSMWAY_299961609",
+      "name": "软件楼",
+      "distance_m": 27.488879368955345,
+      "overlap_m2": 0.0
+    },
+    {
+      "id": "SEU_B_OSMWAY_300010617",
+      "name": "机械动力实验楼",
+      "distance_m": 29.79235625029425,
+      "overlap_m2": 0.0
+    },
+    {
+      "id": "SEU_B_OSMWAY_299961623",
+      "name": "计算机楼",
+      "distance_m": 31.98524120569885,
+      "overlap_m2": 0.0
+    },
+    {
+      "id": "SEU_B_OSMWAY_300010604",
+      "name": "机械楼",
+      "distance_m": 37.97490102547521,
+      "overlap_m2": 0.0
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056927534",
+      "name": "能环科研综合楼（科远楼）",
+      "distance_m": 61.2539623548358,
+      "overlap_m2": 0.0
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056931931",
+      "name": "名称待核实",
+      "distance_m": 62.61239082848882,
+      "overlap_m2": 0.0
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056931930",
+      "name": "名称待核实",
+      "distance_m": 71.21703033257913,
+      "overlap_m2": 0.0
+    },
+    {
+      "id": "SEU_B_OSMWAY_300010611",
+      "name": "工业发展与培训中心楼",
+      "distance_m": 76.99188670536576,
+      "overlap_m2": 0.0
+    }
+  ],
+  "crossing_road_centerlines": [],
+  "rejected_identity": {
+    "osm_id": 851764288,
+    "reason": "游泳馆 / swimming hall in northeast, not C3; stale OSM construction tag"
+  },
+  "limits": [
+    "Local fit uses five nearby named compound centroid proxies, not same-ground surveyed corners.",
+    "XY scale deliberately corrects old 1.9m/px schematic to local relative layout. Z and source shapes remain inherited.",
+    "OSM source has no mapped C3 building outline in its southwest location. New identity is legacy plan label, not invented OSM ID.",
+    "Inherited 32m body height is estimated. 47.7m structural maximum and 82/85m observation tower context do not resolve tower placement; no tower is added."
+  ]
+}

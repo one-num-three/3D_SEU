@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "mesh_objects": 12,
+  "database_fingerprints_match": true,
+  "images": 0,
+  "texts": 0,
+  "linked_libraries": 0,
+  "external_paths": [],
+  "collections": [
+    "C3_ENGINEERING_APPROXIMATE_LOCATION_PENDING_REVIEW"
+  ],
+  "registration_status_values": [
+    "approximate_location_pending_review"
+  ],
+  "vertices": 680,
+  "faces": 672,
+  "glb_mesh_objects": 12,
+  "independent_database_only_rebuild_manifest_identical": true,
+  "source_blend_hash_unchanged_after_all_work": true
+}
