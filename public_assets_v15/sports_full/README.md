@@ -1,0 +1,6 @@
+# Full authored sports recovery
+Restores 404 source objects without LOD, excluding only 13 duplicate base slabs. Counts distinguish OSM pitch features from mesh parts; current mapped 12 Taoyuan basketball courts are not asserted to cover the whole real zone. Source layout and equipment dimensions remain estimated. The complete generation inputs, original shader graphs/local transforms and explicit source-to-v12 reduction audit accompany this module. No reference photo pixels are distributed.
+Run `blender -b --python scripts/build_full_quality.py` in a working copy to generate module Blend/GLB before main integration. Original local coordinates and matrices of 60 objects are retained to preserve procedural material space. Source geometry has 1,048,160 triangles, all flat face shading. The 24 Meiyuan tennis count has official source evidence; row spacing/fixture dimensions remain estimates.
+Geographic data ODbL, original visual contribution CC BY 4.0, code MIT; see parent licenses.
+
+The module preserves archived local geometry and shaders; final campus integration applies a separately documented −0.459 m rigid Z offset to 60 basketball components (12 courts) to correct unsupported bases against the existing v04 display ground. XY, topology, normals, relative geometry and PBR remain unchanged. This is not surveyed elevation. See parent ground-alignment QA.

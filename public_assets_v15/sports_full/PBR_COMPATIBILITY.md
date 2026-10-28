@@ -1,0 +1,4 @@
+# Material fidelity boundary
+The Blender source preserves original node types, input values, links, per-face material indices and flat normals. The 60 originally transformed objects retain original local vertices and matrices. The photo-supported blue playing-surface color is an explicit retained correction.
+
+Standard glTF preserves baseColor/alpha/roughness/metallic; basketball backboards are alpha 0.24, roughness 0.23, alphaMode BLEND. It does **not** reproduce the procedural Noise→Bump graphs on `R6_Tennis_CyanBluePlaying.001`, `R7_BB_orange`, and `R7_BB_court`. No fabricated UV or approximate noise texture is substituted. Therefore the web material is not claimed fully equivalent to the Blender shader. This limitation is not a deliberate performance reduction. No source geometry was reduced for export or upload; ZIP is lossless.
