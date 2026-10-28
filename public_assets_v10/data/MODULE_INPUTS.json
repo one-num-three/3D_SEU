@@ -1,0 +1,10 @@
+[
+  {
+    "manifest": "zhishan_reuse/data/REPLACEMENT_MANIFEST.json",
+    "blend": "zhishan_reuse/assets/SEU_zhishan_reuse_candidate.blend"
+  },
+  {
+    "manifest": "jizhong_reuse/data/INTEGRATION.json",
+    "blend": "jizhong_reuse/assets/SEU_Jizhong_reused.blend"
+  }
+]
