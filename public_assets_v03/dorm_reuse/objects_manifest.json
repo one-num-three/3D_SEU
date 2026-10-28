@@ -1,0 +1,3235 @@
+{
+  "schema_version": "1.0",
+  "object_count": 322,
+  "source_outline_id_count": 80,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_1056927545__0001",
+      "stable_id": "SEU_B_OSMWAY_1056927545",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "64aa50d4dd568cb10940a51e9266bf563346a6663ae974028350485bc91d92e6",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__0002",
+      "stable_id": "SEU_B_OSMWAY_1056927545",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cb879f0016e169a4eb50027dba548ffbf78e94ab47e3c0dde9a7b5e2c4cc5ec7",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__0003",
+      "stable_id": "SEU_B_OSMWAY_1056927545",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "94b4c0f08f275c77c000a3f715d478e4d135311aaa962a827d6bb131e74ec49e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__0004",
+      "stable_id": "SEU_B_OSMWAY_1056927545",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c37a69f1f1fa9260ec682e977971ef2b439b2cdc34d73ddf54770ecee0469ac0",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__0001",
+      "stable_id": "SEU_B_OSMWAY_1056927546",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "55978d898e95221c281656562c5f6295818eeb0170313bb91819395e41c86fa4",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__0002",
+      "stable_id": "SEU_B_OSMWAY_1056927546",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "bc56d9e7efc79e352886865ca9218d24d9c7e71a1ba92a6962399a72eaa6412a",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__0003",
+      "stable_id": "SEU_B_OSMWAY_1056927546",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "dbac069d717512342536f19231784b7949fbfa9093e947134bb6703d45c4be66",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__0004",
+      "stable_id": "SEU_B_OSMWAY_1056927546",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5da22dda57cdefab803501a55d7fad275d44ed4b708a4ddf615ebb4534781eed",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__0001",
+      "stable_id": "SEU_B_OSMWAY_1056927547",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e5502b84e176b209acc4a364db4f832ed368dc69a62cfc58ac2417c03ce63e01",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__0002",
+      "stable_id": "SEU_B_OSMWAY_1056927547",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "57b97ef887588cacfe0f7700bea986c4b9e827bd091a9d792f1983e5f79ac8b2",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__0003",
+      "stable_id": "SEU_B_OSMWAY_1056927547",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2d3348ccad86ebbb8552274a9a87d56d79bb11668bec74fab355baf26eb118d1",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__0004",
+      "stable_id": "SEU_B_OSMWAY_1056927547",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "603b02d2156b20684ca8360a395f19d43c28d5f9a5306efa87dddf68c558eb28",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__0001",
+      "stable_id": "SEU_B_OSMWAY_1056927548",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6efaae13faac465fdad07ffa1a05d39b242106828bbc61da0ac556cb759d35ac",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__0002",
+      "stable_id": "SEU_B_OSMWAY_1056927548",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fede65ed2cfd6d3926749d3e13f78074f1238ea707d762df5738d3392266af38",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__0003",
+      "stable_id": "SEU_B_OSMWAY_1056927548",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e2d285873a6e03b42e8d8c91715c4f11387f50de6ffb3b7e42da5111cca1bb1e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__0004",
+      "stable_id": "SEU_B_OSMWAY_1056927548",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d609204bf874148e793b1c637f6bd330f8e905dd75326cb5a56b6351c054f29c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__0001",
+      "stable_id": "SEU_B_OSMWAY_1056927549",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6895ab66c57cd2ad38345a4e04201d79d2108032545d1631a4e69fac70c243f7",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__0002",
+      "stable_id": "SEU_B_OSMWAY_1056927549",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "64666ea515340e40f3af85891bf40927168b831018a7706fbfa64988d665075c",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__0003",
+      "stable_id": "SEU_B_OSMWAY_1056927549",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "dfa161c70c0af90e6b994c50e09468383a1d222920353e305aa7594f34252082",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__0004",
+      "stable_id": "SEU_B_OSMWAY_1056927549",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "57904418f00d2e2f7dfc86b5b1e88c2fe0d76b4016638baa8fe155fef5da6780",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__0001",
+      "stable_id": "SEU_B_OSMWAY_1056927551",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "62b9e03fdf7fa0a70693bdcea592145658d83bcfe700059423f9dcdd7873b21d",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__0002",
+      "stable_id": "SEU_B_OSMWAY_1056927551",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "39c57d64f690745fa29106c592c1fdcbbdf44b01a2b6d00d4aa588b9ad25a94a",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__0003",
+      "stable_id": "SEU_B_OSMWAY_1056927551",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c28dfc61af3875f42e37f36bb1e9edb176772d8ce3fd61fdb8fe26dea22f38ac",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__0004",
+      "stable_id": "SEU_B_OSMWAY_1056927551",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6aaa7db47b32eeb24ec0ede3cca21066007a0397c4839a4910986cb7b4ce4db1",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_171399649__0001",
+      "stable_id": "SEU_B_OSMWAY_171399649",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3f2364d86760c462c8f151c4f8a3c4438ad4bafc693eab1f902fbcdf5bfcd4c9",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_171399649__0002",
+      "stable_id": "SEU_B_OSMWAY_171399649",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "dbc34635d03fe2ac4f2fa8e3d11a2dac2e38d2b8238e48554f8a1ab7e4a4bbd1",
+      "vertex_count": 1008,
+      "polygon_count": 756
+    },
+    {
+      "name": "SEU_B_OSMWAY_171399649__0003",
+      "stable_id": "SEU_B_OSMWAY_171399649",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7e13609ef5b5826e3be129ca191a2598d0861b6e0bbf23e96e3fd452c77204fb",
+      "vertex_count": 1008,
+      "polygon_count": 756
+    },
+    {
+      "name": "SEU_B_OSMWAY_171399649__0004",
+      "stable_id": "SEU_B_OSMWAY_171399649",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "52336c48d34234177416ab71551b26219fafbfa79d2444fab367b22c1b6948b9",
+      "vertex_count": 54,
+      "polygon_count": 56
+    },
+    {
+      "name": "SEU_B_OSMWAY_171399649__0005",
+      "stable_id": "SEU_B_OSMWAY_171399649",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3fe3b2a03763a87331086da66a32de32cf34cfcac84daa6df26a102c4a51e4ff",
+      "vertex_count": 54,
+      "polygon_count": 56
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961590__0001",
+      "stable_id": "SEU_B_OSMWAY_299961590",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "66e3dab8316afb3fbc5abb584a7f25cf3c7d099f1392ad0b79d79da443e59257",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961590__0002",
+      "stable_id": "SEU_B_OSMWAY_299961590",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "81b52655b6c94e0c0030d382653daf13030cf057ece35800e2d6f386f86d61ee",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961590__0003",
+      "stable_id": "SEU_B_OSMWAY_299961590",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "78ad24526ea753799af940372604ef31edc4805ac37f3c9693e33e44e5cacf12",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961590__0004",
+      "stable_id": "SEU_B_OSMWAY_299961590",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c230249ab0ba12d1ba40d58b597275d290ce32f33bc28475367a654aa327948d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961598__0001",
+      "stable_id": "SEU_B_OSMWAY_299961598",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9a2b7f59fd1a7fd050aee15224c5aabeca8011e784e3f15dc2d2e16ccc542e1e",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961598__0002",
+      "stable_id": "SEU_B_OSMWAY_299961598",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cdade7905609b1c0ad20ad22791fcb093b9ef8d5432e9e5b57c295d00f830007",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961598__0003",
+      "stable_id": "SEU_B_OSMWAY_299961598",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0114ea26fe0646b8267272c165074a09bef82bf75cfaaae35ae64c7d5c509f79",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961598__0004",
+      "stable_id": "SEU_B_OSMWAY_299961598",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "25d50e58e3133fdb68ea04150e80235c2b51069e16b11ff6e0241e74b5b8e469",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961599__0001",
+      "stable_id": "SEU_B_OSMWAY_299961599",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "89c6fefee7daa63050c51724e482fa2cea87c1e7d1042923afdbea92fec073d7",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961599__0002",
+      "stable_id": "SEU_B_OSMWAY_299961599",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "4dc6b566459b6576b6711fe4f1d0f6169e138b094097ca78672903ed414b724e",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961599__0003",
+      "stable_id": "SEU_B_OSMWAY_299961599",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ef2760f3d2dc70c93a9e559cbaf7e6fc61365f33461ec27b165ca44229f00b30",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961599__0004",
+      "stable_id": "SEU_B_OSMWAY_299961599",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "647229da8eb67ae90948957ac6db30a187ba44223306a9749f9b81c708103b75",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961601__0001",
+      "stable_id": "SEU_B_OSMWAY_299961601",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2d6bc24d44e124405cc7ef6b7c07ec3af31a224c2a5e0eee0c3bc24457be82c6",
+      "vertex_count": 1280,
+      "polygon_count": 960
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961601__0002",
+      "stable_id": "SEU_B_OSMWAY_299961601",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c9825a84db94fdb0ccb08187db5ec4434d014d67cbf0220cc485a11974334d82",
+      "vertex_count": 1280,
+      "polygon_count": 960
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961601__0003",
+      "stable_id": "SEU_B_OSMWAY_299961601",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "4dfa57d810a80596718d29325d65200a0f0422b5723eab92bdd5aeeee156a500",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961601__0004",
+      "stable_id": "SEU_B_OSMWAY_299961601",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a9004114033266ab9585458567c57fdcaba8478838c372f76007942d2d6488cd",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961603__0001",
+      "stable_id": "SEU_B_OSMWAY_299961603",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c3a8a404f4fc3587b902a8415a2e46302131700a28567982e3569dcb6c615438",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961603__0002",
+      "stable_id": "SEU_B_OSMWAY_299961603",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "594b5ea164aa5ce32fb3e140fd132530f6f8e72b1b4c9fef8f6c00360288a787",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961603__0003",
+      "stable_id": "SEU_B_OSMWAY_299961603",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f93bbea754e7d10ee08a0681edb76f8c26530bfeb9f2876806cea9aa6445c8ca",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961603__0004",
+      "stable_id": "SEU_B_OSMWAY_299961603",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fe6bfbfe1434a8d9777a24d11aa6ab585e53b2b9dbb3ace1e8f8850edb2eb56f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961604__0001",
+      "stable_id": "SEU_B_OSMWAY_299961604",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "576ced10c9d8dd7c29be2c33ae2dbc37d3bda7db7c694dea6ccc48215b3fc02b",
+      "vertex_count": 1280,
+      "polygon_count": 960
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961604__0002",
+      "stable_id": "SEU_B_OSMWAY_299961604",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7798eec824f3e56cd95ecd8270d3fd36d518cd9fbc9a19fea0fe1522c2f14c86",
+      "vertex_count": 1280,
+      "polygon_count": 960
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961604__0003",
+      "stable_id": "SEU_B_OSMWAY_299961604",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "dbbcbc1bb739eaa2881ecfda3c8e61653beaee5351819766344a6463803b6cfc",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961604__0004",
+      "stable_id": "SEU_B_OSMWAY_299961604",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "68e999caa28dfa4c6c86266c5efdafae90ed35d6155a4150070d459caf1e8a37",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961606__0001",
+      "stable_id": "SEU_B_OSMWAY_299961606",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a8e4a2a7ca88b5796d39fd9089f13b6d1d48dab1dfb7a6fd0342ba80624e2092",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961606__0002",
+      "stable_id": "SEU_B_OSMWAY_299961606",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1430980265b538fced8088f2465e54eeeab8bd182d827f435a2a3083a8eb05c1",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961606__0003",
+      "stable_id": "SEU_B_OSMWAY_299961606",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "30d46224574482ff7af79e2f347b46fbd8f8233857f29709ff499fd46461fad7",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961606__0004",
+      "stable_id": "SEU_B_OSMWAY_299961606",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d1f0122eafbadd945dcdf9170947d06923456d30892eb407ba5177aa8727724f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961612__0001",
+      "stable_id": "SEU_B_OSMWAY_299961612",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "17f162990d68ac07742d11dfa6ce0aac0f7a5303ae3709cec957f8a512fe141d",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961612__0002",
+      "stable_id": "SEU_B_OSMWAY_299961612",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b513a00b46fc34f041fbddfaf8f295f8d87b2271a7ad88bbe6486e06eec65cca",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961612__0003",
+      "stable_id": "SEU_B_OSMWAY_299961612",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1d6512d3378bb2c1818d7806e2f6dcaebed9d919d456f49d4aa01ff760f6abec",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961612__0004",
+      "stable_id": "SEU_B_OSMWAY_299961612",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b902782bbcf9af94b1a5d731fcebd3a1788baf87f3c908f86b10769129f46bee",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961614__0001",
+      "stable_id": "SEU_B_OSMWAY_299961614",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "43a1d34158e683768cd4c46d88758fd7eed9163651838767bfee23ca83fbadf7",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961614__0002",
+      "stable_id": "SEU_B_OSMWAY_299961614",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ac0a352e6bc214643ea0de6362fd7f04142c6b6c673f36c0d4875d82fb8dc025",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961614__0003",
+      "stable_id": "SEU_B_OSMWAY_299961614",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "bae1d165cf57e0f053c86d30c5a579d558f30eb2ceae9c229a06db23322f21c0",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961614__0004",
+      "stable_id": "SEU_B_OSMWAY_299961614",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "4929ca6fa059a7428ae22de85bccb4bf694c39006ae938585e0da17802416502",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961616__0001",
+      "stable_id": "SEU_B_OSMWAY_299961616",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "66687c7a0442f833f4203fea7bd0e026de57ce439491941ea7d625db4e7cc064",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961616__0002",
+      "stable_id": "SEU_B_OSMWAY_299961616",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0ca9c07a21a9a9c77f9813a85d35df7f0202b2bce67b1fd0838b6b5a800fcd92",
+      "vertex_count": 1120,
+      "polygon_count": 840
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961616__0003",
+      "stable_id": "SEU_B_OSMWAY_299961616",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "96e75ab103d2cdb16ef24d1bf0369bf7f0aa84478fa7afcd2ad8154430fcb451",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961616__0004",
+      "stable_id": "SEU_B_OSMWAY_299961616",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d4f8f29869aad043109cf9e7c121aebe946d708731f1dfa672aa83fb922eef57",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961619__0001",
+      "stable_id": "SEU_B_OSMWAY_299961619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8f6393bd5e43ca1e0aa7a2c179f4bac7bc9d0a6861a53d4f2e57a87028907137",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961619__0002",
+      "stable_id": "SEU_B_OSMWAY_299961619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d688e2c5a10e72812fe3b052e90575146e6e661c5a3a02b0734180d7b45f6c13",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961619__0003",
+      "stable_id": "SEU_B_OSMWAY_299961619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "92fe1bddb3c091f3e65858777dc94488024ea862320089f020fb5c55b013f261",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961619__0004",
+      "stable_id": "SEU_B_OSMWAY_299961619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cde0b18ebd980519dc99ed4613707f1b4195c24bf840fb39f541a570ca323d6a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961620__0001",
+      "stable_id": "SEU_B_OSMWAY_299961620",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ef31b9186a66eeba7fec4e87afb90e79b3547b03b4bd954f893a979eb79d3420",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961620__0002",
+      "stable_id": "SEU_B_OSMWAY_299961620",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b395ddb52b353445e68cf632ff163447054ec4e174171c6bbdd10cde3a311c87",
+      "vertex_count": 1200,
+      "polygon_count": 900
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961620__0003",
+      "stable_id": "SEU_B_OSMWAY_299961620",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6b9bacfa541c34841bde1347902477f83a99f85509e05bc5a2a61e0db54a1e39",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_299961620__0004",
+      "stable_id": "SEU_B_OSMWAY_299961620",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "07239e7008370682215f1b6e9e3ea4d212170db3420c322be3aa9f0f745de83e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020021__0001",
+      "stable_id": "SEU_B_OSMWAY_300020021",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e86dcaa046d81f2af64702c6e9ff86e683bd09ef9468587e0510348b70aae41c",
+      "vertex_count": 8,
+      "polygon_count": 6
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020021__0002",
+      "stable_id": "SEU_B_OSMWAY_300020021",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d6e7e3142edaa1252aa0509e84e3ca24656a6bf22771a7f9c040d35c6d784331",
+      "vertex_count": 1024,
+      "polygon_count": 768
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020021__0003",
+      "stable_id": "SEU_B_OSMWAY_300020021",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5523bfb00d2fcb99847244345a02913edd8cabdafba68b85133d2b776793d22d",
+      "vertex_count": 1024,
+      "polygon_count": 768
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020021__0004",
+      "stable_id": "SEU_B_OSMWAY_300020021",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "26b4a75534dd14639c9e5f01bbc524f0732c8410a47a9a2d8d2e6d7985b618bd",
+      "vertex_count": 60,
+      "polygon_count": 62
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020021__0005",
+      "stable_id": "SEU_B_OSMWAY_300020021",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c977b81127056ebc49097a8b23bd00d2e5b3d9028ce737fc36c2928b2dc28cb5",
+      "vertex_count": 60,
+      "polygon_count": 62
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__0001",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2abbd8059553536a20a215fdb04fda458cc6689ea23fcd5ae868a72f7b1768ee",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__0002",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "66b02cce413115a3f5fb99ac0a828b7d5c5d547cb337b64e907a489ecba3a227",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__0003",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c4e03ac25cb75697031fad18d0741eb38bdbb04853e3e27a644cdefd6f11dbd6",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__0004",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "08e0784f44e80d0aa3f9ca3066e315f558d29fc8e56744d13db45d06dcc18c48",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__0001",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0cead035440eadb1a31e49108e0cc17b926e50ad7c06df6a59f14c1548a6262e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__0002",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "764b85b258cb92337e3627b97c0d63207e350b5ee0ce8afb54371b5a55d2364e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__0003",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "74e632374be8dd4889c19b5e0f4c99f7ee58c176c7c6de29a41d35cf19c3a95d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__0004",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "74cd88167025788f4d2e4bd9c00d70bc28fe9896c0717898c884befc1600c586",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__0001",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "79d22a809cab6314be2862e94962d62ed0eae583a522e7652a2b9c24bf7764e8",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__0002",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "bb07ac70934b08735e6c2dfee8999b8068f1f6c1966e813df2660694bb06664e",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__0003",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fc17b49886d0c6899eb5efc3f363781fb3808c40d44aa115a6cde078a7d66e55",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__0004",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b9048726969a792cc42ad95d8f4d7276a8ca8e55a34cc83d924273638ffe58b5",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__0001",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8f15007911ebba3cc0880f2d4bf4c10026b5b502b579d4be90f0edb2a282070d",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__0002",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "16e0efd8b8c261e33711a5c1bc66ef36538b7f80cf1d564d18d0b36843368af6",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__0003",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d97168b66ea3d7690c07d2e7ccecf6e51a18032d452625fd84624a6a3d4dbb18",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__0004",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c804faf8f381bc03e65a2b0f9886a9cc2289a3eff684e83bed5ff6897339aee7",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__0001",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "987d18a6f732d1825357777285e9d3a617a4e89e709229b0de7107b6fa23ec71",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__0002",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "48101790e3623b36ff5ac38cd46793f9069fe53bda4c95dd685803798bddb096",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__0003",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ca6e64af4d1c1a87ba07fc01cad3694c389d61fab56a00bdf1c00c7ab9b1ec19",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__0004",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "45735fa87d299bf551c09c82271a7a3eedef968059afcde2a0d5f40e58221d36",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__0001",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0ae47c10f6be15c606d6e99d2f6b0badfe650f188c8a3014e35d250db58556c1",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__0002",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ff20c709b65c1052b0fe4faa50c108b9f5bc40d6e3150634b926fb8133934dc7",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__0003",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "45fed19e894a45326d6436f156661222e6172b926ea9ffeb30c137a582231e97",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__0004",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9d70dab3fef7bcfc09fd1fff3c346246c1f066d9515f6b7676bab61243a67649",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__0001",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "40569b9195635772291205acf9c3bbcd47df1989dc3d217c38e720b2bb0c1ded",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__0002",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "beac7c3338c2742e8d2917e19fc66768dc5cfbd35d4549d6caececb131f488bf",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__0003",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1d0276c734d3c8d3fb6ab4ba92e1e5fbbd1f30b550dd1bd2a9eba684f3b7962b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__0004",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "79d0766b2fe64b2ed2c0b4edb5217288c001166890e1719b22a70f137db2c77a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__0001",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b5aff88e77e1c851ed859789dc89d3982c8bfcfa01b57b2e2f60ac85ed2a584c",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__0002",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "77de69863f19db54c2a86564801ed437bcca0e43e27673962aba74a4ce226232",
+      "vertex_count": 800,
+      "polygon_count": 600
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__0003",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7bbdaf95b70ef01749c5b4092d7deb7c067cc3941673b39aa42d6719b44b281d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__0004",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fbb48f2cbaaa181b67e9f1075dca155c39b87b80624f6eed0a81c03f0ec9e57b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0001",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a9762b0d255cd1b100211fc38eb80790978b9fc790edd9db7a65b804a913d92a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0002",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "602c7fdcddb45f674fa38f5ff2d3c9779a27c28fec5a416287eaac9a4ebae6c3",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0003",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9c6d36674bb1032b2b4c649ff96627033cbdc3f7b9b068906eb45f862b1e3de1",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0004",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8a03c1de3c8eb787660d87b7b37e08d0c743daa34d8907df22c1843d5c503ef0",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0001",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "397366ab31395422ddb370b257cbd672d20babd4f3322f9e52b95e4ebf4493c1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0002",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d60aa3c602f41cbd62ab12dabc73e93173f344a8c4018604b939a8da6318384b",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0003",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "12e9901f6b2f5e613eccfec5518556b2392cdefd6b9fc5bd8787fc2e25127d5f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0004",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c5f34c645a5ea69c8e1e9389860721d4a8db6db3a9f4a63c910f2d73a5dbe8c6",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0001",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "de5c83dcbad7a3fc86e8e2b4b9e8c93e431ee322fed63f0540ff8c0ca022b995",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0002",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "817d691b6ac567ab94c3220d4b2ee8658ec1da3234ce46b603fc6ee808ab091d",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0003",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3a8fc9fe84bfb7d1fe93ea767b340a0375bd1e8b15a658bfeeb34d3dd1c55871",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0004",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c48f4a68d359236f897c45be57cac4ae61cc376ea098ad95bb8c1a3b749f852b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0001",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cc664cbdc1c46e3763b83bfa888d09754b41a07cd171384fda39444731e501fb",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0002",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "11bf57dd2b89e444072b28f8505cfd051a7d8ebf99773b3cb045007e143fc7a1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0003",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a1c2eafd836459177a4e521bfac916e0a5129fb8e7356f05c30b68095bb881db",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0004",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a26953391a4d7a9e58da701f11589264a888309eb9cfa5b39015bb57b41cf853",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0001",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "aa38485ae5b8a66501c325bd73ed423db71d9ec5c12addb91c588ba81935263b",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0002",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "07f36f537b7b1e3133752f3dcb3ccc462755d3f8907c6e3b98b4e8d5fef632dc",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0003",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a954730ed9b20f3a164f36ca64248c5cfaf8412f8cba4c191e56f37143d5f3db",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0004",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c2b445fe8ca3057c2e51f1bc367ec244b04f742e18f41d561422c28d42d56902",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0001",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0051cc9bb2f07e12f9b6c2f1d30171b1fe1a643873c3292b19419c6fcc628b92",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0002",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6cc66316500ce95ece4ae3b30662179f2e4c95aee8a621ea224caa8ce6ec8a4b",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0003",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "4a62dc4af2493e7a907a51b95d42df081d894f014f01abb4fcfbd44f7e074d45",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0004",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1716ded47912c61cd37da8aa73db8743165d98323adb9e45fd55130259bc2597",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0001",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "afa6f2638e815224a27b86e808ebc768c285344ef4d8477400fa266e3fc78779",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0002",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fd800961a5a3cd3f1b3737cd9cd73e05fcddd7d65eb2d289e5100ec1b259c866",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0003",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2c726579e22c633dbcc1aa7fbb44072ed59d26e5b33c50efc1a2ed0d0a58e389",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0004",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "35209ce5b8007945e5183ada4d0f03989be43b986ee63632453665ac9dbeab9d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0001",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "676e802909dcfa42901a6d7efecfdc699b2f40835ab82171f6335196a5dc1774",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0002",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "812726d0d1852877c7a3abeba82e879b2f368cf94a3f63795c984b5a8b470161",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0003",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d0284655de1e7a5c76e5cc26431fa864320b6cbb5cd2f8ba1b4b02fe8d4f613d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0004",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8034261ea6031123c2242d6fcb9667a13c31d2078b0b5bcd997757cd5be2c959",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0001",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "08764dafcfbb9c3743762d452dac933c5159babe33733b1997f7594bbd1d1ccb",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0002",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c2a92fe0a30495178d8b2d5cbc5fbed4798e0231a7ff4945505025f9b7cae13f",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0003",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cfbffaa234764a4eddd580756069c840855e943986d233b1f35c2d735b79a90a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0004",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1f40969d521dbb16bb1e31eefba9f6c7b6d9a93f900eb8ffc750bf270a968402",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0001",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ebdfaa305cd8fcdaf65d9325f44c79f2e88081713825590fd7748bafce5d0106",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0002",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e4624d45bb8f3b7d6af5248bcb3f503f9ee2b8fca70a49fbbc710755f6d8db8a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0003",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2f3c37a6e02ae2b2c24b4bb2b4a189bd6923d95903bb551f01f15493c4575504",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0004",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b805b574821f5622a4c125460c72607a894590a3d2afc04312409d2f19129c77",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0001",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cb7b0d88c9308b98dc350b1501a86a9411736bf7dc29980e55763bb9802d5d03",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0002",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7d657f3def6db42e46d71027ee5c2bd6eb6c4a0951a785de985cf8064ba32496",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0003",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cc050343f79a579a649f5b04b73c8598b1bd1e94ff6b9ccef97a2984eda3e990",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0004",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3c5c54912f51dba031bd277109b3a51ea6b58be88436c130f926594b39ee73e9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0001",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "09ae08f6976c3ddc4438cfbac2cfc927db50fc543aeedd75054fee5484b7caaa",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0002",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d437f31940448af98519f304810352ca5a331fb327af5a9fcb0362977d2b1c8c",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0003",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "634bc3e2edc0fe87adca280ff52fcf0ce5220a57733ee18e420b4c8faef88b0e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0004",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d19bd3721c558042e9e6d10075a5c125c4319c2de4060324cb72f3992a10f6f4",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0001",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a1c4aa32d25cddb19969a5f4014271b4f89433bf5de67b953db117fa853aa2be",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0002",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "67f5caacea6c65d2fcb2c7d05595739483923a0da672e46fbd68ca3da740090d",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0003",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "97e6d45ce241cc356bc2a074f053a21cfd8eb53daf7d7b23fd5bbbed9bbc601a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0004",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3bd7135230cfa49c679e26a20ebada4590b7bc81721e9ae127ad46395b3e6fea",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0001",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "35e3f648f31e7166db8970f44f491b150da6f8ba26cfd56ef381f81923ce33ef",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0002",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f571cc27aab526e0baab7f5ffb3e954733131fc2cc2325cb772bfd7301555765",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0003",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "96215068f56f90c5869a6e4100583baeb5577db30fe576d9b29fc7c3757e39a2",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0004",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "09e0595bfd26573c6305b0ef44e7c05c80553a4b8624786c4d6b539c68320e52",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0001",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7f3f81c1639dfa61020c01d91a05016709494e4eed3bf2628e94d1de1e4e29db",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0002",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5f1f94df666e273d6d2a969b4f63c0dbdff01793fd8720b26c25e04a02330df1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0003",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "73280f5db7ad93d231fbcad9d186c1817ed555e85061a2c56a9b0d9895190bef",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0004",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "02b1bee68a953030b0754d793068a58eeb3380fc130255866733f0a6f58b806a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0001",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a99a078de731e071d76a065cfdeb7924d68f5b718ce2a54c6b9bf70e92db1a5e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0002",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2a2542f284c470df9b50411a89d05326bdd35f5341534a4ae4cee49ef501569c",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0003",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "15b95597065ff7a68db8f8fcf076f38a705ee49e5655617a0895540dcd4531b3",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0004",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "40c4858362e2804a019e5092c1c8b0372dc4c5a5394450aa265310715c3bb8ed",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0001",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "71424378c8c69d458a1d457396d5db3214086d775554b3714332cbea9b2d502e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0002",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7c9af0e559b87fe8d2dddbc77b7229ff72eff5bb47364a53e8f89d92bcadbe9e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0003",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e5c365f105f54d738879e59aef2937f87ef167fb4d34c74512d298f781cda19b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0004",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2f8794a54fba4bba9a5092ac633d7bdccf822086bf6326d986c8fbd6dca2385c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0001",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2eeced36a4b4133d56aab32a1508ae0601744a744e2b11922238a08eca628a0d",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0002",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a1b3ca02970fc589f266913c93f737c4ae30a7f7c125b2d32ea66c77376c0d0b",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0003",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c055cd38c569f94bab474b5bbbbb3c1d01776c85ad4bd61f63be264520269c5f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0004",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e2ac27baf5f1a22c8f92db49db6b916292ada7c627eccedbca9f048c0957c704",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0001",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c1756af0eb38b918f8f94b805a1cdf7ef7e5f8bb405e3b9d59328eb9331881c1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0002",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3bf8bd21d955fd0c429106331d7000f7664cffe9dfc23f4bafc37d9a77f913da",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0003",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d0f332436482adac8009fb1776559d00448ecb927ec314dee613b1e9e5113c63",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0004",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "eee510c2de565f13c3425fd214d69c2c7a434301719bae2b5f64a93fd92a4e98",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0001",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "12e950111fdeaa53f79139b40b3551159a3c1a8c3a98aa147be99f42f0eeab16",
+      "vertex_count": 1000,
+      "polygon_count": 750
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0002",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cb8cf9900be2cca515c1127a50e80df54ef339d0882fd896a60939c24f82da8b",
+      "vertex_count": 1000,
+      "polygon_count": 750
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0003",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "45b068182654614c48bfca993e582f0eea374b8c283f546dac80ebbbd6ec9d79",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0004",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "25a14d7b8dc7ef95032399eebd8c07b6b1d49d51a217d99550ca3b76f0d4d09c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0001",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7fe2c320119b1f4ad3c8d70bd1fb315ded3f54f485b6792bac3b685e1336428e",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0002",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ba012299b30e595f053fe8139c076f145b0d9334a3a1809968efe16ca1d7b002",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0003",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1dfa891e5d65d21482f005532641219c77c215a2405c527bef207fccd1d66d41",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0004",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b8e089a23904c2631886e3f7ab2e0934ba804f01896e82a39ecf0745ae852be7",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0001",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ba5b580685a42799f480823b23a4717382147d1d79a4e678cb4b4ae934920ecf",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0002",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ad709ad6babb8ec5e0e4dc8299d8504412611f12d6cc018d23b476ad3f14c910",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0003",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d8f8b11c7c91082184a9891c257d9c007d9f20a82b42ef5fb6707fc404dc9937",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0004",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "10c067fa1edc5236cd1cd7f1909ac6a3a0da48c704d34a46ac89b37f5a6738fe",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0001",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "90b4cf4c81dc946680d60e8748d95ed19a42dd648d4c233499e1a7025ea4d78e",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0002",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "20fb8ec2781ac6cd8a93c8a3c56aeb864f19d4853f884fa1b366b08d64e2a400",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0003",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fb31a8f9c7fa08864b5694cb5d37c523a9d9dffb459fce8f57d60084180b6c83",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0004",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9fde95dd285cd02b32264b79f02c596a90ffddc33bcf2c5dae42df0cb2400802",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0001",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f90a9a58fdabf1316d6b63a238b9d79d39a246daf57deb04e51d9449de6d6f32",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0002",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "853e21e7775f3767bd798f9afc9cef9e02354258d95c526f572e0c624210938c",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0003",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "053acea9cf3e8cb3cacf3a1f70cd477f86beeec664c5694ca451dee58ca6edef",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0004",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5209fc08978df6d0b3f04aca157cba89206cc1a411b6d198bb2594b64396b0f9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141862__0001",
+      "stable_id": "SEU_B_OSMWAY_630141862",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1c7222e62df94c1c059f9255c05064dd2f5a32f7431a33a48b0cb577ea7669fa",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141862__0002",
+      "stable_id": "SEU_B_OSMWAY_630141862",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "84b983146f6eec21a85884ec1bf11cf354d953f51545b79819b8d85418031959",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141862__0003",
+      "stable_id": "SEU_B_OSMWAY_630141862",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "728d8f8688fa5b3ae79e759fb0a84aebc5219f4f281dafdb1cfe14d12ce0294f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141862__0004",
+      "stable_id": "SEU_B_OSMWAY_630141862",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6263d0638e231551c277b651a732559e3e7174d3d2a9c6f6e4487b9c202f7214",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141863__0001",
+      "stable_id": "SEU_B_OSMWAY_630141863",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "254744e0a9dec5b84156843f5a9e8743649510200619bc66c745fde968b2d796",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141863__0002",
+      "stable_id": "SEU_B_OSMWAY_630141863",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fb0362f4c22dbdb2d3d488cc03f387c273401e3669d9b44b8d25fb013e8e809e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141863__0003",
+      "stable_id": "SEU_B_OSMWAY_630141863",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "547f51423768fc5082df7523b47ba4846b966ca80df0c2d50fbd825f9efac3bb",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141863__0004",
+      "stable_id": "SEU_B_OSMWAY_630141863",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "af56b80688a3e9aa09913dc162db91e6a7349f35f542185b859ae756cb25da89",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141865__0001",
+      "stable_id": "SEU_B_OSMWAY_630141865",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c177c20b6eeb25ee1e5afda71ef8afaf89b543345d8c4ae0ae585b1101a736d4",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141865__0002",
+      "stable_id": "SEU_B_OSMWAY_630141865",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "48afef2d3d04fec3fdde14863b4958a13a96e872a10fce0ae90c70afd9bfddb3",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141865__0003",
+      "stable_id": "SEU_B_OSMWAY_630141865",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e1a5fb39cf8affabf79db779731ad318c78ef1fcb9a3767f31d8a5248599ad32",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141865__0004",
+      "stable_id": "SEU_B_OSMWAY_630141865",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6555582881bd67de334588ee39ea5aebadf44706e01cc5dca3a1ca2360a369a8",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141866__0001",
+      "stable_id": "SEU_B_OSMWAY_630141866",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "31e874d13991eb6ace6cc959834edd9f851fe1238c8285d9a88c72cf30cd6896",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141866__0002",
+      "stable_id": "SEU_B_OSMWAY_630141866",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3e40a380fae2880e408200b2d9c3d67ce26f7ec493ddcf933c3d8e387b927edd",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141866__0003",
+      "stable_id": "SEU_B_OSMWAY_630141866",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "41c9c3f7ad1aab4aa39878c4b85ae58ddd8bdcae13af9a1495a0d0194b34bf57",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141866__0004",
+      "stable_id": "SEU_B_OSMWAY_630141866",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7a802007a6513951a1d1b7df193658910973518b8870f97d546b7ddcddae2d8d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141868__0001",
+      "stable_id": "SEU_B_OSMWAY_630141868",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2052925261ba897079ded0233fb90748b86c7fab6251cbd1ccc4b26f2bf9c99a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141868__0002",
+      "stable_id": "SEU_B_OSMWAY_630141868",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5cf9aac5449f0c136827b70754d6f392fb38b6802f280adf7d715dae8e10ef4a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141868__0003",
+      "stable_id": "SEU_B_OSMWAY_630141868",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "718bd33687c34aa9f5f72ca397958cc2e00b26575ac95e62577ee7822a8ec0f9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141868__0004",
+      "stable_id": "SEU_B_OSMWAY_630141868",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a72cea5999f538e952b5fe186dace82ed0cfb5de84d13d4caaa0fa7fa08d25ea",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141869__0001",
+      "stable_id": "SEU_B_OSMWAY_630141869",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "425b023677f7028bc429bcfcdf2f6495685405b8530ba5613e7571025e74dde7",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141869__0002",
+      "stable_id": "SEU_B_OSMWAY_630141869",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "3ca5cf6f4cefca021238371ce3c56bb69c1a5b6666278b102b7d3be8fcd536b5",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141869__0003",
+      "stable_id": "SEU_B_OSMWAY_630141869",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f1b71422d76f80ffaae0332e688217e2a22f9f755ed5b0543e99f58a8ce5c478",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141869__0004",
+      "stable_id": "SEU_B_OSMWAY_630141869",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a120afcd68d89383a572d7b6c8ee912fd69d2ae1cf866aba7dc665327c9c00c8",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141871__0001",
+      "stable_id": "SEU_B_OSMWAY_630141871",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "25480a37cdbeb43cbd3af2ec08256c5a7388c15e8b750378eef2cfbf850c7470",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141871__0002",
+      "stable_id": "SEU_B_OSMWAY_630141871",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b843b349dc05a068c548f2aa65ecb015fa2df9fafa2a05bb31e6b7206e933b94",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141871__0003",
+      "stable_id": "SEU_B_OSMWAY_630141871",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d023541ec901ea16d88031e0ad0c3ee3eaa3f0e62d4dc836f3842fd178dadb1b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141871__0004",
+      "stable_id": "SEU_B_OSMWAY_630141871",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "303be9b81801a8dcb9520ce12641005695149ecdc8f3629013b810d6b65e8ecc",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141872__0001",
+      "stable_id": "SEU_B_OSMWAY_630141872",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6dc5cec9219a348e2fd4bb4cca9c2f188ee5b677a1eb4a5d341da3cf082a82fc",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141872__0002",
+      "stable_id": "SEU_B_OSMWAY_630141872",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cb1e3e9d277bd42c33aa1893eb2586f3657a88573ddcb3783e400d3fb78b8008",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141872__0003",
+      "stable_id": "SEU_B_OSMWAY_630141872",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "742ad234dfac5193f12020a81a894cfaaeff6e634fbc4bcf8b61fad6fd566329",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141872__0004",
+      "stable_id": "SEU_B_OSMWAY_630141872",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "379d1d835ab7481421593c756b5b1da29f5b4be0e1cc9f6a867f04932fc81016",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141876__0001",
+      "stable_id": "SEU_B_OSMWAY_630141876",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0c2e09fccaf2ed8dadf2b541f19ca312e325db16cd12e20d31ae779e5378deef",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141876__0002",
+      "stable_id": "SEU_B_OSMWAY_630141876",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8b0630ac66c58316e3e53bb9c1bf7f8ce50771cf88c8723ca61561aabb71d355",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141876__0003",
+      "stable_id": "SEU_B_OSMWAY_630141876",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7f3ebbe7ee17237fee171aa0692cca55cd98e535ca58a635b26b34d885fbee55",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141876__0004",
+      "stable_id": "SEU_B_OSMWAY_630141876",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8b3003ee8b8ccb4ad980e2f0d731dc08d7cc3f4bbc2f6059a04467ddb2f214f8",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141877__0001",
+      "stable_id": "SEU_B_OSMWAY_630141877",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ae4d6800e4dc598ee0927e207a9e00106d03c40685e5c15d0301caa3bc399f52",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141877__0002",
+      "stable_id": "SEU_B_OSMWAY_630141877",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0a701902c4268c13474717fa3f5b38711203f4acbf0ea3dc3f639840d04af781",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141877__0003",
+      "stable_id": "SEU_B_OSMWAY_630141877",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5f8422022d83051d8b286b821ef461b430c880b20b527934554dcd9653b6a05e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141877__0004",
+      "stable_id": "SEU_B_OSMWAY_630141877",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "82082bf172ef1873498c6ae88843ed64aa47ee162a2d71382323a98a1f9390fd",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141879__0001",
+      "stable_id": "SEU_B_OSMWAY_630141879",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c0ee05a7aa205a156c8d8fa2f43f5dd12821f961d95453cb6bcd2422f0d2adcd",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141879__0002",
+      "stable_id": "SEU_B_OSMWAY_630141879",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6cb34cd4a1792348b69011b5e7d208a2913511e1d12f3d3afd3d4da7a1f19756",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141879__0003",
+      "stable_id": "SEU_B_OSMWAY_630141879",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "df4e753a0a959a34676c6e3461717c49e5058683eb72e4a63865445acda72774",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141879__0004",
+      "stable_id": "SEU_B_OSMWAY_630141879",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a415932bd3dd34099b0f1602d70554657667bc90068d59173457bfbfb8873b20",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141880__0001",
+      "stable_id": "SEU_B_OSMWAY_630141880",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "39bf52bb39d7a141ff7d330249d7ebef2bfabd5169e41e254a9710e43cef9637",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141880__0002",
+      "stable_id": "SEU_B_OSMWAY_630141880",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8d2d471c2e6f48fc29fe3b829c3c5a9123d3bd2b92a592f97094c754b7b8e745",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141880__0003",
+      "stable_id": "SEU_B_OSMWAY_630141880",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "fde2c4f499d8b7e932a4a9d9558d18f23f3dcf926d69dd4c7b4319672fea58b9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141880__0004",
+      "stable_id": "SEU_B_OSMWAY_630141880",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "235d7517290a46452ca9a2474c49e1b3b4c194cab8f41476224c11a54d81fc4f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141882__0001",
+      "stable_id": "SEU_B_OSMWAY_630141882",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ccbe72a5228125f24032e8dd18267ed33cd941bba5c1caed1bbd0ce0e8b297fd",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141882__0002",
+      "stable_id": "SEU_B_OSMWAY_630141882",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "066fbfceaa337d5279c53dbfc0dc805dc46182a2158b56dfbf4ee2de5c343d0a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141882__0003",
+      "stable_id": "SEU_B_OSMWAY_630141882",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a44beb21ba88688960123f059ddcccf54a65ea7989781a51e17c5d3877eb5c90",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141882__0004",
+      "stable_id": "SEU_B_OSMWAY_630141882",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "564f3447ae6a7014ff6ea0bda8fc41a6e52b1f97e050d55db455b77c9b2ba04d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141883__0001",
+      "stable_id": "SEU_B_OSMWAY_630141883",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "61f8e14d0f054da525d8955fc1f1c1a20c6ede103ea98b7d6439658120b0f876",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141883__0002",
+      "stable_id": "SEU_B_OSMWAY_630141883",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d942299d2d3ef2bd251f4f8a047adf60c7cd2abd50634ce7b994837f9ec81d7a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141883__0003",
+      "stable_id": "SEU_B_OSMWAY_630141883",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1f100670295f52d0832ca6d16292ca0d63e0fe3d212f394390349837fc9d1a94",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141883__0004",
+      "stable_id": "SEU_B_OSMWAY_630141883",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "16b72df31dee1f13a1790d78298b8c2a9b7292614b3800b1835a7b21d1002378",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141885__0001",
+      "stable_id": "SEU_B_OSMWAY_630141885",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7879dbd63e4dc86fcf516e83441c64b10b088030fb497577b8fc16d4c1e0fe7f",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141885__0002",
+      "stable_id": "SEU_B_OSMWAY_630141885",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8b57b29a845fb99e60e659577bbc402b453d7e142935be629407eb6cc0c033db",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141885__0003",
+      "stable_id": "SEU_B_OSMWAY_630141885",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "173fc6e32a0a7f179e1d127a24f32cf61ef965fe0b7b3ae96419dddc13889452",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141885__0004",
+      "stable_id": "SEU_B_OSMWAY_630141885",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e717d58e01adcdac4d62b89f1baa116a44a3afe98a1053863e2f799e121022f2",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141889__0001",
+      "stable_id": "SEU_B_OSMWAY_630141889",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "17b5aaf558bd0ed8b96cb36639d133d6fc28aff5ee8d39fbc73bcd13548da5ed",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141889__0002",
+      "stable_id": "SEU_B_OSMWAY_630141889",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "601a4c7b730f2907e3e44e7a42cfa9d8d81a94b94fe174729b4e8746ddbab755",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141889__0003",
+      "stable_id": "SEU_B_OSMWAY_630141889",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "404aa4785ef1cbe3f03295615c3026ea36b49cc18e18f1d800f002f5e344a113",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141889__0004",
+      "stable_id": "SEU_B_OSMWAY_630141889",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "209b67cf4182cec882fc57caceb3f5819778e63150006e032c91e159ba1b869d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141890__0001",
+      "stable_id": "SEU_B_OSMWAY_630141890",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "dfa176d9e437f80028b41c006857a2f9ea8333a89b0f7cc4a08144d13f65bde7",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141890__0002",
+      "stable_id": "SEU_B_OSMWAY_630141890",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "083ea8a473a3e0a12f242b51f1065241edbd39a386b7e39e69b82019f01f5844",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141890__0003",
+      "stable_id": "SEU_B_OSMWAY_630141890",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e10d9822bab07a7f49b63882756e32a91e9cf94e03ef710f2cb748eba4805de6",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141890__0004",
+      "stable_id": "SEU_B_OSMWAY_630141890",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "97cb1097c0950ca3ad1c3f39446db4ae7f2da8de3bd7fc410733d952dbdd9ce5",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141894__0001",
+      "stable_id": "SEU_B_OSMWAY_630141894",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b9b52bbb7a3460c9220bb0e27177c9b7f01c201a14c55ddc707bb6b8d5a005a9",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141894__0002",
+      "stable_id": "SEU_B_OSMWAY_630141894",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "1762a41ea808ae8e4c800987546434bc36f5e3fb8c7f9fb36c4df080c25e50b0",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141894__0003",
+      "stable_id": "SEU_B_OSMWAY_630141894",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a1f11d27857d35683ccad0b47e0cde0857563b3a1b4861b498ddb390b97d23d0",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141894__0004",
+      "stable_id": "SEU_B_OSMWAY_630141894",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "06a2e062594b1421c0bb5f79bdcf114168cae6747be2d13d30bff94d0edc5735",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141895__0001",
+      "stable_id": "SEU_B_OSMWAY_630141895",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "53144bb8c6c1a2ad5bb47978c25b2e51fb442988f315894d423f39d09a4fa02e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141895__0002",
+      "stable_id": "SEU_B_OSMWAY_630141895",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "15b799854f2bd1e3e1e8278091bf5336c6a0f79dd1e7b7ee82a7ed98201004e5",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141895__0003",
+      "stable_id": "SEU_B_OSMWAY_630141895",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2ebfb8adaa560581b95476ae45c15ee130f94ad6e67cdbbe6e8c66d0b1f60cf8",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141895__0004",
+      "stable_id": "SEU_B_OSMWAY_630141895",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "76cd878a34ed82bd8e23ef4c0838d8a092c885c66004eee24127641db9bd7e35",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141899__0001",
+      "stable_id": "SEU_B_OSMWAY_630141899",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f327e9e49982887afa187fbd50147d7eae19aa91ec61f0dc3fcfd6c339ee17fd",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141899__0002",
+      "stable_id": "SEU_B_OSMWAY_630141899",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "456d4b0fe57ff28db16c6bbf403ecc4a1089b01e145f3fcabdf4d1d5e98af6c1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141899__0003",
+      "stable_id": "SEU_B_OSMWAY_630141899",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a8791fa72ad5577e7803c5774b9496aa5939aa4c9e26a6d1d67ae22cb56a3ef7",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141899__0004",
+      "stable_id": "SEU_B_OSMWAY_630141899",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f129b215ed7b14604bcd1fbcd63fdf258945160637ba8ff18ecc2c244c37269a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141901__0001",
+      "stable_id": "SEU_B_OSMWAY_630141901",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f388ca8bcce97ba016aaac7b4b9f3ce8cf0953c6e501356fd3fde548606dd69b",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141901__0002",
+      "stable_id": "SEU_B_OSMWAY_630141901",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "17d5a77d835ea724b891bf09df69708f4dda11e72bff241e68eea8c1a98f408d",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141901__0003",
+      "stable_id": "SEU_B_OSMWAY_630141901",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cacef2b9c2fbfcecec448df8d1ce3034947849f2888ff01ec65afe3336b816c1",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141901__0004",
+      "stable_id": "SEU_B_OSMWAY_630141901",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "feb327609a9bce82003c27e988b9c73a574979cc09385caa5a2148ebbdd73e20",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141902__0001",
+      "stable_id": "SEU_B_OSMWAY_630141902",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "bf40e7b130bd73b36bc8e711437932948795f75685afeabc19b653b56576451c",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141902__0002",
+      "stable_id": "SEU_B_OSMWAY_630141902",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c8e4a838596c28b94e28728bcecd23ee09f3357983092df7a192c96b683a0f11",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141902__0003",
+      "stable_id": "SEU_B_OSMWAY_630141902",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "71e655e885c397c94bd4b2414ece15db0bcef2eaa48a786b0dced18046a17517",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141902__0004",
+      "stable_id": "SEU_B_OSMWAY_630141902",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5ccf170295c2fbf9ec8d006eb7d704628f2ead8357a9917933933925defa674c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141903__0001",
+      "stable_id": "SEU_B_OSMWAY_630141903",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a1f9ac64b76027166149343a6ee4ef90f0c7978139e248f282002d0e5ae2e1ef",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141903__0002",
+      "stable_id": "SEU_B_OSMWAY_630141903",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c3001f43dedc7f68a4a2c7413801da1aa9515a340d160389a996acff954c01b0",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141903__0003",
+      "stable_id": "SEU_B_OSMWAY_630141903",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5d8aa7ef4aa8ec0d53b97c869813aa98b357552953626e182ddbf659a023e01b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141903__0004",
+      "stable_id": "SEU_B_OSMWAY_630141903",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "78818e5eff9cd0d4b42bd3e61f344a8b70487bbcda90123f32ed11ea895d9bff",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141906__0001",
+      "stable_id": "SEU_B_OSMWAY_630141906",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "c7b9ff4d6f4169e9cf69c8ee48d9af22b979210e7d47ab5467c3780644101ee8",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141906__0002",
+      "stable_id": "SEU_B_OSMWAY_630141906",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d5b8eccda3de410288b87f4482b34b256fd6cdb9614989e97f63f9f00773bc2d",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141906__0003",
+      "stable_id": "SEU_B_OSMWAY_630141906",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "426bfb2904a1fdde50a33bf889b1b1a25b65815da898ce5aea4a77100398ddb0",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141906__0004",
+      "stable_id": "SEU_B_OSMWAY_630141906",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9890552cda62c613ea04e20f784e178d4f7cd1a55195ac97558f6c74ec4a065b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__0001",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f7108e361f1fd8d302ab3acecb096d08c2b366a7c2bfc2c55be8e046e11091f5",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__0002",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6466528fe2eb9e02c4bdaac40351bbff121358f9e19b13c3caac0d8d13379655",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__0003",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "73db4918c5862c44faac56ac2bc731ae52971316cb9e45f3d8e2f292243d4e5e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141909__0004",
+      "stable_id": "SEU_B_OSMWAY_630141909",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "d267fa74caa6294dc595fc9a687b53180ff25deab6b6278ce2d9d1644d9d24b4",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__0001",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "969181ded40b09ff68182acc0f436c5caf53e77097c33c7a5511848bc6d26789",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__0002",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "b3b7d3e4804aa17fc55e4d3948fdb80a0de9193ce0d3301da79e48ee0f9c85ce",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__0003",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a0dd4023953a6fade846463cd6487ff16dd2a27d170198406177cbaab0b100e9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141910__0004",
+      "stable_id": "SEU_B_OSMWAY_630141910",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "db9e85e4f23e18562a5571cfb15f93378fcbcfeb5f8f804061550f5e3cde4f43",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__0001",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "4fbbf921371039780e9fc121cbf52086fbeedc2ab40d677377983f2d52282b8b",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__0002",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "df5c520922c30123d3a09c447adff08247d9e469073dd3d6b76b66f4e95ce5f9",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__0003",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "7dbbf1fb7549e256667666f1ed916f821203eff9474b07d1af6c4402221a3977",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141912__0004",
+      "stable_id": "SEU_B_OSMWAY_630141912",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9b24b164baa2e2d3d5459c5f2105626894c8dc1348e6296caf50e9418c0d623e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__0001",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "301eef82bad0dd50fe21d997b973cf8c26315bac75e70caafbe28362a20ef3d0",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__0002",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f6cbf89a37eac1f870b865093519ccfaad9aa64ac8bf832b0f38ba0884c49520",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__0003",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8f22d5d3b08ec963e4bd0316c4ec4719c7e9b371899e4d2a0fd853e0eda45a9b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630141914__0004",
+      "stable_id": "SEU_B_OSMWAY_630141914",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Existing registered components retained; partial compound coverage, dimensions and invisible details estimated, not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "e3b8238f7bbc1f9d7030e9392f2ff5dc1f8f510615c065bc99792b61149c80b7",
+      "vertex_count": 24,
+      "polygon_count": 26
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "DEFERRED",
+  "mesh_count": 65,
+  "source_group_bounds_world": [
+    [
+      398.87249755859375,
+      576.3228759765625,
+      0.0
+    ],
+    [
+      526.4012451171875,
+      718.141357421875,
+      56.76000213623047
+    ]
+  ],
+  "collective_osm_id": 1056927550,
+  "reason": "Existing registration explicitly provisional: named broad collective envelope, not five independently mapped footprints. Uniform prior scale0.9858648849786616 does not establish individual wing identity. No fresh decisive evidence found in existing inventory; keep excluded rather than fabricate source mappings.",
+  "evidence": "Existing original registration metadata and official-plan traced five-volume source; heights54/36/36/30/24m remain estimates."
+}

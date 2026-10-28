@@ -1,0 +1,802 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927545",
+    "display_name": "橘园9舍",
+    "source_area_m2": 1140.9094429793558,
+    "actual_reused_xy_projection_m2": 1103.9801356772266,
+    "inside_source_m2": 1086.449706358086,
+    "remaining_source_m2": 54.45973662127033,
+    "outside_source_m2": 17.530429319139643,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927546",
+    "display_name": "橘园10舍",
+    "source_area_m2": 1140.909352458941,
+    "actual_reused_xy_projection_m2": 1104.4966680286482,
+    "inside_source_m2": 1086.8130726884465,
+    "remaining_source_m2": 54.09627977049565,
+    "outside_source_m2": 17.683595340202423,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927547",
+    "display_name": "橘园11舍",
+    "source_area_m2": 1140.9130981908006,
+    "actual_reused_xy_projection_m2": 1103.9844515109696,
+    "inside_source_m2": 1086.4540317039598,
+    "remaining_source_m2": 54.459066486841756,
+    "outside_source_m2": 17.530419807010222,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927548",
+    "display_name": "橘园12舍",
+    "source_area_m2": 1140.9166422191256,
+    "actual_reused_xy_projection_m2": 1104.0954296318098,
+    "inside_source_m2": 1086.6069258341302,
+    "remaining_source_m2": 54.30971638499543,
+    "outside_source_m2": 17.488503797678177,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927549",
+    "display_name": "橘园13舍",
+    "source_area_m2": 1140.9201887882464,
+    "actual_reused_xy_projection_m2": 1104.663319561238,
+    "inside_source_m2": 1087.0098823274761,
+    "remaining_source_m2": 53.9103064607705,
+    "outside_source_m2": 17.653437233762524,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_1056927551",
+    "display_name": "橘园14舍",
+    "source_area_m2": 1075.6838153666392,
+    "actual_reused_xy_projection_m2": 1042.6702795286722,
+    "inside_source_m2": 1026.076106900999,
+    "remaining_source_m2": 49.60770846564027,
+    "outside_source_m2": 16.594172627672457,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_171399649",
+    "display_name": "梅园食堂",
+    "source_area_m2": 3623.886789797847,
+    "actual_reused_xy_projection_m2": 1993.7713235764086,
+    "inside_source_m2": 1993.7713235764134,
+    "remaining_source_m2": 1630.1154662214344,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961590",
+    "display_name": "橘园8舍",
+    "source_area_m2": 1140.9123118454586,
+    "actual_reused_xy_projection_m2": 1104.497630711837,
+    "inside_source_m2": 1086.8133835151796,
+    "remaining_source_m2": 54.0989283302791,
+    "outside_source_m2": 17.68424719665554,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961598",
+    "display_name": "橘园3B",
+    "source_area_m2": 782.5187220331172,
+    "actual_reused_xy_projection_m2": 730.4055915605421,
+    "inside_source_m2": 730.4055915605416,
+    "remaining_source_m2": 52.11313047257465,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961599",
+    "display_name": "橘园4D",
+    "source_area_m2": 924.410446663749,
+    "actual_reused_xy_projection_m2": 865.7371392090287,
+    "inside_source_m2": 865.7371392090283,
+    "remaining_source_m2": 58.67330745472066,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961601",
+    "display_name": "橘园3D",
+    "source_area_m2": 716.7759217884716,
+    "actual_reused_xy_projection_m2": 688.5952447124982,
+    "inside_source_m2": 682.0042678351393,
+    "remaining_source_m2": 34.7716539533328,
+    "outside_source_m2": 6.590976877357952,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961603",
+    "display_name": "橘园6舍",
+    "source_area_m2": 1027.7478362393813,
+    "actual_reused_xy_projection_m2": 958.9314525758149,
+    "inside_source_m2": 958.9314525758149,
+    "remaining_source_m2": 68.81638366356651,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961604",
+    "display_name": "橘园2D",
+    "source_area_m2": 744.4722862741412,
+    "actual_reused_xy_projection_m2": 694.5833351733747,
+    "inside_source_m2": 694.5833351733751,
+    "remaining_source_m2": 49.8889511007659,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961606",
+    "display_name": "橘园4B",
+    "source_area_m2": 803.4178891108903,
+    "actual_reused_xy_projection_m2": 752.7361258835666,
+    "inside_source_m2": 752.7361258835672,
+    "remaining_source_m2": 50.68176322732302,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961612",
+    "display_name": "橘园2B",
+    "source_area_m2": 723.5197409533298,
+    "actual_reused_xy_projection_m2": 675.3727233437543,
+    "inside_source_m2": 675.3727233437544,
+    "remaining_source_m2": 48.14701760957564,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961614",
+    "display_name": "橘园7舍",
+    "source_area_m2": 968.3267535511591,
+    "actual_reused_xy_projection_m2": 903.4471331153801,
+    "inside_source_m2": 903.4471331153795,
+    "remaining_source_m2": 64.87962043577886,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961616",
+    "display_name": "橘园1B",
+    "source_area_m2": 803.8921736504519,
+    "actual_reused_xy_projection_m2": 750.8051319136916,
+    "inside_source_m2": 750.8051319136919,
+    "remaining_source_m2": 53.08704173675983,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961619",
+    "display_name": "橘园5舍",
+    "source_area_m2": 903.0687424251978,
+    "actual_reused_xy_projection_m2": 843.8252623774275,
+    "inside_source_m2": 843.8252623774275,
+    "remaining_source_m2": 59.24348004777028,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961620",
+    "display_name": "橘园1D",
+    "source_area_m2": 809.9148237407494,
+    "actual_reused_xy_projection_m2": 755.3748392945278,
+    "inside_source_m2": 755.3748392945278,
+    "remaining_source_m2": 54.5399844462213,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300020021",
+    "display_name": "桃园食堂",
+    "source_area_m2": 4365.555923634204,
+    "actual_reused_xy_projection_m2": 2621.3950679460463,
+    "inside_source_m2": 2602.270034137329,
+    "remaining_source_m2": 1763.2858894968776,
+    "outside_source_m2": 19.12503380872222,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136421",
+    "display_name": "桃园2A",
+    "source_area_m2": 743.0406760678195,
+    "actual_reused_xy_projection_m2": 574.8421753690111,
+    "inside_source_m2": 574.8421753690109,
+    "remaining_source_m2": 168.19850069880818,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136422",
+    "display_name": "桃园2B",
+    "source_area_m2": 742.8785322467229,
+    "actual_reused_xy_projection_m2": 576.5264517474808,
+    "inside_source_m2": 576.5256213449289,
+    "remaining_source_m2": 166.35291090179354,
+    "outside_source_m2": 0.0008304025520150802,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136423",
+    "display_name": "桃园1A",
+    "source_area_m2": 741.7246347155329,
+    "actual_reused_xy_projection_m2": 586.9543803727831,
+    "inside_source_m2": 586.9336541243815,
+    "remaining_source_m2": 154.7909805911508,
+    "outside_source_m2": 0.0207262484016239,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136424",
+    "display_name": "桃园1B",
+    "source_area_m2": 751.1327096849733,
+    "actual_reused_xy_projection_m2": 594.7681327560161,
+    "inside_source_m2": 594.5554812878144,
+    "remaining_source_m2": 156.57722839715956,
+    "outside_source_m2": 0.2126514682017588,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136425",
+    "display_name": "桃园2C",
+    "source_area_m2": 742.6605551606681,
+    "actual_reused_xy_projection_m2": 586.4398475549359,
+    "inside_source_m2": 586.4398475549359,
+    "remaining_source_m2": 156.2207076057323,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136426",
+    "display_name": "桃园2D",
+    "source_area_m2": 748.0985787480629,
+    "actual_reused_xy_projection_m2": 592.1568982825547,
+    "inside_source_m2": 592.0919456251072,
+    "remaining_source_m2": 156.00663312295634,
+    "outside_source_m2": 0.06495265744770376,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136427",
+    "display_name": "桃园1C",
+    "source_area_m2": 745.0459074411926,
+    "actual_reused_xy_projection_m2": 589.933140639333,
+    "inside_source_m2": 589.9063756360381,
+    "remaining_source_m2": 155.13953180515458,
+    "outside_source_m2": 0.026765003295108152,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136428",
+    "display_name": "桃园1D",
+    "source_area_m2": 756.7773288379806,
+    "actual_reused_xy_projection_m2": 598.8301818189442,
+    "inside_source_m2": 598.8177547132248,
+    "remaining_source_m2": 157.9595741247557,
+    "outside_source_m2": 0.012427105719632932,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136438",
+    "display_name": "桃园4C",
+    "source_area_m2": 742.325127833237,
+    "actual_reused_xy_projection_m2": 586.8026174402231,
+    "inside_source_m2": 586.8026174402227,
+    "remaining_source_m2": 155.5225103930146,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136443",
+    "display_name": "桃园4A",
+    "source_area_m2": 742.5247349496038,
+    "actual_reused_xy_projection_m2": 574.2495015118758,
+    "inside_source_m2": 574.2495015118761,
+    "remaining_source_m2": 168.2752334377277,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136446",
+    "display_name": "桃园4D",
+    "source_area_m2": 747.9599095634624,
+    "actual_reused_xy_projection_m2": 592.7572662229366,
+    "inside_source_m2": 592.5815120954519,
+    "remaining_source_m2": 155.37839746801,
+    "outside_source_m2": 0.1757541274843808,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136447",
+    "display_name": "桃园4B",
+    "source_area_m2": 742.4855104605474,
+    "actual_reused_xy_projection_m2": 575.8831325827617,
+    "inside_source_m2": 575.882104331279,
+    "remaining_source_m2": 166.60340612926836,
+    "outside_source_m2": 0.0010282514825727368,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136454",
+    "display_name": "桃园3C",
+    "source_area_m2": 744.9679054267583,
+    "actual_reused_xy_projection_m2": 589.2886518606302,
+    "inside_source_m2": 589.28865186063,
+    "remaining_source_m2": 155.67925356612773,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136455",
+    "display_name": "桃园3A",
+    "source_area_m2": 741.587409847114,
+    "actual_reused_xy_projection_m2": 586.1830661009046,
+    "inside_source_m2": 586.1830661009044,
+    "remaining_source_m2": 155.40434374620952,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136457",
+    "display_name": "桃园3B",
+    "source_area_m2": 751.2403467616847,
+    "actual_reused_xy_projection_m2": 594.4835117880835,
+    "inside_source_m2": 594.4458729336442,
+    "remaining_source_m2": 156.7944738280409,
+    "outside_source_m2": 0.03763885443959225,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136458",
+    "display_name": "桃园3D",
+    "source_area_m2": 756.805260511319,
+    "actual_reused_xy_projection_m2": 598.3227078924446,
+    "inside_source_m2": 598.3227078924447,
+    "remaining_source_m2": 158.48255261887402,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136460",
+    "display_name": "桃园6C",
+    "source_area_m2": 742.164841728521,
+    "actual_reused_xy_projection_m2": 583.9959878897068,
+    "inside_source_m2": 583.9959878897074,
+    "remaining_source_m2": 158.16885383881493,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136462",
+    "display_name": "桃园6A",
+    "source_area_m2": 742.7491381604721,
+    "actual_reused_xy_projection_m2": 574.5307181438444,
+    "inside_source_m2": 574.5307181438448,
+    "remaining_source_m2": 168.21842001662753,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136464",
+    "display_name": "桃园6D",
+    "source_area_m2": 747.9449553306654,
+    "actual_reused_xy_projection_m2": 595.600497642248,
+    "inside_source_m2": 595.4104846173537,
+    "remaining_source_m2": 152.5344707133128,
+    "outside_source_m2": 0.19001302489453817,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136465",
+    "display_name": "桃园6B",
+    "source_area_m2": 742.730081564031,
+    "actual_reused_xy_projection_m2": 575.8515824585808,
+    "inside_source_m2": 575.851582458581,
+    "remaining_source_m2": 166.87849910545015,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136470",
+    "display_name": "桃园5C",
+    "source_area_m2": 745.555494400363,
+    "actual_reused_xy_projection_m2": 586.7053770921507,
+    "inside_source_m2": 586.7053770921505,
+    "remaining_source_m2": 158.8501173082126,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136471",
+    "display_name": "桃园5A",
+    "source_area_m2": 741.6396212612887,
+    "actual_reused_xy_projection_m2": 574.3876163308721,
+    "inside_source_m2": 574.387616330872,
+    "remaining_source_m2": 167.25200493041632,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136473",
+    "display_name": "桃园5B",
+    "source_area_m2": 750.9494096816592,
+    "actual_reused_xy_projection_m2": 582.1294590977972,
+    "inside_source_m2": 582.1294590977968,
+    "remaining_source_m2": 168.81995058386258,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136474",
+    "display_name": "桃园5D",
+    "source_area_m2": 756.7715466417852,
+    "actual_reused_xy_projection_m2": 601.1830708211213,
+    "inside_source_m2": 601.1830708211211,
+    "remaining_source_m2": 155.58847582066448,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136476",
+    "display_name": "桃园8C",
+    "source_area_m2": 742.3378770048924,
+    "actual_reused_xy_projection_m2": 587.7100838094638,
+    "inside_source_m2": 587.7100838094634,
+    "remaining_source_m2": 154.6277931954288,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136478",
+    "display_name": "桃园8A",
+    "source_area_m2": 742.7323875773054,
+    "actual_reused_xy_projection_m2": 587.9727890963668,
+    "inside_source_m2": 587.9727890963674,
+    "remaining_source_m2": 154.7595984809392,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136480",
+    "display_name": "桃园8D",
+    "source_area_m2": 748.0884868773143,
+    "actual_reused_xy_projection_m2": 587.5842417177001,
+    "inside_source_m2": 587.5842417176998,
+    "remaining_source_m2": 160.5042451596147,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136481",
+    "display_name": "桃园8B",
+    "source_area_m2": 742.551969181381,
+    "actual_reused_xy_projection_m2": 580.1625272815663,
+    "inside_source_m2": 580.162527281566,
+    "remaining_source_m2": 162.38944189981464,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136487",
+    "display_name": "桃园7C",
+    "source_area_m2": 745.1351349022881,
+    "actual_reused_xy_projection_m2": 573.5653305570225,
+    "inside_source_m2": 573.5653305570228,
+    "remaining_source_m2": 171.56980434526486,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136488",
+    "display_name": "桃园7A",
+    "source_area_m2": 741.6464955595701,
+    "actual_reused_xy_projection_m2": 585.7767969754723,
+    "inside_source_m2": 585.7767969754722,
+    "remaining_source_m2": 155.86969858409827,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136490",
+    "display_name": "桃园7B",
+    "source_area_m2": 750.8856627987466,
+    "actual_reused_xy_projection_m2": 589.2219190344637,
+    "inside_source_m2": 589.2219190344639,
+    "remaining_source_m2": 161.66374376428337,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136491",
+    "display_name": "桃园7D",
+    "source_area_m2": 756.7418356926889,
+    "actual_reused_xy_projection_m2": 586.9874786283892,
+    "inside_source_m2": 586.9874786283892,
+    "remaining_source_m2": 169.75435706430017,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141862",
+    "display_name": "梅园1D",
+    "source_area_m2": 744.9862056334134,
+    "actual_reused_xy_projection_m2": 582.8584005465402,
+    "inside_source_m2": 582.8534140985652,
+    "remaining_source_m2": 162.13279153484916,
+    "outside_source_m2": 0.004986447974958041,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141863",
+    "display_name": "梅园1A",
+    "source_area_m2": 742.0867159009791,
+    "actual_reused_xy_projection_m2": 580.2751824145023,
+    "inside_source_m2": 580.2699133865586,
+    "remaining_source_m2": 161.81680251442026,
+    "outside_source_m2": 0.005269027944190495,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141865",
+    "display_name": "梅园1B",
+    "source_area_m2": 751.1648350725015,
+    "actual_reused_xy_projection_m2": 588.1312377661495,
+    "inside_source_m2": 588.0147570109726,
+    "remaining_source_m2": 163.1500780615296,
+    "outside_source_m2": 0.11648075517634074,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141866",
+    "display_name": "梅园1C",
+    "source_area_m2": 756.813841620522,
+    "actual_reused_xy_projection_m2": 592.1221725286214,
+    "inside_source_m2": 592.0945000007406,
+    "remaining_source_m2": 164.7193416197828,
+    "outside_source_m2": 0.027672527880725276,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141868",
+    "display_name": "梅园4D",
+    "source_area_m2": 742.3916820869301,
+    "actual_reused_xy_projection_m2": 580.0510199722552,
+    "inside_source_m2": 580.0510199722553,
+    "remaining_source_m2": 162.34066211467473,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141869",
+    "display_name": "梅园4A",
+    "source_area_m2": 742.9388039404332,
+    "actual_reused_xy_projection_m2": 580.4774204532283,
+    "inside_source_m2": 580.4774204532283,
+    "remaining_source_m2": 162.46138348720422,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141871",
+    "display_name": "桃园4C",
+    "source_area_m2": 748.3969965840463,
+    "actual_reused_xy_projection_m2": 586.1957720313632,
+    "inside_source_m2": 586.0293827593647,
+    "remaining_source_m2": 162.3676138246824,
+    "outside_source_m2": 0.16638927199957648,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141872",
+    "display_name": "梅园4B",
+    "source_area_m2": 743.0915780584986,
+    "actual_reused_xy_projection_m2": 582.3270114908346,
+    "inside_source_m2": 582.0913033182547,
+    "remaining_source_m2": 161.00027474024444,
+    "outside_source_m2": 0.23570817257989715,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141876",
+    "display_name": "梅园3A",
+    "source_area_m2": 745.0473001408038,
+    "actual_reused_xy_projection_m2": 582.8533268704725,
+    "inside_source_m2": 582.8490490027102,
+    "remaining_source_m2": 162.1982511380945,
+    "outside_source_m2": 0.004277867762552996,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141877",
+    "display_name": "梅园2A",
+    "source_area_m2": 741.9884807154331,
+    "actual_reused_xy_projection_m2": 580.2214543027756,
+    "inside_source_m2": 580.2163197102254,
+    "remaining_source_m2": 161.7721610052082,
+    "outside_source_m2": 0.005134592550438896,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141879",
+    "display_name": "梅园2B",
+    "source_area_m2": 751.1759047641265,
+    "actual_reused_xy_projection_m2": 588.1230498205263,
+    "inside_source_m2": 588.0106946879828,
+    "remaining_source_m2": 163.16521007614404,
+    "outside_source_m2": 0.11235513254371564,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141880",
+    "display_name": "梅园3B",
+    "source_area_m2": 756.82482291296,
+    "actual_reused_xy_projection_m2": 592.1135012979852,
+    "inside_source_m2": 592.0869916640837,
+    "remaining_source_m2": 164.73783124887694,
+    "outside_source_m2": 0.02650963390209803,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141882",
+    "display_name": "梅园8D",
+    "source_area_m2": 742.4046051628902,
+    "actual_reused_xy_projection_m2": 580.0514838230023,
+    "inside_source_m2": 580.0514838230018,
+    "remaining_source_m2": 162.3531213398885,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141883",
+    "display_name": "梅园8A",
+    "source_area_m2": 743.1752366475093,
+    "actual_reused_xy_projection_m2": 580.5003596362192,
+    "inside_source_m2": 580.5003596362197,
+    "remaining_source_m2": 162.6748770112896,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141885",
+    "display_name": "梅园8B",
+    "source_area_m2": 743.091929790779,
+    "actual_reused_xy_projection_m2": 582.3272325029518,
+    "inside_source_m2": 582.0915660613252,
+    "remaining_source_m2": 161.0003637294541,
+    "outside_source_m2": 0.2356664416262357,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141889",
+    "display_name": "梅园6B",
+    "source_area_m2": 751.1762604248104,
+    "actual_reused_xy_projection_m2": 588.1235971424811,
+    "inside_source_m2": 588.0107842713877,
+    "remaining_source_m2": 163.1654761534231,
+    "outside_source_m2": 0.11281287109366739,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141890",
+    "display_name": "梅园6A",
+    "source_area_m2": 741.6918532520987,
+    "actual_reused_xy_projection_m2": 579.7498197955387,
+    "inside_source_m2": 579.7498197955385,
+    "remaining_source_m2": 161.94203345656,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141894",
+    "display_name": "梅园7B",
+    "source_area_m2": 756.8251815678233,
+    "actual_reused_xy_projection_m2": 592.1126611806261,
+    "inside_source_m2": 592.0862165318598,
+    "remaining_source_m2": 164.73896503596444,
+    "outside_source_m2": 0.026444648767252596,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141895",
+    "display_name": "梅园7A",
+    "source_area_m2": 745.0476532667428,
+    "actual_reused_xy_projection_m2": 582.8532033487827,
+    "inside_source_m2": 582.8488477931567,
+    "remaining_source_m2": 162.19880547358594,
+    "outside_source_m2": 0.004355555626289516,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141899",
+    "display_name": "梅园5A",
+    "source_area_m2": 742.0870672532906,
+    "actual_reused_xy_projection_m2": 580.2751270143632,
+    "inside_source_m2": 580.2698811418624,
+    "remaining_source_m2": 161.8171861114289,
+    "outside_source_m2": 0.005245872501934188,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141901",
+    "display_name": "梅园5B",
+    "source_area_m2": 751.1651907547595,
+    "actual_reused_xy_projection_m2": 588.132483619877,
+    "inside_source_m2": 588.0153161468394,
+    "remaining_source_m2": 163.14987460792022,
+    "outside_source_m2": 0.11716747303756916,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141902",
+    "display_name": "梅园5C",
+    "source_area_m2": 756.8142003412122,
+    "actual_reused_xy_projection_m2": 592.1226506772441,
+    "inside_source_m2": 592.0950166590305,
+    "remaining_source_m2": 164.71918368218192,
+    "outside_source_m2": 0.02763401821323488,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141903",
+    "display_name": "梅园5D",
+    "source_area_m2": 745.0365456402478,
+    "actual_reused_xy_projection_m2": 582.9342841122312,
+    "inside_source_m2": 582.9302438435741,
+    "remaining_source_m2": 162.10630179667476,
+    "outside_source_m2": 0.004040268656771784,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141906",
+    "display_name": "梅园8C",
+    "source_area_m2": 748.7300092766167,
+    "actual_reused_xy_projection_m2": 586.1652844327613,
+    "inside_source_m2": 586.0588494131024,
+    "remaining_source_m2": 162.67115986351487,
+    "outside_source_m2": 0.10643501965988054,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141909",
+    "display_name": "梅园9B",
+    "source_area_m2": 749.475239612595,
+    "actual_reused_xy_projection_m2": 589.9896219128299,
+    "inside_source_m2": 589.0977999879955,
+    "remaining_source_m2": 160.37743962459987,
+    "outside_source_m2": 0.8918219248346496,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141910",
+    "display_name": "梅园9A",
+    "source_area_m2": 781.3894574749175,
+    "actual_reused_xy_projection_m2": 617.2467235287779,
+    "inside_source_m2": 615.8880762092083,
+    "remaining_source_m2": 165.5013812657095,
+    "outside_source_m2": 1.3586473195687867,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141912",
+    "display_name": "梅园9C",
+    "source_area_m2": 756.8661310202367,
+    "actual_reused_xy_projection_m2": 592.9381761661247,
+    "inside_source_m2": 592.8110441757042,
+    "remaining_source_m2": 164.0550868445327,
+    "outside_source_m2": 0.1271319904203097,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630141914",
+    "display_name": "梅园9D",
+    "source_area_m2": 745.2644468869543,
+    "actual_reused_xy_projection_m2": 587.4265734798759,
+    "inside_source_m2": 586.0430167103965,
+    "remaining_source_m2": 159.2214301765576,
+    "outside_source_m2": 1.3835567694791624,
+    "not_whole_building_completion": true
+  }
+]
