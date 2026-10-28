@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "bridge_projection_area_m2": 688.6913341501942,
+  "tree_count": 603,
+  "bike_count": 8,
+  "minimum_tree_crown_to_bridge_m": 207.94151117680312,
+  "minimum_bike_center_to_bridge_m": 923.844480501649,
+  "method": "full mesh projected union, all guard/benchlike/support/deck components; no inferred minimum7m building setback applied to bridge",
+  "water_overlap": "intentional bridge; water and bridge elevation are unmeasured display estimates",
+  "conflicts": [],
+  "source_sha256": "695b5de660e8413facef8a07706e609e4f9825abcb2502f21ec1f1c821a6d92b"
+}

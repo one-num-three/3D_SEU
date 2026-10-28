@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "png_count": 4,
+  "files": [
+    {
+      "file": "previews/V12_FULL_WITH_WOODLAND.png",
+      "decoded_pixels_sha256": "16ecaf64b8e5de1d40ce5796fa8db0e85277153c0fcc073e356d00f54ef3cdb5",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "sports_reuse/previews/TAOYUAN12.png",
+      "decoded_pixels_sha256": "8fbcac4ca7be0f9e22b4339e24076e89444c27bd56cae6aa691b1b34fa811126",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "sports_reuse/previews/MEIYUAN24.png",
+      "decoded_pixels_sha256": "468a66dc331c598fed3908faff93ec3eedbb1d0308f8c0fe788c6bec5b571d5e",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    },
+    {
+      "file": "bridge_reuse/previews/BRIDGE_WATER_BANKS.png",
+      "decoded_pixels_sha256": "f6bbd5cd9b64d9aac4d693a25e20b375ebbdaa46231e8e6eed5b2bef1aa759a2",
+      "pixel_identity": true,
+      "remaining_metadata_keys": []
+    }
+  ]
+}

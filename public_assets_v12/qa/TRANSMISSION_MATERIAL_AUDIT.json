@@ -1,0 +1,17 @@
+{
+  "status": "PASS_RECORDED",
+  "materials": [
+    {
+      "material": "JQB_MAT_0_567e25c3",
+      "alphaMode": "OPAQUE",
+      "extensions": {
+        "KHR_materials_transmission": {
+          "transmissionFactor": 0.9599999785423279
+        }
+      }
+    }
+  ],
+  "material_values_not_changed": true,
+  "real_glazing_optics_unverified": true,
+  "workbench_preview_does_not_validate_transmission": true
+}

@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "changes": [
+    {
+      "file": "assets/SEU_campus_photorefined_v12.blend",
+      "default_file_browser_directory_fields_cleared": 1,
+      "decoded_length_unchanged": true,
+      "sha256": "0c78002b8712a0ff685c0b5497fce6163bce19b334446f490ee8ac9f1e13109c"
+    },
+    {
+      "file": "bridge_reuse/assets/SEU_jiuqu_bridge_reuse_candidate.blend",
+      "default_file_browser_directory_fields_cleared": 1,
+      "decoded_length_unchanged": true,
+      "sha256": "63f5d05cff3d9d45fe957a68ba1fc99a318bd749ff42ddcb1626b06785114a55"
+    }
+  ],
+  "cold_geometry_validation_required": false,
+  "cold_geometry_validation_passed": true
+}

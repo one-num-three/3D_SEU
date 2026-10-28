@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "bike_positions_unchanged": true,
+  "bike_count": 8,
+  "projection_sha256": "726e879e2c06368532654e10d4cbe59c8bdbc80631b949e600a871c6ad170bd1",
+  "conservative_bike_envelope_radius_m": 1.1,
+  "groups": [
+    {
+      "osm_way_id": "817128601",
+      "minimum_bike_center_distance_m": 167.6808514321182
+    },
+    {
+      "osm_way_id": "817128602",
+      "minimum_bike_center_distance_m": 149.36365615517317
+    },
+    {
+      "osm_way_id": "817128603",
+      "minimum_bike_center_distance_m": 131.1178917556221
+    },
+    {
+      "osm_way_id": "817128604",
+      "minimum_bike_center_distance_m": 113.20923337335017
+    },
+    {
+      "osm_way_id": "817128608",
+      "minimum_bike_center_distance_m": 143.13794647343138
+    },
+    {
+      "osm_way_id": "817128611",
+      "minimum_bike_center_distance_m": 157.6797932531113
+    },
+    {
+      "osm_way_id": "817128612",
+      "minimum_bike_center_distance_m": 173.14679019525042
+    },
+    {
+      "osm_way_id": "817128614",
+      "minimum_bike_center_distance_m": 189.17719986297533
+    },
+    {
+      "osm_way_id": "817128619",
+      "minimum_bike_center_distance_m": 125.0114279361571
+    },
+    {
+      "osm_way_id": "817128620",
+      "minimum_bike_center_distance_m": 141.43323173793465
+    },
+    {
+      "osm_way_id": "817128621",
+      "minimum_bike_center_distance_m": 158.4954076442911
+    },
+    {
+      "osm_way_id": "817128622",
+      "minimum_bike_center_distance_m": 175.8640079584687
+    },
+    {
+      "osm_way_id": "300010628",
+      "minimum_bike_center_distance_m": 358.10384005049383
+    }
+  ],
+  "conflicts": []
+}
