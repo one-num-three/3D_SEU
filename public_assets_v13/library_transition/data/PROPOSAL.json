@@ -1,0 +1,358 @@
+{
+  "mode": "proposal_not_built",
+  "existing_first_step_top_m": 0.7519999742507935,
+  "existing_first_step_name": "SEU_B_OSMWAY_300030310__0248",
+  "axis_east": [
+    0.996411521377768,
+    0.08464088885191173
+  ],
+  "axis_north": [
+    -0.08464088885191173,
+    0.996411521377768
+  ],
+  "front_edge_local_v_m": -15.0079737662253,
+  "width_m": 78.00001098724589,
+  "total_south_extension_m": 2.6,
+  "tread_depth_m": 0.65,
+  "new_riser_m": 0.148,
+  "final_riser_to_existing_m": 0.1599999742507935,
+  "height_status": "inferred_display_transition_not_surveyed",
+  "tiers": [
+    {
+      "id": "LIB_SOUTH_TRANSITION_TIER_1",
+      "height_estimate_m": 0.148,
+      "bottom_z_m": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -172.48665973116815,
+              -32.323389754099274
+            ],
+            [
+              -94.76655011588385,
+              -25.721399493679904
+            ],
+            [
+              -94.98873244912012,
+              -23.105819250063263
+            ],
+            [
+              -172.7088420644044,
+              -29.707809510482637
+            ],
+            [
+              -172.48665973116815,
+              -32.323389754099274
+            ]
+          ]
+        ]
+      },
+      "road_overlap": [
+        {
+          "road_id": "SEU_R_OSMWAY_300030303",
+          "overlap_m2": 5.2500355961951835,
+          "properties": {
+            "stable_id": "SEU_R_OSMWAY_300030303",
+            "osm_way_id": 300030303,
+            "source_type": "OpenStreetMap way",
+            "source_name_osm": "",
+            "name_status": "OSM label only; not independently verified",
+            "layer": "road_area",
+            "geometry_role": "estimated width corridor",
+            "source_node_ids": [
+              5950398477,
+              5950398814,
+              5950398806,
+              3042812088
+            ],
+            "source_tags": {
+              "highway": "steps"
+            },
+            "source_url": "https://www.openstreetmap.org/way/300030303",
+            "area_m2": 148.02306093663816,
+            "absolute_accuracy": "not_surveyed",
+            "license": "ODbL-1.0",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "highway_class": "steps",
+            "width_m": 2.0,
+            "width_evidence": "estimated by documented highway class; not measured",
+            "source_centerline_local": [
+              [
+                -136.1445555029204,
+                -46.310292235109955
+              ],
+              [
+                -137.1307385849068,
+                -33.74006430990994
+              ],
+              [
+                -138.25083352718502,
+                -19.9522176082246
+              ],
+              [
+                -141.9418135404121,
+                25.908180340193212
+              ]
+            ],
+            "source_line_semantics": "OSM linear way"
+          }
+        }
+      ],
+      "min_road_distance_m": 0.0
+    },
+    {
+      "id": "LIB_SOUTH_TRANSITION_TIER_2",
+      "height_estimate_m": 0.296,
+      "bottom_z_m": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -172.54167630892186,
+              -31.67572226520373
+            ],
+            [
+              -94.82156669363759,
+              -25.073732004784357
+            ],
+            [
+              -94.98873244912012,
+              -23.105819250063263
+            ],
+            [
+              -172.7088420644044,
+              -29.707809510482637
+            ],
+            [
+              -172.54167630892186,
+              -31.67572226520373
+            ]
+          ]
+        ]
+      },
+      "road_overlap": [
+        {
+          "road_id": "SEU_R_OSMWAY_300030303",
+          "overlap_m2": 3.9500267818992425,
+          "properties": {
+            "stable_id": "SEU_R_OSMWAY_300030303",
+            "osm_way_id": 300030303,
+            "source_type": "OpenStreetMap way",
+            "source_name_osm": "",
+            "name_status": "OSM label only; not independently verified",
+            "layer": "road_area",
+            "geometry_role": "estimated width corridor",
+            "source_node_ids": [
+              5950398477,
+              5950398814,
+              5950398806,
+              3042812088
+            ],
+            "source_tags": {
+              "highway": "steps"
+            },
+            "source_url": "https://www.openstreetmap.org/way/300030303",
+            "area_m2": 148.02306093663816,
+            "absolute_accuracy": "not_surveyed",
+            "license": "ODbL-1.0",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "highway_class": "steps",
+            "width_m": 2.0,
+            "width_evidence": "estimated by documented highway class; not measured",
+            "source_centerline_local": [
+              [
+                -136.1445555029204,
+                -46.310292235109955
+              ],
+              [
+                -137.1307385849068,
+                -33.74006430990994
+              ],
+              [
+                -138.25083352718502,
+                -19.9522176082246
+              ],
+              [
+                -141.9418135404121,
+                25.908180340193212
+              ]
+            ],
+            "source_line_semantics": "OSM linear way"
+          }
+        }
+      ],
+      "min_road_distance_m": 0.0
+    },
+    {
+      "id": "LIB_SOUTH_TRANSITION_TIER_3",
+      "height_estimate_m": 0.44399999999999995,
+      "bottom_z_m": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -172.5966928866756,
+              -31.02805477630818
+            ],
+            [
+              -94.87658327139133,
+              -24.426064515888807
+            ],
+            [
+              -94.98873244912012,
+              -23.105819250063263
+            ],
+            [
+              -172.7088420644044,
+              -29.707809510482637
+            ],
+            [
+              -172.5966928866756,
+              -31.02805477630818
+            ]
+          ]
+        ]
+      },
+      "road_overlap": [
+        {
+          "road_id": "SEU_R_OSMWAY_300030303",
+          "overlap_m2": 2.6500179676033113,
+          "properties": {
+            "stable_id": "SEU_R_OSMWAY_300030303",
+            "osm_way_id": 300030303,
+            "source_type": "OpenStreetMap way",
+            "source_name_osm": "",
+            "name_status": "OSM label only; not independently verified",
+            "layer": "road_area",
+            "geometry_role": "estimated width corridor",
+            "source_node_ids": [
+              5950398477,
+              5950398814,
+              5950398806,
+              3042812088
+            ],
+            "source_tags": {
+              "highway": "steps"
+            },
+            "source_url": "https://www.openstreetmap.org/way/300030303",
+            "area_m2": 148.02306093663816,
+            "absolute_accuracy": "not_surveyed",
+            "license": "ODbL-1.0",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "highway_class": "steps",
+            "width_m": 2.0,
+            "width_evidence": "estimated by documented highway class; not measured",
+            "source_centerline_local": [
+              [
+                -136.1445555029204,
+                -46.310292235109955
+              ],
+              [
+                -137.1307385849068,
+                -33.74006430990994
+              ],
+              [
+                -138.25083352718502,
+                -19.9522176082246
+              ],
+              [
+                -141.9418135404121,
+                25.908180340193212
+              ]
+            ],
+            "source_line_semantics": "OSM linear way"
+          }
+        }
+      ],
+      "min_road_distance_m": 0.0
+    },
+    {
+      "id": "LIB_SOUTH_TRANSITION_TIER_4",
+      "height_estimate_m": 0.592,
+      "bottom_z_m": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -172.65170946442936,
+              -30.38038728741263
+            ],
+            [
+              -94.93159984914507,
+              -23.77839702699326
+            ],
+            [
+              -94.98873244912012,
+              -23.105819250063263
+            ],
+            [
+              -172.7088420644044,
+              -29.707809510482637
+            ],
+            [
+              -172.65170946442936,
+              -30.38038728741263
+            ]
+          ]
+        ]
+      },
+      "road_overlap": [
+        {
+          "road_id": "SEU_R_OSMWAY_300030303",
+          "overlap_m2": 1.3500091533073468,
+          "properties": {
+            "stable_id": "SEU_R_OSMWAY_300030303",
+            "osm_way_id": 300030303,
+            "source_type": "OpenStreetMap way",
+            "source_name_osm": "",
+            "name_status": "OSM label only; not independently verified",
+            "layer": "road_area",
+            "geometry_role": "estimated width corridor",
+            "source_node_ids": [
+              5950398477,
+              5950398814,
+              5950398806,
+              3042812088
+            ],
+            "source_tags": {
+              "highway": "steps"
+            },
+            "source_url": "https://www.openstreetmap.org/way/300030303",
+            "area_m2": 148.02306093663816,
+            "absolute_accuracy": "not_surveyed",
+            "license": "ODbL-1.0",
+            "attribution": "\u00a9 OpenStreetMap contributors",
+            "highway_class": "steps",
+            "width_m": 2.0,
+            "width_evidence": "estimated by documented highway class; not measured",
+            "source_centerline_local": [
+              [
+                -136.1445555029204,
+                -46.310292235109955
+              ],
+              [
+                -137.1307385849068,
+                -33.74006430990994
+              ],
+              [
+                -138.25083352718502,
+                -19.9522176082246
+              ],
+              [
+                -141.9418135404121,
+                25.908180340193212
+              ]
+            ],
+            "source_line_semantics": "OSM linear way"
+          }
+        }
+      ],
+      "min_road_distance_m": 0.0
+    }
+  ]
+}

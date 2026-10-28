@@ -1,0 +1,402 @@
+[
+  {
+    "name": "SEU_LIBRARY_SOUTH_V13_TRANSITION_1",
+    "vertices": [
+      [
+        -172.48665973116812,
+        -32.323389754099274,
+        0
+      ],
+      [
+        -94.76655011588383,
+        -25.721399493679904,
+        0
+      ],
+      [
+        -94.82156669363758,
+        -25.073732004784354,
+        0
+      ],
+      [
+        -172.54167630892184,
+        -31.675722265203728,
+        0
+      ],
+      [
+        -172.48665973116812,
+        -32.323389754099274,
+        0.148
+      ],
+      [
+        -94.76655011588383,
+        -25.721399493679904,
+        0.148
+      ],
+      [
+        -94.82156669363758,
+        -25.073732004784354,
+        0.148
+      ],
+      [
+        -172.54167630892184,
+        -31.675722265203728,
+        0.148
+      ]
+    ],
+    "faces": [
+      [
+        0,
+        3,
+        2,
+        1
+      ],
+      [
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        0,
+        1,
+        5,
+        4
+      ],
+      [
+        1,
+        2,
+        6,
+        5
+      ],
+      [
+        2,
+        3,
+        7,
+        6
+      ],
+      [
+        3,
+        0,
+        4,
+        7
+      ]
+    ],
+    "properties": {
+      "stable_id": "SEU_B_OSMWAY_300030310",
+      "role": "estimated_supported_approach_steps",
+      "layer": "building_detail",
+      "height_status": "estimated_not_surveyed",
+      "source_method": "existing_v12_first_step_edge_and_2020_photo_continuous_grounded_forecourt",
+      "same_feature_2D_overlap_osm_way": "300030303",
+      "units": "metres",
+      "geographic_license": "ODbL-1.0",
+      "original_visual_license": "CC-BY-4.0"
+    },
+    "material_rgba": [
+      0.550000011920929,
+      0.5400000214576721,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "name": "SEU_LIBRARY_SOUTH_V13_TRANSITION_2",
+    "vertices": [
+      [
+        -172.54167630892184,
+        -31.67572226520373,
+        0
+      ],
+      [
+        -94.82156669363758,
+        -25.07373200478436,
+        0
+      ],
+      [
+        -94.87658327139131,
+        -24.42606451588881,
+        0
+      ],
+      [
+        -172.59669288667558,
+        -31.028054776308185,
+        0
+      ],
+      [
+        -172.54167630892184,
+        -31.67572226520373,
+        0.296
+      ],
+      [
+        -94.82156669363758,
+        -25.07373200478436,
+        0.296
+      ],
+      [
+        -94.87658327139131,
+        -24.42606451588881,
+        0.296
+      ],
+      [
+        -172.59669288667558,
+        -31.028054776308185,
+        0.296
+      ]
+    ],
+    "faces": [
+      [
+        0,
+        3,
+        2,
+        1
+      ],
+      [
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        0,
+        1,
+        5,
+        4
+      ],
+      [
+        1,
+        2,
+        6,
+        5
+      ],
+      [
+        2,
+        3,
+        7,
+        6
+      ],
+      [
+        3,
+        0,
+        4,
+        7
+      ]
+    ],
+    "properties": {
+      "stable_id": "SEU_B_OSMWAY_300030310",
+      "role": "estimated_supported_approach_steps",
+      "layer": "building_detail",
+      "height_status": "estimated_not_surveyed",
+      "source_method": "existing_v12_first_step_edge_and_2020_photo_continuous_grounded_forecourt",
+      "same_feature_2D_overlap_osm_way": "300030303",
+      "units": "metres",
+      "geographic_license": "ODbL-1.0",
+      "original_visual_license": "CC-BY-4.0"
+    },
+    "material_rgba": [
+      0.550000011920929,
+      0.5400000214576721,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "name": "SEU_LIBRARY_SOUTH_V13_TRANSITION_3",
+    "vertices": [
+      [
+        -172.59669288667558,
+        -31.02805477630818,
+        0
+      ],
+      [
+        -94.87658327139131,
+        -24.42606451588881,
+        0
+      ],
+      [
+        -94.93159984914506,
+        -23.77839702699326,
+        0
+      ],
+      [
+        -172.65170946442933,
+        -30.38038728741263,
+        0
+      ],
+      [
+        -172.59669288667558,
+        -31.02805477630818,
+        0.44399999999999995
+      ],
+      [
+        -94.87658327139131,
+        -24.42606451588881,
+        0.44399999999999995
+      ],
+      [
+        -94.93159984914506,
+        -23.77839702699326,
+        0.44399999999999995
+      ],
+      [
+        -172.65170946442933,
+        -30.38038728741263,
+        0.44399999999999995
+      ]
+    ],
+    "faces": [
+      [
+        0,
+        3,
+        2,
+        1
+      ],
+      [
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        0,
+        1,
+        5,
+        4
+      ],
+      [
+        1,
+        2,
+        6,
+        5
+      ],
+      [
+        2,
+        3,
+        7,
+        6
+      ],
+      [
+        3,
+        0,
+        4,
+        7
+      ]
+    ],
+    "properties": {
+      "stable_id": "SEU_B_OSMWAY_300030310",
+      "role": "estimated_supported_approach_steps",
+      "layer": "building_detail",
+      "height_status": "estimated_not_surveyed",
+      "source_method": "existing_v12_first_step_edge_and_2020_photo_continuous_grounded_forecourt",
+      "same_feature_2D_overlap_osm_way": "300030303",
+      "units": "metres",
+      "geographic_license": "ODbL-1.0",
+      "original_visual_license": "CC-BY-4.0"
+    },
+    "material_rgba": [
+      0.550000011920929,
+      0.5400000214576721,
+      0.5,
+      1.0
+    ]
+  },
+  {
+    "name": "SEU_LIBRARY_SOUTH_V13_TRANSITION_4",
+    "vertices": [
+      [
+        -172.65170946442933,
+        -30.38038728741263,
+        0
+      ],
+      [
+        -94.93159984914506,
+        -23.77839702699326,
+        0
+      ],
+      [
+        -94.9887324491201,
+        -23.105819250063263,
+        0
+      ],
+      [
+        -172.70884206440437,
+        -29.707809510482633,
+        0
+      ],
+      [
+        -172.65170946442933,
+        -30.38038728741263,
+        0.592
+      ],
+      [
+        -94.93159984914506,
+        -23.77839702699326,
+        0.592
+      ],
+      [
+        -94.9887324491201,
+        -23.105819250063263,
+        0.592
+      ],
+      [
+        -172.70884206440437,
+        -29.707809510482633,
+        0.592
+      ]
+    ],
+    "faces": [
+      [
+        0,
+        3,
+        2,
+        1
+      ],
+      [
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        0,
+        1,
+        5,
+        4
+      ],
+      [
+        1,
+        2,
+        6,
+        5
+      ],
+      [
+        2,
+        3,
+        7,
+        6
+      ],
+      [
+        3,
+        0,
+        4,
+        7
+      ]
+    ],
+    "properties": {
+      "stable_id": "SEU_B_OSMWAY_300030310",
+      "role": "estimated_supported_approach_steps",
+      "layer": "building_detail",
+      "height_status": "estimated_not_surveyed",
+      "source_method": "existing_v12_first_step_edge_and_2020_photo_continuous_grounded_forecourt",
+      "same_feature_2D_overlap_osm_way": "300030303",
+      "units": "metres",
+      "geographic_license": "ODbL-1.0",
+      "original_visual_license": "CC-BY-4.0"
+    },
+    "material_rgba": [
+      0.550000011920929,
+      0.5400000214576721,
+      0.5,
+      1.0
+    ]
+  }
+]
