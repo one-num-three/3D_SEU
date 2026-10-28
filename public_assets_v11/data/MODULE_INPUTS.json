@@ -1,0 +1,10 @@
+[
+  {
+    "manifest": "c15_a_reuse/data/REPLACEMENT_MANIFEST.json",
+    "blend": "c15_a_reuse/assets/SEU_c15_a_reuse_candidate.blend"
+  },
+  {
+    "manifest": "jiaotingbiao_reuse/data/INTEGRATION.json",
+    "blend": "jiaotingbiao_reuse/assets/SEU_Jiaotingbiao_complex.blend"
+  }
+]
