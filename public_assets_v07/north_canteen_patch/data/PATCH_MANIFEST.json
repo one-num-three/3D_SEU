@@ -1,0 +1,26 @@
+{
+  "stable_id": "SEU_B_OSMWAY_630686661",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_630686661.001"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_630686661_V07__ground_body",
+    "SEU_B_OSMWAY_630686661_V07__upper_main",
+    "SEU_B_OSMWAY_630686661_V07__upper_cantilever",
+    "SEU_B_OSMWAY_630686661_V07__main_roof",
+    "SEU_B_OSMWAY_630686661_V07__cantilever_roof",
+    "SEU_B_OSMWAY_630686661_V07__front_glazing",
+    "SEU_B_OSMWAY_630686661_V07__glazing_mullions",
+    "SEU_B_OSMWAY_630686661_V07__glazing_transoms",
+    "SEU_B_OSMWAY_630686661_V07__round_front_columns",
+    "SEU_B_OSMWAY_630686661_V07__canopy_rafters",
+    "SEU_B_OSMWAY_630686661_V07__canopy_glass",
+    "SEU_B_OSMWAY_630686661_V07__front_top_beam",
+    "SEU_B_OSMWAY_630686661_V07__front_storey_beam",
+    "SEU_B_OSMWAY_630686661_V07__cantilever_supports",
+    "SEU_B_OSMWAY_630686661_V07__external_stair",
+    "SEU_B_OSMWAY_630686661_V07__stair_rails"
+  ],
+  "retain_original_outline": true,
+  "new_mesh_count": 16
+}

@@ -1,0 +1,205 @@
+{
+  "stable_id": "SEU_B_OSMWAY_630686661",
+  "name": "桃园北食堂",
+  "origin_world_xy": [
+    398.918545875233,
+    306.879638056271
+  ],
+  "rotation_radians": 0.2740532828760789,
+  "footprint_world_xy": [
+    [
+      381.2658836802,
+      371.003216767218
+    ],
+    [
+      457.787449853844,
+      392.515480165835
+    ],
+    [
+      477.061397451907,
+      324.837267218158
+    ],
+    [
+      479.434413640643,
+      316.493325734977
+    ],
+    [
+      455.581299893907,
+      314.296232284047
+    ],
+    [
+      454.537426498719,
+      318.426241545007
+    ],
+    [
+      453.67535275931,
+      321.871743873693
+    ],
+    [
+      398.918545875233,
+      306.879638056271
+    ]
+  ],
+  "footprint_local_xy": [
+    [
+      0.3602303495635013,
+      66.50804510257552
+    ],
+    [
+      79.84813865138548,
+      66.50804510257552
+    ],
+    [
+      80.08667950218266,
+      -3.860759506189133
+    ],
+    [
+      80.11297090163326,
+      -12.535543311510533
+    ],
+    [
+      56.55539950428425,
+      -8.195141843253161
+    ],
+    [
+      56.66820936637884,
+      -3.9367475336793447
+    ],
+    [
+      56.77078246350368,
+      -0.38651709201704776
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "ground_body_xy": [
+    [
+      79.54915388765019,
+      66.20804510257553
+    ],
+    [
+      79.77223437275073,
+      0.4
+    ],
+    [
+      0.3021709374722663,
+      0.4
+    ],
+    [
+      0.6586098473038442,
+      66.20804510257553
+    ]
+  ],
+  "upper_main_xy": [
+    [
+      79.54915388765019,
+      66.20804510257553
+    ],
+    [
+      79.76274274665383,
+      3.2
+    ],
+    [
+      0.31733669639995943,
+      3.2
+    ],
+    [
+      0.6586098473038442,
+      66.20804510257553
+    ]
+  ],
+  "upper_cantilever_xy": [
+    [
+      79.78668104326384,
+      -3.8617225988221255
+    ],
+    [
+      79.8118768500417,
+      -12.175018245533618
+    ],
+    [
+      56.9,
+      -7.9535837757799115
+    ],
+    [
+      56.9,
+      -6.515516477008253
+    ],
+    [
+      56.968094625138114,
+      -3.9450518135767574
+    ],
+    [
+      57.07951470651677,
+      -0.08861210559403009
+    ],
+    [
+      56.9,
+      -0.08738990115494627
+    ],
+    [
+      56.9,
+      3.2
+    ],
+    [
+      79.76274274665383,
+      3.2
+    ]
+  ],
+  "roof_projection_xy": [
+    [
+      0.6586098473038442,
+      66.20804510257553
+    ],
+    [
+      79.54915388765019,
+      66.20804510257553
+    ],
+    [
+      79.78668104326384,
+      -3.8617225988221255
+    ],
+    [
+      79.8118768500417,
+      -12.175018245533618
+    ],
+    [
+      56.8620889501451,
+      -7.946598795296231
+    ],
+    [
+      56.968094625138114,
+      -3.9450518135767574
+    ],
+    [
+      57.07951470651677,
+      -0.08861210559403009
+    ],
+    [
+      0.30161821825430996,
+      0.2979534214109284
+    ]
+  ],
+  "replace_object_names": [
+    "SEU_B_OSMWAY_630686661.001"
+  ],
+  "old_model_height_m": 0.35,
+  "old_model_issue": "entire building reduced to passage marker although only a southeast local passage exists",
+  "floor_count": 2,
+  "metric_height_m_estimated": 9.8,
+  "height_status": "official two-storey count; 4.4m spacing and all metric heights estimated, not measured",
+  "source_official": "https://zwc.seu.edu.cn/cyfw_61983/list.htm",
+  "source_photo": "https://zwc.seu.edu.cn/_upload/article/images/51/04/d168f0f7490392af0554d5f94c3b/97ca916f-3b35-40b7-8ed5-f26c2b4429cc.png",
+  "front_assignment_status": "south frontage inferred by matching southeast mapped projection and building_passage to photographed cantilever; not surveyed facade orientation",
+  "passage_osm_way": 631050521,
+  "passage_policy": "keep southeast ground open; original footway unchanged below upper projection",
+  "observed": "two-level blue glazing, orange round columns, white projecting upper fascia, clear canopy, external stair",
+  "uncertain": [
+    "roof arrangement behind photographed frontage",
+    "exact facade spacing and stair dimensions/position",
+    "entry functionality not navigationally verified"
+  ],
+  "reference_pixels_distributed": false
+}
