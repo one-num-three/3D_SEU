@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "decompressed_blend_checked": true,
+  "prohibited_categories": [
+    "private gallery host",
+    "workstation absolute paths"
+  ],
+  "no_external_textures_or_fonts": true
+}

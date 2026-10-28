@@ -1,0 +1,12 @@
+{
+  "active_objects": 132,
+  "held_west_wing_objects": 11,
+  "by_stable_id": {
+    "SEU_B_OSMWAY_300030319": 33,
+    "SEU_B_OSMWAY_299961623": 24,
+    "SEU_B_OSMWAY_299961609": 24,
+    "SEU_COMPOUND_OSMWAY_300020027": 35,
+    "SEU_B_OSMWAY_300010611": 16
+  },
+  "status": "partial source binding, not complete building claims"
+}

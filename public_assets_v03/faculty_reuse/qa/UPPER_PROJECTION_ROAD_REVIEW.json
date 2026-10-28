@@ -1,0 +1,32 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_300030319",
+    "actual_upper_mesh_projection_area_m2": 1626.1828031315517,
+    "road_area_contacts": [],
+    "interpretation": "Upper/roof projection overlap is not ground collision or clearance proof. Road buffers may have estimated widths."
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961623",
+    "actual_upper_mesh_projection_area_m2": 1717.481081192119,
+    "road_area_contacts": [],
+    "interpretation": "Upper/roof projection overlap is not ground collision or clearance proof. Road buffers may have estimated widths."
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_299961609",
+    "actual_upper_mesh_projection_area_m2": 1378.1562562456215,
+    "road_area_contacts": [],
+    "interpretation": "Upper/roof projection overlap is not ground collision or clearance proof. Road buffers may have estimated widths."
+  },
+  {
+    "stable_id": "SEU_COMPOUND_OSMWAY_300020027",
+    "actual_upper_mesh_projection_area_m2": 1494.794363009656,
+    "road_area_contacts": [],
+    "interpretation": "Upper/roof projection overlap is not ground collision or clearance proof. Road buffers may have estimated widths."
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300010611",
+    "actual_upper_mesh_projection_area_m2": 3913.085652351468,
+    "road_area_contacts": [],
+    "interpretation": "Upper/roof projection overlap is not ground collision or clearance proof. Road buffers may have estimated widths."
+  }
+]
