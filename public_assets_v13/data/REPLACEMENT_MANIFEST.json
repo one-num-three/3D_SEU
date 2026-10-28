@@ -1,0 +1,29 @@
+{
+  "version": "0.13.0",
+  "base_model_version": "0.3",
+  "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "patch_file": "assets/SEU_building_patch_v13.glb",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_171400094.001"
+  ],
+  "append_object_names": [
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_4",
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_3",
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_2",
+    "SEU_LIBRARY_SOUTH_V13_TRANSITION_1",
+    "SEU_B_OSMWAY_171400094_CORRECTED_upper_volume",
+    "SEU_B_OSMWAY_171400094_CORRECTED_ground_wing_1",
+    "SEU_B_OSMWAY_171400094_CORRECTED_ground_wing_0",
+    "SEU_B_OSMWAY_171400094_CORRECTED_flat_roof_estimated",
+    "SEU_V13_OSMREL_11214073_TARTAN_SURFACE",
+    "SEU_V13_OSMREL_11214072_TARTAN_SURFACE"
+  ],
+  "retain_base_outlines": true,
+  "material_policy": "retain evidence-based patch colors; do not apply global gray override",
+  "display_basemap_version": "0.4",
+  "old_source_count": 3962,
+  "replaced_count": 1,
+  "appended_count": 10,
+  "merged_count": 3971,
+  "requires_prior_building_patch": "public_assets_v12/data/REPLACEMENT_MANIFEST.json"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "manifest": "library_transition/INTEGRATION.json",
+    "blend": "library_transition/assets/SEU_library_transition_v13.blend"
+  },
+  {
+    "manifest": "restaurant_correction/data/INTEGRATION.json",
+    "blend": "restaurant_correction/assets/SEU_restaurant_171400094_correction.blend"
+  },
+  {
+    "manifest": "track_relations/INTEGRATION.json",
+    "blend": "track_relations/assets/SEU_track_relations_v13.blend"
+  }
+]
