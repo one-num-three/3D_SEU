@@ -1,0 +1,20 @@
+{
+  "snapshot_sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee",
+  "relation_count": 71,
+  "type_counts": {
+    "watershed": 2,
+    "route": 12,
+    "network": 3,
+    "public_transport": 48,
+    "route_master": 2,
+    "multipolygon": 2,
+    "site": 2
+  },
+  "multipolygon_ids": [
+    11214072,
+    11214073
+  ],
+  "scope": "this persistent snapshot only; not a live-world completeness claim",
+  "all_multipolygons_included_in_patch": true,
+  "other_relation_types_not_converted_to_surfaces": true
+}

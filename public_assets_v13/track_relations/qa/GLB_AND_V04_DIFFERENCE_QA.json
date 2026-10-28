@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "glb_meshes": 2,
+  "triangles": 55,
+  "images": 0,
+  "v04_relation_outer_rings_absent": true,
+  "v04_both_inner_fields_present": true,
+  "old_infields_not_replaced": true
+}

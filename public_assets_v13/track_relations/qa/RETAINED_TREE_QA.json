@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "tree_count": 603,
+  "source_sha256": "fa29928204d0210aa2a5aae979b62ecffd9ff690e3af238dbcce9a2292527458",
+  "relations": [
+    {
+      "osm_relation_id": 11214072,
+      "minimum_tree_crown_distance_m": 153.15171657489452,
+      "conflicts": []
+    },
+    {
+      "osm_relation_id": 11214073,
+      "minimum_tree_crown_distance_m": 13.226756963932514,
+      "conflicts": []
+    }
+  ]
+}

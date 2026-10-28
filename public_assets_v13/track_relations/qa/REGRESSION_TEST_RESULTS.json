@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "case": "valid",
+      "expected_success": true,
+      "observed_success": true,
+      "test_pass": true
+    },
+    {
+      "case": "missing_inner_member",
+      "expected_success": false,
+      "observed_success": false,
+      "test_pass": true
+    },
+    {
+      "case": "open_outer_way",
+      "expected_success": false,
+      "observed_success": false,
+      "test_pass": true
+    },
+    {
+      "case": "missing_relation",
+      "expected_success": false,
+      "observed_success": false,
+      "test_pass": true
+    }
+  ],
+  "full_snapshot_inventory_verification": {
+    "status": "PASS",
+    "relations": 71,
+    "multipolygons": 2,
+    "snapshot_hash_matches": true
+  }
+}

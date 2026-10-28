@@ -1,0 +1,37 @@
+[
+  {
+    "relation_id": 11214072,
+    "overlaps": [
+      {
+        "osm_way_id": 300178544,
+        "area_m2": 0.780284763924342,
+        "highway": "footway",
+        "width_m": 2.0,
+        "classification": "estimated_footway_width_minor_boundary_overlap_preserve_source_and_render_road_above"
+      }
+    ],
+    "motor_road_overlap_m2": 0,
+    "source_boundary_clipped": false
+  },
+  {
+    "relation_id": 11214073,
+    "overlaps": [
+      {
+        "osm_way_id": 300020028,
+        "area_m2": 1.554088547251799,
+        "highway": "footway",
+        "width_m": 2.0,
+        "classification": "estimated_footway_width_minor_boundary_overlap_preserve_source_and_render_road_above"
+      },
+      {
+        "osm_way_id": 300020044,
+        "area_m2": 1.555358434868263,
+        "highway": "footway",
+        "width_m": 2.0,
+        "classification": "estimated_footway_width_minor_boundary_overlap_preserve_source_and_render_road_above"
+      }
+    ],
+    "motor_road_overlap_m2": 0,
+    "source_boundary_clipped": false
+  }
+]

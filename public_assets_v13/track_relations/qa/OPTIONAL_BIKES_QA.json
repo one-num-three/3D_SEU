@@ -1,0 +1,102 @@
+{
+  "status": "PASS",
+  "instances_unchanged": true,
+  "enabled_by_default": false,
+  "bike_count": 8,
+  "source_sha256": "71425ee05de56f09315bf3b69edafa393af143e1991ec92f33805c3eb852f86e",
+  "method": "full rotated conservative source-mesh bounding rectangle, not point-only",
+  "relations": [
+    {
+      "osm_relation_id": 11214072,
+      "bikes": [
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136435_0",
+          "conservative_bike_bbox_distance_m": 125.57304691318569,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136435_1",
+          "conservative_bike_bbox_distance_m": 122.19435159062715,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136437_0",
+          "conservative_bike_bbox_distance_m": 188.74172702642952,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136437_1",
+          "conservative_bike_bbox_distance_m": 185.21853318522528,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136450_0",
+          "conservative_bike_bbox_distance_m": 182.8076155389806,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136450_1",
+          "conservative_bike_bbox_distance_m": 179.1364470586241,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136453_0",
+          "conservative_bike_bbox_distance_m": 117.5684463928498,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136453_1",
+          "conservative_bike_bbox_distance_m": 113.90557219302444,
+          "overlap_m2": 0.0
+        }
+      ],
+      "minimum_distance_m": 113.90557219302444
+    },
+    {
+      "osm_relation_id": 11214073,
+      "bikes": [
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136435_0",
+          "conservative_bike_bbox_distance_m": 526.1823990921888,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136435_1",
+          "conservative_bike_bbox_distance_m": 525.1123412290225,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136437_0",
+          "conservative_bike_bbox_distance_m": 544.2996766645527,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136437_1",
+          "conservative_bike_bbox_distance_m": 542.8223298170311,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136450_0",
+          "conservative_bike_bbox_distance_m": 669.0660179966355,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136450_1",
+          "conservative_bike_bbox_distance_m": 667.8386537314892,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136453_0",
+          "conservative_bike_bbox_distance_m": 654.6600516700433,
+          "overlap_m2": 0.0
+        },
+        {
+          "stable_id": "R1_OPTIONAL_PARKED_BIKE_630136453_1",
+          "conservative_bike_bbox_distance_m": 653.711210044033,
+          "overlap_m2": 0.0
+        }
+      ],
+      "minimum_distance_m": 525.1123412290225
+    }
+  ]
+}

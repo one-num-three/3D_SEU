@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "all_snapshot_multipolygons_rebuilt": true,
+  "relations": [
+    {
+      "relation_id": 11214072,
+      "members": [
+        {
+          "id": 630436322,
+          "role": "outer",
+          "closed": true
+        },
+        {
+          "id": 817128568,
+          "role": "inner",
+          "closed": true
+        }
+      ],
+      "holes": 1,
+      "source_area_m2": 7784.286437444769,
+      "triangulated_area_m2": 7784.286437444771,
+      "symmetric_difference_m2": 0.0,
+      "inner_field_overlap_m2": 0.0,
+      "triangles": 26,
+      "geometry_sha256": "9047e292a1751eedea6ccac73b890386f15bb979489b3058d63e4a13dc2d6545"
+    },
+    {
+      "relation_id": 11214073,
+      "members": [
+        {
+          "id": 630436324,
+          "role": "outer",
+          "closed": true
+        },
+        {
+          "id": 817128624,
+          "role": "inner",
+          "closed": true
+        }
+      ],
+      "holes": 1,
+      "source_area_m2": 7888.345084263011,
+      "triangulated_area_m2": 7888.345084263009,
+      "symmetric_difference_m2": 0.0,
+      "inner_field_overlap_m2": 0.0,
+      "triangles": 29,
+      "geometry_sha256": "2e748a26ed129b329b84c3184b919e3a700d8ac49d6ccc1be91621cf2da5a8ca"
+    }
+  ]
+}
