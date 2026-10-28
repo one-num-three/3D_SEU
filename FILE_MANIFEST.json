@@ -29,18 +29,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 25275,
-      "sha256": "d66bd3dc895c305cc1c89fad1eb73bcc45849235efe23176bcfdbbd2609a331c"
+      "bytes": 26489,
+      "sha256": "e64a63b07bf6ecece0e3b8163b586dea54a36f93c3cbb32187cce028f1443531"
     },
     {
       "path": "docs/AI_HANDOFF.md",
-      "bytes": 2777,
-      "sha256": "6d3edc114d930b41205fa8bd61b67fc1104ecb49872b668ff661651576996ca0"
+      "bytes": 3039,
+      "sha256": "fd3543a141317a863281a58e061dfed9ea0c1c27b0cfdd1145624c7045414bb6"
     },
     {
       "path": "docs/CANDIDATE_SCAN.json",
       "bytes": 449,
-      "sha256": "43cf6abb70d8a8250691b710c186d2e29f11f140519250591dcbe5c33f7d5522"
+      "sha256": "e106546ec80e0a7113399fbdea671ef75839eb697d30f23a1dc29f3b6c482081"
     },
     {
       "path": "docs/RELEASE_READINESS.md",
