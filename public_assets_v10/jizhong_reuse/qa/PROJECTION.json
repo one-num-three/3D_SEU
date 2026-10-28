@@ -1,0 +1,178 @@
+{
+  "status": "PASS",
+  "objects": 41,
+  "outside_m2": 0.0,
+  "road_overlap_m2": 0.0,
+  "projection_area": 6726.177343119844,
+  "target_area": 8043.445381736923,
+  "height_range": [
+    0.12,
+    20.62
+  ],
+  "per_object": [
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_east_roof",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_east",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_east",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_ENTRY_A2_east",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_east",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_east",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_west_roof",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_west",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_west",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_west",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_west",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_north_roof",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_north",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_north",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_north",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_north",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_south_roof",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_south",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_south",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_south",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_south",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_entry_roof",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_entry",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_entry",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_entry",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_entry",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_loweast_roof",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_loweast",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_loweast",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_loweast",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_loweast",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_lowwest_roof",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__A2_lowwest",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__APPROX_FOOTING_A2_lowwest",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_FRAME_A2_lowwest",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__DETAIL_GLAZING_A2_lowwest",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__mapped_narrow_link_estimated",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__photo_eave_north",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__photo_eave_south",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__photo_eave_east",
+      "outside_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300030325_REUSE__photo_eave_west",
+      "outside_m2": 0.0
+    }
+  ]
+}

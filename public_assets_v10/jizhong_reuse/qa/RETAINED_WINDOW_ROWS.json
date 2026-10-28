@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "method": "distinct frame-box z lower/upper levels, two per window row",
+  "rows_per_wing": {
+    "DETAIL_FRAME_A2_east | \u7eaa\u5fe0\u697c/\u7814\u7a76\u751f\u6559\u5b66\u697c\u4e1c\u7ffc": 5,
+    "DETAIL_FRAME_A2_entry | \u7eaa\u5fe0\u697c/\u7814\u7a76\u751f\u6559\u5b66\u697c\u5165\u53e3\u8fde": 4,
+    "DETAIL_FRAME_A2_loweast | \u7eaa\u5fe0\u697c/\u7814\u7a76\u751f\u6559\u5b66\u697c\u4e1c\u9644\u697c": 3,
+    "DETAIL_FRAME_A2_lowwest | \u7eaa\u5fe0\u697c/\u7814\u7a76\u751f\u6559\u5b66\u697c\u897f\u9644\u697c": 3,
+    "DETAIL_FRAME_A2_north | \u7eaa\u5fe0\u697c/\u7814\u7a76\u751f\u6559\u5b66\u697c\u5317\u7ffc": 5,
+    "DETAIL_FRAME_A2_south | \u7eaa\u5fe0\u697c/\u7814\u7a76\u751f\u6559\u5b66\u697c\u5357\u7ffc": 5,
+    "DETAIL_FRAME_A2_west | \u7eaa\u5fe0\u697c/\u7814\u7a76\u751f\u6559\u5b66\u697c\u897f\u7ffc": 5
+  },
+  "main_wings_five_rows": true,
+  "note": "A preliminary visual six-row count was incorrect; source mesh proves five. No row removed."
+}
