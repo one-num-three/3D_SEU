@@ -1,0 +1,30 @@
+{
+  "schema": "3D_SEU.semantic_evidence.v1",
+  "stable_id": "SEU_B_OSMWAY_300020029",
+  "osm_way_id": 300020029,
+  "source_snapshot": {
+    "repository_relative_path": "public_assets_v03/massing/sources/campus_margin_map.json",
+    "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee",
+    "osm_object_version": 3,
+    "osm_object_timestamp": "2018-10-05T11:26:14Z",
+    "source_url": "https://www.openstreetmap.org/way/300020029"
+  },
+  "recovered_semantics": {
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  "display_name_suggestion": "公厕（OSM类型，现状待核）",
+  "status": "historical_source_tag_recovered_not_field_verified",
+  "source_tag_loss": "amenity omitted from simplified building source_tags; retained in original snapshot",
+  "geometry_modified": false,
+  "height_m": null,
+  "levels": null,
+  "photo_exact_match": false,
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "limitations": [
+    "No current survey or external photographic identification.",
+    "Narrow-shape low-marker rule does not establish a corridor or building height.",
+    "Recovered type is not an official building name."
+  ]
+}

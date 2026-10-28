@@ -1,0 +1,37 @@
+{
+  "version": "0.8.0",
+  "base_model_version": "0.3",
+  "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "patch_file": "assets/SEU_building_patch_v08.glb",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_300020042.001"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_300020042_V08__main_window_mullions",
+    "SEU_B_OSMWAY_300020042_V08__main_window_frames",
+    "SEU_B_OSMWAY_300020042_V08__main_west_hip",
+    "SEU_B_OSMWAY_300020042_V08__main_upper",
+    "SEU_B_OSMWAY_300020042_V08__main_roof",
+    "SEU_B_OSMWAY_300020042_V08__main_middle_hip",
+    "SEU_B_OSMWAY_300020042_V08__main_ground",
+    "SEU_B_OSMWAY_300020042_V08__main_glass",
+    "SEU_B_OSMWAY_300020042_V08__main_eave_edge",
+    "SEU_B_OSMWAY_300020042_V08__main_east_hip",
+    "SEU_B_OSMWAY_300020042_V08__annex_window_mullions",
+    "SEU_B_OSMWAY_300020042_V08__annex_window_frames",
+    "SEU_B_OSMWAY_300020042_V08__annex_upper",
+    "SEU_B_OSMWAY_300020042_V08__annex_south_hip_roof",
+    "SEU_B_OSMWAY_300020042_V08__annex_roof",
+    "SEU_B_OSMWAY_300020042_V08__annex_ground",
+    "SEU_B_OSMWAY_300020042_V08__annex_glass",
+    "SEU_B_OSMWAY_300020042_V08__annex_eave_edge"
+  ],
+  "retain_base_outlines": true,
+  "material_policy": "retain evidence-based patch colors; do not apply global gray override",
+  "display_basemap_version": "0.4",
+  "old_source_count": 2879,
+  "replaced_count": 1,
+  "appended_count": 18,
+  "merged_count": 2896,
+  "requires_prior_building_patch": "public_assets_v07/data/REPLACEMENT_MANIFEST.json"
+}

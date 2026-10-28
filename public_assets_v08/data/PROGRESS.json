@@ -1,0 +1,20 @@
+{
+  "version": "0.8.0",
+  "restored_from_erroneous_whole_low_marker": [
+    630686661,
+    300020042
+  ],
+  "still_low_pending_identity_or_evidence": [
+    171400094,
+    300020025,
+    300020029
+  ],
+  "existing_detail_residual_plates_not_missing_buildings": 96,
+  "administration_precision": "source footprint retained; fifth floor evidenced; per-wing heights/facade/roof metrics estimated",
+  "unchanged_prior_detail": "all unrelated v07 geometry exact",
+  "stage": "geographic/exterior realism; stylized simulation remains separate",
+  "recovered_semantics": {
+    "300020029": "historical OSM amenity=toilets; current type and height unverified"
+  },
+  "next_evidence_backed_task": "Taoyuan North roof panels and orange rooftop volume visible in official 2017 aerial; separate later version, not included here"
+}
