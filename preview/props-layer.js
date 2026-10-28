@@ -1,4 +1,4 @@
-import {makeOptionalProps} from './props-adapter.js?v=0.8.0';
+import {makeOptionalProps} from './props-adapter.js?v=0.9.0';
 async function checkedBytes(spec){
  const response=await fetch(spec.url);if(!response.ok)throw Error(`停车示例请求失败（${response.status}）`);
  const bytes=await response.arrayBuffer();const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),v=>v.toString(16).padStart(2,'0')).join('');

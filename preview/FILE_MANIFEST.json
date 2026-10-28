@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.8.0",
-  "model_version": "0.8",
+  "viewer_version": "0.9.0",
+  "model_version": "0.9",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 6634,
-      "sha256": "c6fc818a05f6699143382ef27325aa4461bbb247840b3b9cf812ee7b59cafe87"
+      "bytes": 6944,
+      "sha256": "067afe5d4fabb9ff60a82019ff5b4a04080b5b0a0a2f896fd7a19193972d0f67"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 15406,
-      "sha256": "3ed7f19e9ae5057beb32bc58744c9002532dfd61fb0eced08448c50df13df7d2"
+      "bytes": 15500,
+      "sha256": "e3b1834b2e8ee1ce0518f71972da8709f06c4c44f6caf1a512e6272956a07b1b"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -45,7 +45,7 @@
     {
       "path": "preview/ground-pass.js",
       "bytes": 1328,
-      "sha256": "7cfb8d9b94b16588ebb5c9eb583ab48503c263f853f8ab7561cceed017032355"
+      "sha256": "8673f5ad779024b655683931acdc5efab04c640ea54f014d30ed580adffc0bce"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -55,7 +55,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1721,
-      "sha256": "a9ebf7caa23e33e71a9dadca6780d2d3422abc64793aa47a3c79a2ef74cbb6df"
+      "sha256": "6a6761a63203857cb3c49305e34bee2ab10a36039efcb02a2515de14db6ef63f"
     },
     {
       "path": "preview/landscape.json",
@@ -79,8 +79,8 @@
     },
     {
       "path": "preview/patches.json",
-      "bytes": 17965,
-      "sha256": "30ed2ec275547648cb56fc1f8c1d832b8b6203d2f9b9c8c08cb84f2cdcdbebd4"
+      "bytes": 18851,
+      "sha256": "6f7abda05588560a4f395d84df399910773598f1ce420a27cc051664b633523a"
     },
     {
       "path": "preview/props-adapter.js",
@@ -90,7 +90,7 @@
     {
       "path": "preview/props-layer.js",
       "bytes": 1176,
-      "sha256": "0159831a3f9cb28bb22b4d670c8d05fd7bc889b2e20268428a72c3bbb3a3e727"
+      "sha256": "bec8262a07db8508b940ccfa4a057a14d9d5eba7dfa7f1c6c91706f6395176d9"
     },
     {
       "path": "preview/props.json",
@@ -99,8 +99,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 1588,
-      "sha256": "9c7690d389409da65b2d4aaf29828f364b6d2ef0bd87b1a92f903fbf662db4cc"
+      "bytes": 1711,
+      "sha256": "b40b9da4e9b5f7f2d2fefab458815744e6d6423ec97a1c62a6f58bd711fd5735"
     },
     {
       "path": "preview/style.css",
