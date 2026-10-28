@@ -1,0 +1,30 @@
+{
+  "stable_id": "SEU_B_OSMWAY_300020042",
+  "name": "行政办公楼",
+  "status": "evidence_review_complete_with_explicit_limits",
+  "floor_evidence": {
+    "minimum_occupied_floor": 5,
+    "url": "https://archives.seu.edu.cn/2014/0912/c30548a350963/page.htm",
+    "claim": "University archive explicitly located on fifth floor east; proves fifth floor exists, not uniform five storeys in every wing"
+  },
+  "exterior_reference": {
+    "page": "https://zwc.seu.edu.cn/2013/1210/c4322a39985/page.htm",
+    "photo_window": "https://zwc.seu.edu.cn/_upload/article/31/19/6bda445941dda2dc86cba5611829/9fcfd676-8ada-4e54-ae8c-6c2bf286d5fb.jpg",
+    "observed": "blue window frames, light warm grey small tile cladding, inset glazing; actual pixels seen; image not distributed",
+    "unconfirmed": [
+      "full exterior",
+      "storeys per wing",
+      "roof geometry",
+      "meter height"
+    ]
+  },
+  "existing_error": "local building passage triggered whole-building 0.35m guard",
+  "old_height_candidate_m": 4,
+  "old_height_candidate_source": "default building=yes; not measured",
+  "passage_osm_way": 630436332,
+  "passage_width_m": 5,
+  "passage_width_status": "estimated old base road class, not measured",
+  "original_geographic_coordinates_preserved": true,
+  "reference_pixels_distributed": false,
+  "model_assumptions_document": "admin_parameters.json"
+}

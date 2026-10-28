@@ -1,0 +1,28 @@
+{
+  "stable_id": "SEU_B_OSMWAY_300020042",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_300020042.001"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_300020042_V08__main_ground",
+    "SEU_B_OSMWAY_300020042_V08__main_upper",
+    "SEU_B_OSMWAY_300020042_V08__main_roof",
+    "SEU_B_OSMWAY_300020042_V08__main_glass",
+    "SEU_B_OSMWAY_300020042_V08__main_window_frames",
+    "SEU_B_OSMWAY_300020042_V08__main_window_mullions",
+    "SEU_B_OSMWAY_300020042_V08__main_eave_edge",
+    "SEU_B_OSMWAY_300020042_V08__annex_ground",
+    "SEU_B_OSMWAY_300020042_V08__annex_upper",
+    "SEU_B_OSMWAY_300020042_V08__annex_roof",
+    "SEU_B_OSMWAY_300020042_V08__annex_glass",
+    "SEU_B_OSMWAY_300020042_V08__annex_window_frames",
+    "SEU_B_OSMWAY_300020042_V08__annex_window_mullions",
+    "SEU_B_OSMWAY_300020042_V08__annex_eave_edge",
+    "SEU_B_OSMWAY_300020042_V08__annex_south_hip_roof",
+    "SEU_B_OSMWAY_300020042_V08__main_west_hip",
+    "SEU_B_OSMWAY_300020042_V08__main_middle_hip",
+    "SEU_B_OSMWAY_300020042_V08__main_east_hip"
+  ],
+  "retain_original_outline": true,
+  "new_mesh_count": 18
+}
