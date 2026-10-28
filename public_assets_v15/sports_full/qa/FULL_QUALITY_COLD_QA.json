@@ -1,0 +1,33 @@
+{
+  "status": "PASS_GEOMETRY_AND_SOURCE_GRAPH_RESTORATION",
+  "meshes": 404,
+  "triangles": 1048160,
+  "source_vertices_faces_material_indices_smooth_flags_verified": 404,
+  "source_blender_node_graph_inputs_and_links_verified": 404,
+  "glb_roundtrip_world_triangles_verified": 404,
+  "exact_1mm_grid_hash_objects": 402,
+  "grid_boundary_cases_bijective_triangle_checks": [
+    {
+      "name": "SEU_SPORT_FULL_V15_020_GEO_COURT_817128604_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999996721744537
+    },
+    {
+      "name": "SEU_SPORT_FULL_V15_068_GEO_COURT_817128622_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999992251396179
+    }
+  ],
+  "backboard_glb_alpha": 0.23999999463558197,
+  "backboard_glb_roughness": 0.23000000417232513,
+  "backboard_glb_alpha_mode": "BLEND",
+  "glb_no_private_images_or_external_textures": true,
+  "procedural_bump_web_compatibility_limit": [
+    "R6_Tennis_CyanBluePlaying.001",
+    "R7_BB_orange",
+    "R7_BB_court"
+  ],
+  "not_all_materials_equivalent_in_glb": true
+}

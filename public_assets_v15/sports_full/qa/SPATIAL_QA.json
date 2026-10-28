@@ -1,0 +1,98 @@
+{
+  "status": "PASS",
+  "source_tree_sha256": "fa29928204d0210aa2a5aae979b62ecffd9ff690e3af238dbcce9a2292527458",
+  "tree_count": 603,
+  "groups": [
+    {
+      "osm_way_id": "817128601",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 201.87214559871578
+    },
+    {
+      "osm_way_id": "817128602",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 190.0688670181357
+    },
+    {
+      "osm_way_id": "817128603",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 179.40667116411598
+    },
+    {
+      "osm_way_id": "817128604",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 170.19839985571974
+    },
+    {
+      "osm_way_id": "817128608",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 117.01757593334891
+    },
+    {
+      "osm_way_id": "817128611",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 129.97721386976528
+    },
+    {
+      "osm_way_id": "817128612",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 144.2831603740166
+    },
+    {
+      "osm_way_id": "817128614",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 159.46612366213324
+    },
+    {
+      "osm_way_id": "817128619",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 142.48685989132258
+    },
+    {
+      "osm_way_id": "817128620",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 153.3381970130889
+    },
+    {
+      "osm_way_id": "817128621",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 165.6678819886918
+    },
+    {
+      "osm_way_id": "817128622",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 179.0640273370899
+    },
+    {
+      "osm_way_id": "300010628",
+      "road_overlap_m2": 0.0,
+      "building_overlap_m2": 0.0,
+      "outside_source_sports_area_m2": 0.0,
+      "minimum_tree_crown_distance_m": 5.237209109352211
+    }
+  ]
+}

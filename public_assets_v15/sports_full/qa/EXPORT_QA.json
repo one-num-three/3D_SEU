@@ -1,0 +1,16 @@
+{
+  "status": "FULL_GEOMETRY_SOURCE_RESTORED",
+  "meshes": 404,
+  "triangles": 1048160,
+  "smooth_face_count": 0,
+  "original_pbr_nodes_preserved_in_blend": true,
+  "alpha_roughness_metallic_restored": true,
+  "photo_supported_blue_paint_retained": true,
+  "procedural_bump_materials_preserved_in_blend_but_not_standard_glb": [
+    "R6_Tennis_CyanBluePlaying.001",
+    "R7_BB_orange",
+    "R7_BB_court"
+  ],
+  "excluded_only_13_duplicate_ground_slabs": true,
+  "not_a_new_precision_survey": true
+}
