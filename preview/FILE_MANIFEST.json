@@ -1,15 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.3.1",
+  "viewer_version": "0.4.0",
   "model_version": "0.3",
+  "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 3771,
-      "sha256": "baaa02eaf271684d3e2733a5e3dfbf1904544e99e75570efbd635a1774bf361e"
+      "bytes": 4015,
+      "sha256": "8faebc0f47fe2bc5a678c1dc1bc8d8b23dc252e8eb3296d16e57cd2852d153da"
     },
     {
       "path": "preview/LICENSE",
@@ -18,13 +19,13 @@
     },
     {
       "path": "preview/THIRD_PARTY.md",
-      "bytes": 1351,
-      "sha256": "d6fdc4073936c2d6f706d1bc700c3f6aca2afa5cc82cd0128378e929db270610"
+      "bytes": 1783,
+      "sha256": "f692a67d959dabffd00f48295bd936ace5b23ffb872f46a93bde91ef99d1e014"
     },
     {
       "path": "preview/app.js",
-      "bytes": 6552,
-      "sha256": "93b328f828f465f82ad4642fc31d6277f4585555bcc7b3dc907f6dcdbab1971c"
+      "bytes": 8975,
+      "sha256": "af0751851148e3f0b2729e51f7cbac18b73722805c181b917feacea5f2406bf6"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -32,14 +33,24 @@
       "sha256": "618485d27a40b4b50de40aa0fa180d47dd47c3a2fe1bdc7429c57baa227ceda2"
     },
     {
+      "path": "preview/overlay.json",
+      "bytes": 315,
+      "sha256": "49f86381eec832f5f0045ee3ae1b8f7d65bfdd5c93b39f8403617684e968406c"
+    },
+    {
+      "path": "preview/palette.js",
+      "bytes": 1764,
+      "sha256": "b1396f41c3b9b745636b1a0d093b26d0a0e5bb77646b3cd228cf5fc6a27ef171"
+    },
+    {
       "path": "preview/release.json",
-      "bytes": 341,
-      "sha256": "8d25f0ea017c72eed50a6005c62015347838773a42ce7abc309fbe069449edab"
+      "bytes": 424,
+      "sha256": "97a555aeb9f28b709b06e11f94a5042781823f8aae7cc93a94624b8e8f188ae4"
     },
     {
       "path": "preview/style.css",
-      "bytes": 4532,
-      "sha256": "2b0970f41bc7cc69ec37d1b6f5fbc6a5f11532e741598a484f7f15de910c9f32"
+      "bytes": 4547,
+      "sha256": "c7c75c9c386abc252d5a1a5f3db8bb9465eafea1ecf93ac6b633616c65838f90"
     },
     {
       "path": "preview/vendor/BufferGeometryUtils.js",

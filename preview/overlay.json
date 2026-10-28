@@ -1,0 +1,9 @@
+{
+  "version": "0.4",
+  "url": "./public_assets_v04/assets/SEU_basemap_overlay_v04.glb",
+  "bytes": 182792,
+  "sha256": "315e8a13d102b8e23dc700084f11d6c67ecf6cd21624dd00ea25994efaf08885",
+  "surfaceFeatures": 106,
+  "neutralBoundaryMeshes": 1,
+  "coordinateSystem": "EPSG:32650 local meters, same origin as v0.3"
+}
