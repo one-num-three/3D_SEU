@@ -10,7 +10,7 @@
     {
       "path": "index.html",
       "bytes": 4901,
-      "sha256": "d71318d9a1d21a5680c6ff7d076f466cf9141f4da5c9b4f703e81cabcd3f5f16"
+      "sha256": "f678bcc2aaa7dd8dd54278bbdaa4f9a287518315c769920da0c8fda8db2dc68a"
     },
     {
       "path": "preview/LICENSE",
@@ -70,7 +70,7 @@
     {
       "path": "preview/patches.json",
       "bytes": 14605,
-      "sha256": "8ce362bbaecb8cd7e1133c0cb66e71fe41109e87fc2fdeb5c7d19688a572a811"
+      "sha256": "e72b5e6030484955d16fc55d53e99ac59033978f6971a0c3882d0446997678d2"
     },
     {
       "path": "preview/release.json",
