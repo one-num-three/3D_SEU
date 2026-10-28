@@ -52,8 +52,8 @@
       "sha256": "e6062b470e316afebb89a9287ca9a41f05dd9d2792065254d213d312307c6174"
     },
     "qa/BASKETBALL_GROUND_ALIGNMENT.json": {
-      "bytes": 61157,
-      "sha256": "615b7d27c8e54f36b7a7d6762ecc70b803877ff10309bfbf07e20c470dbb6ddb"
+      "bytes": 66739,
+      "sha256": "50ca9df97ca49043a3ca17ba6cc99ac23b7ee7eb40ea708ef3a3e44033c24830"
     },
     "qa/BASKETBALL_SUPPORT_AFTER.json": {
       "bytes": 61632,
@@ -112,8 +112,8 @@
       "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
     },
     "scripts/integrate_checkpoint.py": {
-      "bytes": 6880,
-      "sha256": "6f6010415082abef9d4fb4003d73d3345e4f9612aaaf4a9caa485856fc822014"
+      "bytes": 6912,
+      "sha256": "2333db255feb7747f20b4d784b5a44746175f9f502ab74f74a48c4dbdce56259"
     },
     "scripts/validate_checkpoint_blender.py": {
       "bytes": 3638,
