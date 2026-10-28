@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "ground_occupied_intersection_with_mapped_passage_m2": 0.0,
+  "passage_minimum_clear_height_m_estimated": 4.65,
+  "passage_osm_way": 631050521,
+  "upper_projection_overlaps_ground_road_intentionally": true,
+  "road_geometry_unchanged": true,
+  "navigation_not_verified": true
+}
