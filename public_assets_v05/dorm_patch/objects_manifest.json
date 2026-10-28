@@ -1,0 +1,495 @@
+{
+  "schema_version": "1.0",
+  "object_count": 48,
+  "source_outline_id_count": 8,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630136421__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "1b3285d112093d07f612b1877dd97b38edb6a3b47b258350257f51a297fb95a9",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "20940c79eb64291618d59614c466b8fdb06fa4148b3572838d0a434ae82b387b",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "93709d2813ba8db2227de7b41c3a7d05162e6ad24eb45d1915f69fc30308f464",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__0001",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "a9147773ec5d086dce28ad6478cbbc8d114d2806c5a9fb5b1975da786b3ac034",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__0002",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "3879ed41807df8d9efd0069dc5d40dc712e2538a6e1a3ec8654099c948a00b32",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__0004",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "ebf8fe5db389161a11bb6023566f9f363da3e684253de4a28e02e222ab93042e",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "2f2c40b04536f423af7e235794e2db5096ab97c6cd9b2265ed5bc7b20e2e2f20",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "597d2df206bd0d22a89915b89ec1219b1b164f17b0cd7bdef99f26e9df848231",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "1a8101ae1201160379a6077021b6677f8ded8bb6d1dba25e6de0a65ba711e040",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__0001",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "0e030091029d94ce90374b4bbc7bc3b6a80fc5c0d5858e2d8c7cabefab590428",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__0002",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "5aef05d62601f9e2a79489fdb8e25abbd5564e3c4d259cb3a5557d5951754b94",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__0004",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "03e88f47e5b12fee4086561623400d6506bfa49c940e62627cfee269e6aa6532",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "6f1b17bcbf745e140cf88b3c6238ae9bd7c1bea9b20e4b38129706d3604e65c9",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "a0abfa8bf273898405a1e4ebb44550bdaf6bfd65b800c3290d8b56b164beeb90",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "52d6bcc6b7cce8488d1fe1ccd5360db5db2689d13c2f87b915181d70553a436c",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__0001",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "8aa7b8698beae82c11d9e85f66140c624ec490e89b7d5104daae97f79c11ef10",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__0002",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "a75ccc77b4b8de48268b6c5a8dace4ba8b22798d679763fb2aafe3a27981b261",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__0004",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "d42b3632eecf302ec44e92476dc521abb6f8e89c70ee38c8967131bf1ff36c55",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "334a4c4fc361edc2e0a2bddaca14f39390c725e6911dd570b43b0993fb7f1ef0",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "7abdc465ba9e6d159a59c295586b27f1793380bf7c378b242c4eb9de463e2088",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "3c14cc652d9d795c52444c5b09f581d19f0c07b71b629d2e041018b91198b033",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__0001",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "5715d90903b9bf91befba91eb9def2d96c98b5254c3804f74fa135c730ed80de",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__0002",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "8f78abf0593047635cadf358c91f1bc52620c46fc730137d4db2222a6d002886",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__0004",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "bbe1675ada45c1e33fccb20c4e094dfaaf38762c3720e8f4931587929d408db8",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "8eb5ea59beb37cf93b43a7c7308df89e989e8cf9ba12c457697041e5fcad6c88",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "93edfe3b347a8823e384be99b934956d43a630c637a4c4e3c10185abfe7678ec",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "4c866f30b1c5f4ecf6e0a26b10b70ac7979e5b0606bd058cedac883d5fd1d407",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__0001",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "aa4221be3589de5be12fe3e5c6f229ef94cd396cab19969472545207e78fb709",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__0002",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "53309fd12ac4d10515d659d557e475b807e3b05a1a64c7270d7dd1fd0fcb0fe8",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__0004",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "eb5c7af15a808491bdc24be67af887f66a72617b3b8c0fb6bb44461baffcc11b",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "f46f79f6d23b4818d6c4a000d99a3f4e4c194e77dba246697ae8efdf5894c9fb",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "7f8399f2b72624afdc0b01cc96648314c04d9f9beb50bbd67c49d37df99d3d54",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "fd95d3f77bb0f130374b9777298e18e9f9eb3bb3b7941026d89063c83485af89",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__0001",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "122bf95d1b30c5d02ae330a0f77fa1e0e304c4f16f824dfdf308ba153408f7d0",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__0002",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "b1819d835c5db14675dc0be8651eed540bf3b350ab69009bffc181bc7ecf3635",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__0004",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "d4ed606be195b3d177052c1431ac4b5eabe983a0fb212c3ab690cbc14ca71d56",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "b6145245b55c24dbe323558a3541a3efbd05f2c7e3392a10a546a4aed7ab40d2",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "be18c2ab2d71c6b8d5f45ac7f7660532233fa21e510be48a64f5f518b57870e6",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "eb20fb37c3cc075596962712ff747f03b0bd7719beccdf320bef3c33c4e76aaf",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__0001",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "75cf89e08d2a60f93fbcbfb89297cec990322f5dd33f84e6c71d371b9933bd77",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__0002",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "af1cfcea978c46d94ce91c91359945ecf8b79433a74fa0a5df4e6c8040372065",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__0004",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "3dbdc8c8afdc7b448d54bd101cae0fdec876d83a43a53e1f1b8f37a090620844",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__V05_pitched_roof",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "observed_pitched_roof_estimated_pitch",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "08c1cdbfd180e98429de1db04b81ba6b4a1b610d854ce5c3ea71e36916e3bf22",
+      "vertex_count": 10,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__V05_roof_panel_array",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "observed_roof_panel_type_estimated_layout",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "365671c18a838cff4ffad1a06574870c7492914997d2f8d4c9e6dcf2b09a710b",
+      "vertex_count": 384,
+      "polygon_count": 96
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "window_divisions_estimated_from_photo_type",
+      "assumption": "Taoyuan 1/2 roof type and panel arrays observed in 2023 architect aerial photos. Individual heights, roof slopes, panel counts and exact dimensions estimated; original XY and wall/window geometry retained.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "fa7f85f137edbd4737e8a28727b98fe71f68eb32121262a0c8d8c18d38c53a9b",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__0001",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "b4bd63fa0e529b5af5e76d5f21f2971e5498f6d62e0979e2575ed576898a9fe6",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__0002",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "0dca44dd2544e3beb751653e21b72a924ad784cb47ace58ad9c89295d9e79825",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__0004",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Historical trapezoid XY registration corrected within accepted OSM bar; old erroneous five-row panes reconstructed as six rows/132 detailed framed panes. Off-white wall / gray frames / dark glazing from 2023 aerial type; RGB estimated.",
+      "sourceclass": "original_topology_with_photo_validated_footprint_rectification",
+      "geometry_fingerprint": "ab7738d85716ef819013c2943eb2a95f63c915f2e21d17c5ba75cb37db403b68",
+      "vertex_count": 32,
+      "polygon_count": 26
+    }
+  ]
+}

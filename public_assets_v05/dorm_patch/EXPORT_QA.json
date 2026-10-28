@@ -1,0 +1,113 @@
+{
+  "rows": [
+    {
+      "id": "SEU_B_OSMWAY_630136421",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630136422",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630136423",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630136424",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630136425",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630136426",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630136427",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    },
+    {
+      "id": "SEU_B_OSMWAY_630136428",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 132,
+      "window_rows_z": [
+        1.6,
+        4.83,
+        8.06,
+        11.29,
+        14.52,
+        17.75
+      ]
+    }
+  ],
+  "glb_mesh_count": 48,
+  "image_textures": 0,
+  "vertices": 28752,
+  "faces": 20064,
+  "render_reviewed": true
+}

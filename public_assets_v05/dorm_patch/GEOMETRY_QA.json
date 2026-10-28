@@ -1,0 +1,114 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_630136421",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 564.6875502588227,
+    "rectified_body_projection_m2": 664.5649435389787,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "08e0784f44e80d0aa3f9ca3066e315f558d29fc8e56744d13db45d06dcc18c48",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136422",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 566.3423734367825,
+    "rectified_body_projection_m2": 666.5289379032329,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "74cd88167025788f4d2e4bd9c00d70bc28fe9896c0717898c884befc1600c586",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136423",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 575.5985769866966,
+    "rectified_body_projection_m2": 664.0393218696117,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "b9048726969a792cc42ad95d8f4d7276a8ca8e55a34cc83d924273638ffe58b5",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136424",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 583.2621994158253,
+    "rectified_body_projection_m2": 673.7017714455724,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "c804faf8f381bc03e65a2b0f9886a9cc2289a3eff684e83bed5ff6897339aee7",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136425",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 575.8295355485752,
+    "rectified_body_projection_m2": 664.5473184641451,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "45735fa87d299bf551c09c82271a7a3eedef968059afcde2a0d5f40e58221d36",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136426",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 581.4437804762274,
+    "rectified_body_projection_m2": 671.5519869904965,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "9d70dab3fef7bcfc09fd1fff3c346246c1f066d9515f6b7676bab61243a67649",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136427",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 578.6126325088553,
+    "rectified_body_projection_m2": 667.7047463785857,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "79d0766b2fe64b2ed2c0b4edb5217288c001166890e1719b22a70f137db2c77a",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136428",
+    "new_projection_outside_source_m2": 0.0,
+    "new_roof_projection_outside_rectified_body_m2": 0.0,
+    "original_body_projection_m2": 587.3399108354934,
+    "rectified_body_projection_m2": 678.8169600786641,
+    "rectified_projection_outside_osm_m2": 0.0,
+    "source_body_original_fingerprint": "fbb48f2cbaaa181b67e9f1075dca155c39b87b80624f6eed0a81c03f0ec9e57b",
+    "new_roof_z_range": [
+      20.0,
+      22.45
+    ],
+    "height_is_estimated": true
+  }
+]
