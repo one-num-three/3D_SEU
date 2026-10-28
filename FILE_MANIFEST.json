@@ -84,9 +84,9 @@
     },
     {
       "path": "tools/validate_candidate.py",
-      "sha256": "3c34b9ccb4a3d65c3e763f52407eb3c181e2ca52c82de05627e6694c1f369942",
-      "bytes": 2366
+      "sha256": "d00498b5fd0067d4979279b538e2db3da43c7e68d7c49ba4df612b34d21b4346",
+      "bytes": 4193
     }
   ],
-  "scope": "Framework files only; public_assets/, public_assets_v02/ and public_assets_v03/ each have an independent ASSET_MANIFEST.json."
+  "scope": "Framework files only; public_assets/, public_assets_v02/ and public_assets_v03/ each have an independent ASSET_MANIFEST.json. Preview website files are separately covered by preview/FILE_MANIFEST.json."
 }
