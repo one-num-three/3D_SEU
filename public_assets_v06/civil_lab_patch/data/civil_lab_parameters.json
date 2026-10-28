@@ -1,0 +1,166 @@
+{
+  "stable_id": "SEU_B_OSMWAY_1056927514",
+  "display_name": "\u571f\u6728\u4ea4\u901a\u56db\u8054\u8de8\u8bd5\u9a8c\u5927\u5385",
+  "source_osm_label": "\u571f\u6728\u4ea4\u901a\u6559\u5b66\u79d1\u7814\u697c",
+  "identity_basis": "2015 university official description distinguishes twin towers plus four-span laboratory; user aerial photos show four lab roofs immediately west of retained office towers",
+  "origin_world_xy": [
+    137.0045983148135,
+    330.40861271075494
+  ],
+  "rotation_radians": 0.06807534791662628,
+  "footprint_world_xy": [
+    [
+      129.411336742225,
+      441.778271195479
+    ],
+    [
+      131.55537137622,
+      410.386127413716
+    ],
+    [
+      143.340237475233,
+      411.182499859482
+    ],
+    [
+      146.261972719221,
+      368.392139194999
+    ],
+    [
+      135.705754080438,
+      367.67180793453
+    ],
+    [
+      138.239652796416,
+      330.519581884146
+    ],
+    [
+      204.327803522232,
+      334.998756148387
+    ],
+    [
+      196.736913670204,
+      446.333628829103
+    ]
+  ],
+  "footprint_local_xy": [
+    [
+      0.0,
+      111.628215305602
+    ],
+    [
+      0.003687651075331644,
+      80.16293980819243
+    ],
+    [
+      11.815428736566076,
+      80.15582831246566
+    ],
+    [
+      11.819677259160516,
+      37.26583548683615
+    ],
+    [
+      1.2389103344408738,
+      37.26523602251251
+    ],
+    [
+      1.2397422408598224,
+      0.02670030331969997
+    ],
+    [
+      67.47950337827194,
+      0.0
+    ],
+    [
+      67.47950337827196,
+      111.5933487425522
+    ]
+  ],
+  "body_height_m": 15.0,
+  "height_status": "retained v03 estimated body height, not measured",
+  "roof_bay_count": 4,
+  "roof_bay_boundaries_local_y": [
+    0,
+    37.25,
+    58.7,
+    80.1,
+    111.628215305602
+  ],
+  "roof_profile_status": "four bays observed, exact split coordinates and slopes estimated within accepted footprint",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_1056927514.001"
+  ],
+  "retain_neighbor_stable_ids": [
+    "SEU_B_OSMWAY_549677715",
+    "SEU_B_OSMWAY_300030305",
+    "SEU_B_OSMWAY_1056927536"
+  ],
+  "colors_srgb": {
+    "wall": "#CDCFC9",
+    "roof": "#E2E5E1",
+    "ridge": "#6D7880",
+    "repair_blue": "#55ADD2",
+    "glass": "#5B7880",
+    "frame": "#B4BEBB",
+    "door": "#E0E3DE",
+    "vent": "#8E9797",
+    "plinth": "#A9AAA4"
+  },
+  "evidence": [
+    {
+      "source": "user-owned aerial photographs, privately retained",
+      "pixels_distributed": false,
+      "private_photo_hashes": [
+        "5a2a195ff3dbb180d69ec98023825b8bc9e6ea9775698de5c32ed32adf0cd025",
+        "17ed92c20817b62131d4338d38edf1a630e03a1dc8b3ee615ffd4d4a2a4516ec"
+      ]
+    },
+    {
+      "url": "https://www.seu.edu.cn/2015/0104/c154a114263/page.htm",
+      "fact": "two14/16-storey office towers connected bythree-storey annexe plusfour-span experiment hall"
+    },
+    {
+      "url": "https://jbjsc.seu.edu.cn/2017/0920/c18724a198634/page.htm",
+      "fact": "completed civil-transport teaching/research project location andgrossarea"
+    }
+  ],
+  "uncertain": [
+    "Exact bay heights, roof pitch, vent dimensions and counts",
+    "Small facade signage omitted instead of invented text",
+    "Rear facade openings not inferred from unseen views"
+  ],
+  "body_inner_local_xy": [
+    [
+      0.12001407179144039,
+      111.50815327848382
+    ],
+    [
+      67.35950337827195,
+      111.47341073036222
+    ],
+    [
+      67.35950337827194,
+      0.12004838003782027
+    ],
+    [
+      1.3597395611780703,
+      0.14665194385939437
+    ],
+    [
+      1.3589130151109796,
+      37.14524282119625
+    ],
+    [
+      11.939689145827819,
+      37.145842286041464
+    ],
+    [
+      11.935416857556522,
+      80.27575609295911
+    ],
+    [
+      0.12367359666533419,
+      80.28286758999563
+    ]
+  ]
+}

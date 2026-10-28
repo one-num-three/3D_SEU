@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "id": "SEU_B_OSMWAY_1056927514",
+  "properties": {
+    "stable_id": "SEU_B_OSMWAY_1056927514",
+    "osm_way_id": 1056927514,
+    "source_type": "OpenStreetMap way",
+    "source_name_osm": "土木交通教学科研楼",
+    "name_status": "OSM label only; not independently verified",
+    "layer": "building_outline",
+    "geometry_role": "undifferentiated OSM building projection; thin display plate not solid building",
+    "source_node_ids": [
+      9711840468,
+      9711840469,
+      9711840470,
+      9711840471,
+      9711840472,
+      9711840473,
+      9711840474,
+      9711840475,
+      9711840468
+    ],
+    "source_tags": {
+      "name": "土木交通教学科研楼",
+      "building": "university"
+    },
+    "source_url": "https://www.openstreetmap.org/way/1056927514",
+    "area_m2": 6977.413314414019,
+    "absolute_accuracy": "not_surveyed",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          129.411336742225,
+          441.778271195479
+        ],
+        [
+          131.55537137622,
+          410.386127413716
+        ],
+        [
+          143.340237475233,
+          411.182499859482
+        ],
+        [
+          146.261972719221,
+          368.392139194999
+        ],
+        [
+          135.705754080438,
+          367.67180793453
+        ],
+        [
+          138.239652796416,
+          330.519581884146
+        ],
+        [
+          204.327803522232,
+          334.998756148387
+        ],
+        [
+          196.736913670204,
+          446.333628829103
+        ],
+        [
+          129.411336742225,
+          441.778271195479
+        ]
+      ]
+    ]
+  }
+}
