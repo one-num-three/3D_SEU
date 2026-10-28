@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "scope": "index.html and preview/**; this manifest excluded",
+  "viewer_version": "0.3.1",
+  "model_version": "0.3",
+  "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
+  "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 3771,
+      "sha256": "baaa02eaf271684d3e2733a5e3dfbf1904544e99e75570efbd635a1774bf361e"
+    },
+    {
+      "path": "preview/LICENSE",
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    {
+      "path": "preview/THIRD_PARTY.md",
+      "bytes": 1351,
+      "sha256": "d6fdc4073936c2d6f706d1bc700c3f6aca2afa5cc82cd0128378e929db270610"
+    },
+    {
+      "path": "preview/app.js",
+      "bytes": 6552,
+      "sha256": "93b328f828f465f82ad4642fc31d6277f4585555bcc7b3dc907f6dcdbab1971c"
+    },
+    {
+      "path": "preview/assets/campus-v03.zip",
+      "bytes": 11502592,
+      "sha256": "618485d27a40b4b50de40aa0fa180d47dd47c3a2fe1bdc7429c57baa227ceda2"
+    },
+    {
+      "path": "preview/release.json",
+      "bytes": 341,
+      "sha256": "8d25f0ea017c72eed50a6005c62015347838773a42ce7abc309fbe069449edab"
+    },
+    {
+      "path": "preview/style.css",
+      "bytes": 4532,
+      "sha256": "2b0970f41bc7cc69ec37d1b6f5fbc6a5f11532e741598a484f7f15de910c9f32"
+    },
+    {
+      "path": "preview/vendor/BufferGeometryUtils.js",
+      "bytes": 31768,
+      "sha256": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6"
+    },
+    {
+      "path": "preview/vendor/FFLATE-LICENSE.txt",
+      "bytes": 1069,
+      "sha256": "805f6cb28bb8b6d3a0badd83c93bccd9671fa01a3b4b92b7042b0743325ac243"
+    },
+    {
+      "path": "preview/vendor/GLTFLoader.js",
+      "bytes": 110266,
+      "sha256": "8a7db5a19d1018d79fb9a7a8b8372f317682027321a67d86023002e264ea479d"
+    },
+    {
+      "path": "preview/vendor/OrbitControls.js",
+      "bytes": 32134,
+      "sha256": "80efaadea4f8a636a65fb0bd08bfef62f3d93a0bb94e2e7500f23176c5c07f4e"
+    },
+    {
+      "path": "preview/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    },
+    {
+      "path": "preview/vendor/fflate.js",
+      "bytes": 89198,
+      "sha256": "8cc1f687e0159e977addb6b85e274dbd11e622cf151f4fcb7b85d49622ea43e7"
+    },
+    {
+      "path": "preview/vendor/three.module.js",
+      "bytes": 1314681,
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+    }
+  ]
+}
