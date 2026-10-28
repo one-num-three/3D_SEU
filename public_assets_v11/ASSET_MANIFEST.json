@@ -1,0 +1,291 @@
+{
+  "version": "0.11.0",
+  "scope": "historical-photo-informed Humanities A and three-ID Jiaotingbiao complex corrections; estimated heights and all unrelated meshes retained",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 5334,
+      "sha256": "57290432a877fcdf2ced3c03d7ba0a468b8f0c2891ad42bbe5750efefb3d17ca"
+    },
+    "assets/SEU_building_patch_v11.glb": {
+      "bytes": 542696,
+      "sha256": "8e5f564af60f8dbe31d28f0162f97d23e525f9d4c05fdefc484d5bb7dbd5fa20"
+    },
+    "assets/SEU_campus_photorefined_v11.blend": {
+      "bytes": 22374228,
+      "sha256": "b325b78c1f295da8fd7bff95c37e6e3cd1301b95a5cb2254573f7084876340e2"
+    },
+    "c15_a_reuse/FILE_MANIFEST.json": {
+      "bytes": 3494,
+      "sha256": "84b81d40c4a8e0fab18734c4164cc1fc21a5ad2768f3e8ff3a7fb567ce9c1e7a"
+    },
+    "c15_a_reuse/README.md": {
+      "bytes": 2642,
+      "sha256": "4b592d1b4b323652793372f240f22d7872c0b843e0154e41eb0cb84d14ccccb9"
+    },
+    "c15_a_reuse/assets/SEU_c15_a_reuse_candidate.blend": {
+      "bytes": 116838,
+      "sha256": "40039e1b396eb3521718242f74223ac10466108e7d2e35d4998647c42346c770"
+    },
+    "c15_a_reuse/assets/SEU_c15_a_reuse_candidate.glb": {
+      "bytes": 180964,
+      "sha256": "1fbea783e6f41fbb2fb9a9636083e94c97b9956379d03675aa92d957659a467e"
+    },
+    "c15_a_reuse/data/FIT_PARAMETERS.json": {
+      "bytes": 829,
+      "sha256": "a030eca75af6d95567390a21d6562eddfaa78439f406dc7e91fa73c94d2a8555"
+    },
+    "c15_a_reuse/data/REGISTRATION.json": {
+      "bytes": 1533,
+      "sha256": "d406f622e6679fb5f9ac6e0975f5175338045b7263e92d2870f3ce26994690f1"
+    },
+    "c15_a_reuse/data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 1065,
+      "sha256": "06a72764a236ce2f67c8efc248fd8be3c864d7eb226e475a75872aff49be324c"
+    },
+    "c15_a_reuse/data/SOURCE_EVIDENCE.json": {
+      "bytes": 1532,
+      "sha256": "f14604b52761db8d9f5c2b9ebe00ce5f669c37abd9d2e47c77119db5558dc44d"
+    },
+    "c15_a_reuse/data/SOURCE_TO_REFINED_CHANGES.json": {
+      "bytes": 6157,
+      "sha256": "ad98b84bafc4548acc7de9799be397bcb5a3165e863ef4d0030eefe1d5849f70"
+    },
+    "c15_a_reuse/data/original_raw_mesh_fingerprints.json.gz": {
+      "bytes": 481,
+      "sha256": "7c3b8c7457ad6263f2f2959cfbd0a572deb26f742599338a4d85e72d7fd9674c"
+    },
+    "c15_a_reuse/data/registered_geometry_database.json.gz": {
+      "bytes": 24170,
+      "sha256": "bbbc4e1af600927f4c33511de262e3a76dfc2bbd1487dd9fa6d83cb95aa8c4ea"
+    },
+    "c15_a_reuse/data/source_geometry_database.json.gz": {
+      "bytes": 27193,
+      "sha256": "59f209a4cce9381b816c62e2d0f35436bec8585365295b33215e9d447431b0a5"
+    },
+    "c15_a_reuse/data/target_footprint.local.geojson": {
+      "bytes": 1509,
+      "sha256": "063bb578d5fc0ac123bf357bc476e8aba06987d3f15535faaf9502e3f0b89faa"
+    },
+    "c15_a_reuse/licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "c15_a_reuse/licenses/README.md": {
+      "bytes": 874,
+      "sha256": "521218c58ed3242bf95dd1186f1fdbdd1736512804cdfb151613bb9520c51639"
+    },
+    "c15_a_reuse/previews/A_REFINED_CANDIDATE.png": {
+      "bytes": 858373,
+      "sha256": "1a68e5481b31e321127948b152a986a71dfbf57d94a08c3eeebe1b3ec4c07ec9"
+    },
+    "c15_a_reuse/qa/COLD_OPEN_QA.json": {
+      "bytes": 303,
+      "sha256": "5e793251bfe12da72b5859c361188ea25b2182956209475774cef93bc6c561ed"
+    },
+    "c15_a_reuse/qa/PROJECTION_QA.json": {
+      "bytes": 2642,
+      "sha256": "26ded43fea3f0795341989408a7d106214c576653ef3435eaec0960a1b112980"
+    },
+    "c15_a_reuse/qa/REPRODUCTION_QA.json": {
+      "bytes": 181,
+      "sha256": "42667cac6aa408d478179597aae56cbb62ec352a5e53af7fd6eeb300ea82577c"
+    },
+    "c15_a_reuse/scripts/rebuild.py": {
+      "bytes": 1814,
+      "sha256": "5f8207abbc4da7f45b680d6db05c744f4ec9e8c1a26e3202df1ad030fd978948"
+    },
+    "c15_a_reuse/scripts/refine_from_source.py": {
+      "bytes": 7662,
+      "sha256": "4cf3513711a06beed8df7ea40177d55379279aaabf14c39c91f957aa1d9ed24f"
+    },
+    "c15_a_reuse/scripts/validate.py": {
+      "bytes": 1826,
+      "sha256": "955b34eaf87fab3bf9b77a6711f36269712dce4921149d949300a3fe1e8ec2e5"
+    },
+    "data/MODULE_INPUTS.json": {
+      "bytes": 280,
+      "sha256": "8b7fa9df513c2f89c3419524810c33dd898630ec258267b298afb5cb65754368"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 3065,
+      "sha256": "28b87fb911c44741599a223ce91c58f2f115cacb06356745d682b5514ec2b2a0"
+    },
+    "jiaotingbiao_reuse/FILE_MANIFEST.json": {
+      "bytes": 3321,
+      "sha256": "6092db459db0b646540a5de510543a43c7b4277c0288035d85c0b32da551f033"
+    },
+    "jiaotingbiao_reuse/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "jiaotingbiao_reuse/README.md": {
+      "bytes": 4230,
+      "sha256": "89950964af955c86b3689ac0043c1e81ccbb7628deda5e6625200c269f7f9f13"
+    },
+    "jiaotingbiao_reuse/assets/SEU_Jiaotingbiao_complex.blend": {
+      "bytes": 172719,
+      "sha256": "8ecdf536df94459f69b7b0ae1d903c3327568c28cc25b092b035e571d49d9cda"
+    },
+    "jiaotingbiao_reuse/assets/SEU_Jiaotingbiao_complex.glb": {
+      "bytes": 361408,
+      "sha256": "068f79b4ccde0b44b708aa6606a62103bca232b05889285acd085a985f1c86a8"
+    },
+    "jiaotingbiao_reuse/data/FULL_PROJECTION.local.geojson": {
+      "bytes": 23370,
+      "sha256": "5ccc9f0d81aa3b59af154fa21ff8b7d845fc9b19e9aeaa629b8c3652556f1043"
+    },
+    "jiaotingbiao_reuse/data/INTEGRATION.json": {
+      "bytes": 1878,
+      "sha256": "b9115e975cb9fc37bfbbb40561953971cd40c02b01c63abb435bee6dbb83f5ce"
+    },
+    "jiaotingbiao_reuse/data/SOURCE_AND_HEIGHT_RECORD.json": {
+      "bytes": 2183,
+      "sha256": "7b7cc43e106ae7d93a598d2d08d149695620dfcdca45856df8ae69bd521cb073"
+    },
+    "jiaotingbiao_reuse/data/SOURCE_FOOTPRINTS.json": {
+      "bytes": 8692,
+      "sha256": "43ec5df70cbb36856945f275384d8504b702bdabb32d4f825f9fe0ecc72a8cd9"
+    },
+    "jiaotingbiao_reuse/data/TARGET_300020023.json": {
+      "bytes": 1991,
+      "sha256": "faef4f90a57b330b211685807e14b43498dd632e5e58f06580153b96185a41c5"
+    },
+    "jiaotingbiao_reuse/data/TARGET_300020030.json": {
+      "bytes": 2548,
+      "sha256": "91940d638eb0d906b7339282650b681ecc61a9bb0e7d4554d146535390f0ac44"
+    },
+    "jiaotingbiao_reuse/data/TARGET_FOOTPRINT.json": {
+      "bytes": 2722,
+      "sha256": "c28f5780d839dcdc39bdf81904d714991c5a98e83dd83a2ab9d59d78a78f588b"
+    },
+    "jiaotingbiao_reuse/data/geometry_database.json.gz": {
+      "bytes": 73010,
+      "sha256": "ab7b0569dfb0cbadf7869c4c32034ead51353d19898b4b0d4ce29121addaf9ed"
+    },
+    "jiaotingbiao_reuse/previews/JIAOTINGBIAO_REVIEW.png": {
+      "bytes": 625874,
+      "sha256": "dfbf58c9cca6f970aac64e3635178e12abc4a298316631c5c3b7a4b5963082b7"
+    },
+    "jiaotingbiao_reuse/qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 504,
+      "sha256": "f7b652fce3144a9048f1279a891c520357666047720041fc5b314bae3fe47c7b"
+    },
+    "jiaotingbiao_reuse/qa/LEGACY_UNION_FIT_AUDIT.json": {
+      "bytes": 459,
+      "sha256": "1f01a0b5fe77f1db82ea246a3cba47e8f4af85485ac39928c1fff3b5f3e29074"
+    },
+    "jiaotingbiao_reuse/qa/PRIVACY_SCAN.json": {
+      "bytes": 142,
+      "sha256": "cb0408acca28503aff01573df9de2f2cd3f5f1e94d6116d9377ead792e9a4b43"
+    },
+    "jiaotingbiao_reuse/qa/PROJECTION_QA.json": {
+      "bytes": 5361,
+      "sha256": "82e2c28cec4b8a60a543dcf31f5c70156b5a40aefc218a7d5d9eee2daf859166"
+    },
+    "jiaotingbiao_reuse/qa/REPRODUCTION_QA.json": {
+      "bytes": 240,
+      "sha256": "2162e52c30f3e1c5789ea4aabba22257289ec5b3155ea5c7a8c311abf96578a4"
+    },
+    "jiaotingbiao_reuse/scripts/build.py": {
+      "bytes": 1734,
+      "sha256": "2b92eacde61127ba5660a8bc5140e889c7c9d42672ae684c6868d6ddfe9d161d"
+    },
+    "jiaotingbiao_reuse/scripts/build_data.py": {
+      "bytes": 6435,
+      "sha256": "afba01379ab7521a2fdb1bf56f9e2cb906c8304824d13c7ec5e1210738b8ca11"
+    },
+    "jiaotingbiao_reuse/scripts/check_candidate.py": {
+      "bytes": 1544,
+      "sha256": "305b298ed174f122636dc492c58383cc7f41f964ca18f36a4af5868070c7f439"
+    },
+    "jiaotingbiao_reuse/scripts/validate.py": {
+      "bytes": 1393,
+      "sha256": "ccddc1822cf9f1625f67d9cc262947f3cf7f5e7fcb4606e10f0544d31d3c6f44"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 1003,
+      "sha256": "b5c5a2808d54899822bcb0a150a8af9e6580d2d56efce567215d8f3b018ba60c"
+    },
+    "previews/HUMANITIES_A_BEFORE_AFTER.png": {
+      "bytes": 478497,
+      "sha256": "0c103d8211f8ae4242a79146c75f5f2ee7b81c58ba2a9382b8e3eb8bdc07d804"
+    },
+    "previews/JIAOTINGBIAO_BEFORE_AFTER.png": {
+      "bytes": 764036,
+      "sha256": "8d1eb7dc71a38db039aa9757463ce042710f773c87ea5e618e7b96b066a8e028"
+    },
+    "previews/V11_FULL_WITH_WOODLAND.png": {
+      "bytes": 1778513,
+      "sha256": "48b8d64e1ae85eab40de5cd942ead68290e168dbad6d5c67759b9b762c7e0499"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 183657,
+      "sha256": "55dd4e7998e8b44dea3148965911ac4e7a8371bc9041bb4351db2b18f0e1347d"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 443,
+      "sha256": "5062e088d03ebb57465d8b90ab98f9a112c036f9bb8e054126e4d62b2a351ffe"
+    },
+    "qa/FULL_APPROACH_CLEARANCE_QA.json": {
+      "bytes": 410,
+      "sha256": "89c4407a5f3aa99db6ccb66d2362b99868f4d4eb4659c9c5b0f31dc1b38e19e4"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 322564,
+      "sha256": "7e14781788136c84dfc237d0bb10cfeb1cf9a4d9ce12425c4bd56d295b4c63c5"
+    },
+    "qa/OPTIONAL_BIKE_CLEARANCE_QA.json": {
+      "bytes": 2083,
+      "sha256": "d5079b1b7fc15648875c98bf6a3824db668ef69ac57b72e8ebd730a297f2af74"
+    },
+    "qa/PNG_METADATA_QA.json": {
+      "bytes": 1503,
+      "sha256": "0a9ddb1e11e26ad00b329ebbfe669ee92b50a2d2d46b946f771d1b2c510db843"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "c14cfb4da9911ff3ca4844bb24fed3ec5bbb073f2155b65e1617e512d8d3a490"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 313,
+      "sha256": "6f100bb419a41ec485e186bf47597eab3e43e947537076622d0676ec2aa08782"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "scripts/check_full_approach_clearance.py": {
+      "bytes": 1315,
+      "sha256": "4e9e7153240f0e42843b4d851a026983ebd2f8a6e6b017db640b4197ce70db1e"
+    },
+    "scripts/check_optional_bikes.py": {
+      "bytes": 1565,
+      "sha256": "7c8c20d8b9e6e0006c4642d8f6194ad81e414de6acbb9e9949d07948836abf53"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1738,
+      "sha256": "1539e1bf9b0287def4af33886ee2206ca08685f72b4d6fa07fc207d39d2ba0f1"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5514,
+      "sha256": "98f9f1fe5f3c8f3d1fa30cbf2683d9fdc5caad8a1ba1351366508ad8335d3a96"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 1907,
+      "sha256": "566be1eca0297312714dabfbce3a71464e74500e5403e2389309764fb91bd78b"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 771,
+      "sha256": "7f95aca7d8662d288496e2114b020850b209e10afa97973f94e1f28705e49722"
+    }
+  }
+}
