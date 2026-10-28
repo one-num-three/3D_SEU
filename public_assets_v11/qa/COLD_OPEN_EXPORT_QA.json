@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "cold_full_checkpoint_meshes": 3106,
+  "patch_meshes": 42,
+  "patch_triangles": 8440,
+  "patch_roundtrip_1mm_triangle_fingerprints_exact": true,
+  "no_embedded_photos_texts_fonts_or_external_libraries": true,
+  "patch_glb_bytes": 542696,
+  "patch_glb_sha256": "8e5f564af60f8dbe31d28f0162f97d23e525f9d4c05fdefc484d5bb7dbd5fa20",
+  "full_blend_sha256": "b325b78c1f295da8fd7bff95c37e6e3cd1301b95a5cb2254573f7084876340e2"
+}

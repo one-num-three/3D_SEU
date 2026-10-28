@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "rows": [
+    {
+      "file": "previews/JIAOTINGBIAO_BEFORE_AFTER.png",
+      "pixel_sha256": "f797077a528960733e75b88ef635f2a0ad8d509a9ed585bfd1c6ad1e40bdac28",
+      "pixels_unchanged": true,
+      "metadata_keys_removed": [],
+      "metadata_keys_after": []
+    },
+    {
+      "file": "previews/HUMANITIES_A_BEFORE_AFTER.png",
+      "pixel_sha256": "303ff7072f41c19af6125dd33308aec89e453cc07ecad2053032ebf0c8dd9e48",
+      "pixels_unchanged": true,
+      "metadata_keys_removed": [],
+      "metadata_keys_after": []
+    },
+    {
+      "file": "previews/V11_FULL_WITH_WOODLAND.png",
+      "pixel_sha256": "52e9dd53cfeba72ea3994be588b4ccb60632a31f4e90c71c9373c050a953a837",
+      "pixels_unchanged": true,
+      "metadata_keys_removed": [
+        "exif",
+        "dpi",
+        "File",
+        "Date",
+        "Time",
+        "Frame",
+        "Camera",
+        "Scene",
+        "RenderTime"
+      ],
+      "metadata_keys_after": []
+    },
+    {
+      "file": "c15_a_reuse/previews/A_REFINED_CANDIDATE.png",
+      "pixel_sha256": "5002709f290e877e601af7c56f720db1c75b5a924bd5a54ba4a891a111163240",
+      "pixels_unchanged": true,
+      "metadata_keys_removed": [],
+      "metadata_keys_after": []
+    },
+    {
+      "file": "jiaotingbiao_reuse/previews/JIAOTINGBIAO_REVIEW.png",
+      "pixel_sha256": "e5696664d904fb3ab23c75c5e80c4e264fd1b3e8f5e1f8e9de0fd1fd1e22fa00",
+      "pixels_unchanged": true,
+      "metadata_keys_removed": [],
+      "metadata_keys_after": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "method": "actual full module union includes every external stair tread/canopy projection, not just raised building bounds",
+  "tree_count": 603,
+  "bike_count": 8,
+  "minimum_tree_crown_clearance_m": 11.694874393834104,
+  "minimum_bike_center_clearance_m": 57.2146037684844,
+  "projection_sha256": "5ccc9f0d81aa3b59af154fa21ff8b7d845fc9b19e9aeaa629b8c3652556f1043",
+  "conflicts": []
+}
