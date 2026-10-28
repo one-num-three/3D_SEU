@@ -1,0 +1,93 @@
+{
+  "rows": [
+    {
+      "id": "SEU_B_OSMWAY_1056927545",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 190,
+      "window_rows_z": [
+        1.58,
+        4.81,
+        8.04,
+        11.27,
+        14.5,
+        17.73
+      ],
+      "mesh_count": 9
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056927546",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 190,
+      "window_rows_z": [
+        1.58,
+        4.81,
+        8.04,
+        11.27,
+        14.5,
+        17.73
+      ],
+      "mesh_count": 9
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056927547",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 190,
+      "window_rows_z": [
+        1.58,
+        4.81,
+        8.04,
+        11.27,
+        14.5,
+        17.73
+      ],
+      "mesh_count": 9
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056927548",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 190,
+      "window_rows_z": [
+        1.58,
+        4.81,
+        8.04,
+        11.27,
+        14.5,
+        17.73
+      ],
+      "mesh_count": 9
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056927549",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 190,
+      "window_rows_z": [
+        1.58,
+        4.81,
+        8.04,
+        11.27,
+        14.5,
+        17.73
+      ],
+      "mesh_count": 9
+    },
+    {
+      "id": "SEU_B_OSMWAY_1056927551",
+      "all_visible_mesh_projection_outside_osm_m2": 0.0,
+      "window_count": 190,
+      "window_rows_z": [
+        1.58,
+        4.81,
+        8.04,
+        11.27,
+        14.5,
+        17.73
+      ],
+      "mesh_count": 9
+    }
+  ],
+  "glb_mesh_count": 54,
+  "image_textures": 0,
+  "vertices": 46212,
+  "faces": 33072,
+  "render_reviewed": true
+}
