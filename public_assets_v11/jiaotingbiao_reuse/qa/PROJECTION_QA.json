@@ -1,0 +1,186 @@
+{
+  "status": "PASS",
+  "objects": 30,
+  "per_object": [
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__ground_glazing",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__ground_base",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__foyer_glazing",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__foyer_flat_roof",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__silver_folded_envelope",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__rear_unobserved_simple",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__front_glass",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__silver_front_frame",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__front_horizontal_shades",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__front_vertical_mullions",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__east_ribbon_glazing",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__east_horizontal_shades",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__ground_silver_posts",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__ground_floor_fascia",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__red_entry_volume",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__red_slit_window",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__entry_canopy",
+      "role": "approach_geometry",
+      "outside_own_osm_m2": 9.058132094793663,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__entry_columns",
+      "role": "approach_geometry",
+      "outside_own_osm_m2": 0.053232577535797375,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020024_PHOTO__approach_steps",
+      "role": "approach_geometry",
+      "outside_own_osm_m2": 462.2199999999991,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020030_PHOTO__round_pale_core",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020030_PHOTO__round_roof",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020030_PHOTO__round_floor_bands",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020030_PHOTO__round_short_blue_windows",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020023_PHOTO__rear_west_unverified_core",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020023_PHOTO__rear_west_roof",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020023_PHOTO__rear_east_light",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020023_PHOTO__rear_east_roof",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020023_PHOTO__rear_floor_bands",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020023_PHOTO__rear_screen_verticals",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_B_OSMWAY_300020023_PHOTO__rear_screen_horizontals",
+      "role": "building_geometry",
+      "outside_own_osm_m2": 0.0,
+      "road_overlap_m2": 0.0
+    }
+  ]
+}

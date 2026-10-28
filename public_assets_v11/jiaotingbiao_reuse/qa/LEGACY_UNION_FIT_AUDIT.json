@@ -1,0 +1,19 @@
+{
+  "source": "R7 H_01 schematic polygon",
+  "source_center": [
+    394.035142658316,
+    109.36348874971004
+  ],
+  "rotation_scale_target_center": [
+    4.183077192163802,
+    1.1614469137354504,
+    498.3012376369083,
+    173.63564726236876
+  ],
+  "iou": 0.8946443765232462,
+  "outside_m2": 415.191074090869,
+  "uncovered_m2": 359.9961134769994,
+  "source_area": 5187.570000000001,
+  "target_area": 6942.623933656782,
+  "status": "AUDIT_ONLY_NOT_ACCEPTED"
+}

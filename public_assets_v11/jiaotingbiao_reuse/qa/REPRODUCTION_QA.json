@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "test": "copied candidate into separate temporary directory and ran scripts/build_data.py",
+  "reconstructed_geometry_records_exact": true,
+  "mesh_records": 30,
+  "private_source_or_parent_model_dependency": false
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "cold_blend_mesh_count": 30,
+  "glb_roundtrip_1mm_triangle_fingerprint_exact": true,
+  "images_texts_fonts_external_libraries": 0,
+  "library_weak_paths": 0,
+  "assets": {
+    "SEU_Jiaotingbiao_complex.glb": {
+      "bytes": 361408,
+      "sha256": "068f79b4ccde0b44b708aa6606a62103bca232b05889285acd085a985f1c86a8"
+    },
+    "SEU_Jiaotingbiao_complex.blend": {
+      "bytes": 172719,
+      "sha256": "8ecdf536df94459f69b7b0ae1d903c3327568c28cc25b092b035e571d49d9cda"
+    }
+  }
+}
