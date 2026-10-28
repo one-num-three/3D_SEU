@@ -1,0 +1,56 @@
+{
+  "read_only": true,
+  "source_centerline_length_m": 149.6874817476473,
+  "deck_area_m2": 688.562284472282,
+  "sym_difference_with_OSM_centerline_4_6m_miter_flatbuffer_m2": 0.0014444077189505818,
+  "hausdorff_difference_m": 2.438148089326157e-05,
+  "old_deck_z_m": [
+    -0.17,
+    0.08
+  ],
+  "current_road_z_m": [
+    0.005,
+    0.035
+  ],
+  "old_rail_top_z_m": 1.13,
+  "deck_width_assumed_m": 4.6,
+  "current_road_width_assumed_m": 2.0,
+  "near_water_ids": [
+    "OSMWAY_332131128"
+  ],
+  "deck_in_water_m2": 650.0980544453937,
+  "endpoint_connections": [
+    {
+      "endpoint": [
+        -326.3078750411514,
+        126.50188295217231
+      ],
+      "nearby_roads": [
+        {
+          "id": "SEU_R_OSMWAY_300030311",
+          "name": "",
+          "distance_to_centerline_or_area_m": 0.0
+        }
+      ]
+    },
+    {
+      "endpoint": [
+        -376.2802205987973,
+        29.47541606426239
+      ],
+      "nearby_roads": [
+        {
+          "id": "SEU_R_OSMWAY_300176516",
+          "name": "",
+          "distance_to_centerline_or_area_m": 0.0
+        }
+      ]
+    }
+  ],
+  "candidate_image_nodes": [],
+  "library_step_meshes_preserved": 65,
+  "guard_projection_centerline_intersection_m": 0.0,
+  "guard_projection_min_distance_to_route_m": 2.18497818049236,
+  "underdeck_clearance_to_display_water_m": -0.167,
+  "warning": "Z is arbitrary local display datum, not bridge water clearance survey; old supports may be hidden beneath water surface."
+}

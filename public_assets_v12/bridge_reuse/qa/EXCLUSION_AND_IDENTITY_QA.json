@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "source_selected_groups": [
+    "JQB_10_DECK",
+    "JQB_20_GUARDS",
+    "JQB_40_EDGE_STRIPS",
+    "JQB_50_EXPOSED_SUPPORTS"
+  ],
+  "selected_meshes": 552,
+  "wave_ribbon_named_source_meshes": 0,
+  "red_wave_in_allowed_classifications": false,
+  "explicit_exclusion": "Any central red decorative wave/ribbon from any older version",
+  "source_and_final_xyz": "unchanged identity",
+  "current_road_deleted": false,
+  "ground_context_in_asset": false,
+  "image_dependencies_in_selected_materials": 0,
+  "height_clearance_surveyed": false,
+  "source_final_database_semantic_equal": true,
+  "source_final_geometry_delta_m": 0,
+  "visual_review": "Bridge walking surface visible above existing display water; shore routes meet ends; exposed supports submerged by display water; no fabricated steps/ramps",
+  "road_overlap_classification": "legal bridge=yes layer=1 over water; original centerline retained; not a ground road blockage",
+  "material_preview": "Workbench shows transparent guard as opaque; not a real transmission test"
+}
