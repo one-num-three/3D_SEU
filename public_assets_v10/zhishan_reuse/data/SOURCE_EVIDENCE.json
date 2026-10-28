@@ -1,0 +1,28 @@
+{
+  "height_m": 12.5,
+  "height_basis": "official published architectural height; not our field measurement",
+  "official_report_url": "https://news.seu.edu.cn/2024/0608/c5486a493326/page.htm",
+  "reported_building_area_m2": 100,
+  "reported_area_note": "building area, not independently verified usable floor area or exact external square footprint",
+  "body_dimensions_m": [
+    10.2,
+    10.2
+  ],
+  "body_dimensions_basis": "retained photographic estimate",
+  "platform_extent_m": [
+    27.2,
+    27.2
+  ],
+  "orientation_basis": "photo front identified as north side from visible library context; axial alignment from OSM footway",
+  "photographs_reference_only": [
+    "https://pic.cyol.com/img/20240610/img_9601f5c81cc5f79dfb7419a3dcef110046f5.png",
+    "https://pic.cyol.com/img/20240610/img_9601ed92fff9f73120133bf4d250d285d80e.png"
+  ],
+  "osm_source": "https://www.openstreetmap.org/way/1315047648",
+  "not_implemented": [
+    "fine crest and tablet lettering",
+    "interior emblem/name pillar",
+    "verified unseen facade detailing",
+    "measured platform centre"
+  ]
+}

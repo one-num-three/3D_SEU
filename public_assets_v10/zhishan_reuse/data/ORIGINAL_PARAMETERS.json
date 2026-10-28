@@ -1,0 +1,18 @@
+{
+  "total_height_m": 12.5,
+  "body_width_m": 10.2,
+  "body_depth_m": 10.2,
+  "landing_level_m": 0.9,
+  "wall_thickness_m": 1.1,
+  "portal_half_width_m": 2.72,
+  "portal_shoulder_m": 8.45,
+  "portal_apex_m": 10.02,
+  "frame_steps": 4,
+  "frame_step_width_m": 0.145,
+  "frame_step_height_m": 0.19,
+  "frame_step_recession_m": 0.16,
+  "crown_edge_drop_m": 0.43,
+  "stair_count_estimate": 5,
+  "stair_rise_m": 0.18,
+  "stair_tread_m": 0.45
+}
