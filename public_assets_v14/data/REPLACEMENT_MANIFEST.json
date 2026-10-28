@@ -1,0 +1,25 @@
+{
+  "version": "0.14.0",
+  "base_model_version": "0.3",
+  "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+  "patch_file": "assets/SEU_building_patch_v14.glb",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_300010601.001"
+  ],
+  "append_object_names": [
+    "TJB_SOUTH_U_HIPPED_ROOF",
+    "TJB_NORTH_HIPPED_ROOF",
+    "TJB_NORTH_GLAZING",
+    "TJB_NORTH_FRAME_GRID_4_VISIBLE_ROWS",
+    "TJB_NORTH_CORE",
+    "TJB_NORTH_BASE"
+  ],
+  "retain_base_outlines": true,
+  "material_policy": "retain evidence-based patch colors; do not apply global gray override",
+  "display_basemap_version": "0.4",
+  "old_source_count": 3971,
+  "replaced_count": 1,
+  "appended_count": 6,
+  "merged_count": 3976,
+  "requires_prior_building_patch": "public_assets_v13/data/REPLACEMENT_MANIFEST.json"
+}
