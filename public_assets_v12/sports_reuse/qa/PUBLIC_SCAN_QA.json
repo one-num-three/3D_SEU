@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "scanned_text_and_databases": [
+    "README.md",
+    "INTEGRATION.json",
+    "scripts/prepare_runtime.py",
+    "scripts/export_runtime.py",
+    "data/FULL_PROJECTION.local.geojson",
+    "data/LOD_CHANGELOG.json",
+    "data/DETAILED_SOURCE_GEOMETRY.json.gz",
+    "data/OFFICIAL_TENNIS_EVIDENCE.json",
+    "data/SOURCE_SPORTS_POLYGONS.local.geojson",
+    "data/RUNTIME_GEOMETRY.json.gz",
+    "data/DISPLAY_OVERRIDE.json",
+    "qa/EXPORT_QA.json",
+    "qa/PREVIEW_PRIVACY_QA.json",
+    "qa/SPATIAL_QA.json",
+    "qa/COLD_QA.json"
+  ],
+  "original_photos_included": false,
+  "runtime_images": 0,
+  "blend_decompressed_scan": {
+    "status": "PASS",
+    "codec": "zstd",
+    "decoded_bytes": 15717332,
+    "patterns": [
+      "/tmp/",
+      "/workspace/",
+      "/home/",
+      "libfile_",
+      "X-OSS-Token",
+      "/user_notes/"
+    ],
+    "hits": [],
+    "corrected_default_render_filepath": "//renders/",
+    "file_browser_directory_bytes_zeroed": true,
+    "blend_sha256": "9442b3f75ac88480eb6eaaa51add1ce993cceff344883b343671a42cc7c18403",
+    "geometry_and_glb_unchanged": true
+  }
+}

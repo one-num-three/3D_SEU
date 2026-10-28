@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "glb_mesh_nodes": 304,
+  "unique_exported_names": 304,
+  "automatic_blender_short_names": 72,
+  "geometry_unchanged": true,
+  "glb_sha256": "219607b5a2b52c936d48f1554ddce767114d6747100646408205eb573f3af679"
+}
