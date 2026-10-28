@@ -1,0 +1,23 @@
+{
+  "page": "https://news.seu.edu.cn/2022/1115/c5495a427575/page.htm",
+  "published": "2022-11-15",
+  "acceptance_date_reported": "2022-11-09",
+  "text_verified": "24 standard contiguous courts; renovation area over17000m2",
+  "photos_actually_viewed": [
+    "https://news.seu.edu.cn/_upload/article/images/8a/22/959e2ad8414394a06319f7c98e87/c72e2078-788a-4410-9ce2-dbb3ee5ca1a4.jpg",
+    "https://news.seu.edu.cn/_upload/article/images/8a/22/959e2ad8414394a06319f7c98e87/c9c41f10-effb-4404-a159-7fee3281e6d4.jpg"
+  ],
+  "observations": [
+    "blue playing area, green surrounds, white lines, dark green mesh",
+    "red area in background is the track, not tennis court paint",
+    "visible6columns; entire4row coverage not unambiguously visible in one photo",
+    "background southern Meiyuan track supports viewing fromnorth towardssouth"
+  ],
+  "not_verified": [
+    "exact24individualgeoreferencedboundaries",
+    "allfence/openingpositions",
+    "current2026condition",
+    "renovationareaequalsOSMpolygonarea"
+  ],
+  "original_photo_pixels_saved_or_distributed": false
+}
