@@ -1,0 +1,4 @@
+Geographic data: © OpenStreetMap contributors, https://www.openstreetmap.org/copyright
+Data license: ODbL-1.0, https://opendatacommons.org/licenses/odbl/1-0/
+Generic tree display geometry and material work: SEU campus project contributors, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Trees are procedural proxies within mapped woodland areas. Individual tree positions, sizes and species are not surveyed. Road geometry is unchanged; most road materials and widths remain class-based display estimates.
