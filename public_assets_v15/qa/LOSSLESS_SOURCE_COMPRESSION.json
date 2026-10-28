@@ -1,0 +1,8 @@
+{
+  "status": "PASS_LOSSLESS_COMPRESSION_ONLY",
+  "raw_blend_bytes": 178969944,
+  "raw_uncompressed_sha256_before_after": "127a4a8cbf0c14241d83d19e30d4ac2604a19febf6c91e67d01d97beca95706d",
+  "original_compressed_bytes": 28365275,
+  "recompressed_bytes": 19552330,
+  "changed_geometry_or_material_bytes": false
+}

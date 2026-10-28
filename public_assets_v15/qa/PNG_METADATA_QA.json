@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "images": [
+    {
+      "path": "previews/V15_FULL_QUALITY_WITH_WOODLAND.png",
+      "metadata_keys": [],
+      "rgb_sha256": "929724baad159894f76b63145d0df30a77478d8872060c365228492fe9391dc0"
+    },
+    {
+      "path": "previews/SPORTS_FULL_QUALITY_BEFORE_AFTER.png",
+      "metadata_keys": [],
+      "rgb_sha256": "7b825e10bbe4ab8dd420deb54540fbaf57dde79b83a11e72a69d492fb02e1566"
+    },
+    {
+      "path": "zhongshan_courtyard/previews/ZHONGSHAN_BEFORE_AFTER_REVIEW.png",
+      "metadata_keys": [],
+      "rgb_sha256": "94c6831a860252b6491f6f6be150dbe8e75effe774b75ea3fa787ed952d71dc9"
+    },
+    {
+      "path": "zhongshan_courtyard/previews/ZHONGSHAN_PLAN_REVIEW.png",
+      "metadata_keys": [],
+      "rgb_sha256": "2531f90b90e9341733cee07307487f6c39a4528fe0f178ec1921e6837e96288d"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "cold_full_checkpoint_meshes": 4110,
+  "patch_meshes": 439,
+  "patch_triangles": 1049258,
+  "patch_roundtrip_verified": true,
+  "exact_1mm_grid_hash_objects": 437,
+  "grid_boundary_triangle_bijections": [
+    {
+      "name": "SEU_SPORT_FULL_V15_068_GEO_COURT_817128622_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999992251396179
+    },
+    {
+      "name": "SEU_SPORT_FULL_V15_020_GEO_COURT_817128604_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999996721744537
+    }
+  ],
+  "no_embedded_photos_texts_fonts_or_external_libraries": true,
+  "patch_glb_bytes": 48021680,
+  "patch_glb_sha256": "187f9245bd5b489172d7f1e6f11d332c79043caff3118bb255c76b01027e60db",
+  "full_blend_sha256": "9013914f7e8a98fc84cd0f79c99b390f906668d674274ec1aee751d8066295c0"
+}

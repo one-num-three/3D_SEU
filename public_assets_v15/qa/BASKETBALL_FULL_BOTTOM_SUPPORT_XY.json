@@ -1,0 +1,205 @@
+{
+  "status": "CONFIRMED_UNSUPPORTED_24_BASES",
+  "bottom_faces": 24,
+  "full_bottom_polygon_support_xy_verified": true,
+  "support_all_flat": true,
+  "suggested_common_dz_m": -0.459,
+  "ground_z_m": -0.004,
+  "new_base_z_m": 0.001,
+  "join_allowance_m": 0.005,
+  "all_geometry_xy_topology_materials_unchanged_if_rigid_z_translation": true,
+  "rows": [
+    {
+      "osm_id": "817128601",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128601",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128602",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.4639999568462372
+    },
+    {
+      "osm_id": "817128602",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.4639999568462372
+    },
+    {
+      "osm_id": "817128603",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128603",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400001645088196
+    },
+    {
+      "osm_id": "817128604",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400004625320435
+    },
+    {
+      "osm_id": "817128604",
+      "bottom_face_area_m2": 0.48748152051120996,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400004625320435
+    },
+    {
+      "osm_id": "817128608",
+      "bottom_face_area_m2": 0.4874799163080752,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128608",
+      "bottom_face_area_m2": 0.4874822972342372,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128611",
+      "bottom_face_area_m2": 0.4874799163080752,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400001645088196
+    },
+    {
+      "osm_id": "817128611",
+      "bottom_face_area_m2": 0.4874822972342372,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400001645088196
+    },
+    {
+      "osm_id": "817128612",
+      "bottom_face_area_m2": 0.4874854488298297,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128612",
+      "bottom_face_area_m2": 0.4874828727915883,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400004625320435
+    },
+    {
+      "osm_id": "817128614",
+      "bottom_face_area_m2": 0.48752624192275107,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128614",
+      "bottom_face_area_m2": 0.48752862215042114,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400001645088196
+    },
+    {
+      "osm_id": "817128619",
+      "bottom_face_area_m2": 0.48750428436324,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128619",
+      "bottom_face_area_m2": 0.48750428436324,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400004625320435
+    },
+    {
+      "osm_id": "817128620",
+      "bottom_face_area_m2": 0.4875037227757275,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400001645088196
+    },
+    {
+      "osm_id": "817128620",
+      "bottom_face_area_m2": 0.4875037227757275,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    },
+    {
+      "osm_id": "817128621",
+      "bottom_face_area_m2": 0.4875037227757275,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400004625320435
+    },
+    {
+      "osm_id": "817128621",
+      "bottom_face_area_m2": 0.4875037227757275,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.4639999568462372
+    },
+    {
+      "osm_id": "817128622",
+      "bottom_face_area_m2": 0.4875225084833801,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46400001645088196
+    },
+    {
+      "osm_id": "817128622",
+      "bottom_face_area_m2": 0.4875225084833801,
+      "bottom_face_outside_actual_support_polygon_m2": 0.0,
+      "support_mesh_world_min_z": -0.004000000189989805,
+      "support_mesh_world_max_z": -0.004000000189989805,
+      "ray_gap_m": 0.46399998664855957
+    }
+  ]
+}
