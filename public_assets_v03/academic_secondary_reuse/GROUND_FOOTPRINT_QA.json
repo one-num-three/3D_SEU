@@ -1,0 +1,61 @@
+{
+  "method": "Union of actual visible mesh horizontal bottom faces within 0.02m of group minimum Z; exact GEOS intersection. Road widths inherited estimated not surveyed. No coordinates altered.",
+  "objects": 24,
+  "outlines": 4,
+  "rows": [
+    {
+      "stable_id": "SEU_B_OSMWAY_300010625",
+      "display_name": "机械楼",
+      "ground_contact_area_m2": 1675.2582516371963,
+      "outside_source_m2": 0.0,
+      "inside_source_ratio": 1.0,
+      "source_coverage_ratio": 0.8980055283258306,
+      "min_z": 0.0,
+      "finite_vertices": true,
+      "road_centerline_conflicts": [],
+      "estimated_road_width_conflicts": []
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010604",
+      "display_name": "机械楼",
+      "ground_contact_area_m2": 1851.3508921352022,
+      "outside_source_m2": 0.0,
+      "inside_source_ratio": 1.0000000000000002,
+      "source_coverage_ratio": 0.8944007452114141,
+      "min_z": 0.0,
+      "finite_vertices": true,
+      "road_centerline_conflicts": [],
+      "estimated_road_width_conflicts": [
+        {
+          "roadID": "SEU_RC_OSMWAY_934913062",
+          "distance_m": 0.9849079166027606,
+          "estimated_halfwidth_m": 2.5
+        }
+      ]
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "display_name": "机械动力实验楼",
+      "ground_contact_area_m2": 2127.345442164691,
+      "outside_source_m2": 0.0,
+      "inside_source_ratio": 1.0,
+      "source_coverage_ratio": 0.678683641110198,
+      "min_z": 0.0,
+      "finite_vertices": true,
+      "road_centerline_conflicts": [],
+      "estimated_road_width_conflicts": []
+    },
+    {
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "display_name": "田家炳楼",
+      "ground_contact_area_m2": 1952.0332858004963,
+      "outside_source_m2": 0.0,
+      "inside_source_ratio": 1.0,
+      "source_coverage_ratio": 0.883587837707319,
+      "min_z": 0.0,
+      "finite_vertices": true,
+      "road_centerline_conflicts": [],
+      "estimated_road_width_conflicts": []
+    }
+  ]
+}

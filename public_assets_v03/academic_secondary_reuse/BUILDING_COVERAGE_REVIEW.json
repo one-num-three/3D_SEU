@@ -1,0 +1,42 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_300010625",
+    "display_name": "机械楼",
+    "source_area_m2": 1865.5322253532372,
+    "actual_reused_xy_projection_m2": 1748.0246575483895,
+    "inside_source_m2": 1748.0246575483905,
+    "remaining_source_m2": 117.50756780484721,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300010604",
+    "display_name": "机械楼",
+    "source_area_m2": 2069.9344248618545,
+    "actual_reused_xy_projection_m2": 1926.0713042492555,
+    "inside_source_m2": 1926.0713042492562,
+    "remaining_source_m2": 143.86312061259946,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300010617",
+    "display_name": "机械动力实验楼",
+    "source_area_m2": 3134.5170463881473,
+    "actual_reused_xy_projection_m2": 2259.080583468379,
+    "inside_source_m2": 2259.080583468381,
+    "remaining_source_m2": 875.4364629197695,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_300010619",
+    "display_name": "田家炳楼",
+    "source_area_m2": 2209.212488557466,
+    "actual_reused_xy_projection_m2": 2046.6314759995741,
+    "inside_source_m2": 2046.6314759995719,
+    "remaining_source_m2": 162.5810125578928,
+    "outside_source_m2": 0.0,
+    "not_whole_building_completion": true
+  }
+]

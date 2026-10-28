@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "object_count": 24,
+  "source_outline_id_count": 4,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_300010625__0001",
+      "stable_id": "SEU_B_OSMWAY_300010625",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9c183589e7e09002f46384ce34a40005f8a1ab2ef483cfe7b103b5afd2895850",
+      "vertex_count": 2208,
+      "polygon_count": 1656
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010604__0001",
+      "stable_id": "SEU_B_OSMWAY_300010604",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "beae9f2d869f309c918c224781a57888a99f2e70738df2a2f16df8a637e0e7cd",
+      "vertex_count": 2208,
+      "polygon_count": 1656
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010625__0002",
+      "stable_id": "SEU_B_OSMWAY_300010625",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2cd691cc73c65e707022d38a106d65dffc2529e87b34394a57682bd44bac39d7",
+      "vertex_count": 2208,
+      "polygon_count": 1656
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010604__0002",
+      "stable_id": "SEU_B_OSMWAY_300010604",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "77ee70ff49f787b28a66972508a21349dba07df413ac6f5d5896af82bc49deb8",
+      "vertex_count": 2208,
+      "polygon_count": 1656
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010625__0003",
+      "stable_id": "SEU_B_OSMWAY_300010625",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "0adf27f8c34a75b73e5387d2d75472316016dbbc973c930fc5d659bd345b0d83",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010604__0003",
+      "stable_id": "SEU_B_OSMWAY_300010604",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "cd5fca4052f052788c5e09f6ffc18cb0945cf6c3a879fd6486ef348514e333c4",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0001",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "5e81e2e94ad2aeff02f8713290348d4b3812a00fe0ddc457fae23b3ea44d68e0",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0002",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "28e9b1e83fb50236e089528375329ecfc6a3154b3626003a3f8f08a7b665d415",
+      "vertex_count": 1632,
+      "polygon_count": 1224
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0003",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ceac74068a579bbba6b6be72c537834dc8dfc8756d42403a29603408ede21c02",
+      "vertex_count": 1248,
+      "polygon_count": 936
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0004",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "37409bc64768b8d0ddae6594ebb424dae12509421398262279d6025c6f06d0d8",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0005",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "2324f382c49f35c0488cffb051c5b714e38a87dbb8020b58d11b835b622d08f5",
+      "vertex_count": 1632,
+      "polygon_count": 1224
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0006",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "db29ddac3e789f49b95d105394e9b7f5ed35979c4bec98843e04302571615ad1",
+      "vertex_count": 1248,
+      "polygon_count": 936
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0007",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "6a44bcac13a215f3a8ae70341154bceacea8789697d991118c3da74d3aba7571",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0008",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "a7919f4be8562198f48de2b0c4a0cc982d721a7178501ed615527a24c0bdeb85",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010617__0009",
+      "stable_id": "SEU_B_OSMWAY_300010617",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "ec2d3841bc34af07e83d82e0ccdeb17866a5659c0741ac7021a399db75e6e9da",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0001",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "8207fcc9b1b1f140f3f59b8e1959707face4f158da1f91b0ab1e12594bf192af",
+      "vertex_count": 768,
+      "polygon_count": 576
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0002",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "bb9744f02e9fcab85f8f7651022bf4ac31ee4da82fc7b31e2a70054c4d8d52d0",
+      "vertex_count": 1920,
+      "polygon_count": 1440
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0003",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f052d5bf5b71fcbdc5ca920b36735aab70aa330ba36ffd783e16f58987b94a4c",
+      "vertex_count": 768,
+      "polygon_count": 576
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0004",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "339f66ca95f85f9ce257ae1589023114a835324fd291cc41ec84f2feb4ae395c",
+      "vertex_count": 768,
+      "polygon_count": 576
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0005",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "073629383882684c38668f2a5f571607e88045ad176747755b21214def1f5d7e",
+      "vertex_count": 1920,
+      "polygon_count": 1440
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0006",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "80b3ecfb4b8653660b366894e481104276f55e761804737fe9f6e0c886201a5d",
+      "vertex_count": 768,
+      "polygon_count": 576
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0007",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "9f151568c00fd655e7c106bdaa9fd06af7c12e27b09a9e29d5d3b93fdc6fc30c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0008",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "f058764b991806502e922150b2359bf8fa74776f3673f688e3f9bc3386607cb1",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_300010619__0009",
+      "stable_id": "SEU_B_OSMWAY_300010619",
+      "role": "reused_partial_building_geometry",
+      "assumption": "Legacy facade components independently fitted per supported wing; vertical dimensions unchanged, horizontal dimensions estimated; unsupported wings omitted; not surveyed.",
+      "sourceclass": "osm_positioning_with_legacy_estimated_facade_geometry",
+      "geometry_fingerprint": "15c7c62044adc9d82398280566a49bd3f4323e96b4dea2adcab16be2acf400e6",
+      "vertex_count": 24,
+      "polygon_count": 26
+    }
+  ]
+}

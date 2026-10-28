@@ -1,0 +1,36 @@
+{
+  "status": "READY_FOR_WORKING_BASE_NOT_PUBLISHED",
+  "mesh_count": 24,
+  "active_source_groups": {
+    "C2": 6,
+    "C6": 9,
+    "C9": 9
+  },
+  "source_outline_count": 4,
+  "stable_ids": [
+    "SEU_B_OSMWAY_300010604",
+    "SEU_B_OSMWAY_300010617",
+    "SEU_B_OSMWAY_300010619",
+    "SEU_B_OSMWAY_300010625"
+  ],
+  "nonactive_candidate_count": 36,
+  "candidate_counts": {
+    "C2": 10,
+    "C6": 3,
+    "C9": 3,
+    "D1": 20
+  },
+  "candidate_reasons": {
+    "C2": "Ten courtyard E/W and east-lobby components unsupported by the two disconnected accepted OSM bars; do not bridge gap.",
+    "C6": "Three west-low components unsupported by west-open C-shaped outline; do not close opening.",
+    "C9": "Three north-bar components require depth compression about0.54; outside permitted1/1.35 lower scale. Kept original nonactive rather than squash facade.",
+    "D1": "All20: northern10 components span stepped northern body and middle southern notch; safe contiguous strip requires depth compression about0.51. Southern10 intersect building-passage region without supported clearance geometry. Do not insert whole source into strip; future independent connected-unit decomposition needed."
+  },
+  "not_restored_wholly": [
+    "C2",
+    "C6",
+    "C9",
+    "D1"
+  ],
+  "residual_policy": "Actual projection masks only; do not close courtyard gap or C6 west opening. C9 north remains unrefined base/low placeholder. D1 remains deferred, particularly southern building passage; never infill solid high massing over passage."
+}
