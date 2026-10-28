@@ -1,0 +1,28 @@
+{
+  "status": "PASS_BUILT",
+  "collection": "PUBLIC_OSM_MASSING_V02",
+  "mesh_objects": 192,
+  "materials": 2,
+  "images": 0,
+  "fonts_used": 0,
+  "external_libraries": 0,
+  "model_coordinate_convention": {
+    "blend": "Z up local metres; X grid east Y grid north",
+    "glb": "glTF Y up (Blender exporter): X=localX Y=localZ Z=-localY; sameorigin"
+  },
+  "geometry_counts": {
+    "building_massing": 192
+  },
+  "artifacts": [
+    {
+      "path": "SEU_OSM_MASSING_v02.blend",
+      "bytes": 1279579,
+      "sha256": "818a4efd2db759ee0efb1c5a7ae8210c31b224d0b2fbad5c0d02c7ac4820e94e"
+    },
+    {
+      "path": "SEU_OSM_MASSING_v02.glb",
+      "bytes": 4574420,
+      "sha256": "bdbe293a5916639175216b45f51916b5af18300387251ee2d2028a8e51075979"
+    }
+  ]
+}
