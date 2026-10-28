@@ -1,0 +1,41 @@
+{
+  "asset": "assets/SEU_track_relations_v13.glb",
+  "byte_size": 7148,
+  "sha256": "38b617534a811fa59417abd38ccf20c58929e25dacdcf9ad835fff0814f3724b",
+  "mesh_count": 2,
+  "triangles": 55,
+  "replace_names": [],
+  "append_names": [
+    "SEU_V13_OSMREL_11214072_TARTAN_SURFACE",
+    "SEU_V13_OSMREL_11214073_TARTAN_SURFACE"
+  ],
+  "layer": "sports_surface_paint",
+  "role": "surface_paint",
+  "render_contract": {
+    "pass": "ground",
+    "renderOrder": 30,
+    "depthTest": false,
+    "depthWrite": false,
+    "existing_sports_order": 29,
+    "existing_roads_order": 200,
+    "note": "same v12 surface_paint contract; preserved pedestrian road edges render above rings"
+  },
+  "infield_display_overrides": "data/INFIELD_DISPLAY_OVERRIDES.json",
+  "preserved_infield_osm_ids": [
+    817128568,
+    817128624
+  ],
+  "no_lane_markings_or_goalposts": true,
+  "coordinates": {
+    "crs": "EPSG:32650",
+    "origin": [
+      671709.6990725585,
+      3529586.400278158
+    ],
+    "local_axes_blender": "X east Y north Z up",
+    "glb_axes": "X east Y up Z south",
+    "units": "metres",
+    "z_display_only": 0.012
+  },
+  "geometry_status": "existing_OSM_relation_snapshot_no_survey_claim"
+}

@@ -1,0 +1,130 @@
+{
+  "files": [
+    {
+      "path": "INTEGRATION.json",
+      "bytes": 1186,
+      "sha256": "bcc72a801a266d3471f9237147d8481fb89ea45a12a941dded5562b9ff46662f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4002,
+      "sha256": "dfd7c3724b4cbfd1911b746075828b7ddeaa1fbfbb29131efc8751b4ee24ee90"
+    },
+    {
+      "path": "assets/SEU_track_relations_v13.blend",
+      "bytes": 84533,
+      "sha256": "3c5af4152313e05fa0e32e7bfdacd406df948018c4211b90e2ed0e11dc9f905e"
+    },
+    {
+      "path": "assets/SEU_track_relations_v13.glb",
+      "bytes": 7148,
+      "sha256": "38b617534a811fa59417abd38ccf20c58929e25dacdcf9ad835fff0814f3724b"
+    },
+    {
+      "path": "data/FULL_PROJECTION.local.geojson",
+      "bytes": 3356,
+      "sha256": "a1b6d2dec1245c23c55a987db34a9c2ea92d9b5a40cf0866f3c9c5f8a6ddcca2"
+    },
+    {
+      "path": "data/GEOMETRY.json",
+      "bytes": 23140,
+      "sha256": "e7bcd205934428446761a6389313648491367a41161d2867795a4fcb085fb593"
+    },
+    {
+      "path": "data/INFIELD_DISPLAY_OVERRIDES.json",
+      "bytes": 1785,
+      "sha256": "a6b618eb207339be87345630fc6de90b8186c25a3f100c88bbdd1e4aca3ad91c"
+    },
+    {
+      "path": "data/OVERLAPPING_FOOTWAY_CONTEXT.json",
+      "bytes": 12832,
+      "sha256": "12f414cab78ea902ffd9c477509e11a1ece4fdf39e7443efe8661a85eb9c4470"
+    },
+    {
+      "path": "data/PHOTO_EVIDENCE.json",
+      "bytes": 891,
+      "sha256": "9d49d34a91930061037dacd0eec006349d1a2dfeb2358854702eccf0a0d98d3a"
+    },
+    {
+      "path": "data/RETAINED_INFIELD_CONTEXT.json",
+      "bytes": 5514,
+      "sha256": "8848623866f8d10783c0a7a652044dc2cb8498dc6339c3e917481b9e58392132"
+    },
+    {
+      "path": "data/SOURCE_OSM_RELATIONS.json",
+      "bytes": 12658,
+      "sha256": "67c2efbf8b49fe520b9a64b602089ec14f27fa444ebf5b14c5ff7e894260a81c"
+    },
+    {
+      "path": "previews/RELATION_BEFORE_AFTER_PLAN.png",
+      "bytes": 131626,
+      "sha256": "be0fd99b901500a54996ddcf9e69a116508508c506269d2131a97cccff3c2f53"
+    },
+    {
+      "path": "qa/COLD_BLEND_QA.json",
+      "bytes": 89,
+      "sha256": "1f80f1dc053d57aee1d521c1de53fbcbd17f9753363dbe929641f814da6dd523"
+    },
+    {
+      "path": "qa/GLB_AND_V04_DIFFERENCE_QA.json",
+      "bytes": 196,
+      "sha256": "56fee87a07a564883837f6063cd9c06826999049992bf4911082a53338e7a214"
+    },
+    {
+      "path": "qa/OPTIONAL_BIKES_QA.json",
+      "bytes": 3374,
+      "sha256": "122f2668e697724d78c7fb1a1ee43ed3c6c15e50637f251fb96812d9c1fd6869"
+    },
+    {
+      "path": "qa/PRIVACY_QA.json",
+      "bytes": 153,
+      "sha256": "a4d1d710949626a4d39ac580c0200a540b1c6cd455f02b5f1548d8f14a5ba173"
+    },
+    {
+      "path": "qa/REGRESSION_TEST_RESULTS.json",
+      "bytes": 726,
+      "sha256": "ffa30873b085de0adaf70785c91c4b667e2076442ee2e948e21e96371b129b56"
+    },
+    {
+      "path": "qa/RELATION_REGRESSION_QA.json",
+      "bytes": 1231,
+      "sha256": "82eea15a82b9c329c83fba9920ab3ab492bb3e26baf31d3f562ba49f73aa0021"
+    },
+    {
+      "path": "qa/RETAINED_TREE_QA.json",
+      "bytes": 409,
+      "sha256": "351c9d4199c6927921c526a156338906f8a7b4ab740811c236dacd79e8a5d884"
+    },
+    {
+      "path": "qa/ROAD_OVERLAP_CLASSIFICATION.json",
+      "bytes": 1029,
+      "sha256": "c5e3505778ef71ceca72ff5b7dc07d874d2225133decfa3fd76d7eff5505a792"
+    },
+    {
+      "path": "qa/SNAPSHOT_RELATION_INVENTORY.json",
+      "bytes": 524,
+      "sha256": "f777b3a20cdf410463aa9ab6bbf18b9ec4852a1222fdb2b7ac7048e65a4f34a1"
+    },
+    {
+      "path": "scripts/export.py",
+      "bytes": 1706,
+      "sha256": "c878f00ee598bcfa4f142fbaa4debe9ad2b53f985d537a623919876d1cb49d88"
+    },
+    {
+      "path": "scripts/rebuild_data.py",
+      "bytes": 2587,
+      "sha256": "23b3a27bc3117b3eb969668b482ab4744b1ac56fae14c8125d750e1add1e7716"
+    },
+    {
+      "path": "scripts/test_relations.py",
+      "bytes": 2034,
+      "sha256": "4fd8ffb91027c31ffd09ba71ab7f03e4f9318eb4af3a03aa0c37f16b2c750104"
+    },
+    {
+      "path": "scripts/utm_local.py",
+      "bytes": 638,
+      "sha256": "0b75594ca1fe3c41145dc51eb31a2bfb1a7de77a576ecae0a66d4d9b60c424b2"
+    }
+  ],
+  "count_excluding_manifest": 26
+}
