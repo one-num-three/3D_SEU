@@ -1,0 +1,81 @@
+{
+  "scope": "Jizhong recovered detail + photo-supported eave type; approximate heights and registration",
+  "files": {
+    "MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "README.md": {
+      "bytes": 3459,
+      "sha256": "29cf1b8d0ccff89335dbca64a51a5a25ce5265e5113db59ff918fd94ea13be61"
+    },
+    "assets/SEU_Jizhong_reused.blend": {
+      "bytes": 222318,
+      "sha256": "88d29791e311c56c526c3c53563501a5d1fd52c88ccc10f4dd4b7233d37fa1e7"
+    },
+    "assets/SEU_Jizhong_reused.glb": {
+      "bytes": 1209504,
+      "sha256": "a59e912a8462576b46ae6848b9e82ac3a0c5bbecc72c3cb1a1312295e94bc217"
+    },
+    "data/FULL_PROJECTION.local.geojson": {
+      "bytes": 35661,
+      "sha256": "2872bf3075ae4673c6c0cc6718ffb8b7aa34ab9dace45c8aae192a7a5a866f3c"
+    },
+    "data/INTEGRATION.json": {
+      "bytes": 2448,
+      "sha256": "404adad1e7a15ee1cc8b8c4d5ab1ab7149ad5760edbd82e962becb421a47dfeb"
+    },
+    "data/REGISTRATION.json": {
+      "bytes": 3151,
+      "sha256": "53c1f7218a783c36082784b74a4930062022157767c594278da58f70fda43ac9"
+    },
+    "data/TARGET_FOOTPRINT.json": {
+      "bytes": 2635,
+      "sha256": "4f1bb7fe7739eaa755f4a22b76c68b0f0ad951a5403a32c1b345d13fd7c5b3ca"
+    },
+    "data/geometry_database.json.gz": {
+      "bytes": 168498,
+      "sha256": "2f9db967e5cecab688b9535c5612e4fd8c1943de622f00227134dd72a8ac5f0f"
+    },
+    "data/source_meshes.json.gz": {
+      "bytes": 133186,
+      "sha256": "dc50710c9c02f26bf826ec700c5a78decbc9e7e61da3cac9d231f65ca8fa57ee"
+    },
+    "previews/JIZHONG_REUSE_REVIEW.png": {
+      "bytes": 1215810,
+      "sha256": "28f7c89d278fd3d55c908a538a7ac078d70a6b9baee31ff0cc0afb10ff6478f7"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 493,
+      "sha256": "45694416f56a66513f45c0226a840f72686666763be231dea959a946e53e62d8"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 157,
+      "sha256": "4454941d51c57a564eacc078e71df07784c2a71b7e1eccbc9adcf30c6bd2a874"
+    },
+    "qa/PROJECTION.json": {
+      "bytes": 4450,
+      "sha256": "ab4c11aaaf04a206ef3fab0fb30c3a394efe5302d0ae0df001585b1cf1ff56c7"
+    },
+    "qa/RETAINED_WINDOW_ROWS.json": {
+      "bytes": 992,
+      "sha256": "6463c98cedcca370b0a621e22839b6237561c8e526a944d5e3fbd89c6dcea13d"
+    },
+    "scripts/build.py": {
+      "bytes": 1655,
+      "sha256": "6f9059e41f0a183cc35fbb44354d931f8769ba88e6e113915bc6412ca6e8df14"
+    },
+    "scripts/check_projection.py": {
+      "bytes": 1433,
+      "sha256": "31afd2f1220b7f39e59efc6aa57cbd730341d038ce64aa474fc7deb0ed34b7ec"
+    },
+    "scripts/prepare.py": {
+      "bytes": 3924,
+      "sha256": "5f57d34cedf3d8d8268fa4ef013a49021c8b8f7deec1b52a4acd10a7c68c8ad2"
+    },
+    "scripts/validate.py": {
+      "bytes": 1381,
+      "sha256": "9a4e2a1dae772ebcadaa5a4ff5a2918c99ecb702337aef4dfcbb8fc485d18a9e"
+    }
+  }
+}
