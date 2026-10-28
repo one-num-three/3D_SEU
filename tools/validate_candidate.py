@@ -26,6 +26,7 @@ if preview_manifest.is_file():
 for p in R.rglob('*'):
  if not p.is_file():continue
  if '.git' in p.relative_to(R).parts or '__pycache__' in p.relative_to(R).parts:continue
+ if p.relative_to(R).parts[0]=='public_runtime_v14':continue
  if p.relative_to(R).parts[0] in ['public_assets','public_assets_v02','public_assets_v03','public_assets_v04','public_assets_v05','public_assets_v06','public_assets_v07','public_assets_v08','public_assets_v09','public_assets_v10','public_assets_v11','public_assets_v12','public_assets_v13','public_assets_v14']:continue
  rel=p.relative_to(R).as_posix();files.append(rel)
  if rel not in allowed:errors.append({'file':rel,'reason':'not allowlisted'})
@@ -43,5 +44,11 @@ for asset_dir in ['public_assets','public_assets_v02','public_assets_v03','publi
   import subprocess
   child=subprocess.run([sys.executable,str(R/asset_dir/'scripts/validate_release.py')],capture_output=True,text=True)
   if child.returncode:errors.append({'file':asset_dir,'reason':'independent asset validation failed','detail':child.stdout})
+# Derived runtime snapshots remain separate from immutable editing assets and framework.
+runtime_dir=R/'public_runtime_v14'
+if runtime_dir.exists():
+ import subprocess
+ child=subprocess.run([sys.executable,str(runtime_dir/'scripts/validate_runtime.py')],capture_output=True,text=True)
+ if child.returncode:errors.append({'file':'public_runtime_v14','reason':'independent runtime validation failed','detail':child.stdout})
 result={'technical_scan':'PASS'if not errors else'FAIL','errors':errors,'file_count':len(files),'preview_manifested_files':len(preview_paths),'framework_license':'MIT','framework_release_authorized':True,'campus_assets_legal_clearance':False,'public_release_performed':False,'limits':'Pattern scan does not prove absence of every possible secret. Framework and versioned campus assets have independent manifests and layered licenses; this scan is not rights clearance.'}
 print(json.dumps(result,indent=2));sys.exit(bool(errors))
