@@ -44,13 +44,13 @@
     },
     {
       "path": "previews/V04_LIGHT_BASEMAP_OBLIQUE.png",
-      "bytes": 3564265,
-      "sha256": "4a2fd27725f8aee489652b1c7138e112fb4f1a72b4442a0afa962c37d27a578e"
+      "bytes": 3564147,
+      "sha256": "b421e93f7ac7b20035de60dac621653aa6d63f05911490d210076031b2ee6c95"
     },
     {
       "path": "previews/V04_LIGHT_BASEMAP_TOP.png",
-      "bytes": 2708229,
-      "sha256": "6751629c894050edb1c014f143e6357124bb72d4d985bfae2c330ec3e7ba4654"
+      "bytes": 2708111,
+      "sha256": "9359ef0bb5837784f424702a5c4424c2179307ea9aa9b4facc2f8092ed3ac1b5"
     },
     {
       "path": "qa/BUILD_QA.json",
