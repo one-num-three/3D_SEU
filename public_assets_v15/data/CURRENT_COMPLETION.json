@@ -1,0 +1,22 @@
+{
+  "version": "0.15.0",
+  "full_authored_sports_restored_meshes": 404,
+  "taoyuan_basketball_total_raw_osm_pitches": 30,
+  "taoyuan_basketball_detail_present": 12,
+  "taoyuan_basketball_missing_detail": 18,
+  "taoyuan_total_ids_inclusive": [
+    817128594,
+    817128623
+  ],
+  "taoyuan_coverage_status": "historical central subset only; perimeter 18 scheduled next independent increment",
+  "zhongshan_meshes": 35,
+  "zhongshan_status": "approximate construction-photo-informed separated massing, not surveyed or finished photoreal model",
+  "other_known_issue": "Taoyuan dormitory glass and mullion coplanarity remains in prior frozen source; independent correction under review, not silently changed here",
+  "basketball_ground_alignment": {
+    "existing_12_courts_components": 60,
+    "dz_m": -0.459,
+    "old_24_bases_gap_m": 0.464,
+    "new_display_join_allowance_m": 0.005,
+    "surveyed_elevation": false
+  }
+}

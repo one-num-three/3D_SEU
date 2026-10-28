@@ -1,0 +1,12 @@
+[
+  {
+    "name": "sports_full",
+    "blend": "sports_full/assets/SEU_sports_full_quality_v15.blend",
+    "manifest": "sports_full/data/INTEGRATION.json"
+  },
+  {
+    "name": "zhongshan_courtyard",
+    "blend": "zhongshan_courtyard/assets/SEU_Zhongshan_APPROXIMATE_REVIEW.blend",
+    "manifest": "zhongshan_courtyard/data/INTEGRATION_REVIEW_ONLY.json"
+  }
+]

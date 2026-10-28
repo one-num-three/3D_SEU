@@ -1,0 +1,9 @@
+{
+  "archive": "SEU_building_patch_v15_GLB.zip",
+  "archive_bytes": 7996120,
+  "archive_sha256": "47ab4437f374975ac7988e331cbbaf5652adfce3413c4adafe452fad270c2d61",
+  "member": "SEU_building_patch_v15.glb",
+  "member_bytes": 48021680,
+  "member_sha256": "187f9245bd5b489172d7f1e6f11d332c79043caff3118bb255c76b01027e60db",
+  "lossless_archive_verified": true
+}
