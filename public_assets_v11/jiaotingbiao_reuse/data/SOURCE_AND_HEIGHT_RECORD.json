@@ -1,0 +1,51 @@
+{
+  "complex_identity": "Jiaotingbiao / student activity centre complex",
+  "osm_components": [
+    {
+      "id": 300020024,
+      "osm_name": "焦廷标馆",
+      "previous_default_height_m": 4,
+      "new_main_roof_top_m": 18,
+      "height_basis": "photo_proportion_estimate_not_measured"
+    },
+    {
+      "id": 300020030,
+      "osm_name": "圆形报告厅",
+      "previous_default_height_m": 12,
+      "new_roof_top_m": 11.55,
+      "height_basis": "three_visible_levels_photo_proportion_estimate"
+    },
+    {
+      "id": 300020023,
+      "osm_name": "大学生活动中心",
+      "previous_default_height_m": 12,
+      "west_top_m": 21.05,
+      "east_top_m": 13.85,
+      "height_basis": "visible_relative_height_in_2020_aerial_estimated_no_verified_floor_survey"
+    }
+  ],
+  "old_R7_H_01_scope": "all three components together, not just 300020024",
+  "old_R7_H_01_uniform_estimate_m": 22,
+  "old_meshes_directly_reused": 0,
+  "reason": "Old generic all-22m extrusion and generic windows do not match observed three-part topology; similarity fit to full union IoU .894644 still outside415.19m2. Retain source rollback, regenerate independent geometry on accepted footprints.",
+  "facing": "south/southwest inferred by matching three component arrangement; not calibrated camera pose",
+  "observed_sources": [
+    {
+      "url": "https://seuef.seu.edu.cn/1014/list.htm",
+      "kind": "official identity and two facade photos",
+      "image_urls": [
+        "https://seuef.seu.edu.cn/_upload/article/10/9c/12899ce242fd88e756ab21df3d1d/31b1f960-e608-4cac-b403-04634694ccb7.jpg",
+        "https://seuef.seu.edu.cn/_upload/article/10/9c/12899ce242fd88e756ab21df3d1d/870662f2-94bd-4135-a7af-3a8482d2b256.jpg"
+      ],
+      "original_pixels_distributed": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_student_hall_in_southeast_university_jiulonghu_campus.jpg",
+      "author": "来斤小仓鼠吧",
+      "date": "2020-09-27",
+      "license_of_reference_photo": "CC-BY-SA-4.0",
+      "use": "observations of relative form and orientation, no photo texture/photogrammetry",
+      "original_pixels_distributed": false
+    }
+  ]
+}

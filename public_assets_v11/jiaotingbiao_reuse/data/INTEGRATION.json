@@ -1,0 +1,41 @@
+{
+  "replace_object_names": [
+    "SEU_B_OSMWAY_300020024.001",
+    "SEU_B_OSMWAY_300020023.001",
+    "SEU_B_OSMWAY_300020030.001"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_300020024_PHOTO__ground_glazing",
+    "SEU_B_OSMWAY_300020024_PHOTO__ground_base",
+    "SEU_B_OSMWAY_300020024_PHOTO__foyer_glazing",
+    "SEU_B_OSMWAY_300020024_PHOTO__foyer_flat_roof",
+    "SEU_B_OSMWAY_300020024_PHOTO__silver_folded_envelope",
+    "SEU_B_OSMWAY_300020024_PHOTO__rear_unobserved_simple",
+    "SEU_B_OSMWAY_300020024_PHOTO__front_glass",
+    "SEU_B_OSMWAY_300020024_PHOTO__silver_front_frame",
+    "SEU_B_OSMWAY_300020024_PHOTO__front_horizontal_shades",
+    "SEU_B_OSMWAY_300020024_PHOTO__front_vertical_mullions",
+    "SEU_B_OSMWAY_300020024_PHOTO__east_ribbon_glazing",
+    "SEU_B_OSMWAY_300020024_PHOTO__east_horizontal_shades",
+    "SEU_B_OSMWAY_300020024_PHOTO__ground_silver_posts",
+    "SEU_B_OSMWAY_300020024_PHOTO__ground_floor_fascia",
+    "SEU_B_OSMWAY_300020024_PHOTO__red_entry_volume",
+    "SEU_B_OSMWAY_300020024_PHOTO__red_slit_window",
+    "SEU_B_OSMWAY_300020024_PHOTO__entry_canopy",
+    "SEU_B_OSMWAY_300020024_PHOTO__entry_columns",
+    "SEU_B_OSMWAY_300020024_PHOTO__approach_steps",
+    "SEU_B_OSMWAY_300020030_PHOTO__round_pale_core",
+    "SEU_B_OSMWAY_300020030_PHOTO__round_roof",
+    "SEU_B_OSMWAY_300020030_PHOTO__round_floor_bands",
+    "SEU_B_OSMWAY_300020030_PHOTO__round_short_blue_windows",
+    "SEU_B_OSMWAY_300020023_PHOTO__rear_west_unverified_core",
+    "SEU_B_OSMWAY_300020023_PHOTO__rear_west_roof",
+    "SEU_B_OSMWAY_300020023_PHOTO__rear_east_light",
+    "SEU_B_OSMWAY_300020023_PHOTO__rear_east_roof",
+    "SEU_B_OSMWAY_300020023_PHOTO__rear_floor_bands",
+    "SEU_B_OSMWAY_300020023_PHOTO__rear_screen_verticals",
+    "SEU_B_OSMWAY_300020023_PHOTO__rear_screen_horizontals"
+  ],
+  "new_mesh_count": 30,
+  "retain_base_outlines": true
+}

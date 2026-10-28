@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "id": "SEU_B_OSMWAY_300020023",
+  "properties": {
+    "stable_id": "SEU_B_OSMWAY_300020023",
+    "osm_way_id": 300020023,
+    "source_type": "OpenStreetMap way",
+    "source_name_osm": "大学生活动中心",
+    "name_status": "OSM label only; not independently verified",
+    "layer": "building_outline",
+    "geometry_role": "undifferentiated OSM building projection; thin display plate not solid building",
+    "source_node_ids": [
+      3041228134,
+      3041228142,
+      5950398788,
+      5950398789,
+      5954691938,
+      3041228250,
+      3041228226,
+      3041228293,
+      3041226563,
+      3041226598,
+      5954691937,
+      3041228134
+    ],
+    "source_tags": {
+      "name": "大学生活动中心",
+      "building": "school"
+    },
+    "source_url": "https://www.openstreetmap.org/way/300020023",
+    "area_m2": 2361.860700023212,
+    "absolute_accuracy": "not_surveyed",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          445.087617344572,
+          206.727648481261
+        ],
+        [
+          541.72976966179,
+          212.77552768169
+        ],
+        [
+          542.246506637079,
+          204.54457859695
+        ],
+        [
+          546.717179629137,
+          204.81929960195
+        ],
+        [
+          547.478269004612,
+          192.74433775153
+        ],
+        [
+          548.074486595811,
+          183.161783546209
+        ],
+        [
+          541.609663466807,
+          182.753754551522
+        ],
+        [
+          504.001771668787,
+          180.40313098859
+        ],
+        [
+          503.304414286744,
+          191.50327190198
+        ],
+        [
+          446.27353250084,
+          187.939478805289
+        ],
+        [
+          445.488060702686,
+          200.346721662208
+        ],
+        [
+          445.087617344572,
+          206.727648481261
+        ]
+      ]
+    ]
+  }
+}
