@@ -1,0 +1,77 @@
+{
+  "status": "PASS",
+  "rows": [
+    {
+      "name": "SEU_R_OSMWAY_300162249__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 68,
+      "triangles": 132
+    },
+    {
+      "name": "SEU_R_OSMWAY_630432677__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 52,
+      "triangles": 100
+    },
+    {
+      "name": "SEU_R_OSMWAY_630432678__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 74,
+      "triangles": 144
+    },
+    {
+      "name": "SEU_R_OSMWAY_632703303__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 132,
+      "triangles": 260
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957173__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 40,
+      "triangles": 76
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957174__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 40,
+      "triangles": 76
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957175__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 40,
+      "triangles": 76
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957176__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 40,
+      "triangles": 76
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957177__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 40,
+      "triangles": 76
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957178__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 40,
+      "triangles": 76
+    },
+    {
+      "name": "SEU_R_OSMWAY_632703302__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 52,
+      "triangles": 100
+    },
+    {
+      "name": "SEU_R_OSMWAY_632701785__V18",
+      "nonmanifold_edges": 0,
+      "vertices": 122,
+      "triangles": 240
+    }
+  ]
+}

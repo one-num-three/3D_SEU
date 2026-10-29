@@ -1,0 +1,137 @@
+{
+  "status": "PASS",
+  "roads": [
+    {
+      "name": "SEU_R_OSMWAY_300162249__V18",
+      "basecolor_override": true,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630432677__V18",
+      "basecolor_override": true,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630432678__V18",
+      "basecolor_override": true,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_632703303__V18",
+      "basecolor_override": true,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957173__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957174__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957175__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957176__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957177__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957178__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_632703302__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    },
+    {
+      "name": "SEU_R_OSMWAY_632701785__V18",
+      "basecolor_override": false,
+      "all_available_other_principled_inputs_unchanged": true,
+      "legacy_unavailable_inputs": {
+        "Weight": 0.0,
+        "Subsurface IOR": 1.399999976158142
+      },
+      "legacy_note": "Original metadata retained. Unavailable weights/diffuse roughness/thin film thickness are zero; nonzero subsurface/thin-film IOR inactive at zero corresponding weight/thickness.",
+      "stable_id_unchanged": true
+    }
+  ]
+}

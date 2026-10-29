@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "retained_object_materials_verified": 4192,
+  "changed_retained_objects": [],
+  "old_checkpoint_sha256": "cbfee5753f9bed0d9f71e60c574913476fdd396a2b2eeb2fbe333f59f6dc8dac",
+  "method": "exact per-slot diffuse and Principled base-color/roughness/metallic/alpha/transmission/IOR/coat plus face material indices"
+}

@@ -1,0 +1,125 @@
+{
+  "status": "PASS_NO_NAVIGATION_CHANGE",
+  "roads": {
+    "SEU_R_OSMWAY_300162249": {
+      "source_node_ids": [
+        3042607572,
+        5953000988
+      ],
+      "centerline_sha256": "61516fae6a8d8efacd5fa7e1eeb66206bdce2011a33b30d22c9d80e87deb7d8c",
+      "width_m": 5.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630432677": {
+      "source_node_ids": [
+        5953000988,
+        5953000989
+      ],
+      "centerline_sha256": "9986200a398970643c0b2b0e8895d64ed8fd0c450a5f1cebea08550aa107fdfd",
+      "width_m": 3.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630432678": {
+      "source_node_ids": [
+        5953000989,
+        3042559827
+      ],
+      "centerline_sha256": "c093cd5478d0e391aa947ddc90ab6f9672dfa37169b2b79930f331311950fdcb",
+      "width_m": 3.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630957173": {
+      "source_node_ids": [
+        5957335895,
+        5957335896
+      ],
+      "centerline_sha256": "4f0aa5933d8a46db6dd3c7a59c8ddefba9abf3dd4495f4351640aa6ae0260425",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630957174": {
+      "source_node_ids": [
+        5957335897,
+        5957335898
+      ],
+      "centerline_sha256": "df157b9ce68498bd0c27f2915ba46aa8c3775817db23defacbc7d6c07fcda5d2",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630957175": {
+      "source_node_ids": [
+        5957335899,
+        5957335900
+      ],
+      "centerline_sha256": "a8720f985f75be89049f1d1efada11cadebd48f3bf103491216267212eb17294",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630957176": {
+      "source_node_ids": [
+        5957335901,
+        5957335902
+      ],
+      "centerline_sha256": "0fe129d12f3f544fa6010ecbc4a540506f9b857f3e350053982e5d832d5035a6",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630957177": {
+      "source_node_ids": [
+        5957335903,
+        5957335904
+      ],
+      "centerline_sha256": "8e2ef82171722b6c31ca861f8a6522220abcc34c84398804faa6dc970d64baeb",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_630957178": {
+      "source_node_ids": [
+        5957335905,
+        5957335906
+      ],
+      "centerline_sha256": "d4a8630bca073418505ac7aa66a729371af4368173a86de868134583768e8630",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_632701785": {
+      "source_node_ids": [
+        3042607787,
+        5973706391,
+        3042607671,
+        3042607620,
+        3042577631,
+        5954393748
+      ],
+      "centerline_sha256": "59cc2640981d6f0e55c2d590d13972b792848b61cd6f4572683aebb7d3f3dc2f",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_632703302": {
+      "source_node_ids": [
+        5954393748,
+        5954393749
+      ],
+      "centerline_sha256": "a9be2ee56ace164dc21aa223c85464ee0d413dd55856930e67f100ab96bb0952",
+      "width_m": 2.0,
+      "width_status": "estimated by documented highway class; not measured"
+    },
+    "SEU_R_OSMWAY_632703303": {
+      "source_node_ids": [
+        5954393749,
+        5957335901,
+        3042559827,
+        5957335900,
+        5957335903,
+        5957335898,
+        5957335905,
+        5957335896,
+        3042640206
+      ],
+      "centerline_sha256": "412f3f34302e363887910aa2f3ef44de8b1413188581a3f9e2f9e1afd16957f2",
+      "width_m": 3.0,
+      "width_status": "estimated by documented highway class; not measured"
+    }
+  },
+  "navigation_dataset_modified": false
+}

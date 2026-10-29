@@ -1,0 +1,87 @@
+{
+  "status": "PASS",
+  "road_mesh_count": 12,
+  "original_union_area_m2": 1801.2692652392825,
+  "exported_union_area_m2": 1801.2691683585556,
+  "coverage_symmetric_difference_m2": 0.0002583437939762006,
+  "maximum_pairwise_top_overlap_m2": 9.377830412480182e-06,
+  "sum_pairwise_overlap_m2": 1.7114815243318422e-05,
+  "float32_quantization_tolerance_m2": 0.02,
+  "source_centerlines_and_widths_changed": false,
+  "source_material_roughness_metallic_and_other_PBR_preserved": true,
+  "four_main_road_basecolors_estimated_from_user_material_observation": true,
+  "roads": [
+    {
+      "name": "SEU_R_OSMWAY_300162249__V18",
+      "source_area_m2": 788.9925474377233,
+      "new_area_m2": 788.9925474377233,
+      "outside_original_m2": 0.0
+    },
+    {
+      "name": "SEU_R_OSMWAY_630432677__V18",
+      "source_area_m2": 21.64273303700611,
+      "new_area_m2": 11.134386441088282,
+      "outside_original_m2": 7.844592004495679e-07
+    },
+    {
+      "name": "SEU_R_OSMWAY_630432678__V18",
+      "source_area_m2": 74.89044577232562,
+      "new_area_m2": 67.86719344859011,
+      "outside_original_m2": 0.0
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957173__V18",
+      "source_area_m2": 28.312261867555208,
+      "new_area_m2": 23.750937143122428,
+      "outside_original_m2": 2.9704008401092673e-06
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957174__V18",
+      "source_area_m2": 28.26963979023276,
+      "new_area_m2": 23.709204063925426,
+      "outside_original_m2": 4.613569061985784e-06
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957175__V18",
+      "source_area_m2": 28.996071438188665,
+      "new_area_m2": 24.43522453715559,
+      "outside_original_m2": 2.4954314635026358e-05
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957176__V18",
+      "source_area_m2": 39.75274457863998,
+      "new_area_m2": 35.191287308814935,
+      "outside_original_m2": 0.0
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957177__V18",
+      "source_area_m2": 39.60046969819814,
+      "new_area_m2": 35.03966074530035,
+      "outside_original_m2": 1.914766062734337e-05
+    },
+    {
+      "name": "SEU_R_OSMWAY_630957178__V18",
+      "source_area_m2": 39.482964320573956,
+      "new_area_m2": 34.92253456701292,
+      "outside_original_m2": 1.0543135363401054e-05
+    },
+    {
+      "name": "SEU_R_OSMWAY_632701785__V18",
+      "source_area_m2": 192.63915562361944,
+      "new_area_m2": 189.51771209167782,
+      "outside_original_m2": 8.222579490121257e-10
+    },
+    {
+      "name": "SEU_R_OSMWAY_632703302__V18",
+      "source_area_m2": 15.700764317647554,
+      "new_area_m2": 11.390931247267872,
+      "outside_original_m2": 1.7717171744021125e-05
+    },
+    {
+      "name": "SEU_R_OSMWAY_632703303__V18",
+      "source_area_m2": 563.3301644728344,
+      "new_area_m2": 555.3175664416922,
+      "outside_original_m2": 0.0
+    }
+  ]
+}
