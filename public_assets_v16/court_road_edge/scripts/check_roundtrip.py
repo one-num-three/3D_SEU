@@ -1,0 +1,4 @@
+import bpy,bmesh,json
+from pathlib import Path
+R=Path(__file__).resolve().parents[1];bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=False);bpy.ops.import_scene.gltf(filepath=str(R/'assets/SEU_ROAD_851764290_DISPLAY_EDGE.glb'));obs=[o for o in bpy.context.scene.objects if o.type=='MESH'];assert len(obs)==1;o=obs[0];assert o.name=='SEU_R_OSMWAY_851764290' and o.get('layer')=='road_area';bm=bmesh.new();bm.from_mesh(o.data);non=sum(not e.is_manifold for e in bm.edges);bm.free();zs=[(o.matrix_world@v.co).z for v in o.data.vertices];o.data.calc_loop_triangles();assert non==0 and abs(min(zs)-.005)<1e-7 and abs(max(zs)-.035)<1e-7
+(R/'qa/GLB_ROUNDTRIP_QA.json').write_text(json.dumps({'passed':True,'mesh_count':1,'name':o.name,'stable_id':o.get('stable_id'),'semantic_layer':o.get('layer'),'nonmanifold_edges':non,'min_z':min(zs),'max_z':max(zs),'triangles':len(o.data.loop_triangles)},indent=2))
