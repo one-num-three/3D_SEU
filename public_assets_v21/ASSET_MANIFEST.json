@@ -1,0 +1,195 @@
+{
+  "version": "0.21.0",
+  "scope": "Taoyuan3-8 24 historical trapezoid registration corrections;96 same-name geometry replacements; all original material blocks and other4180 objects retained; no artistic variants",
+  "previous_versions_immutable": true,
+  "files": {
+    "ATTRIBUTION.md": {
+      "bytes": 632,
+      "sha256": "fd3fa88ffe3307991163e147b24b07182eddc84b81e2b6daee184f721a1dff89"
+    },
+    "README.md": {
+      "bytes": 2829,
+      "sha256": "d122197f2e13ab98c0087b47184b34b44bd1388b06e907d05b0208bc766ba3b5"
+    },
+    "assets/SEU_building_patch_v21.glb": {
+      "bytes": 3346228,
+      "sha256": "6bb07fa350de032e0ff4a434b5d1623fcb1ee38b5da4322c77b9101afef2f076"
+    },
+    "assets/SEU_campus_full_quality_v21.blend.zip.001": {
+      "bytes": 16777216,
+      "sha256": "5dd4d8c72e8a11938e37bd6e822f3c1844f94a6136d503528c6cb90cd53f708f"
+    },
+    "assets/SEU_campus_full_quality_v21.blend.zip.002": {
+      "bytes": 12260822,
+      "sha256": "7f96ffc91043e0a494d6115d69e5d050fd54a2244c718e765462a2f39388a0c0"
+    },
+    "data/FULL_SOURCE_ARCHIVE.json": {
+      "bytes": 787,
+      "sha256": "23c88b0edb740d2ea3e93e3c881e6f8e3bb21d50d6f50d8a5fbc991abac5ce04"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 7723,
+      "sha256": "9d9c0f77c3d0c1203a2067180c750c1d5f767385171ae3157bc585378093ae83"
+    },
+    "data/TARGET_TRANSFORM_AUDIT.json": {
+      "bytes": 30612,
+      "sha256": "c7742859e763ed63c476a19d1b28a3a4c7efaecc8a37106093f1bf0aa13f468d"
+    },
+    "dorm24/BEFORE_GROUP.png": {
+      "bytes": 1175390,
+      "sha256": "3a1a88288a35712cd1c723fdd93a464a1145f4ab06949d2e820110d343451c1a"
+    },
+    "dorm24/BEFORE_TOP.png": {
+      "bytes": 954255,
+      "sha256": "60052cdfc7a05720110d03d1fb56de35c74a6ef7a69808c5aae66cd8afd4e313"
+    },
+    "dorm24/BODY_DIAGNOSIS.json": {
+      "bytes": 19999,
+      "sha256": "f5b336d0c562cfd845185d4345be5559706c2105835e576816df5c635a7c09b6"
+    },
+    "dorm24/CORRECTED_GROUP.png": {
+      "bytes": 1190269,
+      "sha256": "43aee066172c5071f26b5992142631218e45024692535c25678ca7bf158da5be"
+    },
+    "dorm24/CORRECTED_TOP.png": {
+      "bytes": 1000580,
+      "sha256": "9c3de06c31ee2880a7c841cddaaf6d59e4bf1f8e30424e22b43e5a886857e785"
+    },
+    "dorm24/CORRECTION_QA.json": {
+      "bytes": 21398,
+      "sha256": "873040388fb9f0f61aa370cd7beaaee5d65d94d2f057da43312f750461cb8a1f"
+    },
+    "dorm24/DORM24_TOP_COMPARISON.png": {
+      "bytes": 1308017,
+      "sha256": "521ab70f6fe007f871c86db87da8c579f70e480a240104dc8a38fef93d55cc59"
+    },
+    "dorm24/EXPORT_QA.json": {
+      "bytes": 168,
+      "sha256": "677567b545fc0bf9c18a67ee9cc278024750be0932ccbedfa46d8efd1cc63435"
+    },
+    "dorm24/FILE_MANIFEST.json": {
+      "bytes": 4743,
+      "sha256": "26cff60f56bd45d75eab90c55864e51b504ca21c9780c367d59d1ba621557b74"
+    },
+    "dorm24/INTEGRATED_QA.json": {
+      "bytes": 379,
+      "sha256": "2ed0dd6a3322e4678887285d4a9a042e852b6e9f8f3f81543bfa3359fd254933"
+    },
+    "dorm24/MESH_FACE_QA.json": {
+      "bytes": 7970,
+      "sha256": "90b551cd70d048d36975b2a16a784e7782ae3fc10c21dfda635141b789a2e426"
+    },
+    "dorm24/README.md": {
+      "bytes": 3601,
+      "sha256": "7401b4b5caab6e5f259fb92ea38814d80ae324bf427c2b22a85302e464bfd31a"
+    },
+    "dorm24/before/INTEGRATION.json": {
+      "bytes": 7028,
+      "sha256": "5a018b12c7d036fd7b0c4842abfe51d129feca5dfbbe7c8c8bfc580045efc80f"
+    },
+    "dorm24/before/dorm_sample.blend": {
+      "bytes": 279488,
+      "sha256": "bb8cad40c3bb6c63b3d7d7abb96fc1ab42cd54d52603ee35a4bfc7d5c173b464"
+    },
+    "dorm24/before/dorm_sample.glb": {
+      "bytes": 638312,
+      "sha256": "d442081b80199fd234dbc0b251604e2320f16ade449fd34c027bf8ebeae38181"
+    },
+    "dorm24/before/geometry_database.json.gz": {
+      "bytes": 451414,
+      "sha256": "37829cc13b574c952dbc77ece1bde70a9f144b29b9c3d52780fc2938f877ea57"
+    },
+    "dorm24/before/objects_manifest.json": {
+      "bytes": 38101,
+      "sha256": "a9f16e6f7438bedc608df20f62feeedd1b2a90dba56952b1b8f3f29b2589b21c"
+    },
+    "dorm24/before/rebuild.py": {
+      "bytes": 3188,
+      "sha256": "653fb121ad8ff7b66adabb93b2d10f00353f2b5e55d9f56e664b798ca6a2f836"
+    },
+    "dorm24/build_rectification.py": {
+      "bytes": 6442,
+      "sha256": "d5b346a2a4f898588b81d16659b7c3e30f2ccf7631f8d213d56f4e94c7003063"
+    },
+    "dorm24/check.py": {
+      "bytes": 1169,
+      "sha256": "ff87c5224a2b297a0d66988c767798b50be4cf9d0cd30734f9e1e03ac34878b4"
+    },
+    "dorm24/corrected/INTEGRATION.json": {
+      "bytes": 7028,
+      "sha256": "5a018b12c7d036fd7b0c4842abfe51d129feca5dfbbe7c8c8bfc580045efc80f"
+    },
+    "dorm24/corrected/dorm_sample.blend": {
+      "bytes": 277273,
+      "sha256": "8292b4765019b11a520319ef71ca2f9673db817bfe270d134182edafa9f5a580"
+    },
+    "dorm24/corrected/dorm_sample.glb": {
+      "bytes": 657804,
+      "sha256": "73e7bd006154e057b6ae03f4cba5629064e4f044cf1171d88270b560672b6a83"
+    },
+    "dorm24/corrected/geometry_database.json.gz": {
+      "bytes": 459809,
+      "sha256": "7f298356238411c0deab0f9e66a5b62c410d56091fd51270ea9ab89a389ef0d1"
+    },
+    "dorm24/corrected/objects_manifest.json": {
+      "bytes": 52885,
+      "sha256": "841caa94e32e7a9c65267ec4b19ed193ce04272e71cdcec31b66897213d1e2aa"
+    },
+    "dorm24/corrected/rebuild.py": {
+      "bytes": 3188,
+      "sha256": "653fb121ad8ff7b66adabb93b2d10f00353f2b5e55d9f56e664b798ca6a2f836"
+    },
+    "dorm24/footprints.local.geojson": {
+      "bytes": 25709,
+      "sha256": "e57a8bb673beb2a31ce63ef55e70b78b3f05bad717ee5029bbde6fb5855f2aaf"
+    },
+    "dorm24/integrate_current.py": {
+      "bytes": 2294,
+      "sha256": "7c346b30f2fa2677e5ef18c3fa303751e3a65f1ddfc80204f4727830e0702f0d"
+    },
+    "dorm24/render.py": {
+      "bytes": 1495,
+      "sha256": "77840a9b55ec9229c3b8682daca7c3743492f26615130ae9efd94201b3808128"
+    },
+    "dorm24/source_dorms.json": {
+      "bytes": 3287417,
+      "sha256": "b90e26fcaea369234da5d94edaffcefa33116e2c25b14b8087a3d4f27f3c14a3"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 502,
+      "sha256": "1a393da5fa15a48b1fb81137f96f32901dea6dfc983a3f380b822b3f9b997d25"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 463340,
+      "sha256": "4ebcd5072acef2359508a0ef37dc465ae3da17a6a55f4776c10dc7d7d8941b06"
+    },
+    "qa/PREVIEW_ATTRIBUTION_QA.json": {
+      "bytes": 1278,
+      "sha256": "eb11c1ef1cc9d0549eae53a3a301a491ae046557ce79df000f43595a7a612aad"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "ba7a7b593e860260366fb316b94a6aeb8aca26f599efd1be6b7ffdc57e6a385b"
+    },
+    "qa/PRODUCTION_PROJECTION_Z_QA.json": {
+      "bytes": 18958,
+      "sha256": "b82a3c3561f37c278fd1e4eeab711a8496f0be0733f35c2583cb741d630250e2"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5651,
+      "sha256": "f889ee4844a3351262757d135956213c1484ed512369f3bdd535efaa2f1d36bd"
+    },
+    "scripts/unpack_full_source.py": {
+      "bytes": 754,
+      "sha256": "1ffe8739e929a5d050cc67834e3c99a069cd6f6682bf61ee3ceaef4cc8a6ddcd"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 3595,
+      "sha256": "09531a786d7f7ea155660424f83391722cec045719d707abdd0f2cc1cb5581d5"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1375,
+      "sha256": "a05f4aa79a80e8092c4f774b2c12f2e66d9ac34c3123ba3a3f165bbdad8dd241"
+    }
+  }
+}
