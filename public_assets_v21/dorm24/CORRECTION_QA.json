@@ -1,0 +1,794 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_630136438",
+    "old_rectangularity": 0.8446316510132056,
+    "new_rectangularity": 0.9999558579410801,
+    "osm_rectangle_ratio": 0.9985533995111772,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.4116048257097659,
+    "target_anchor_utm_local": [
+      673.6887056642141,
+      419.37683189920796
+    ],
+    "homography_local": [
+      [
+        1.2118056571646816,
+        0.0006418184191386037,
+        0.004438702898355141
+      ],
+      [
+        -0.0005177765348173526,
+        0.9864810626789485,
+        1.1789935660445212
+      ],
+      [
+        -1.492695367209685e-05,
+        0.028514985859400373,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136443",
+    "old_rectangularity": 0.8273495516975945,
+    "new_rectangularity": 0.9999565349149928,
+    "osm_rectangle_ratio": 0.9987888695378229,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.5914315482042615,
+    "target_anchor_utm_local": [
+      608.5650583142252,
+      414.3510551418007
+    ],
+    "homography_local": [
+      [
+        1.217770234114615,
+        -0.04146147018892359,
+        -0.7250214762949763
+      ],
+      [
+        -0.008971794372656446,
+        1.01272617021596,
+        1.0174584675304508
+      ],
+      [
+        -0.0014663072094477567,
+        0.02939689879796672,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136446",
+    "old_rectangularity": 0.8446019843960964,
+    "new_rectangularity": 0.9999565045625098,
+    "osm_rectangle_ratio": 0.9958034076540557,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.4054801643499985,
+    "target_anchor_utm_local": [
+      675.9189307406,
+      390.0260183927708
+    ],
+    "homography_local": [
+      [
+        1.2115181403628066,
+        -0.0010072077969160468,
+        -0.007064812761746183
+      ],
+      [
+        0.0008202257226539163,
+        0.9869994160854325,
+        -1.1997829592767943
+      ],
+      [
+        -2.3500064443808395e-05,
+        -0.028266031386373996,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136447",
+    "old_rectangularity": 0.8273437952773636,
+    "new_rectangularity": 0.9999552743232814,
+    "osm_rectangle_ratio": 0.9959890609141362,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.5030739908844492,
+    "target_anchor_utm_local": [
+      610.8672608811424,
+      384.9343984583891
+    ],
+    "homography_local": [
+      [
+        1.214945873195759,
+        -0.001332015718579916,
+        -1.013516592404437
+      ],
+      [
+        0.011371897159282,
+        1.0105274414291436,
+        -1.0820288074372946
+      ],
+      [
+        -0.0015576981165523393,
+        -0.02921500894319678,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136454",
+    "old_rectangularity": 0.8446240420102215,
+    "new_rectangularity": 0.9999556622745847,
+    "osm_rectangle_ratio": 0.996868096212918,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.3902417694882532,
+    "target_anchor_utm_local": [
+      678.5492816180258,
+      355.6146055210928
+    ],
+    "homography_local": [
+      [
+        1.210750636895963,
+        0.0015486969915581256,
+        1.0578221304611214e-05
+      ],
+      [
+        -0.0012634721778824857,
+        0.986157637519127,
+        1.2019235785792055
+      ],
+      [
+        -3.642525809153655e-05,
+        0.028459203068395913,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136455",
+    "old_rectangularity": 0.84464150583427,
+    "new_rectangularity": 0.9999548221694484,
+    "osm_rectangle_ratio": 0.9973571923379085,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.42072689213901854,
+    "target_anchor_utm_local": [
+      613.5671159189693,
+      350.4755885334468
+    ],
+    "homography_local": [
+      [
+        1.212280863523134,
+        7.460439251874635e-05,
+        -0.00011560171003671652
+      ],
+      [
+        -5.8200898350213715e-05,
+        0.986709023069957,
+        1.1634718135256634
+      ],
+      [
+        -1.8373771346671882e-06,
+        0.02864278680447792,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136457",
+    "old_rectangularity": 0.844594846994462,
+    "new_rectangularity": 0.999956711649546,
+    "osm_rectangle_ratio": 0.9968808207485522,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.3833855440925721,
+    "target_anchor_utm_local": [
+      615.9116290095354,
+      320.5550007631586
+    ],
+    "homography_local": [
+      [
+        1.210560841595189,
+        -0.002153443179647514,
+        -0.007377491008148698
+      ],
+      [
+        0.001747746676558306,
+        0.9859114127873041,
+        -1.2211926740458139
+      ],
+      [
+        -4.9989605181734775e-05,
+        -0.028233833621650856,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136458",
+    "old_rectangularity": 0.8445767159855337,
+    "new_rectangularity": 0.9999561758376064,
+    "osm_rectangle_ratio": 0.9971189361369106,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.41597161857379156,
+    "target_anchor_utm_local": [
+      680.8326892929831,
+      325.65204980901575
+    ],
+    "homography_local": [
+      [
+        1.2119016269639435,
+        -0.0006621626967788151,
+        -0.004638297856594136
+      ],
+      [
+        0.0005395672369043899,
+        0.9875644654276057,
+        -1.2007821357462751
+      ],
+      [
+        -1.5351171560162763e-05,
+        -0.02809289718070595,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136460",
+    "old_rectangularity": 0.8407374157847802,
+    "new_rectangularity": 0.9999561256118709,
+    "osm_rectangle_ratio": 0.9983514483349588,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.44243220583771603,
+    "target_anchor_utm_local": [
+      674.5463056301978,
+      561.9381322192921
+    ],
+    "homography_local": [
+      [
+        1.217397298574159,
+        -0.02526942282594085,
+        0.19047692294887952
+      ],
+      [
+        -0.0005684794082724181,
+        0.9863232452793254,
+        1.2176720616784158
+      ],
+      [
+        -3.249378043297087e-07,
+        0.0293607495573809,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136462",
+    "old_rectangularity": 0.8273492673591728,
+    "new_rectangularity": 0.9999562778581543,
+    "osm_rectangle_ratio": 0.9983694345563555,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.5826073558358654,
+    "target_anchor_utm_local": [
+      609.4238353123092,
+      556.9003309903245
+    ],
+    "homography_local": [
+      [
+        1.2175621045836513,
+        -0.0409404829001688,
+        -0.7250913295046951
+      ],
+      [
+        -0.009374502255456928,
+        1.0126254644154122,
+        1.0278327682128483
+      ],
+      [
+        -0.001477523207385432,
+        0.029368203550273857,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136464",
+    "old_rectangularity": 0.8486594371276496,
+    "new_rectangularity": 0.9999569367510405,
+    "osm_rectangle_ratio": 0.9958096399392148,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.438105191950891,
+    "target_anchor_utm_local": [
+      676.7821618340846,
+      532.6045011865963
+    ],
+    "homography_local": [
+      [
+        1.2063473047018733,
+        -0.026738003447973654,
+        -0.1921108365295137
+      ],
+      [
+        3.951742137958862e-05,
+        0.9878743661383995,
+        -1.1422249706409546
+      ],
+      [
+        -1.7790701685267715e-05,
+        -0.02741854424200424,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136465",
+    "old_rectangularity": 0.8273452649085982,
+    "new_rectangularity": 0.9999560208884802,
+    "osm_rectangle_ratio": 0.9963183321420214,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.5041974532137531,
+    "target_anchor_utm_local": [
+      611.7246334467301,
+      527.491059863773
+    ],
+    "homography_local": [
+      [
+        1.2150451605330739,
+        -0.0012820189221651652,
+        -1.0149517817232019
+      ],
+      [
+        0.011332892063057806,
+        1.0105638812942435,
+        -1.0810073853894118
+      ],
+      [
+        -0.001556520750865417,
+        -0.029216231681642422,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136470",
+    "old_rectangularity": 0.8407267241572144,
+    "new_rectangularity": 0.9999556165756499,
+    "osm_rectangle_ratio": 0.9973809142541327,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.4346784189474236,
+    "target_anchor_utm_local": [
+      679.402652165005,
+      498.1653037483015
+    ],
+    "homography_local": [
+      [
+        1.2169628773042718,
+        -0.024980995713051124,
+        0.18583248313569425
+      ],
+      [
+        -0.0008461128346452241,
+        0.9861668122226306,
+        1.227024895132761
+      ],
+      [
+        -8.531195862023625e-06,
+        0.02930900355156759,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136471",
+    "old_rectangularity": 0.8283232079357387,
+    "new_rectangularity": 0.9999563467065804,
+    "osm_rectangle_ratio": 0.9972656242061502,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.541186378732035,
+    "target_anchor_utm_local": [
+      614.4267233234328,
+      493.0695203398948
+    ],
+    "homography_local": [
+      [
+        1.2160871722926812,
+        -0.03701275221508886,
+        -0.6750956228244258
+      ],
+      [
+        -0.010125992705015414,
+        1.009987174039078,
+        1.067995286283962
+      ],
+      [
+        -0.0014280823013903703,
+        0.029336707506360443,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136473",
+    "old_rectangularity": 0.8282787744931726,
+    "new_rectangularity": 0.9999571138260024,
+    "osm_rectangle_ratio": 0.9965083912727719,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.511864340157286,
+    "target_anchor_utm_local": [
+      616.7701454310136,
+      463.11624139330127
+    ],
+    "homography_local": [
+      [
+        1.2151828448322741,
+        -0.005643138415194795,
+        -0.9925178699815281
+      ],
+      [
+        0.01057764605970703,
+        1.0099712660094458,
+        -1.0921647071335072
+      ],
+      [
+        -0.001462603890501021,
+        -0.02890014366741906,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136474",
+    "old_rectangularity": 0.8486351620456961,
+    "new_rectangularity": 0.9999560155459822,
+    "osm_rectangle_ratio": 0.9970881600856795,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.4307978075048638,
+    "target_anchor_utm_local": [
+      681.6903068929154,
+      468.21338296556496
+    ],
+    "homography_local": [
+      [
+        1.2060668394635734,
+        -0.02719524889800306,
+        -0.19624649623403087
+      ],
+      [
+        0.0004668352131504047,
+        0.9879308932873876,
+        -1.161542196913433
+      ],
+      [
+        -2.950378143860557e-05,
+        -0.02723670696509193,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136476",
+    "old_rectangularity": 0.8455364017258228,
+    "new_rectangularity": 0.9999562950118854,
+    "osm_rectangle_ratio": 0.9981329568900443,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.4284686631359619,
+    "target_anchor_utm_local": [
+      526.999710143823,
+      546.1878919080341
+    ],
+    "homography_local": [
+      [
+        1.2064999654499535,
+        -0.01466129609543312,
+        0.2953535599316303
+      ],
+      [
+        0.0011313000372170404,
+        0.9915265865873379,
+        1.1222773786882088
+      ],
+      [
+        0.00026365561136656963,
+        0.027730531303262366,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136478",
+    "old_rectangularity": 0.8464717966232759,
+    "new_rectangularity": 0.9999564494731704,
+    "osm_rectangle_ratio": 0.9978388213403161,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.5840593772974164,
+    "target_anchor_utm_local": [
+      463.32278048357693,
+      531.6452873884701
+    ],
+    "homography_local": [
+      [
+        1.2032290641010062,
+        -0.07289208128373371,
+        0.8059371957193967
+      ],
+      [
+        0.002782863006041702,
+        0.9943219395113828,
+        1.0638971581388725
+      ],
+      [
+        0.0004746251132248584,
+        0.027249888519852553,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136480",
+    "old_rectangularity": 0.8375895442793518,
+    "new_rectangularity": 0.9999546453268672,
+    "osm_rectangle_ratio": 0.995813747462285,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.47666657720251715,
+    "target_anchor_utm_local": [
+      533.5613205187702,
+      517.5082023584023
+    ],
+    "homography_local": [
+      [
+        1.219032703674863,
+        -0.022009283538782846,
+        0.020757767849893638
+      ],
+      [
+        -0.0016638013610775465,
+        0.9919313258287181,
+        -1.1906700180962801
+      ],
+      [
+        0.00025153679341316705,
+        -0.02925896655126938,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136481",
+    "old_rectangularity": 0.83341227359689,
+    "new_rectangularity": 0.9999562665025025,
+    "osm_rectangle_ratio": 0.9960043501303321,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.5899871508191964,
+    "target_anchor_utm_local": [
+      469.9695739044239,
+      502.8960291273018
+    ],
+    "homography_local": [
+      [
+        1.2208165630972805,
+        -0.08348218568462358,
+        -0.2940126584546282
+      ],
+      [
+        -0.0005363789420888695,
+        0.9922349247591943,
+        -1.2377709740951726
+      ],
+      [
+        0.00030015926825890374,
+        -0.030149487656708916,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136487",
+    "old_rectangularity": 0.8240235320017407,
+    "new_rectangularity": 0.9999556668404085,
+    "osm_rectangle_ratio": 0.9976875325047325,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.6410258027168325,
+    "target_anchor_utm_local": [
+      541.2598338507489,
+      483.81125395077265
+    ],
+    "homography_local": [
+      [
+        1.2226642898298028,
+        -0.06557154515779899,
+        -0.574800001887672
+      ],
+      [
+        -0.009657459451217733,
+        1.0134074944804128,
+        1.058757391343733
+      ],
+      [
+        -0.0015003664282686794,
+        0.030019973243158225,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136488",
+    "old_rectangularity": 0.8458964271220303,
+    "new_rectangularity": 0.999955104467521,
+    "osm_rectangle_ratio": 0.9980736192980912,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.44293443339063526,
+    "target_anchor_utm_local": [
+      477.7493448883766,
+      469.219806367998
+    ],
+    "homography_local": [
+      [
+        1.2076223575075151,
+        -0.02113604920359043,
+        0.2860682517352992
+      ],
+      [
+        0.001293892698649262,
+        0.9903541590634708,
+        1.1105110990742886
+      ],
+      [
+        0.00021545613871546462,
+        0.0279636285830829,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136490",
+    "old_rectangularity": 0.838780586877468,
+    "new_rectangularity": 0.9999569503578248,
+    "osm_rectangle_ratio": 0.9968634823339176,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.4739684810674581,
+    "target_anchor_utm_local": [
+      484.5081419300665,
+      439.9703949674481
+    ],
+    "homography_local": [
+      [
+        1.2182565695738374,
+        -0.025207974073425517,
+        -0.04673923062848392
+      ],
+      [
+        -0.0012265793971585482,
+        0.9907573345249276,
+        -1.1919001671500964
+      ],
+      [
+        0.00018173750092115692,
+        -0.029150583604603996,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136491",
+    "old_rectangularity": 0.8296668898027402,
+    "new_rectangularity": 0.9999563113689943,
+    "osm_rectangle_ratio": 0.9968095465807324,
+    "all_mesh_projection_outside_osm_m2": 0.0,
+    "body_center_old_to_new_m": 0.5805617802979345,
+    "target_anchor_utm_local": [
+      547.9659971254019,
+      454.56064481928723
+    ],
+    "homography_local": [
+      [
+        1.2121974666544342,
+        -0.027151595169754527,
+        -1.2494606752961959
+      ],
+      [
+        0.010013378004677572,
+        1.0139320477276708,
+        -1.016722428345065
+      ],
+      [
+        -0.0015720101788951285,
+        -0.02806435288660996,
+        1.0
+      ]
+    ],
+    "object_z_bounds_unchanged_tolerance_m": 0.0,
+    "wall_roof_bevel_topology_rebuilt": true,
+    "existing_window_count_and_z_retained": true,
+    "geometry_correction_only": true
+  }
+]

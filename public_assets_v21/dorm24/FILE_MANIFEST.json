@@ -1,0 +1,150 @@
+{
+  "files": [
+    {
+      "path": "BEFORE_GROUP.png",
+      "bytes": 1175390,
+      "sha256": "3a1a88288a35712cd1c723fdd93a464a1145f4ab06949d2e820110d343451c1a"
+    },
+    {
+      "path": "BEFORE_TOP.png",
+      "bytes": 954255,
+      "sha256": "60052cdfc7a05720110d03d1fb56de35c74a6ef7a69808c5aae66cd8afd4e313"
+    },
+    {
+      "path": "BODY_DIAGNOSIS.json",
+      "bytes": 19999,
+      "sha256": "f5b336d0c562cfd845185d4345be5559706c2105835e576816df5c635a7c09b6"
+    },
+    {
+      "path": "CORRECTED_GROUP.png",
+      "bytes": 1190269,
+      "sha256": "43aee066172c5071f26b5992142631218e45024692535c25678ca7bf158da5be"
+    },
+    {
+      "path": "CORRECTED_TOP.png",
+      "bytes": 1000580,
+      "sha256": "9c3de06c31ee2880a7c841cddaaf6d59e4bf1f8e30424e22b43e5a886857e785"
+    },
+    {
+      "path": "CORRECTION_QA.json",
+      "bytes": 21398,
+      "sha256": "873040388fb9f0f61aa370cd7beaaee5d65d94d2f057da43312f750461cb8a1f"
+    },
+    {
+      "path": "DORM24_TOP_COMPARISON.png",
+      "bytes": 1308017,
+      "sha256": "521ab70f6fe007f871c86db87da8c579f70e480a240104dc8a38fef93d55cc59"
+    },
+    {
+      "path": "EXPORT_QA.json",
+      "bytes": 168,
+      "sha256": "677567b545fc0bf9c18a67ee9cc278024750be0932ccbedfa46d8efd1cc63435"
+    },
+    {
+      "path": "INTEGRATED_QA.json",
+      "bytes": 379,
+      "sha256": "2ed0dd6a3322e4678887285d4a9a042e852b6e9f8f3f81543bfa3359fd254933"
+    },
+    {
+      "path": "MESH_FACE_QA.json",
+      "bytes": 7970,
+      "sha256": "90b551cd70d048d36975b2a16a784e7782ae3fc10c21dfda635141b789a2e426"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3601,
+      "sha256": "7401b4b5caab6e5f259fb92ea38814d80ae324bf427c2b22a85302e464bfd31a"
+    },
+    {
+      "path": "before/INTEGRATION.json",
+      "bytes": 7028,
+      "sha256": "5a018b12c7d036fd7b0c4842abfe51d129feca5dfbbe7c8c8bfc580045efc80f"
+    },
+    {
+      "path": "before/dorm_sample.blend",
+      "bytes": 279488,
+      "sha256": "bb8cad40c3bb6c63b3d7d7abb96fc1ab42cd54d52603ee35a4bfc7d5c173b464"
+    },
+    {
+      "path": "before/dorm_sample.glb",
+      "bytes": 638312,
+      "sha256": "d442081b80199fd234dbc0b251604e2320f16ade449fd34c027bf8ebeae38181"
+    },
+    {
+      "path": "before/geometry_database.json.gz",
+      "bytes": 451414,
+      "sha256": "37829cc13b574c952dbc77ece1bde70a9f144b29b9c3d52780fc2938f877ea57"
+    },
+    {
+      "path": "before/objects_manifest.json",
+      "bytes": 38101,
+      "sha256": "a9f16e6f7438bedc608df20f62feeedd1b2a90dba56952b1b8f3f29b2589b21c"
+    },
+    {
+      "path": "before/rebuild.py",
+      "bytes": 3188,
+      "sha256": "653fb121ad8ff7b66adabb93b2d10f00353f2b5e55d9f56e664b798ca6a2f836"
+    },
+    {
+      "path": "build_rectification.py",
+      "bytes": 6442,
+      "sha256": "d5b346a2a4f898588b81d16659b7c3e30f2ccf7631f8d213d56f4e94c7003063"
+    },
+    {
+      "path": "check.py",
+      "bytes": 1169,
+      "sha256": "ff87c5224a2b297a0d66988c767798b50be4cf9d0cd30734f9e1e03ac34878b4"
+    },
+    {
+      "path": "corrected/INTEGRATION.json",
+      "bytes": 7028,
+      "sha256": "5a018b12c7d036fd7b0c4842abfe51d129feca5dfbbe7c8c8bfc580045efc80f"
+    },
+    {
+      "path": "corrected/dorm_sample.blend",
+      "bytes": 277273,
+      "sha256": "8292b4765019b11a520319ef71ca2f9673db817bfe270d134182edafa9f5a580"
+    },
+    {
+      "path": "corrected/dorm_sample.glb",
+      "bytes": 657804,
+      "sha256": "73e7bd006154e057b6ae03f4cba5629064e4f044cf1171d88270b560672b6a83"
+    },
+    {
+      "path": "corrected/geometry_database.json.gz",
+      "bytes": 459809,
+      "sha256": "7f298356238411c0deab0f9e66a5b62c410d56091fd51270ea9ab89a389ef0d1"
+    },
+    {
+      "path": "corrected/objects_manifest.json",
+      "bytes": 52885,
+      "sha256": "841caa94e32e7a9c65267ec4b19ed193ce04272e71cdcec31b66897213d1e2aa"
+    },
+    {
+      "path": "corrected/rebuild.py",
+      "bytes": 3188,
+      "sha256": "653fb121ad8ff7b66adabb93b2d10f00353f2b5e55d9f56e664b798ca6a2f836"
+    },
+    {
+      "path": "footprints.local.geojson",
+      "bytes": 25709,
+      "sha256": "e57a8bb673beb2a31ce63ef55e70b78b3f05bad717ee5029bbde6fb5855f2aaf"
+    },
+    {
+      "path": "integrate_current.py",
+      "bytes": 2294,
+      "sha256": "7c346b30f2fa2677e5ef18c3fa303751e3a65f1ddfc80204f4727830e0702f0d"
+    },
+    {
+      "path": "render.py",
+      "bytes": 1495,
+      "sha256": "77840a9b55ec9229c3b8682daca7c3743492f26615130ae9efd94201b3808128"
+    },
+    {
+      "path": "source_dorms.json",
+      "bytes": 3287417,
+      "sha256": "b90e26fcaea369234da5d94edaffcefa33116e2c25b14b8087a3d4f27f3c14a3"
+    }
+  ],
+  "note": "v21 public copy manifest; original independent module retains its own version. PNG and track source path metadata cleaned without pixel/geometry change; see parent qa."
+}

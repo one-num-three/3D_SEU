@@ -1,0 +1,9 @@
+[
+  {
+    "variant": "corrected",
+    "meshes": 96,
+    "max_world_coordinate_error_m": 0,
+    "triangulation_and_PBR_checked": true,
+    "mobile_test": "not_run"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "source_sha256": "e98ab847697da36aadec205b8f7075966be31bde1b6693476b9ee82623291889",
+  "result_sha256": "6a6f163d6ba45f5d677648f0b3e38b8d3f07e6e620ac307898b532a436332513",
+  "total_meshes_unchanged": 4276,
+  "corrected_objects": 96,
+  "unchanged_world_geometry_count": 4180,
+  "original_material_datablocks_retained": true,
+  "full_source_saved": true,
+  "published": false
+}
