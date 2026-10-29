@@ -1,6 +1,6 @@
 {
-  "revision": "public_assets_v15",
-  "baseline_sha256": "9013914f7e8a98fc84cd0f79c99b390f906668d674274ec1aee751d8066295c0",
+  "revision": "public_assets_v16",
+  "baseline_sha256": "a605e0d3d0adcdfceeeb0bf034fba41820a16d8873ff05fe0ecee08b9e053c4c",
   "source_crs": "EPSG:4326",
   "source_axis_order": [
     "longitude",
@@ -21,14 +21,14 @@
   "framework_license": "MIT",
   "framework_release_authorized": true,
   "public_release_field_scope": "Versioned public assets only; private reference images are not distributed",
-  "baseline_path": "public_assets_v15/assets/SEU_campus_full_quality_v15.blend",
-  "baseline_manifest_path": "public_assets_v15/ASSET_MANIFEST.json",
-  "baseline_manifest_sha256": "d4dba07b8ea9266eaeabdb730a52cfec0707ab7ca5eeee74465830432fc6874a",
-  "release_git_commit": "4c8b157db74c9712df760d3d4085aaf23c5a91f7",
+  "baseline_path": "public_assets_v16/assets/SEU_campus_full_quality_v16.blend",
+  "baseline_manifest_path": "public_assets_v16/ASSET_MANIFEST.json",
+  "baseline_manifest_sha256": "86973ba4ac91ef02af8ad9e3bd0e00614004bb05805c724394d5e9ac7c14a494",
+  "release_git_commit": "8f0b4cd0dba070c1053282284e1a2929f54ce49b",
   "release_record_status": "publisher_verified_public_baseline_commit",
   "repository": "https://github.com/one-num-three/3D_SEU",
   "runtime_patch_index": "preview/patches.json",
   "phase": "geographic_realism_first",
   "navigation_runtime_implemented": false,
-  "release_asset_commit": "4c8b157db74c9712df760d3d4085aaf23c5a91f7"
+  "release_asset_commit": "8f0b4cd0dba070c1053282284e1a2929f54ce49b"
 }
