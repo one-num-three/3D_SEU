@@ -1,0 +1,25 @@
+{
+  "replace_object_names": [
+    "SEU_B_OSMWAY_630136421__V05_window_mullions",
+    "SEU_B_OSMWAY_630136422__V05_window_mullions",
+    "SEU_B_OSMWAY_630136423__V05_window_mullions",
+    "SEU_B_OSMWAY_630136424__V05_window_mullions",
+    "SEU_B_OSMWAY_630136425__V05_window_mullions",
+    "SEU_B_OSMWAY_630136426__V05_window_mullions",
+    "SEU_B_OSMWAY_630136427__V05_window_mullions",
+    "SEU_B_OSMWAY_630136428__V05_window_mullions"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_630136421__V05_window_mullions",
+    "SEU_B_OSMWAY_630136422__V05_window_mullions",
+    "SEU_B_OSMWAY_630136423__V05_window_mullions",
+    "SEU_B_OSMWAY_630136424__V05_window_mullions",
+    "SEU_B_OSMWAY_630136425__V05_window_mullions",
+    "SEU_B_OSMWAY_630136426__V05_window_mullions",
+    "SEU_B_OSMWAY_630136427__V05_window_mullions",
+    "SEU_B_OSMWAY_630136428__V05_window_mullions"
+  ],
+  "preserve_all_other_objects": true,
+  "source_database_sha256": "4e9be90ae2431f6d9bfdbc1b963a80918a5cbf88979e217780e842741706d76d",
+  "scope": "Eight Taoyuan mullion meshes only; no glass/frame/wall/roof edits"
+}

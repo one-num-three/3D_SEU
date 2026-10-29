@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "object_count": 8,
+  "source_outline_id_count": 8,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630136421__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "44e8b0f941cf77e7b656e5ccf7829d42464be0de6e2d4de0331711af11e4531a",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "df729c45555a7a2590f8ff952b3d4c2f736b690adf5cf6568d2534e12c614038",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "53982536b572a049d690febe9ee88d1b3b9ab7cf46964f548f7a935b75800f18",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "291d4c1528eda77d1650699f3c88d0892dca2e2855c6261ce36ad4d425529403",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "b631aeb92d6d2368a60adf6cf2bc7409cc20194382e7eca59bc46fd849238750",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "202540a057d740f6d7bc4fce2892fd265cd3b9cae6d35eb9c38932220f5e6210",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "7856ba2d40d504b079e45ed754e6f0d368553a635ad8fde0ecccbd82a790c0ea",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__V05_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "window_mullion_with_modeled_rebate_contact",
+      "assumption": "Only mullion depth/cap seating corrected: exterior bead face 35mm in front of original glazing; bead rear extends 5mm behind glass back into existing frame backing; total bead height 1.80m within existing 1.90m frame. Joinery dimensions are modeling estimates, not surveyed. Original glass, outer frame, walls, roof and windows count unchanged.",
+      "sourceclass": "inherited_photo_type_with_numerical_coplanarity_repair",
+      "geometry_fingerprint": "79df8183ee5debacab79f37fa3261a32d9c24af7cd5e33684fe305c857dfe12c",
+      "vertex_count": 1056,
+      "polygon_count": 792
+    }
+  ]
+}
