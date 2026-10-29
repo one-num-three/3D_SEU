@@ -1,0 +1,635 @@
+{
+  "status": "Original shared-node topology; not field verification",
+  "full_ways": [
+    {
+      "way_id": 630686683,
+      "tags": {
+        "highway": "unclassified",
+        "name": "两江东路",
+        "oneway": "yes",
+        "source": "bing"
+      },
+      "nodes": [
+        {
+          "node_id": 5954691949,
+          "xy": [
+            291.4429636457935,
+            483.61967393988743
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630102516,
+              "tags": {
+                "highway": "unclassified",
+                "junction": "roundabout",
+                "oneway": "yes"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691951,
+          "xy": [
+            324.1190213949885,
+            366.5176547560841
+          ],
+          "connected_highways": [
+            {
+              "way_id": 300178536,
+              "tags": {
+                "highway": "unclassified"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954757961,
+          "xy": [
+            333.6124327282887,
+            333.030906021595
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630652874,
+              "tags": {
+                "foot": "yes",
+                "highway": "service"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691969,
+          "xy": [
+            343.022443864611,
+            299.44295752979815
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686666,
+              "tags": {
+                "highway": "service"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5973706393,
+          "xy": [
+            349.37323073949665,
+            276.7602673373185
+          ],
+          "connected_highways": []
+        },
+        {
+          "node_id": 3042643645,
+          "xy": [
+            355.69380519806873,
+            254.18796980381012
+          ],
+          "connected_highways": [
+            {
+              "way_id": 300162241,
+              "tags": {
+                "bicycle": "yes",
+                "highway": "service"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5973706390,
+          "xy": [
+            357.4749890958192,
+            247.84130353527144
+          ],
+          "connected_highways": []
+        },
+        {
+          "node_id": 5954691952,
+          "xy": [
+            369.1497533938382,
+            206.16265552816913
+          ],
+          "connected_highways": [
+            {
+              "way_id": 300178539,
+              "tags": {
+                "highway": "service"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5973704283,
+          "xy": [
+            370.3173087860923,
+            201.99035674752668
+          ],
+          "connected_highways": []
+        },
+        {
+          "node_id": 5957335914,
+          "xy": [
+            375.49118190747686,
+            183.47982070269063
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630957184,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691970,
+          "xy": [
+            378.67182933934964,
+            172.11084696790203
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686675,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5957335912,
+          "xy": [
+            381.53026157512795,
+            161.90088092675433
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630957182,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5957335910,
+          "xy": [
+            399.20557429350447,
+            98.69812377775088
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630957181,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691955,
+          "xy": [
+            401.07789031777065,
+            91.9981236779131
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686681,
+              "tags": {
+                "highway": "unclassified",
+                "name": "南工北路",
+                "oneway": "yes"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691954,
+          "xy": [
+            402.2440789468819,
+            82.83545506838709
+          ],
+          "connected_highways": [
+            {
+              "way_id": 851764286,
+              "tags": {
+                "highway": "unclassified",
+                "name": "南工北路",
+                "oneway": "yes"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5973710689,
+          "xy": [
+            402.47515985986684,
+            79.77858604490757
+          ],
+          "connected_highways": []
+        },
+        {
+          "node_id": 5957335908,
+          "xy": [
+            402.75561425148044,
+            76.03498650109395
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630957180,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691956,
+          "xy": [
+            409.5282617933117,
+            -13.47800695663318
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630100640,
+              "tags": {
+                "highway": "unclassified",
+                "layer": "-1",
+                "name": "南工路"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691971,
+          "xy": [
+            417.046443455969,
+            -107.38107312424108
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686697,
+              "tags": {
+                "highway": "unclassified",
+                "name": "南工南路",
+                "oneway": "yes"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691972,
+          "xy": [
+            416.64926371350884,
+            -115.84915333846584
+          ],
+          "connected_highways": [
+            {
+              "way_id": 300165443,
+              "tags": {
+                "highway": "unclassified",
+                "name": "南工南路",
+                "oneway": "yes"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691973,
+          "xy": [
+            387.24840567063075,
+            -360.3594888797961
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686698,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691979,
+          "xy": [
+            380.88808388088364,
+            -413.2529864902608
+          ],
+          "connected_highways": [
+            {
+              "way_id": 300178527,
+              "tags": {
+                "highway": "unclassified"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691977,
+          "xy": [
+            377.7979918769561,
+            -438.86649524094537
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630100673,
+              "tags": {
+                "highway": "unclassified",
+                "junction": "roundabout",
+                "oneway": "yes"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "way_id": 630100637,
+      "tags": {
+        "highway": "unclassified",
+        "name": "两江东路",
+        "oneway": "yes",
+        "source": "bing"
+      },
+      "nodes": [
+        {
+          "node_id": 3042640227,
+          "xy": [
+            419.2504310780205,
+            -12.649431424215436
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630100640,
+              "tags": {
+                "highway": "unclassified",
+                "layer": "-1",
+                "name": "南工路"
+              }
+            },
+            {
+              "way_id": 630957191,
+              "tags": {
+                "area": "yes",
+                "highway": "pedestrian"
+              }
+            },
+            {
+              "way_id": 1315839499,
+              "tags": {
+                "highway": "unclassified",
+                "name": "两江东路",
+                "oneway": "yes",
+                "source": "bing"
+              }
+            },
+            {
+              "way_id": 1315839500,
+              "tags": {
+                "highway": "path",
+                "layer": "-1"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5959076112,
+          "xy": [
+            418.03828052803874,
+            2.068386390339583
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630957191,
+              "tags": {
+                "area": "yes",
+                "highway": "pedestrian"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5957336014,
+          "xy": [
+            415.9842275751289,
+            27.484689190983772
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630957197,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691953,
+          "xy": [
+            411.4857980507659,
+            83.53397799283266
+          ],
+          "connected_highways": [
+            {
+              "way_id": 851764286,
+              "tags": {
+                "highway": "unclassified",
+                "name": "南工北路",
+                "oneway": "yes"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 3042643830,
+          "xy": [
+            410.1877344782697,
+            92.66116338362917
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686681,
+              "tags": {
+                "highway": "unclassified",
+                "name": "南工北路",
+                "oneway": "yes"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691944,
+          "xy": [
+            386.546120686573,
+            174.22805872745812
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686675,
+              "tags": {
+                "highway": "footway"
+              }
+            },
+            {
+              "way_id": 851764304,
+              "tags": {
+                "highway": "cycleway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 3042812045,
+          "xy": [
+            377.3134280288359,
+            206.8208824773319
+          ],
+          "connected_highways": [
+            {
+              "way_id": 300178539,
+              "tags": {
+                "highway": "service"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691933,
+          "xy": [
+            370.1821516826749,
+            232.029993862845
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686670,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691934,
+          "xy": [
+            358.9370460466016,
+            271.7862494913861
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686671,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691922,
+          "xy": [
+            350.46857967902906,
+            301.6971283312887
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686666,
+              "tags": {
+                "highway": "service"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 5954691925,
+          "xy": [
+            341.36630560364574,
+            333.85966860176995
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630686667,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 3042812043,
+          "xy": [
+            331.2346154549159,
+            368.7329992367886
+          ],
+          "connected_highways": [
+            {
+              "way_id": 300178536,
+              "tags": {
+                "highway": "unclassified"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 9711840512,
+          "xy": [
+            312.206671391963,
+            437.03657654998824
+          ],
+          "connected_highways": [
+            {
+              "way_id": 1056927524,
+              "tags": {
+                "highway": "footway"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 9711849521,
+          "xy": [
+            303.77109657553956,
+            466.6929745916277
+          ],
+          "connected_highways": [
+            {
+              "way_id": 1056927528,
+              "tags": {
+                "highway": "footway",
+                "layer": "-1"
+              }
+            }
+          ]
+        },
+        {
+          "node_id": 3042643842,
+          "xy": [
+            298.4106774145039,
+            485.62181590124965
+          ],
+          "connected_highways": [
+            {
+              "way_id": 630102516,
+              "tags": {
+                "highway": "unclassified",
+                "junction": "roundabout",
+                "oneway": "yes"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next_structural_extent": {
+    "south_cross_way": 630686681,
+    "north_cross_way": 630686675,
+    "north_is_footway_not_carriageway": true,
+    "known_nearby_footway_openings": [
+      630957181,
+      630957182
+    ],
+    "median_caps": "No surveyed/registered endpoint evidence; do not fabricate from work clipping interval"
+  },
+  "geometry_changed": false
+}

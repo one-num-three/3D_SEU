@@ -1,0 +1,27 @@
+{
+  "osm_way_ids": [
+    630686683,
+    630100637,
+    630957182
+  ],
+  "official_context": [
+    {
+      "url": "https://zwc.seu.edu.cn/2020/0821/c60881a343059/pagem.htm",
+      "supports": "General second-ring refurbishment and separation of modes",
+      "does_not_support": "Measured cross section of selected segment"
+    }
+  ],
+  "user_supplied_reference": {
+    "distributed": false,
+    "supports": "Separated carriageway form, narrow median, pale curbs and paved pedestrian area",
+    "registration": "Inferred from building topology, awaiting independent exact-segment confirmation"
+  },
+  "width_measured": false,
+  "curb_height_measured": false,
+  "absolute_elevation_measured": false,
+  "work_boundary_crossways": [
+    630686681,
+    630686675
+  ],
+  "median_endcaps_built": false
+}
