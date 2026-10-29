@@ -1,0 +1,8 @@
+import * as THREE from '../../../seu_pages_v041_20261028/qa/node_modules/three/three.module.js';
+import {applyRoadMicroSurfaces} from './apply_micro_surfaces.mjs';import fs from 'node:fs';
+const map=JSON.parse(fs.readFileSync(new URL('../data/ROAD_MICROSURFACE_MAP.json',import.meta.url)));const root=new THREE.Group(),original=[];
+for(const r of map.rows){const g=new THREE.PlaneGeometry(2,4);g.rotateX(-Math.PI/2);const m=new THREE.MeshBasicMaterial({color:0xaaaa99,depthTest:false,depthWrite:false});const o=new THREE.Mesh(g,m);o.name=r.stable_id;o.layers.set(1);o.renderOrder=200;root.add(o);original.push({o,g,m,positions:Array.from(g.attributes.position.array),index:Array.from(g.index.array)});}
+const textures=Object.fromEntries(['neutral_micrograin','wood_grain','paving_joints'].map(k=>[k,new THREE.Texture()]));const r=applyRoadMicroSurfaces(THREE,root,map,textures);
+for(const b of original){const o=b.o;if(JSON.stringify(Array.from(o.geometry.attributes.position.array))!==JSON.stringify(b.positions)||JSON.stringify(Array.from(o.geometry.index.array))!==JSON.stringify(b.index)||o.layers.mask!==2||o.renderOrder!==200||o.material.depthTest||o.material.depthWrite||!o.material.color.equals(b.m.color))throw Error('Geometry/palette/pass changed');}
+if(r.changed.length!==398)throw Error('Count');r.disposeAndRestore();for(const b of original)if(b.o.geometry!==b.g||b.o.material!==b.m)throw Error('Restore');
+fs.writeFileSync(new URL('../qa/ADAPTER_QA.json',import.meta.url),JSON.stringify({passed:true,synthetic_meshes:398,positions_indices_palette_depth_order_unchanged:true,restoration_passed:true,gpu_tested:false},null,2));console.log('PASS 398 synthetic road meshes, no topology or rendering-pass changes');

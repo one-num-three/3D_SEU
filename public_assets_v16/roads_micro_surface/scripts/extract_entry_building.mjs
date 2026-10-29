@@ -1,0 +1,12 @@
+import fs from 'node:fs';import crypto from 'node:crypto';
+import * as THREE from '../../../seu_pages_v041_20261028/qa/node_modules/three/three.module.js';
+import {GLTFLoader} from '../../../seu_pages_v041_20261028/qa/GLTFLoader.js';
+import {unzipSync} from '../../../seu_pages_v041_20261028/qa/fflate.js';
+import {configureGroundPass} from '../../../seu_v143_publish_staging_20261028/preview/ground-pass.js';
+import {applyPalette} from '../../../seu_v143_publish_staging_20261028/preview/palette.js';
+import {applyRoadMicroSurfaces} from './apply_micro_surfaces.mjs';
+const root=new URL('../../../seu_v143_publish_staging_20261028/preview/',import.meta.url);
+const entries=unzipSync(fs.readFileSync(new URL('../public_runtime_v14/assets/SEU_runtime_visible_v14_GLB.zip',root)));const bytes=entries['SEU_runtime_visible_v14.glb'];
+const parse=b=>new GLTFLoader().parseAsync(b.buffer.slice(b.byteOffset,b.byteOffset+b.byteLength),'');
+const model=(await parse(bytes)).scene;const overlay=(await parse(fs.readFileSync(new URL('../public_assets_v04/assets/SEU_basemap_overlay_v04.glb',root)))).scene;applyPalette(model);configureGroundPass(model,overlay);model.updateMatrixWorld(true);
+const rows=[];model.traverse(o=>{if(!o.isMesh)return;let target=false;for(let p=o;p;p=p.parent)if(p.name.includes('SEU_B_OSMWAY_299961595')||String(p.userData?.stable_id||p.userData?.stableID||'').includes('299961595'))target=true;if(!target)return;const pos=o.geometry.attributes.position,ind=o.geometry.index;const tris=[],vec=new THREE.Vector3();let min=Infinity,max=-Infinity;for(let i=0;i<pos.count;i++){vec.fromBufferAttribute(pos,i).applyMatrix4(o.matrixWorld);min=Math.min(min,vec.y);max=Math.max(max,vec.y);}for(let i=0;i<(ind?ind.count:pos.count);i+=3){const t=[];for(let k=0;k<3;k++){vec.fromBufferAttribute(pos,ind?ind.getX(i+k):i+k).applyMatrix4(o.matrixWorld);t.push([vec.x,-vec.z,vec.y]);}tris.push(t);}rows.push({name:o.name,min_z:min,max_z:max,triangles:tris});});fs.writeFileSync(new URL('../qa/BUILDING_299961595_TRIANGLES.json',import.meta.url),JSON.stringify(rows));console.log(rows.map(x=>[x.name,x.min_z,x.max_z,x.triangles.length]));

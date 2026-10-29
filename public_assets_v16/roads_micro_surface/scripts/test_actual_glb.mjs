@@ -1,0 +1,20 @@
+import fs from 'node:fs';import crypto from 'node:crypto';
+import * as THREE from '../../../seu_pages_v041_20261028/qa/node_modules/three/three.module.js';
+import {GLTFLoader} from '../../../seu_pages_v041_20261028/qa/GLTFLoader.js';
+import {unzipSync} from '../../../seu_pages_v041_20261028/qa/fflate.js';
+import {configureGroundPass} from '../../../seu_v143_publish_staging_20261028/preview/ground-pass.js';
+import {applyPalette} from '../../../seu_v143_publish_staging_20261028/preview/palette.js';
+import {applyRoadMicroSurfaces} from './apply_micro_surfaces.mjs';
+const root=new URL('../../../seu_v143_publish_staging_20261028/preview/',import.meta.url);
+const entries=unzipSync(fs.readFileSync(new URL('../public_runtime_v14/assets/SEU_runtime_visible_v14_GLB.zip',root)));const bytes=entries['SEU_runtime_visible_v14.glb'];
+const parse=b=>new GLTFLoader().parseAsync(b.buffer.slice(b.byteOffset,b.byteOffset+b.byteLength),'');
+const model=(await parse(bytes)).scene;const overlay=(await parse(fs.readFileSync(new URL('../public_assets_v04/assets/SEU_basemap_overlay_v04.glb',root)))).scene;applyPalette(model);configureGroundPass(model,overlay);model.updateMatrixWorld(true);
+const mapping=JSON.parse(fs.readFileSync(new URL('../data/ROAD_MICROSURFACE_MAP.json',import.meta.url)));
+const hash=b=>crypto.createHash('sha256').update(b).digest('hex');const snap=o=>({position:hash(Buffer.from(o.geometry.attributes.position.array.buffer)),index:o.geometry.index?hash(Buffer.from(o.geometry.index.array.buffer)):null,matrix:o.matrix.toArray(),matrixWorld:o.matrixWorld.toArray(),color:o.material.color?.toArray(),layers:o.layers.mask,order:o.renderOrder,depth:[o.material.depthTest,o.material.depthWrite],visible:o.visible});
+const before=new Map();model.traverse(o=>{if(o.isMesh)before.set(o,{snapshot:snap(o),geometry:o.geometry,material:o.material,uv:o.geometry.attributes.uv});});
+const tex=Object.fromEntries(['neutral_micrograin','wood_grain','paving_joints'].map(x=>[x,new THREE.Texture()]));const r=applyRoadMicroSurfaces(THREE,model,mapping,tex);
+if(r.changed.length!==398||new Set(r.changed.map(x=>x.stable_id)).size!==398)throw Error(`Mapping count ${r.changed.length}`);
+const changedNames=new Set(r.changed.map(x=>x.name));let untouched=0;let maxUVerror=0;const vec=new THREE.Vector3();
+for(const [o,b]of before){if(JSON.stringify(snap(o))!==JSON.stringify(b.snapshot))throw Error('Geometry/pass mutated '+o.name);if(!changedNames.has(o.name)){if(o.geometry!==b.geometry||o.material!==b.material)throw Error('Nonroad polluted '+o.name);untouched++;}else{const row=mapping.rows.find(x=>x.stable_id===r.changed.find(x=>x.name===o.name).stable_id);const uv=o.geometry.attributes.uv;for(let i=0;i<uv.count;i++){vec.fromBufferAttribute(o.geometry.attributes.position,i).applyMatrix4(o.matrixWorld);maxUVerror=Math.max(maxUVerror,Math.abs(uv.getX(i)-vec.x/row.uv_repeat_m),Math.abs(uv.getY(i)+vec.z/row.uv_repeat_m));}}}
+if(maxUVerror>0.0002)throw Error('UV world metre error');r.disposeAndRestore();for(const[o,b]of before)if(o.geometry!==b.geometry||o.material!==b.material||o.geometry.attributes.uv!==b.uv)throw Error('Restore failed');
+const result={passed:true,input:'v143 staging actual visible v14 runtime GLB',glb_sha256:hash(bytes),actual_mapped_roads:r.changed.length,unique_source_ids:398,nonroad_meshes_unchanged:untouched,positions_indices_matrices_colors_layers_order_depth_unchanged:true,world_uv_max_float32_error_m:maxUVerror,shared_material_no_cross_pollution:true,restored_original_geometry_material_uv:true,logdepth_compatibility:'No shader modifications; original material class/depth flags preserved; v143 renderer logdepth enabled. GPU visual verification still pending.',gpu_tested:false};fs.writeFileSync(new URL('../qa/ACTUAL_GLB_QA.json',import.meta.url),JSON.stringify(result,null,2));console.log(JSON.stringify(result,null,2));

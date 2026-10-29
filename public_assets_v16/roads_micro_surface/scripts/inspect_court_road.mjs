@@ -1,0 +1,12 @@
+import fs from 'node:fs';import crypto from 'node:crypto';
+import * as THREE from '../../../seu_pages_v041_20261028/qa/node_modules/three/three.module.js';
+import {GLTFLoader} from '../../../seu_pages_v041_20261028/qa/GLTFLoader.js';
+import {unzipSync} from '../../../seu_pages_v041_20261028/qa/fflate.js';
+import {configureGroundPass} from '../../../seu_v143_publish_staging_20261028/preview/ground-pass.js';
+import {applyPalette} from '../../../seu_v143_publish_staging_20261028/preview/palette.js';
+import {applyRoadMicroSurfaces} from './apply_micro_surfaces.mjs';
+const root=new URL('../../../seu_v143_publish_staging_20261028/preview/',import.meta.url);
+const entries=unzipSync(fs.readFileSync(new URL('../public_runtime_v14/assets/SEU_runtime_visible_v14_GLB.zip',root)));const bytes=entries['SEU_runtime_visible_v14.glb'];
+const parse=b=>new GLTFLoader().parseAsync(b.buffer.slice(b.byteOffset,b.byteOffset+b.byteLength),'');
+const model=(await parse(bytes)).scene;const overlay=(await parse(fs.readFileSync(new URL('../public_assets_v04/assets/SEU_basemap_overlay_v04.glb',root)))).scene;applyPalette(model);configureGroundPass(model,overlay);model.updateMatrixWorld(true);
+model.traverse(o=>{if(o.name==='SEU_R_OSMWAY_851764290'){const b=new THREE.Box3().setFromObject(o);console.log(JSON.stringify({min:b.min.toArray(),max:b.max.toArray(),color:o.material.color.toArray(),userData:o.userData,positionCount:o.geometry.attributes.position.count,indexCount:o.geometry.index?.count}));}});
