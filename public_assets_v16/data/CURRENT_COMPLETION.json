@@ -1,0 +1,20 @@
+{
+  "model_version": "0.16",
+  "author_meshes": 4200,
+  "triangles": 3763459,
+  "taoyuan_basketball_actual_osm_pitches": 30,
+  "taoyuan_detail_complete_pitches": 30,
+  "taoyuan_detail_missing_pitches": 0,
+  "basketball_bases_actual_support_verified": 60,
+  "taoyuan_mullion_fixed_buildings": 8,
+  "juyuan_mullion_fixed_buildings": 6,
+  "meiyuan4_negative_same_bug_scan": true,
+  "local_road_structural_segment_m_approx": 80,
+  "roads_micro_surface_count": 398,
+  "surface_tags_explicit": 2,
+  "surface_inferred_display_only": 396,
+  "new_road_widths_surveyed": false,
+  "court_outer_road_display_clipped_centerline_unchanged": true,
+  "mobile_dynamic_render_pass": false,
+  "bridge_review_next_separate_task": true
+}

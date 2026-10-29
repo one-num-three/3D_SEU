@@ -1,0 +1,22 @@
+[
+  {
+    "name": "taoyuan_additional",
+    "blend": "taoyuan_additional/assets/SEU_Taoyuan_18_additional_v16.blend",
+    "manifest": "taoyuan_additional/data/INTEGRATION.json"
+  },
+  {
+    "name": "taoyuan_mullions",
+    "blend": "taoyuan_mullions/seu_dorm_coplanar_fix_v16.blend",
+    "manifest": "taoyuan_mullions/INTEGRATION.json"
+  },
+  {
+    "name": "juyuan_mullions",
+    "blend": "juyuan_mullions/seu_dorm_coplanar_regression_v16.blend",
+    "manifest": "juyuan_mullions/INTEGRATION.json"
+  },
+  {
+    "name": "court_road_edge",
+    "blend": "court_road_edge/assets/SEU_ROAD_851764290_DISPLAY_EDGE.blend",
+    "manifest": "court_road_edge/data/INTEGRATION.json"
+  }
+]

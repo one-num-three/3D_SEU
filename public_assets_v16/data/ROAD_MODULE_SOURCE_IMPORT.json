@@ -1,0 +1,10 @@
+{
+  "source_whitelist_sha256": "c3e376f92d7ab948c08471fa850fedc6aa1d77743224f0c230ab3b5bd75b8175",
+  "module_mapping": {
+    "micro_surface_patch": "roads_micro_surface",
+    "road_continuity_patch": "roads_structural",
+    "court_road_edge_patch": "court_road_edge"
+  },
+  "files_imported": 70,
+  "historical_B1_excluded": true
+}
