@@ -1,5 +1,5 @@
-import {verifiedFetch} from './runtime-loader.js?v=0.20.0';
-import {makeOptionalProps} from './props-adapter.js?v=0.20.0';
+import {verifiedFetch} from './runtime-loader.js?v=0.21.0';
+import {makeOptionalProps} from './props-adapter.js?v=0.21.0';
 async function checkedBytes(spec){
  const data=await verifiedFetch(spec);return data.buffer.slice(data.byteOffset,data.byteOffset+data.byteLength);
 }

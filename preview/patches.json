@@ -1,5 +1,5 @@
 {
-  "version": "0.20.0",
+  "version": "0.21.0",
   "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
   "patches": [
     {
@@ -8713,6 +8713,701 @@
         "name": "SEU_building_patch_v20.glb",
         "bytes": 5367704,
         "sha256": "2c909f6adbac078f18098b0fe1f3a6b1f49d1b6fc2e64f6e9ee5122a0375fb12"
+      }
+    },
+    {
+      "url": "./public_assets_v21/assets/SEU_building_patch_v21.glb",
+      "bytes": 3346228,
+      "sha256": "6bb07fa350de032e0ff4a434b5d1623fcb1ee38b5da4322c77b9101afef2f076",
+      "label": "桃园24栋宿舍历史梯形错误纠正（按近矩形OSM）",
+      "replace_names": [
+        "SEU_B_OSMWAY_630136438__0001",
+        "SEU_B_OSMWAY_630136438__0002",
+        "SEU_B_OSMWAY_630136438__0003",
+        "SEU_B_OSMWAY_630136438__0004",
+        "SEU_B_OSMWAY_630136443__0001",
+        "SEU_B_OSMWAY_630136443__0002",
+        "SEU_B_OSMWAY_630136443__0003",
+        "SEU_B_OSMWAY_630136443__0004",
+        "SEU_B_OSMWAY_630136446__0001",
+        "SEU_B_OSMWAY_630136446__0002",
+        "SEU_B_OSMWAY_630136446__0003",
+        "SEU_B_OSMWAY_630136446__0004",
+        "SEU_B_OSMWAY_630136447__0001",
+        "SEU_B_OSMWAY_630136447__0002",
+        "SEU_B_OSMWAY_630136447__0003",
+        "SEU_B_OSMWAY_630136447__0004",
+        "SEU_B_OSMWAY_630136454__0001",
+        "SEU_B_OSMWAY_630136454__0002",
+        "SEU_B_OSMWAY_630136454__0003",
+        "SEU_B_OSMWAY_630136454__0004",
+        "SEU_B_OSMWAY_630136455__0001",
+        "SEU_B_OSMWAY_630136455__0002",
+        "SEU_B_OSMWAY_630136455__0003",
+        "SEU_B_OSMWAY_630136455__0004",
+        "SEU_B_OSMWAY_630136457__0001",
+        "SEU_B_OSMWAY_630136457__0002",
+        "SEU_B_OSMWAY_630136457__0003",
+        "SEU_B_OSMWAY_630136457__0004",
+        "SEU_B_OSMWAY_630136458__0001",
+        "SEU_B_OSMWAY_630136458__0002",
+        "SEU_B_OSMWAY_630136458__0003",
+        "SEU_B_OSMWAY_630136458__0004",
+        "SEU_B_OSMWAY_630136460__0001",
+        "SEU_B_OSMWAY_630136460__0002",
+        "SEU_B_OSMWAY_630136460__0003",
+        "SEU_B_OSMWAY_630136460__0004",
+        "SEU_B_OSMWAY_630136462__0001",
+        "SEU_B_OSMWAY_630136462__0002",
+        "SEU_B_OSMWAY_630136462__0003",
+        "SEU_B_OSMWAY_630136462__0004",
+        "SEU_B_OSMWAY_630136464__0001",
+        "SEU_B_OSMWAY_630136464__0002",
+        "SEU_B_OSMWAY_630136464__0003",
+        "SEU_B_OSMWAY_630136464__0004",
+        "SEU_B_OSMWAY_630136465__0001",
+        "SEU_B_OSMWAY_630136465__0002",
+        "SEU_B_OSMWAY_630136465__0003",
+        "SEU_B_OSMWAY_630136465__0004",
+        "SEU_B_OSMWAY_630136470__0001",
+        "SEU_B_OSMWAY_630136470__0002",
+        "SEU_B_OSMWAY_630136470__0003",
+        "SEU_B_OSMWAY_630136470__0004",
+        "SEU_B_OSMWAY_630136471__0001",
+        "SEU_B_OSMWAY_630136471__0002",
+        "SEU_B_OSMWAY_630136471__0003",
+        "SEU_B_OSMWAY_630136471__0004",
+        "SEU_B_OSMWAY_630136473__0001",
+        "SEU_B_OSMWAY_630136473__0002",
+        "SEU_B_OSMWAY_630136473__0003",
+        "SEU_B_OSMWAY_630136473__0004",
+        "SEU_B_OSMWAY_630136474__0001",
+        "SEU_B_OSMWAY_630136474__0002",
+        "SEU_B_OSMWAY_630136474__0003",
+        "SEU_B_OSMWAY_630136474__0004",
+        "SEU_B_OSMWAY_630136476__0001",
+        "SEU_B_OSMWAY_630136476__0002",
+        "SEU_B_OSMWAY_630136476__0003",
+        "SEU_B_OSMWAY_630136476__0004",
+        "SEU_B_OSMWAY_630136478__0001",
+        "SEU_B_OSMWAY_630136478__0002",
+        "SEU_B_OSMWAY_630136478__0003",
+        "SEU_B_OSMWAY_630136478__0004",
+        "SEU_B_OSMWAY_630136480__0001",
+        "SEU_B_OSMWAY_630136480__0002",
+        "SEU_B_OSMWAY_630136480__0003",
+        "SEU_B_OSMWAY_630136480__0004",
+        "SEU_B_OSMWAY_630136481__0001",
+        "SEU_B_OSMWAY_630136481__0002",
+        "SEU_B_OSMWAY_630136481__0003",
+        "SEU_B_OSMWAY_630136481__0004",
+        "SEU_B_OSMWAY_630136487__0001",
+        "SEU_B_OSMWAY_630136487__0002",
+        "SEU_B_OSMWAY_630136487__0003",
+        "SEU_B_OSMWAY_630136487__0004",
+        "SEU_B_OSMWAY_630136488__0001",
+        "SEU_B_OSMWAY_630136488__0002",
+        "SEU_B_OSMWAY_630136488__0003",
+        "SEU_B_OSMWAY_630136488__0004",
+        "SEU_B_OSMWAY_630136490__0001",
+        "SEU_B_OSMWAY_630136490__0002",
+        "SEU_B_OSMWAY_630136490__0003",
+        "SEU_B_OSMWAY_630136490__0004",
+        "SEU_B_OSMWAY_630136491__0001",
+        "SEU_B_OSMWAY_630136491__0002",
+        "SEU_B_OSMWAY_630136491__0003",
+        "SEU_B_OSMWAY_630136491__0004"
+      ],
+      "replace_targets": [
+        {
+          "name": "SEU_B_OSMWAY_630136438__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136438"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136438__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136438"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136438__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136438"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136438__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136438"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136443__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136443"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136443__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136443"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136443__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136443"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136443__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136443"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136446__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136446"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136446__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136446"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136446__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136446"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136446__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136446"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136447__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136447"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136447__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136447"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136447__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136447"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136447__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136447"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136454__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136454"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136454__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136454"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136454__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136454"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136454__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136454"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136455__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136455"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136455__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136455"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136455__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136455"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136455__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136455"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136457__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136457"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136457__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136457"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136457__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136457"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136457__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136457"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136458__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136458"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136458__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136458"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136458__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136458"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136458__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136458"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136460__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136460"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136460__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136460"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136460__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136460"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136460__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136460"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136462__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136462"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136462__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136462"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136462__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136462"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136462__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136462"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136464__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136464"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136464__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136464"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136464__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136464"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136464__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136464"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136465__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136465"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136465__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136465"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136465__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136465"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136465__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136465"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136470__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136470"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136470__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136470"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136470__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136470"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136470__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136470"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136471__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136471"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136471__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136471"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136471__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136471"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136471__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136471"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136473__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136473"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136473__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136473"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136473__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136473"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136473__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136473"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136474__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136474"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136474__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136474"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136474__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136474"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136474__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136474"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136476__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136476"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136476__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136476"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136476__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136476"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136476__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136476"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136478__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136478"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136478__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136478"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136478__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136478"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136478__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136478"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136480__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136480"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136480__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136480"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136480__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136480"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136480__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136480"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136481__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136481"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136481__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136481"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136481__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136481"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136481__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136481"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136487__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136487"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136487__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136487"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136487__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136487"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136487__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136487"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136488__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136488"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136488__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136488"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136488__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136488"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136488__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136488"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136490__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136490"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136490__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136490"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136490__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136490"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136490__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136490"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136491__0001",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136491"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136491__0002",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136491"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136491__0003",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136491"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136491__0004",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_B_OSMWAY_630136491"
+        }
+      ],
+      "append_names": [
+        "SEU_B_OSMWAY_630136438__0001",
+        "SEU_B_OSMWAY_630136438__0002",
+        "SEU_B_OSMWAY_630136438__0003",
+        "SEU_B_OSMWAY_630136438__0004",
+        "SEU_B_OSMWAY_630136443__0001",
+        "SEU_B_OSMWAY_630136443__0002",
+        "SEU_B_OSMWAY_630136443__0003",
+        "SEU_B_OSMWAY_630136443__0004",
+        "SEU_B_OSMWAY_630136446__0001",
+        "SEU_B_OSMWAY_630136446__0002",
+        "SEU_B_OSMWAY_630136446__0003",
+        "SEU_B_OSMWAY_630136446__0004",
+        "SEU_B_OSMWAY_630136447__0001",
+        "SEU_B_OSMWAY_630136447__0002",
+        "SEU_B_OSMWAY_630136447__0003",
+        "SEU_B_OSMWAY_630136447__0004",
+        "SEU_B_OSMWAY_630136454__0001",
+        "SEU_B_OSMWAY_630136454__0002",
+        "SEU_B_OSMWAY_630136454__0003",
+        "SEU_B_OSMWAY_630136454__0004",
+        "SEU_B_OSMWAY_630136455__0001",
+        "SEU_B_OSMWAY_630136455__0002",
+        "SEU_B_OSMWAY_630136455__0003",
+        "SEU_B_OSMWAY_630136455__0004",
+        "SEU_B_OSMWAY_630136457__0001",
+        "SEU_B_OSMWAY_630136457__0002",
+        "SEU_B_OSMWAY_630136457__0003",
+        "SEU_B_OSMWAY_630136457__0004",
+        "SEU_B_OSMWAY_630136458__0001",
+        "SEU_B_OSMWAY_630136458__0002",
+        "SEU_B_OSMWAY_630136458__0003",
+        "SEU_B_OSMWAY_630136458__0004",
+        "SEU_B_OSMWAY_630136460__0001",
+        "SEU_B_OSMWAY_630136460__0002",
+        "SEU_B_OSMWAY_630136460__0003",
+        "SEU_B_OSMWAY_630136460__0004",
+        "SEU_B_OSMWAY_630136462__0001",
+        "SEU_B_OSMWAY_630136462__0002",
+        "SEU_B_OSMWAY_630136462__0003",
+        "SEU_B_OSMWAY_630136462__0004",
+        "SEU_B_OSMWAY_630136464__0001",
+        "SEU_B_OSMWAY_630136464__0002",
+        "SEU_B_OSMWAY_630136464__0003",
+        "SEU_B_OSMWAY_630136464__0004",
+        "SEU_B_OSMWAY_630136465__0001",
+        "SEU_B_OSMWAY_630136465__0002",
+        "SEU_B_OSMWAY_630136465__0003",
+        "SEU_B_OSMWAY_630136465__0004",
+        "SEU_B_OSMWAY_630136470__0001",
+        "SEU_B_OSMWAY_630136470__0002",
+        "SEU_B_OSMWAY_630136470__0003",
+        "SEU_B_OSMWAY_630136470__0004",
+        "SEU_B_OSMWAY_630136471__0001",
+        "SEU_B_OSMWAY_630136471__0002",
+        "SEU_B_OSMWAY_630136471__0003",
+        "SEU_B_OSMWAY_630136471__0004",
+        "SEU_B_OSMWAY_630136473__0001",
+        "SEU_B_OSMWAY_630136473__0002",
+        "SEU_B_OSMWAY_630136473__0003",
+        "SEU_B_OSMWAY_630136473__0004",
+        "SEU_B_OSMWAY_630136474__0001",
+        "SEU_B_OSMWAY_630136474__0002",
+        "SEU_B_OSMWAY_630136474__0003",
+        "SEU_B_OSMWAY_630136474__0004",
+        "SEU_B_OSMWAY_630136476__0001",
+        "SEU_B_OSMWAY_630136476__0002",
+        "SEU_B_OSMWAY_630136476__0003",
+        "SEU_B_OSMWAY_630136476__0004",
+        "SEU_B_OSMWAY_630136478__0001",
+        "SEU_B_OSMWAY_630136478__0002",
+        "SEU_B_OSMWAY_630136478__0003",
+        "SEU_B_OSMWAY_630136478__0004",
+        "SEU_B_OSMWAY_630136480__0001",
+        "SEU_B_OSMWAY_630136480__0002",
+        "SEU_B_OSMWAY_630136480__0003",
+        "SEU_B_OSMWAY_630136480__0004",
+        "SEU_B_OSMWAY_630136481__0001",
+        "SEU_B_OSMWAY_630136481__0002",
+        "SEU_B_OSMWAY_630136481__0003",
+        "SEU_B_OSMWAY_630136481__0004",
+        "SEU_B_OSMWAY_630136487__0001",
+        "SEU_B_OSMWAY_630136487__0002",
+        "SEU_B_OSMWAY_630136487__0003",
+        "SEU_B_OSMWAY_630136487__0004",
+        "SEU_B_OSMWAY_630136488__0001",
+        "SEU_B_OSMWAY_630136488__0002",
+        "SEU_B_OSMWAY_630136488__0003",
+        "SEU_B_OSMWAY_630136488__0004",
+        "SEU_B_OSMWAY_630136490__0001",
+        "SEU_B_OSMWAY_630136490__0002",
+        "SEU_B_OSMWAY_630136490__0003",
+        "SEU_B_OSMWAY_630136490__0004",
+        "SEU_B_OSMWAY_630136491__0001",
+        "SEU_B_OSMWAY_630136491__0002",
+        "SEU_B_OSMWAY_630136491__0003",
+        "SEU_B_OSMWAY_630136491__0004"
+      ],
+      "append_node_count": 96,
+      "archive": {
+        "url": "./preview/assets/SEU_building_patch_v21_GLB.zip",
+        "bytes": 392562,
+        "sha256": "7a155da9a654ae6ad41a051aa758e361765b13f3b8970eaee2d756565d2e5c0e"
+      },
+      "member": {
+        "name": "SEU_building_patch_v21.glb",
+        "bytes": 3346228,
+        "sha256": "6bb07fa350de032e0ff4a434b5d1623fcb1ee38b5da4322c77b9101afef2f076"
       }
     }
   ],
