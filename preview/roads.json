@@ -30,5 +30,15 @@
       "bytes": 36103,
       "sha256": "efa48eb88ef5505938150894e727aee72a08b1ef051ad77add97a39a8709b593"
     }
+  },
+  "legacyPalette": {
+    "url": "./public_assets_v06/landscape/data/road_material_overrides.json",
+    "bytes": 204989,
+    "sha256": "9dd3a5aa0cad2321e80dd61fb2bd030abcdccea843290333cf560231751b4460"
+  },
+  "localAsphalt": {
+    "url": "./public_assets_v18/data/TEACHING_ASPHALT_DISPLAY.json",
+    "bytes": 1943,
+    "sha256": "ad32dc6d3089a86aaf43a3dfc3c5408d0f879e159265ce6e5aba26d68163c47e"
   }
 }

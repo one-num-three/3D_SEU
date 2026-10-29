@@ -1,5 +1,5 @@
 {
-  "version": "0.17.0",
+  "version": "0.18.0",
   "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
   "patches": [
     {
@@ -8434,6 +8434,113 @@
         "name": "SEU_building_patch_v17.glb",
         "bytes": 1543716,
         "sha256": "8d0f47d24be3ead94877590e3128f075c94fed4e4e0bba66674986e214183c87"
+      }
+    },
+    {
+      "url": "./public_assets_v18/assets/SEU_building_patch_v18.glb",
+      "bytes": 82556,
+      "sha256": "a20e8dcfb0d566d8a2ebff4bb281a6a1e55e02f0c7d622dc8c64186830bee4a8",
+      "label": "教学内部道路去重与四条柏油显示（宽度未改）",
+      "replace_names": [
+        "SEU_R_OSMWAY_300162249",
+        "SEU_R_OSMWAY_630432677",
+        "SEU_R_OSMWAY_630432678",
+        "SEU_R_OSMWAY_632703303",
+        "SEU_R_OSMWAY_630957173",
+        "SEU_R_OSMWAY_630957174",
+        "SEU_R_OSMWAY_630957175",
+        "SEU_R_OSMWAY_630957176",
+        "SEU_R_OSMWAY_630957177",
+        "SEU_R_OSMWAY_630957178",
+        "SEU_R_OSMWAY_632703302",
+        "SEU_R_OSMWAY_632701785"
+      ],
+      "replace_targets": [
+        {
+          "name": "SEU_R_OSMWAY_300162249",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_300162249"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630432677",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630432677"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630432678",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630432678"
+        },
+        {
+          "name": "SEU_R_OSMWAY_632703303",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_632703303"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630957173",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630957173"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630957174",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630957174"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630957175",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630957175"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630957176",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630957176"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630957177",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630957177"
+        },
+        {
+          "name": "SEU_R_OSMWAY_630957178",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_630957178"
+        },
+        {
+          "name": "SEU_R_OSMWAY_632703302",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_632703302"
+        },
+        {
+          "name": "SEU_R_OSMWAY_632701785",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_632701785"
+        }
+      ],
+      "append_names": [
+        "SEU_R_OSMWAY_632703303__V18",
+        "SEU_R_OSMWAY_632703302__V18",
+        "SEU_R_OSMWAY_632701785__V18",
+        "SEU_R_OSMWAY_630957178__V18",
+        "SEU_R_OSMWAY_630957177__V18",
+        "SEU_R_OSMWAY_630957176__V18",
+        "SEU_R_OSMWAY_630957175__V18",
+        "SEU_R_OSMWAY_630957174__V18",
+        "SEU_R_OSMWAY_630957173__V18",
+        "SEU_R_OSMWAY_630432678__V18",
+        "SEU_R_OSMWAY_630432677__V18",
+        "SEU_R_OSMWAY_300162249__V18"
+      ],
+      "append_node_count": 12,
+      "archive": {
+        "url": "./preview/assets/SEU_building_patch_v18_GLB.zip",
+        "bytes": 18149,
+        "sha256": "9584d2b222d9f294378fe8912baa47ccc08ac8c8371a039f3ca000215c2e7a1e"
+      },
+      "member": {
+        "name": "SEU_building_patch_v18.glb",
+        "bytes": 82556,
+        "sha256": "a20e8dcfb0d566d8a2ebff4bb281a6a1e55e02f0c7d622dc8c64186830bee4a8"
       }
     }
   ],

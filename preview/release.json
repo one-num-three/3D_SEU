@@ -1,6 +1,6 @@
 {
-  "modelVersion": "0.17",
-  "viewerVersion": "0.17.0",
+  "modelVersion": "0.18",
+  "viewerVersion": "0.18.0",
   "publishedAt": "2026-10-29",
   "modelCommit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "viewerCommit": null,
@@ -11,11 +11,11 @@
   "basemapVersion": "0.4",
   "basemapCommit": "6cf2ea6c06a988c455cfde136603c42f5f4fa6ff",
   "baseModelVersion": "0.3",
-  "buildingPatchVersion": "0.17",
-  "buildingPatchCommit": "34209225221300066d740526041cfa08a3c42087",
+  "buildingPatchVersion": "0.18",
+  "buildingPatchCommit": "7e248d0275d91dec380e62e84ac883160d4ab6ed",
   "baseModelSha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
-  "buildingPatchSha256": "8d0f47d24be3ead94877590e3128f075c94fed4e4e0bba66674986e214183c87",
-  "hashScope": "Original immutable sources and ordered v0.5 through v0.17 replacements; default fixed v14 snapshot plus verified ordered deltas",
+  "buildingPatchSha256": "a20e8dcfb0d566d8a2ebff4bb281a6a1e55e02f0c7d622dc8c64186830bee4a8",
+  "hashScope": "Original immutable sources and ordered v0.5 through v0.18 replacements; default fixed v14 snapshot plus verified ordered deltas",
   "landscapeVersion": "0.6",
   "landscapeCommit": "2aaa94b5c9cc98b8b7f831fea8894da89d1a3c19",
   "previousBuildingPatchVersion": "0.5",
@@ -69,6 +69,10 @@
     {
       "version": "0.16",
       "commit": "8f0b4cd0dba070c1053282284e1a2929f54ce49b"
+    },
+    {
+      "version": "0.17",
+      "commit": "34209225221300066d740526041cfa08a3c42087"
     }
   ],
   "propsVersion": "R1-display-v0.8",
@@ -80,6 +84,6 @@
   "runtimeSnapshotStatus": "published",
   "displayQuality": "Original bridge transmission, all603highest-detail trees, nativeDPR; complete sports source geometry and compatible PBR, 3 procedural Noise/Bump materials only preserved in Blender",
   "depthDisplay": "Logarithmic depth for thin facade separation; device visual retest required, no geometry reduction",
-  "runtimeLoadingStrategy": "固定 v14 无损基底 + v15/v16/v17 增量；按 SHA 本地缓存",
-  "viewerChange": "保留0.16.1双层灯光修复；加载用户认可的九曲桥照片比例与平面接岸增量，非实测"
+  "runtimeLoadingStrategy": "固定 v14 无损基底 + v15/v16/v17/v18 增量；按 SHA 本地缓存",
+  "viewerChange": "教学内部12路面去重与4条精确柏油色，保持路宽/导航；保留双层灯光与完整质量"
 }

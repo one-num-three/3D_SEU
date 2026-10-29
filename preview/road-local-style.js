@@ -1,0 +1,7 @@
+/* MIT. Four user-confirmed internal asphalt display colors; never a campus-wide style override. */
+const EXPECTED=['SEU_R_OSMWAY_300162249','SEU_R_OSMWAY_630432677','SEU_R_OSMWAY_630432678','SEU_R_OSMWAY_632703303'];
+export function preflightLocalAsphalt(root,data){
+ if(data.color_space!=='linear'||!Array.isArray(data.rows)||JSON.stringify(data.rows.map(r=>r.stable_id).sort())!==JSON.stringify([...EXPECTED].sort())||data.rows.some(r=>JSON.stringify(r.baseColor)!==JSON.stringify([.16,.18,.2,1])||r.width_changed!==false||r.navigation_access_class_changed!==false))throw Error('四条内部柏油道路显示契约不匹配');
+ const ids=new Set(EXPECTED),found=new Map();root.traverse(n=>{if(!n.isMesh)return;for(let p=n;p;p=p.parent)if(!p.visible)return;let id;for(let p=n;p&&!id;p=p.parent){const v=p.userData?.stable_id||p.userData?.stableID;if(ids.has(v))id=v;}if(!id)return;if(found.has(id)||Array.isArray(n.material)||n.layers.mask!==2||n.renderOrder!==200)throw Error('柏油道路节点不唯一或不在原道路绘制层');found.set(id,n);});if(found.size!==4)throw Error('四条内部柏油道路缺失');return [...found.values()];
+}
+export function applyLocalAsphalt(root,data){const nodes=preflightLocalAsphalt(root,data),changed=[];for(const node of nodes){const original=node.material,material=original.clone();material.color.setRGB(...data.rows[0].baseColor.slice(0,3));node.material=material;changed.push({node,original,material});}return{count:changed.length,restore(){for(const{node,original,material}of changed){node.material=original;material.dispose();}}};}
