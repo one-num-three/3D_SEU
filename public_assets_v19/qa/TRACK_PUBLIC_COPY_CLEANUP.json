@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "objects": 16,
+  "geometry_worldmatrix_uv_principled_exact": true,
+  "packed_texture_sha256": "b791dac5cdc9ff3834efc3da275ee471b6f9f433694973d99bd18ef83e3afcc6",
+  "purpose": "public copy path metadata removal only; original frozen input untouched"
+}

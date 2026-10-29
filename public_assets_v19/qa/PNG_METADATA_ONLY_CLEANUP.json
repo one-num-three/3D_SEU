@@ -1,0 +1,86 @@
+[
+  {
+    "file": "dorm_endheads/AFTER_GROUP.png",
+    "rgba_sha256": "8253d09224ebc3fa151e6e0c564d8054b6ebfc4fd48b651235e19c39cffdca06",
+    "pixel_exact": true,
+    "old_file_sha256": "feafbd1567aecb7a8458b9ce5d59103b93db23f381a5a6c8dd52c967ca754f3c",
+    "new_file_sha256": "feafbd1567aecb7a8458b9ce5d59103b93db23f381a5a6c8dd52c967ca754f3c"
+  },
+  {
+    "file": "dorm_endheads/AFTER_END_FACADE.png",
+    "rgba_sha256": "bf28827e3c5419d773b0d8f175afccb0eeb13a4374009c3826c9b01a2e94125c",
+    "pixel_exact": true,
+    "old_file_sha256": "f2b0ffbfe8d6347beccfb8dea7496ec77cfcfe9f0681f8ea3ccb1f5ecee3328f",
+    "new_file_sha256": "f2b0ffbfe8d6347beccfb8dea7496ec77cfcfe9f0681f8ea3ccb1f5ecee3328f"
+  },
+  {
+    "file": "dorm_endheads/BEFORE_GROUP.png",
+    "rgba_sha256": "3140e9af52fca57c0b78eeb517777e5bd570615351f0c937ec06ea4cf55e210b",
+    "pixel_exact": true,
+    "old_file_sha256": "ce062b7555aefdc463c4a0c1e45bb11b8ee005bb0b017cabb5b3aa33ed2d57ed",
+    "new_file_sha256": "ce062b7555aefdc463c4a0c1e45bb11b8ee005bb0b017cabb5b3aa33ed2d57ed"
+  },
+  {
+    "file": "dorm_endheads/BEFORE_END_DETAIL.png",
+    "rgba_sha256": "3858ee400d0e33291acdd6300cfae334386c5d89c4c814826c1d0d7dd4a96870",
+    "pixel_exact": true,
+    "old_file_sha256": "0c02b7da49a9649006f76739eda44191dd65d9706d90d1bb3dd5ce3b4f962849",
+    "new_file_sha256": "0c02b7da49a9649006f76739eda44191dd65d9706d90d1bb3dd5ce3b4f962849"
+  },
+  {
+    "file": "dorm_endheads/BEFORE_END_FACADE.png",
+    "rgba_sha256": "d3ceb46b005c08a311ca820714a1f6144abb56281031562082cbf1260f35cc04",
+    "pixel_exact": true,
+    "old_file_sha256": "d084582a5e6feaa39883471d11f4c67ab2c16cf154747d1ca6f0f3d461928341",
+    "new_file_sha256": "d084582a5e6feaa39883471d11f4c67ab2c16cf154747d1ca6f0f3d461928341"
+  },
+  {
+    "file": "dorm_endheads/AFTER_END_DETAIL.png",
+    "rgba_sha256": "c42d2ada8582d2dcc228ed84c4d1454362867bb9b5657a7dfe9395837d9ae0f5",
+    "pixel_exact": true,
+    "old_file_sha256": "592b18ea8898a276221f9525c3dc4f58c58d3f3c667ca27b51a537982b354fb6",
+    "new_file_sha256": "592b18ea8898a276221f9525c3dc4f58c58d3f3c667ca27b51a537982b354fb6"
+  },
+  {
+    "file": "taoyuan_track/previews/GOAL_DETAIL.png",
+    "rgba_sha256": "6da95a790b3ca36a5523c588ffc934495fe6248211af33b7154ccee695b8e5c1",
+    "pixel_exact": true,
+    "old_file_sha256": "d58e6d3c6c1f53a1023dd6c1910badff99c128f2673d5b6e9a6bc8f66c79d67c",
+    "new_file_sha256": "b1f35b15a22d3a3641da3f776c29b6db07180b35a2af14f9d78a0e282a8d6710"
+  },
+  {
+    "file": "taoyuan_track/previews/BEFORE.png",
+    "rgba_sha256": "1e65fb94bc99ba0361da6faf545d3effa365affa36c443f5e3b3f3eb4d802185",
+    "pixel_exact": true,
+    "old_file_sha256": "610c2d10eb320f1dae8bc711435f635c9f5794966b1b93ecbca213fc52c3b5ba",
+    "new_file_sha256": "bb4328e25eae3a744e0a4579ea55b820200c42fe33e5294ae7cf76a985c8fc26"
+  },
+  {
+    "file": "taoyuan_track/previews/BEFORE_AFTER.png",
+    "rgba_sha256": "d05af76d403c97dc918bcf0f2364230670fef0102cdf0830a188bb6f01da9ce3",
+    "pixel_exact": true,
+    "old_file_sha256": "2ec6fe6246e7e2571aec4bea3d4fc9ec9c003be5605520510471b200e9dba9a6",
+    "new_file_sha256": "2ec6fe6246e7e2571aec4bea3d4fc9ec9c003be5605520510471b200e9dba9a6"
+  },
+  {
+    "file": "taoyuan_track/previews/AFTER.png",
+    "rgba_sha256": "986a69b02a3122c45e4b2f53c906781a9ee3d7ab1be2e5ad7eb21a008ddd1930",
+    "pixel_exact": true,
+    "old_file_sha256": "7be70f93a2449812cafe004caf31f2ed8a5feefd31387eae7fe38ea78283646e",
+    "new_file_sha256": "ba6be4b7ea4a06ea27c86fa98f1f1423523d15874aa9b33b2d83d8059f93cdec"
+  },
+  {
+    "file": "taoyuan_track/previews/PLAN.png",
+    "rgba_sha256": "e88f036269ff90722360bfadbd824e644a886d52024eb0777490252e425b6214",
+    "pixel_exact": true,
+    "old_file_sha256": "41b7679bf33f9949fa8863bcebef22f25f721fe506b055812b725825318fd700",
+    "new_file_sha256": "11bc0fbde63860f18dd6b1c85df1495b79a1bf27d8e3c2ae2048a30b88f94e6c"
+  },
+  {
+    "file": "taoyuan_track/textures/turf_original.png",
+    "rgba_sha256": "91b433ec6468382178d007af891d3727ac2a4fb682b9ce040608942d4c3484ee",
+    "pixel_exact": true,
+    "old_file_sha256": "b791dac5cdc9ff3834efc3da275ee471b6f9f433694973d99bd18ef83e3afcc6",
+    "new_file_sha256": "b791dac5cdc9ff3834efc3da275ee471b6f9f433694973d99bd18ef83e3afcc6"
+  }
+]
