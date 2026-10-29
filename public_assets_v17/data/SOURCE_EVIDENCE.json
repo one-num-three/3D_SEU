@@ -1,0 +1,36 @@
+{
+  "coordinate_system": {
+    "crs": "EPSG:32650",
+    "origin_e": 671709.6990725585,
+    "origin_n": 3529586.400278158,
+    "blender": "east,north,up; metres",
+    "glb": "east,up,south; metres"
+  },
+  "sources": [
+    {
+      "url": "https://www.openstreetmap.org/way/630436309",
+      "role": "unchanged route; width absent in OSM; geographic base ODbL"
+    },
+    {
+      "url": "https://smse.seu.edu.cn/xyfg/list.htm",
+      "role": "SEU official campus aerial, actual pixels inspected; 6-turn topology, relative width, grey planar bands, bank approach visible; image date unknown; source pixels not included"
+    },
+    {
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202609/t20260920_27365149.htm",
+      "role": "2026-09-20 resurfacing/lighting procurement, not measurement or completion evidence"
+    },
+    {
+      "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261015_27501491.htm",
+      "role": "2026-10-15 award with public tender PDF; no included measured width drawings/actual completion certificate"
+    }
+  ],
+  "not_measured": [
+    "7.5m working width",
+    "internal paving coordinates and colours",
+    "bank approach and leaf-shaped planar outline",
+    "legacy bridge heights and water level",
+    "2026 post-renovation appearance"
+  ],
+  "source_photographs_distributed": false,
+  "rights": "OSM geography and derived factual mapping ODbL; original mesh/material contributions CC BY 4.0, 3D_SEU contributors; original code MIT. Source photographs and third-party architectural design are not relicensed by this project."
+}

@@ -1,0 +1,22 @@
+{
+  "archive": "assets/SEU_campus_full_quality_v17.blend.zip",
+  "bytes": 27104864,
+  "sha256": "4a7e0967546a247fb65cac9be4dc77ef6abce1ba8a3398d6a455e4b97eeee014",
+  "member": "SEU_campus_full_quality_v17.blend",
+  "member_bytes": 28752291,
+  "member_sha256": "cbfee5753f9bed0d9f71e60c574913476fdd396a2b2eeb2fbe333f59f6dc8dac",
+  "reason": "Lossless packaging only; no geometry/material change",
+  "parts": [
+    {
+      "path": "assets/SEU_campus_full_quality_v17.blend.zip.001",
+      "bytes": 16777216,
+      "sha256": "eeba4d4cb32d5ad3fc2bbb27e2026239945e69a62683197fd9d71a7f8f7ff99b"
+    },
+    {
+      "path": "assets/SEU_campus_full_quality_v17.blend.zip.002",
+      "bytes": 10327648,
+      "sha256": "4690c0623b808cdfb1ae21bdffbbefb4fd83d4c2bbed5446d817a25c7bbdd93f"
+    }
+  ],
+  "distribution": "Join numbered parts in order, then extract original blend; scripts/unpack_full_source.py verifies both archive and member."
+}
