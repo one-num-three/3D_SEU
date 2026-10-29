@@ -1,0 +1,32 @@
+[
+  {
+    "file": "grandstand/previews/SEATS_ROOF_DETAIL.png",
+    "original_image_rgb_sha256": "546e5424f38ffb026e8d1b5b37fb49288faea7a2811a90b0fb0d4c7fb788c535",
+    "original_pixels_preserved_in_top_rectangle": true,
+    "appended_footer": "visible attribution and estimation label; no reference photograph"
+  },
+  {
+    "file": "grandstand/previews/BEFORE.png",
+    "original_image_rgb_sha256": "fc8230842a8a2fbdf9822c31a2ccfdbc35536760002985eded64d02b70c3ea5f",
+    "original_pixels_preserved_in_top_rectangle": true,
+    "appended_footer": "visible attribution and estimation label; no reference photograph"
+  },
+  {
+    "file": "grandstand/previews/BEFORE_AFTER.png",
+    "original_image_rgb_sha256": "c7f1b2a4ee53677d9918c5e770429907ab6f5d834111b0022f54efd360092c0f",
+    "original_pixels_preserved_in_top_rectangle": true,
+    "appended_footer": "visible attribution and estimation label; no reference photograph"
+  },
+  {
+    "file": "grandstand/previews/STAND_FRONT.png",
+    "original_image_rgb_sha256": "01993ce18be5fafb919c40517d1a13303119695dfb78ffe020f222e59991fe54",
+    "original_pixels_preserved_in_top_rectangle": true,
+    "appended_footer": "visible attribution and estimation label; no reference photograph"
+  },
+  {
+    "file": "grandstand/previews/AFTER.png",
+    "original_image_rgb_sha256": "44fd8b6562896702ea3f8f1fdf00f8c8ae72634c63a98045a83419297fdaeacb",
+    "original_pixels_preserved_in_top_rectangle": true,
+    "appended_footer": "visible attribution and estimation label; no reference photograph"
+  }
+]

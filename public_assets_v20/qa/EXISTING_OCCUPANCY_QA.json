@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "actual_source_meshes": 4260,
+  "overlapping_building_or_road_bboxes": [],
+  "same_osm_id_in_source": false,
+  "scope": "source building/road geometry conservative bbox test; original track surface separate and retained"
+}
