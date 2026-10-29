@@ -1,0 +1,1360 @@
+{
+  "type": "FeatureCollection",
+  "coordinate_reference": "EPSG32650 local metres; offset [671709.6990725585,3529586.400278158]",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 817128594,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              751.9152047093958,
+              252.81599249644205
+            ],
+            [
+              752.963871096028,
+              221.97102057840675
+            ],
+            [
+              753.0220842516283,
+              220.19764917483553
+            ],
+            [
+              770.9225989775732,
+              220.79817871935666
+            ],
+            [
+              769.8154758490855,
+              253.42760916100815
+            ],
+            [
+              751.9152047093958,
+              252.81599249644205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128594,
+        "source_url": "https://www.openstreetmap.org/way/817128594",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 584.6192719969047,
+        "road_overlap_m2": 49.548112299451795,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128595,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              787.9429442688124,
+              254.03198980772868
+            ],
+            [
+              789.0499387063319,
+              221.41364535177127
+            ],
+            [
+              807.6880546055036,
+              222.0377382435836
+            ],
+            [
+              806.5808141897433,
+              254.66716984380037
+            ],
+            [
+              787.9429442688124,
+              254.03198980772868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128595,
+        "source_url": "https://www.openstreetmap.org/way/817128595",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 608.7408752674713,
+        "road_overlap_m2": 18.648688277889228,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128596,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              769.8154758490855,
+              253.42760916100815
+            ],
+            [
+              770.9225989775732,
+              220.79817871935666
+            ],
+            [
+              789.0499387063319,
+              221.41364535177127
+            ],
+            [
+              787.9429442688124,
+              254.03198980772868
+            ],
+            [
+              769.8154758490855,
+              253.42760916100815
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128596,
+        "source_url": "https://www.openstreetmap.org/way/817128596",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 592.0616115792413,
+        "road_overlap_m2": 18.137542142614173,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128597,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              806.5808141897433,
+              254.66716984380037
+            ],
+            [
+              807.6880546055036,
+              222.0377382435836
+            ],
+            [
+              826.2597719632322,
+              222.67183747980744
+            ],
+            [
+              825.1526588605484,
+              255.2901831092313
+            ],
+            [
+              806.5808141897433,
+              254.66716984380037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128597,
+        "source_url": "https://www.openstreetmap.org/way/817128597",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 606.5796380610575,
+        "road_overlap_m2": 18.58229538093741,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128598,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              825.1526588605484,
+              255.2901831092313
+            ],
+            [
+              826.2597719632322,
+              222.67183747980744
+            ],
+            [
+              844.8695109303808,
+              223.29552062228322
+            ],
+            [
+              843.7623384766048,
+              255.91386683797464
+            ],
+            [
+              825.1526588605484,
+              255.2901831092313
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128598,
+        "source_url": "https://www.openstreetmap.org/way/817128598",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 607.7084418033617,
+        "road_overlap_m2": 18.62012707745303,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128599,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              843.7623384766048,
+              255.91386683797464
+            ],
+            [
+              844.8695109303808,
+              223.29552062228322
+            ],
+            [
+              863.5074395412812,
+              223.93080178881064
+            ],
+            [
+              862.3907488553086,
+              256.54898938862607
+            ],
+            [
+              843.7623384766048,
+              255.91386683797464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128599,
+        "source_url": "https://www.openstreetmap.org/way/817128599",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 608.4879969186734,
+        "road_overlap_m2": 50.27667269927914,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128600,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              844.8695109303808,
+              223.29552062228322
+            ],
+            [
+              845.9671669128584,
+              191.2425900893286
+            ],
+            [
+              864.5956950810505,
+              191.87771149445325
+            ],
+            [
+              863.5074395412812,
+              223.93080178881064
+            ],
+            [
+              844.8695109303808,
+              223.29552062228322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128600,
+        "source_url": "https://www.openstreetmap.org/way/817128600",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 597.9453105149742,
+        "road_overlap_m2": 32.07156262303786,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128601,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              826.2597719632322,
+              222.67183747980744
+            ],
+            [
+              827.3480973342666,
+              190.60766178322956
+            ],
+            [
+              845.9671669128584,
+              191.2425900893286
+            ],
+            [
+              844.8695109303808,
+              223.29552062228322
+            ],
+            [
+              826.2597719632322,
+              222.67183747980744
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128601,
+        "source_url": "https://www.openstreetmap.org/way/817128601",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 597.4386933710152,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 17.63935195685888
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128602,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              807.6880546055036,
+              222.0377382435836
+            ],
+            [
+              808.776135214488,
+              189.98464967822656
+            ],
+            [
+              827.3480973342666,
+              190.60766178322956
+            ],
+            [
+              826.2597719632322,
+              222.67183747980744
+            ],
+            [
+              807.6880546055036,
+              222.0377382435836
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128602,
+        "source_url": "https://www.openstreetmap.org/way/817128602",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 596.0717743401341,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 31.637125743864928
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128603,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              789.0499387063319,
+              221.41364535177127
+            ],
+            [
+              790.1381474243244,
+              189.34947080584243
+            ],
+            [
+              808.776135214488,
+              189.98464967822656
+            ],
+            [
+              807.6880546055036,
+              222.0377382435836
+            ],
+            [
+              789.0499387063319,
+              221.41364535177127
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128603,
+        "source_url": "https://www.openstreetmap.org/way/817128603",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 598.1955719282171,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 31.63712353152926
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128604,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              770.9225989775732,
+              220.79817871935666
+            ],
+            [
+              772.0107508647488,
+              188.734004735481
+            ],
+            [
+              790.1381474243244,
+              189.34947080584243
+            ],
+            [
+              789.0499387063319,
+              221.41364535177127
+            ],
+            [
+              770.9225989775732,
+              220.79817871935666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128604,
+        "source_url": "https://www.openstreetmap.org/way/817128604",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 581.908829499096,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 16.901371308515504
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128605,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              753.0220842516283,
+              220.19764917483553
+            ],
+            [
+              754.1198253520997,
+              188.12254829052836
+            ],
+            [
+              772.0107508647488,
+              188.734004735481
+            ],
+            [
+              770.9225989775732,
+              220.79817871935666
+            ],
+            [
+              753.0220842516283,
+              220.19764917483553
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128605,
+        "source_url": "https://www.openstreetmap.org/way/817128605",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 574.5715737667106,
+        "road_overlap_m2": 32.0935659753435,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128606,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              756.3034217342502,
+              124.11631636833772
+            ],
+            [
+              757.3917011610465,
+              92.04106013290584
+            ],
+            [
+              775.2922536802944,
+              92.65267405379564
+            ],
+            [
+              774.1946457036538,
+              124.71668517356738
+            ],
+            [
+              756.3034217342502,
+              124.11631636833772
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128606,
+        "source_url": "https://www.openstreetmap.org/way/817128606",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 574.5768947743798,
+        "road_overlap_m2": 49.00425379507845,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128607,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              755.2077337156516,
+              156.06946266489103
+            ],
+            [
+              756.3034217342502,
+              124.11631636833772
+            ],
+            [
+              774.1946457036538,
+              124.71668517356738
+            ],
+            [
+              773.1081741746748,
+              156.6810776735656
+            ],
+            [
+              755.2077337156516,
+              156.06946266489103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128607,
+        "source_url": "https://www.openstreetmap.org/way/817128607",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 572.5899604370372,
+        "road_overlap_m2": 31.972231742865603,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128608,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              773.1081741746748,
+              156.6810776735656
+            ],
+            [
+              774.1946457036538,
+              124.71668517356738
+            ],
+            [
+              792.3126968116267,
+              125.33199101034552
+            ],
+            [
+              791.2261686614947,
+              157.29638406587765
+            ],
+            [
+              773.1081741746748,
+              156.6810776735656
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128608,
+        "source_url": "https://www.openstreetmap.org/way/817128608",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 579.8001270472132,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 16.901292673098496
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128609,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              774.1946457036538,
+              124.71668517356738
+            ],
+            [
+              775.2922536802944,
+              92.65267405379564
+            ],
+            [
+              793.4103615857894,
+              93.26797934761271
+            ],
+            [
+              792.3126968116267,
+              125.33199101034552
+            ],
+            [
+              774.1946457036538,
+              124.71668517356738
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128609,
+        "source_url": "https://www.openstreetmap.org/way/817128609",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 581.6136894619887,
+        "road_overlap_m2": 18.128551945001462,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128610,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              792.3126968116267,
+              125.33199101034552
+            ],
+            [
+              793.4103615857894,
+              93.26797934761271
+            ],
+            [
+              812.0485244573792,
+              93.90315650822595
+            ],
+            [
+              810.9508012572769,
+              125.96716873254627
+            ],
+            [
+              792.3126968116267,
+              125.33199101034552
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128610,
+        "source_url": "https://www.openstreetmap.org/way/817128610",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 598.3105706932329,
+        "road_overlap_m2": 18.64898204521941,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128611,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              791.2261686614947,
+              157.29638406587765
+            ],
+            [
+              792.3126968116267,
+              125.33199101034552
+            ],
+            [
+              810.9508012572769,
+              125.96716873254627
+            ],
+            [
+              809.8644013947342,
+              157.92047580564395
+            ],
+            [
+              791.2261686614947,
+              157.29638406587765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128611,
+        "source_url": "https://www.openstreetmap.org/way/817128611",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 596.3385108958444,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 31.08279344864648
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128612,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              809.8644013947342,
+              157.92047580564395
+            ],
+            [
+              810.9508012572769,
+              125.96716873254627
+            ],
+            [
+              829.5321519696154,
+              126.60142541397363
+            ],
+            [
+              828.4362351783784,
+              158.55457389121875
+            ],
+            [
+              809.8644013947342,
+              157.92047580564395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128612,
+        "source_url": "https://www.openstreetmap.org/way/817128612",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 594.2740713192836,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 31.08263597109998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128613,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              810.9508012572769,
+              125.96716873254627
+            ],
+            [
+              812.0485244573792,
+              93.90315650822595
+            ],
+            [
+              830.6204744818388,
+              94.53725346410647
+            ],
+            [
+              829.5321519696154,
+              126.60142541397363
+            ],
+            [
+              810.9508012572769,
+              125.96716873254627
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128613,
+        "source_url": "https://www.openstreetmap.org/way/817128613",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 596.3365978397264,
+        "road_overlap_m2": 18.58291827690802,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128614,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              828.4362351783784,
+              158.55457389121875
+            ],
+            [
+              829.5321519696154,
+              126.60142541397363
+            ],
+            [
+              848.1513380678371,
+              127.23635258991271
+            ],
+            [
+              847.0553631064249,
+              159.1895016222261
+            ],
+            [
+              828.4362351783784,
+              158.55457389121875
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128614,
+        "source_url": "https://www.openstreetmap.org/way/817128614",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 595.6365398536644,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 17.64886865997625
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128615,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              829.5321519696154,
+              126.60142541397363
+            ],
+            [
+              830.6204744818388,
+              94.53725346410647
+            ],
+            [
+              849.249364464893,
+              95.16125269327313
+            ],
+            [
+              848.1513380678371,
+              127.23635258991271
+            ],
+            [
+              829.5321519696154,
+              126.60142541397363
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128615,
+        "source_url": "https://www.openstreetmap.org/way/817128615",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 597.9542324772473,
+        "road_overlap_m2": 18.639190631631656,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128616,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              848.1513380678371,
+              127.23635258991271
+            ],
+            [
+              849.249364464893,
+              95.16125269327313
+            ],
+            [
+              867.8875265695387,
+              95.79653160413727
+            ],
+            [
+              866.7894417241914,
+              127.87163206515834
+            ],
+            [
+              848.1513380678371,
+              127.23635258991271
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128616,
+        "source_url": "https://www.openstreetmap.org/way/817128616",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 598.517551177357,
+        "road_overlap_m2": 49.74287598256621,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128617,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              847.0553631064249,
+              159.1895016222261
+            ],
+            [
+              848.1513380678371,
+              127.23635258991271
+            ],
+            [
+              866.7894417241914,
+              127.87163206515834
+            ],
+            [
+              865.6934085382381,
+              159.82478165114298
+            ],
+            [
+              847.0553631064249,
+              159.1895016222261
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128617,
+        "source_url": "https://www.openstreetmap.org/way/817128617",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 596.2414479383681,
+        "road_overlap_m2": 31.971941649833017,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128618,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              754.1198253520997,
+              188.12254829052836
+            ],
+            [
+              755.2077337156516,
+              156.06946266489103
+            ],
+            [
+              773.1081741746748,
+              156.6810776735656
+            ],
+            [
+              772.0107508647488,
+              188.734004735481
+            ],
+            [
+              754.1198253520997,
+              188.12254829052836
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128618,
+        "source_url": "https://www.openstreetmap.org/way/817128618",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 574.2786444678521,
+        "road_overlap_m2": 32.07154657568712,
+        "road_distance_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128619,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              772.0107508647488,
+              188.734004735481
+            ],
+            [
+              773.1081741746748,
+              156.6810776735656
+            ],
+            [
+              791.2261686614947,
+              157.29638406587765
+            ],
+            [
+              790.1381474243244,
+              189.34947080584243
+            ],
+            [
+              772.0107508647488,
+              188.734004735481
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128619,
+        "source_url": "https://www.openstreetmap.org/way/817128619",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 581.5593309105104,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 16.901371308515504
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128620,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              790.1381474243244,
+              189.34947080584243
+            ],
+            [
+              791.2261686614947,
+              157.29638406587765
+            ],
+            [
+              809.8644013947342,
+              157.92047580564395
+            ],
+            [
+              808.776135214488,
+              189.98464967822656
+            ],
+            [
+              790.1381474243244,
+              189.34947080584243
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128620,
+        "source_url": "https://www.openstreetmap.org/way/817128620",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 598.1974201845412,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 35.03921264495332
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128621,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              808.776135214488,
+              189.98464967822656
+            ],
+            [
+              809.8644013947342,
+              157.92047580564395
+            ],
+            [
+              828.4362351783784,
+              158.55457389121875
+            ],
+            [
+              827.3480973342666,
+              190.60766178322956
+            ],
+            [
+              808.776135214488,
+              189.98464967822656
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128621,
+        "source_url": "https://www.openstreetmap.org/way/817128621",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 596.073616137058,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 36.26924422399934
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128622,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              827.3480973342666,
+              190.60766178322956
+            ],
+            [
+              828.4362351783784,
+              158.55457389121875
+            ],
+            [
+              847.0553631064249,
+              159.1895016222261
+            ],
+            [
+              845.9671669128584,
+              191.2425900893286
+            ],
+            [
+              827.3480973342666,
+              190.60766178322956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128622,
+        "source_url": "https://www.openstreetmap.org/way/817128622",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": true,
+        "area_m2": 597.4905218931376,
+        "road_overlap_m2": 0.0,
+        "road_distance_m": 17.63935195685888
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817128623,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              845.9671669128584,
+              191.2425900893286
+            ],
+            [
+              847.0553631064249,
+              159.1895016222261
+            ],
+            [
+              865.6934085382381,
+              159.82478165114298
+            ],
+            [
+              864.5956950810505,
+              191.87771149445325
+            ],
+            [
+              845.9671669128584,
+              191.2425900893286
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 817128623,
+        "source_url": "https://www.openstreetmap.org/way/817128623",
+        "source_tags": {
+          "hoops": "2",
+          "leisure": "pitch",
+          "sport": "basketball",
+          "surface": "acrylic"
+        },
+        "detailed_in_v15": false,
+        "area_m2": 597.947158080823,
+        "road_overlap_m2": 32.07171650825775,
+        "road_distance_m": 0.0
+      }
+    }
+  ]
+}
