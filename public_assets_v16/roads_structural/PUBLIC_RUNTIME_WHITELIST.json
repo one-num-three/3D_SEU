@@ -1,0 +1,22 @@
+[
+  {
+    "path": "assets/SEU_ROAD_STRUCTURAL_CANDIDATE_v16.glb",
+    "bytes": 442268,
+    "sha256": "4212921f1c1aeceedf2e973315d053b96067ba9635d7f27c1be376a7f77de3b4"
+  },
+  {
+    "path": "scripts/road_patch_adapter.mjs",
+    "bytes": 2063,
+    "sha256": "994293a356101cb27e57f6d2d8b820830050828860fc88e11627726af677491b"
+  },
+  {
+    "path": "ATTRIBUTION.txt",
+    "bytes": 490,
+    "sha256": "3f2906758ea58f66b22c4181307e3a6fbb7c8fd89137ce3077eef57d1828ec6e"
+  },
+  {
+    "path": "MANIFEST.json",
+    "bytes": 3950,
+    "sha256": "9c9170ecdce97b439e73df2afef5d68304f263afc4715288c4d7dc37ec403480"
+  }
+]

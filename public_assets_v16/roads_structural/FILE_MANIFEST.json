@@ -1,0 +1,141 @@
+{
+  "module": "roads_structural",
+  "files": {
+    "ATTRIBUTION.txt": {
+      "bytes": 490,
+      "sha256": "3f2906758ea58f66b22c4181307e3a6fbb7c8fd89137ce3077eef57d1828ec6e"
+    },
+    "MANIFEST.json": {
+      "bytes": 3950,
+      "sha256": "9c9170ecdce97b439e73df2afef5d68304f263afc4715288c4d7dc37ec403480"
+    },
+    "PUBLIC_RUNTIME_WHITELIST.json": {
+      "bytes": 605,
+      "sha256": "00d7e4699c0e8958d375b60eb09ad82383067c23987d102c9df5c0ec4d294db7"
+    },
+    "README.md": {
+      "bytes": 2388,
+      "sha256": "f96fbc70c579713ae442263f3ebaabc81d902ced127a2fed3fbffbe4ddbf3afb"
+    },
+    "assets/SEU_ROAD_STRUCTURAL_CANDIDATE_v16.glb": {
+      "bytes": 442268,
+      "sha256": "4212921f1c1aeceedf2e973315d053b96067ba9635d7f27c1be376a7f77de3b4"
+    },
+    "assets/asphalt_original_aggregate.png": {
+      "bytes": 43599,
+      "sha256": "b283911c1f0598cbc899098b769cc1f9879fb24110a7e3392c5451bc57246e6a"
+    },
+    "data/FULL_CARRIAGEWAY_JUNCTION_AUDIT.json": {
+      "bytes": 14657,
+      "sha256": "e565c6ad141731976f9ce1f70aca28419ad86911bab4af732c092ebb904bc833"
+    },
+    "data/ROAD_PATCH_GEOMETRY.json": {
+      "bytes": 243949,
+      "sha256": "279283c8bd0b6a2d64465bccbdda6e12ebdf8ddfd2b4a4ca9fb26622c85533cc"
+    },
+    "data/ROAD_SOURCE_TAG_AUDIT.json": {
+      "bytes": 503270,
+      "sha256": "f56a915ad33ef5f5e8697f7dde7c32618d8cc014714af095dec2f6326b629ee7"
+    },
+    "data/SOURCE_EVIDENCE.json": {
+      "bytes": 796,
+      "sha256": "4330f6d3d114c70707a63e5664af82bfa16951453f712bf314494d07ef9ceb70"
+    },
+    "inputs/base/data/base.local.json": {
+      "bytes": 1412519,
+      "sha256": "8398adfab1ba516000a0d4cf7d3898e40eef8b75c632c5607629e262b5b6e33b"
+    },
+    "inputs/base/scripts/vendor/geos_small.py": {
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    },
+    "inputs/base/sources/osm/campus_margin_map.json": {
+      "bytes": 1679925,
+      "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee"
+    },
+    "previews/CURB_AND_PATH_DETAIL.png": {
+      "bytes": 1191550,
+      "sha256": "9a0bf0f5f6b47befe313e3d9e4b210922a5aa2fea0d09828538134ad2184a966"
+    },
+    "previews/REAL_SOURCE_CONNECTION_CONTEXT.png": {
+      "bytes": 1113316,
+      "sha256": "79be425b75152a8dae329826d4ad97dbb3a12313b66d9f0b4b8670b822b26fa7"
+    },
+    "previews/ROAD_STRUCTURE_OBLIQUE.png": {
+      "bytes": 1091256,
+      "sha256": "b7347ce34dc94324720eaf6c49406ed4a96f06a2a4e8b2a56133ab6c5e3ddddd"
+    },
+    "qa/ADAPTER_UNIT_QA.json": {
+      "bytes": 953,
+      "sha256": "7e950cc828452982cf3a5f5144e800db6bec0a1cca43cf64659ca95e18692174"
+    },
+    "qa/CONTEXT_OVERLAY_QA.json": {
+      "bytes": 496,
+      "sha256": "e92369d979c7b98ecafca1e573bcf7446079d54aba88faf4ce3bd693b84df1e8"
+    },
+    "qa/CURB_ACTUAL_SUPPORT_RAYCAST.json": {
+      "bytes": 761220,
+      "sha256": "4b3dcf538627d53b5a9b107ed7504205d0be59f6994c2f0b94b41c0637600c83"
+    },
+    "qa/CURB_SUPPORT_FIX_QA.json": {
+      "bytes": 76503,
+      "sha256": "8c641f68fd400ae55ad0dcf90985f7b2f5e5a0aa7d7428465cd6c39b0364e9ae"
+    },
+    "qa/ENTRY_BUILDING_ACTUAL_MESH_QA.json": {
+      "bytes": 354,
+      "sha256": "a19513dc48a88909c5fb5c90d6fd0f5be3e98b0482a6238307723b60169fe50d"
+    },
+    "qa/GEOMETRY_QA.json": {
+      "bytes": 670,
+      "sha256": "4947e8e79cbb9393232b549e0609d980db4360a7aca703f8804c9bc97042401d"
+    },
+    "qa/GLB_ROUNDTRIP_QA.json": {
+      "bytes": 1220,
+      "sha256": "74915b309421ecd95179d1294258a99d940ee7b591e01f82155afcedc3b0b762"
+    },
+    "qa/MODEL_QA.json": {
+      "bytes": 1130,
+      "sha256": "6f3c3acb9054408c27d8fd21d1891bdef69f613d465d0baccf77fa29eb87227a"
+    },
+    "qa/PUBLIC_PRIVACY_QA.json": {
+      "bytes": 173,
+      "sha256": "fd690186ab70adb860c87914e1d7b1af6d1856254a3f595bf40b2db729e82e2d"
+    },
+    "scripts/apply_support.py": {
+      "bytes": 1418,
+      "sha256": "e1218fb20829ecc9d70ce9a16a584d7c618e41926e0ee8149f7d1646cb213543"
+    },
+    "scripts/audit_source_tags.py": {
+      "bytes": 2125,
+      "sha256": "1551d704deb51ea975e63540bdd92dc37d2107116436d30facf23464b5c377ff"
+    },
+    "scripts/build_geometry.py": {
+      "bytes": 8045,
+      "sha256": "75f63b2e2bc519c850e6da76e493ba44ef91c575239d6e7f5a85248d23a8f61a"
+    },
+    "scripts/build_model.py": {
+      "bytes": 4258,
+      "sha256": "ac77aac02af8cdc94b876811ffa8a12613fd24e016a0fb2c52034b4ac1cfe931"
+    },
+    "scripts/render_context.py": {
+      "bytes": 2155,
+      "sha256": "e850f6fef3d759bb45c2524a004899241c30a33b2e9ad564c7a0a36802df01fc"
+    },
+    "scripts/render_review.py": {
+      "bytes": 1950,
+      "sha256": "20a94d95911320ec3bf5ba751c206f6c35f7f6df8207e29d75fc378b8b85555b"
+    },
+    "scripts/road_patch_adapter.mjs": {
+      "bytes": 2063,
+      "sha256": "994293a356101cb27e57f6d2d8b820830050828860fc88e11627726af677491b"
+    },
+    "scripts/test_adapter.mjs": {
+      "bytes": 1533,
+      "sha256": "38c716df342730094b02f5f6cad8aff01669b89bb3b28b879ce7e3ce347019b5"
+    },
+    "scripts/validate_roundtrip.py": {
+      "bytes": 932,
+      "sha256": "1c6fabc1ae0839739d4b8afe459ed2084813d1919d9bb912793a7fccce08d390"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Geographic source and derivatives: © OpenStreetMap contributors, ODbL 1.0. https://www.openstreetmap.org/copyright
+Original model and shader textures: 3D_SEU contributors, CC BY 4.0. Original code: MIT, Copyright (c) 2026 3D_SEU contributors. https://creativecommons.org/licenses/by/4.0/
+Official and authorized private images consulted for reference only; no source photographs distributed.
+Candidate is not a survey: inherited road widths and all new detail dimensions remain estimates.

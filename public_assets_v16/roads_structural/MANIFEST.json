@@ -1,0 +1,110 @@
+{
+  "schema": "seu.independent_patch.v1",
+  "status": "candidate_requires_site_alignment_and_browser_QA",
+  "replace_object_names": [],
+  "coordinate_system": {
+    "crs": "EPSG:32650",
+    "origin_e": 671709.6990725585,
+    "origin_n": 3529586.400278158,
+    "blender": "X east,Y north,Z up metres",
+    "glb": "X=x,Y=z,Z=-y"
+  },
+  "objects": [
+    {
+      "stable_id": "SEU_ROAD_V16_GROUND_630686683",
+      "role": "asphalt_ground",
+      "source_evidence": [
+        "OSM way 630686683",
+        "OSM way 630100637",
+        "OSM way 630957182",
+        "Authorized aerial form reference; local photo-to-road match inferred, not photogrammetrically registered"
+      ],
+      "metric_status": "Existing XY preserved; widths inherited class estimates; new detail dimensions approximate"
+    },
+    {
+      "stable_id": "SEU_ROAD_V16_GROUND_630100637",
+      "role": "asphalt_ground",
+      "source_evidence": [
+        "OSM way 630686683",
+        "OSM way 630100637",
+        "OSM way 630957182",
+        "Authorized aerial form reference; local photo-to-road match inferred, not photogrammetrically registered"
+      ],
+      "metric_status": "Existing XY preserved; widths inherited class estimates; new detail dimensions approximate"
+    },
+    {
+      "stable_id": "SEU_ROAD_V16_GROUND_FOOT_630957182",
+      "role": "paving_ground",
+      "source_evidence": [
+        "OSM way 630686683",
+        "OSM way 630100637",
+        "OSM way 630957182",
+        "Authorized aerial form reference; local photo-to-road match inferred, not photogrammetrically registered"
+      ],
+      "metric_status": "Existing XY preserved; widths inherited class estimates; new detail dimensions approximate"
+    },
+    {
+      "stable_id": "SEU_ROAD_V16_RAISED_MEDIAN",
+      "role": "median_soil",
+      "source_evidence": [
+        "OSM way 630686683",
+        "OSM way 630100637",
+        "OSM way 630957182",
+        "Authorized aerial form reference; local photo-to-road match inferred, not photogrammetrically registered"
+      ],
+      "metric_status": "Existing XY preserved; widths inherited class estimates; new detail dimensions approximate"
+    },
+    {
+      "stable_id": "SEU_ROAD_V16_GROUND_PAVING_JOINTS",
+      "role": "paving_joints_ground",
+      "source_evidence": [
+        "OSM way 630686683",
+        "OSM way 630100637",
+        "OSM way 630957182",
+        "Authorized aerial form reference; local photo-to-road match inferred, not photogrammetrically registered"
+      ],
+      "metric_status": "Existing XY preserved; widths inherited class estimates; new detail dimensions approximate"
+    },
+    {
+      "stable_id": "SEU_ROAD_V16_RAISED_CURBS",
+      "role": "raised_curbs",
+      "source_evidence": [
+        "OSM way 630686683",
+        "OSM way 630100637",
+        "OSM way 630957182",
+        "Authorized aerial form reference; local photo-to-road match inferred, not photogrammetrically registered"
+      ],
+      "metric_status": "Existing XY preserved; widths inherited class estimates; new detail dimensions approximate"
+    }
+  ],
+  "triangles": 7859,
+  "meshes": 6,
+  "estimated_draw_calls": 6,
+  "geometry_simplified": false,
+  "public_runtime_files": [
+    "assets/SEU_ROAD_STRUCTURAL_CANDIDATE_v16.glb",
+    "scripts/road_patch_adapter.mjs",
+    "ATTRIBUTION.txt",
+    "MANIFEST.json"
+  ],
+  "pending": [
+    "Independent exact aerial registration / cross-section dimensions",
+    "v15 scene overlay",
+    "Actual mobile GPU visual and two-pass QA"
+  ],
+  "variant": "B2 shared-node street-block extent, no endcaps",
+  "mutually_exclusive_with": "road_patch B1",
+  "candidate_only_replace_names": [
+    "SEU_ROAD_V16_GROUND_630686683",
+    "SEU_ROAD_V16_GROUND_630100637",
+    "SEU_ROAD_V16_GROUND_FOOT_630957182",
+    "SEU_ROAD_V16_RAISED_MEDIAN",
+    "SEU_ROAD_V16_GROUND_PAVING_JOINTS",
+    "SEU_ROAD_V16_RAISED_CURBS"
+  ],
+  "work_boundary_crossways": [
+    630686681,
+    630686675
+  ],
+  "endcaps_built": false
+}
