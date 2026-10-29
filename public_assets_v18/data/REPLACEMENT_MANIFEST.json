@@ -1,0 +1,56 @@
+{
+  "version": "0.18.0",
+  "base_model_version": "0.17_current_visible_scene",
+  "base_glb_sha256": null,
+  "base_source_blend_sha256": "cbfee5753f9bed0d9f71e60c574913476fdd396a2b2eeb2fbe333f59f6dc8dac",
+  "patch_file": "assets/SEU_building_patch_v18.glb",
+  "replace_object_names": [
+    "SEU_R_OSMWAY_300162249",
+    "SEU_R_OSMWAY_630432677",
+    "SEU_R_OSMWAY_630432678",
+    "SEU_R_OSMWAY_632703303",
+    "SEU_R_OSMWAY_630957173",
+    "SEU_R_OSMWAY_630957174",
+    "SEU_R_OSMWAY_630957175",
+    "SEU_R_OSMWAY_630957176",
+    "SEU_R_OSMWAY_630957177",
+    "SEU_R_OSMWAY_630957178",
+    "SEU_R_OSMWAY_632703302",
+    "SEU_R_OSMWAY_632701785"
+  ],
+  "append_object_names": [
+    "SEU_R_OSMWAY_632703303__V18",
+    "SEU_R_OSMWAY_632703302__V18",
+    "SEU_R_OSMWAY_632701785__V18",
+    "SEU_R_OSMWAY_630957178__V18",
+    "SEU_R_OSMWAY_630957177__V18",
+    "SEU_R_OSMWAY_630957176__V18",
+    "SEU_R_OSMWAY_630957175__V18",
+    "SEU_R_OSMWAY_630957174__V18",
+    "SEU_R_OSMWAY_630957173__V18",
+    "SEU_R_OSMWAY_630432678__V18",
+    "SEU_R_OSMWAY_630432677__V18",
+    "SEU_R_OSMWAY_300162249__V18"
+  ],
+  "old_source_count": 4204,
+  "replaced_count": 12,
+  "appended_count": 12,
+  "merged_count": 4204,
+  "requires_prior_building_patch": "public_assets_v17/data/REPLACEMENT_MANIFEST.json",
+  "display_basemap_version": "0.4",
+  "material_policy": "four internal route basecolours asphalt per user observation; original remaining PBR preserved; no sidewalk/width change",
+  "sequential_visible_index_required": true,
+  "original_navigation_centerlines_unchanged": true,
+  "asphalt_stable_ids": [
+    "SEU_R_OSMWAY_300162249",
+    "SEU_R_OSMWAY_630432677",
+    "SEU_R_OSMWAY_630432678",
+    "SEU_R_OSMWAY_632703303"
+  ],
+  "asphalt_basecolor_linear": [
+    0.16,
+    0.18,
+    0.2,
+    1
+  ]
+}

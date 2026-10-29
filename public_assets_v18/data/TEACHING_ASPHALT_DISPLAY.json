@@ -1,0 +1,65 @@
+{
+  "version": "0.18",
+  "scope": "internal teaching main routes and continuous entry approaches only; not all campus",
+  "color_space": "linear",
+  "apply_after": "generic road palette",
+  "apply_before": "micro surface map",
+  "rows": [
+    {
+      "stable_id": "SEU_R_OSMWAY_300162249",
+      "baseColor": [
+        0.16,
+        0.18,
+        0.2,
+        1
+      ],
+      "material": "asphalt display",
+      "evidence": "user local site observation: internal teaching roads asphalt without separate sidewalk",
+      "color_status": "estimated display colour, not measured",
+      "width_changed": false,
+      "navigation_access_class_changed": false
+    },
+    {
+      "stable_id": "SEU_R_OSMWAY_630432677",
+      "baseColor": [
+        0.16,
+        0.18,
+        0.2,
+        1
+      ],
+      "material": "asphalt display",
+      "evidence": "user local site observation: internal teaching roads asphalt without separate sidewalk",
+      "color_status": "estimated display colour, not measured",
+      "width_changed": false,
+      "navigation_access_class_changed": false
+    },
+    {
+      "stable_id": "SEU_R_OSMWAY_630432678",
+      "baseColor": [
+        0.16,
+        0.18,
+        0.2,
+        1
+      ],
+      "material": "asphalt display",
+      "evidence": "user local site observation: internal teaching roads asphalt without separate sidewalk",
+      "color_status": "estimated display colour, not measured",
+      "width_changed": false,
+      "navigation_access_class_changed": false
+    },
+    {
+      "stable_id": "SEU_R_OSMWAY_632703303",
+      "baseColor": [
+        0.16,
+        0.18,
+        0.2,
+        1
+      ],
+      "material": "asphalt display",
+      "evidence": "user local site observation: internal teaching roads asphalt without separate sidewalk",
+      "color_status": "estimated display colour, not measured",
+      "width_changed": false,
+      "navigation_access_class_changed": false
+    }
+  ]
+}

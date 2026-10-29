@@ -1,0 +1,49 @@
+{
+  "status": "source_reviewed_ready_for_integration_not_yet_published",
+  "replace_names": [
+    "SEU_R_OSMWAY_300162249",
+    "SEU_R_OSMWAY_630432677",
+    "SEU_R_OSMWAY_630432678",
+    "SEU_R_OSMWAY_632703303",
+    "SEU_R_OSMWAY_630957173",
+    "SEU_R_OSMWAY_630957174",
+    "SEU_R_OSMWAY_630957175",
+    "SEU_R_OSMWAY_630957176",
+    "SEU_R_OSMWAY_630957177",
+    "SEU_R_OSMWAY_630957178",
+    "SEU_R_OSMWAY_632703302",
+    "SEU_R_OSMWAY_632701785"
+  ],
+  "append_names": [
+    "SEU_R_OSMWAY_300162249__V18",
+    "SEU_R_OSMWAY_630432677__V18",
+    "SEU_R_OSMWAY_630432678__V18",
+    "SEU_R_OSMWAY_632703303__V18",
+    "SEU_R_OSMWAY_630957173__V18",
+    "SEU_R_OSMWAY_630957174__V18",
+    "SEU_R_OSMWAY_630957175__V18",
+    "SEU_R_OSMWAY_630957176__V18",
+    "SEU_R_OSMWAY_630957177__V18",
+    "SEU_R_OSMWAY_630957178__V18",
+    "SEU_R_OSMWAY_632703302__V18",
+    "SEU_R_OSMWAY_632701785__V18"
+  ],
+  "replace_count": 12,
+  "append_count": 12,
+  "base_author_count": 4204,
+  "result_author_count": 4204,
+  "no_unrelated_objects_modified": true,
+  "viewer_note": "new road_area nodes remain exact same stableID; apply4 explicit local asphalt basecolor overrides after generic road palette and before micro-surface; no new sidewalk/width change",
+  "asphalt_stable_ids": [
+    "SEU_R_OSMWAY_300162249",
+    "SEU_R_OSMWAY_630432677",
+    "SEU_R_OSMWAY_630432678",
+    "SEU_R_OSMWAY_632703303"
+  ],
+  "asphalt_basecolor_linear": [
+    0.16,
+    0.18,
+    0.2,
+    1
+  ]
+}

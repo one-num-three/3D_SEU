@@ -1,0 +1,21 @@
+{
+  "archive": "assets/SEU_campus_full_quality_v18.blend.zip",
+  "bytes": 27108122,
+  "sha256": "8b71ea978fbd8533bb8ea5e803e31f26c1f28d4dcd22fcc94f7a77ccedcef2ee",
+  "member": "SEU_campus_full_quality_v18.blend",
+  "member_bytes": 28753830,
+  "member_sha256": "6797d20967d9dfd2a94dde330b4e3992f01b94893a407829ae7d5f24677be4e2",
+  "reason": "Lossless split packaging only, no model reduction",
+  "parts": [
+    {
+      "path": "assets/SEU_campus_full_quality_v18.blend.zip.001",
+      "bytes": 16777216,
+      "sha256": "2af246508e9e3b513a93c6abedc53b440c8ace20cfbdcb123495a1df5d1d14af"
+    },
+    {
+      "path": "assets/SEU_campus_full_quality_v18.blend.zip.002",
+      "bytes": 10330906,
+      "sha256": "c7a5755b8e67dcb521640e21672e4822ad5920f36a5a4eb4d09b09566bcb7b36"
+    }
+  ]
+}
