@@ -27,7 +27,7 @@ for p in R.rglob('*'):
  if not p.is_file():continue
  if '.git' in p.relative_to(R).parts or '__pycache__' in p.relative_to(R).parts:continue
  if p.relative_to(R).parts[0]=='public_runtime_v14':continue
- if p.relative_to(R).parts[0] in ['public_assets','public_assets_v02','public_assets_v03','public_assets_v04','public_assets_v05','public_assets_v06','public_assets_v07','public_assets_v08','public_assets_v09','public_assets_v10','public_assets_v11','public_assets_v12','public_assets_v13','public_assets_v14']:continue
+ if p.relative_to(R).parts[0] in ['public_assets','public_assets_v02','public_assets_v03','public_assets_v04','public_assets_v05','public_assets_v06','public_assets_v07','public_assets_v08','public_assets_v09','public_assets_v10','public_assets_v11','public_assets_v12','public_assets_v13','public_assets_v14','public_assets_v15']:continue
  rel=p.relative_to(R).as_posix();files.append(rel)
  if rel not in allowed:errors.append({'file':rel,'reason':'not allowlisted'})
  if p.is_symlink():errors.append({'file':rel,'reason':'symlink disallowed'})
@@ -39,7 +39,7 @@ for p in R.rglob('*'):
   if re.search(pattern,text):errors.append({'file':rel,'reason':'private path/id/signed-url pattern'})
 for t in json.loads((R/'tasks.json').read_text())['tasks']:
  if t['state']!='queued' or t['assigned_agent']is not None:errors.append({'task':t['id'],'reason':'candidate must not claim jobs already running'})
-for asset_dir in ['public_assets','public_assets_v02','public_assets_v03','public_assets_v04','public_assets_v05','public_assets_v06','public_assets_v07','public_assets_v08','public_assets_v09','public_assets_v10','public_assets_v11','public_assets_v12','public_assets_v13','public_assets_v14']:
+for asset_dir in ['public_assets','public_assets_v02','public_assets_v03','public_assets_v04','public_assets_v05','public_assets_v06','public_assets_v07','public_assets_v08','public_assets_v09','public_assets_v10','public_assets_v11','public_assets_v12','public_assets_v13','public_assets_v14','public_assets_v15']:
  if (R/asset_dir/'scripts/validate_release.py').is_file():
   import subprocess
   child=subprocess.run([sys.executable,str(R/asset_dir/'scripts/validate_release.py')],capture_output=True,text=True)
