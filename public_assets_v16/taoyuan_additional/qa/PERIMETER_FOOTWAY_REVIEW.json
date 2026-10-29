@@ -1,0 +1,1158 @@
+{
+  "candidate_placement_only": true,
+  "rows": [
+    {
+      "osm_id": 817128594,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9750074455514035,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                762.2654591095834,
+                221.45352953021126
+              ],
+              [
+                761.6158617202584,
+                221.4314871024916
+              ],
+              [
+                761.5904175864126,
+                222.18106011191506
+              ],
+              [
+                762.240076010894,
+                222.2031025390219
+              ],
+              [
+                762.2654591095834,
+                221.45352953021126
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                760.5985236108387,
+                251.41423962846065
+              ],
+              [
+                760.5731405121492,
+                252.16381263727126
+              ],
+              [
+                761.2227379014743,
+                252.18585506499096
+              ],
+              [
+                761.2481820353199,
+                251.4362820555675
+              ],
+              [
+                760.5985236108387,
+                251.41423962846065
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.03410548150156182,
+      "all_triangle_projection_road_overlap_m2": 0.03410548150156182,
+      "convex_hull_road_overlap_m2": 0.034670365755697256,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128595,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9750074455514859,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                798.6616505635811,
+                222.68102831127567
+              ],
+              [
+                798.0120532533746,
+                222.65898355202984
+              ],
+              [
+                797.9866064291716,
+                223.40855647012472
+              ],
+              [
+                798.6362647745343,
+                223.4306012289768
+              ],
+              [
+                798.6616505635811,
+                222.68102831127567
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                796.9946075302662,
+                252.6417324263894
+              ],
+              [
+                796.9692217412194,
+                253.3913053440905
+              ],
+              [
+                797.618819051426,
+                253.41335010333634
+              ],
+              [
+                797.6442658756289,
+                252.66377718524146
+              ],
+              [
+                796.9946075302662,
+                252.6417324263894
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.03393041473810074,
+      "all_triangle_projection_road_overlap_m2": 0.03393041473810074,
+      "convex_hull_road_overlap_m2": 0.034489513755349185,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128596,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9750074455514035,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                780.2778582851389,
+                222.06115408376178
+              ],
+              [
+                779.6282608958139,
+                222.0391116560421
+              ],
+              [
+                779.6028167619681,
+                222.78868466546558
+              ],
+              [
+                780.2524751864495,
+                222.81072709257242
+              ],
+              [
+                780.2778582851389,
+                222.06115408376178
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                778.6109227863942,
+                252.02186418201117
+              ],
+              [
+                778.5855396877047,
+                252.77143719082179
+              ],
+              [
+                779.2351370770298,
+                252.79347961854148
+              ],
+              [
+                779.2605812108754,
+                252.043906609118
+              ],
+              [
+                778.6109227863942,
+                252.02186418201117
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.03389456678222025,
+      "all_triangle_projection_road_overlap_m2": 0.03389456678221853,
+      "convex_hull_road_overlap_m2": 0.03445249150721679,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128597,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9750074455514859,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                817.2654862654127,
+                223.31003368120864
+              ],
+              [
+                816.6158889552062,
+                223.2879889219628
+              ],
+              [
+                816.5904421310032,
+                224.0375618400577
+              ],
+              [
+                817.2401004763659,
+                224.05960659890977
+              ],
+              [
+                817.2654862654127,
+                223.31003368120864
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                815.5984432320978,
+                253.27073779632238
+              ],
+              [
+                815.573057443051,
+                254.02031071402348
+              ],
+              [
+                816.2226547532576,
+                254.0423554732693
+              ],
+              [
+                816.2481015774605,
+                253.29278255517443
+              ],
+              [
+                815.5984432320978,
+                253.27073779632238
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.03389342065754331,
+      "all_triangle_projection_road_overlap_m2": 0.03389342065754331,
+      "convex_hull_road_overlap_m2": 0.03445130338973481,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128598,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9750074455514876,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                835.2072760019566,
+                223.9141557900504
+              ],
+              [
+                835.1818234651387,
+                224.66372851418916
+              ],
+              [
+                835.8314816424761,
+                224.68577822419118
+              ],
+              [
+                835.8568731441376,
+                223.936205499981
+              ],
+              [
+                835.2072760019566,
+                223.9141557900504
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                834.1896017755319,
+                253.8968969094219
+              ],
+              [
+                834.1642102738704,
+                254.64646963363208
+              ],
+              [
+                834.8138074160513,
+                254.6685193435627
+              ],
+              [
+                834.8392599528692,
+                253.91894661942393
+              ],
+              [
+                834.1896017755319,
+                253.8968969094219
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.035712138527284804,
+      "all_triangle_projection_road_overlap_m2": 0.035712138527284804,
+      "convex_hull_road_overlap_m2": 0.036331499624357146,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128599,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9750074455515367,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                853.8309816998932,
+                224.54224804575324
+              ],
+              [
+                853.8054213710756,
+                225.2918171019409
+              ],
+              [
+                854.4550763708381,
+                225.3139602357722
+              ],
+              [
+                854.4805756645002,
+                224.56439117073603
+              ],
+              [
+                853.8309816998932,
+                224.54224804575324
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                852.8089958176075,
+                254.52484250852098
+              ],
+              [
+                852.7834965239455,
+                255.27441157355716
+              ],
+              [
+                853.4330904885525,
+                255.29655469853995
+              ],
+              [
+                853.4586508173701,
+                254.5469856423523
+              ],
+              [
+                852.8089958176075,
+                254.52484250852098
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.03478818837104263,
+      "all_triangle_projection_road_overlap_m2": 0.03478818837104263,
+      "convex_hull_road_overlap_m2": 0.03537591235197848,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128600,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749622135423209,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                854.9338399638024,
+                192.21085922389835
+              ],
+              [
+                854.9083169242433,
+                192.96042192130307
+              ],
+              [
+                855.5579119859586,
+                192.98257087814972
+              ],
+              [
+                855.5834350262442,
+                192.23300055135053
+              ],
+              [
+                854.9338399638024,
+                192.21085922389835
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                854.5614148038125,
+                222.215584636864
+              ],
+              [
+                853.9118197413706,
+                222.19344330941186
+              ],
+              [
+                853.886296701085,
+                222.94301363621108
+              ],
+              [
+                854.5358917635269,
+                222.96515496366325
+              ],
+              [
+                854.5614148038125,
+                222.215584636864
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.0,
+      "all_triangle_projection_road_overlap_m2": 0.0,
+      "convex_hull_road_overlap_m2": 0.0,
+      "minimum_contact_road_distance_m": 7.9950145939432735,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128605,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749622135423684,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                762.7185914345249,
+                189.08732731009087
+              ],
+              [
+                762.6929998834154,
+                189.83688767150335
+              ],
+              [
+                763.3425929179546,
+                189.85909600265575
+              ],
+              [
+                763.3681844704879,
+                189.10952801184888
+              ],
+              [
+                762.7185914345249,
+                189.08732731009087
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                762.3434237790769,
+                219.09201855725365
+              ],
+              [
+                761.6938307431138,
+                219.06981785549561
+              ],
+              [
+                761.6682391905806,
+                219.81938584630248
+              ],
+              [
+                762.3178322265436,
+                219.84158654806052
+              ],
+              [
+                762.3434237790769,
+                219.09201855725365
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.0,
+      "all_triangle_projection_road_overlap_m2": 0.0,
+      "convex_hull_road_overlap_m2": 0.0,
+      "minimum_contact_road_distance_m": 7.626734047650969,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128606,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749630410224572,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                765.998152670215,
+                93.00582357575232
+              ],
+              [
+                765.9725323848384,
+                93.75539058501869
+              ],
+              [
+                766.6221245761797,
+                93.77758566974885
+              ],
+              [
+                766.6477448615561,
+                93.02801866048247
+              ],
+              [
+                765.998152670215,
+                93.00582357575232
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                764.9737075038399,
+                122.98833618211552
+              ],
+              [
+                764.9480872184633,
+                123.73790319138189
+              ],
+              [
+                765.5976794098048,
+                123.76009827611205
+              ],
+              [
+                765.6232996951812,
+                123.01053126684567
+              ],
+              [
+                764.9737075038399,
+                122.98833618211552
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.2142870525977222,
+      "all_triangle_projection_road_overlap_m2": 0.2142870525977422,
+      "convex_hull_road_overlap_m2": 0.23660004833826007,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128607,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.974962213542312,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                764.9014309620278,
+                125.02016764133322
+              ],
+              [
+                764.8759793018716,
+                125.76973276584494
+              ],
+              [
+                765.5255764698403,
+                125.79181986301289
+              ],
+              [
+                765.5510281299966,
+                125.04224710910664
+              ],
+              [
+                764.9014309620278,
+                125.02016764133322
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                764.5318630909343,
+                155.02492838352072
+              ],
+              [
+                763.8822659229655,
+                155.00284891574728
+              ],
+              [
+                763.8568142628093,
+                155.75242166965353
+              ],
+              [
+                764.506411430778,
+                155.77450113742697
+              ],
+              [
+                764.5318630909343,
+                155.02492838352072
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.0,
+      "all_triangle_projection_road_overlap_m2": 0.0,
+      "convex_hull_road_overlap_m2": 0.0,
+      "minimum_contact_road_distance_m": 7.62393402745801,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128609,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749630410224489,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                784.0065849990685,
+                93.61794260840068
+              ],
+              [
+                783.9809164583419,
+                94.36750796673863
+              ],
+              [
+                784.6305072194684,
+                94.38974487067671
+              ],
+              [
+                784.6561757601951,
+                93.64017951233876
+              ],
+              [
+                784.0065849990685,
+                93.61794260840068
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                782.9802096294901,
+                123.60038920120496
+              ],
+              [
+                782.9545410887634,
+                124.34995455954288
+              ],
+              [
+                783.6041318498901,
+                124.37219146348096
+              ],
+              [
+                783.6298003906167,
+                123.62262610514301
+              ],
+              [
+                782.9802096294901,
+                123.60038920120496
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.21512397197162791,
+      "all_triangle_projection_road_overlap_m2": 0.215230144013737,
+      "convex_hull_road_overlap_m2": 0.23761160124931943,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128610,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749630410224388,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                803.0343095038737,
+                94.26542252623102
+              ],
+              [
+                802.3847187820793,
+                94.24318447334437
+              ],
+              [
+                802.3590489155763,
+                94.99274978628051
+              ],
+              [
+                803.0086396373707,
+                95.01498783916716
+              ],
+              [
+                803.0343095038737,
+                94.26542252623102
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                801.3582903817443,
+                124.22562925072407
+              ],
+              [
+                801.3326205152413,
+                124.97519456366021
+              ],
+              [
+                801.9822112370359,
+                124.99743261654683
+              ],
+              [
+                802.0078811035389,
+                124.24786730361072
+              ],
+              [
+                801.3582903817443,
+                124.22562925072407
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.21512336705560609,
+      "all_triangle_projection_road_overlap_m2": 0.21522943401411254,
+      "convex_hull_road_overlap_m2": 0.2376108684608358,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128613,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749630410224304,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                820.9905286013482,
+                94.8792008633539
+              ],
+              [
+                820.9649332285834,
+                95.62876872372169
+              ],
+              [
+                821.6145261572415,
+                95.65094221860343
+              ],
+              [
+                821.6401215300061,
+                94.90137435823564
+              ],
+              [
+                820.9905286013482,
+                94.8792008633539
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                819.96707993387,
+                124.86174750160117
+              ],
+              [
+                819.9414845611052,
+                125.61131536196896
+              ],
+              [
+                820.5910774897632,
+                125.6334888568507
+              ],
+              [
+                820.6166728625279,
+                124.88392099648291
+              ],
+              [
+                819.96707993387,
+                124.86174750160117
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.21426518021125954,
+      "all_triangle_projection_road_overlap_m2": 0.21426518021125954,
+      "convex_hull_road_overlap_m2": 0.2365736212016425,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128615,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749630410224548,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                839.5910041729876,
+                95.50834394048454
+              ],
+              [
+                839.5654337704854,
+                96.25791265309144
+              ],
+              [
+                840.2150274374454,
+                96.28006450816338
+              ],
+              [
+                840.2405978399477,
+                95.53049579555645
+              ],
+              [
+                839.5910041729876,
+                95.50834394048454
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                838.5685543104199,
+                125.49092465609627
+              ],
+              [
+                838.5429839079177,
+                126.24049336870317
+              ],
+              [
+                839.1925775748778,
+                126.26264522377511
+              ],
+              [
+                839.21814797738,
+                125.51307651116818
+              ],
+              [
+                838.5685543104199,
+                125.49092465609627
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.2142102336514402,
+      "all_triangle_projection_road_overlap_m2": 0.21421023365144018,
+      "convex_hull_road_overlap_m2": 0.23650724513926802,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128616,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749630410224088,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                858.2235318592468,
+                96.1420526915069
+              ],
+              [
+                858.1978624121165,
+                96.89161801880488
+              ],
+              [
+                858.8474531463528,
+                96.9138557082535
+              ],
+              [
+                858.8731225934831,
+                96.16429038095549
+              ],
+              [
+                858.2235318592468,
+                96.1420526915069
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                857.197120233722,
+                126.124498043156
+              ],
+              [
+                857.1714507865915,
+                126.87406337045397
+              ],
+              [
+                857.821041520828,
+                126.89630105990258
+              ],
+              [
+                857.8467109679583,
+                126.14673573260458
+              ],
+              [
+                857.197120233722,
+                126.124498043156
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.21151795357100828,
+      "all_triangle_projection_road_overlap_m2": 0.21151795357100828,
+      "convex_hull_road_overlap_m2": 0.2332580017137414,
+      "minimum_contact_road_distance_m": 0.0,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128617,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749622135422898,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                857.1246162840138,
+                128.15345827910187
+              ],
+              [
+                857.0989329962323,
+                128.90301550281313
+              ],
+              [
+                857.7485233078828,
+                128.92530333590565
+              ],
+              [
+                857.7742065980219,
+                128.17573848280023
+              ],
+              [
+                857.1246162840138,
+                128.15345827910187
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                856.7457764304279,
+                158.1581033856949
+              ],
+              [
+                856.0961861164196,
+                158.13582318199656
+              ],
+              [
+                856.0705028262805,
+                158.88538803510195
+              ],
+              [
+                856.7200931402889,
+                158.9076682388003
+              ],
+              [
+                856.7457764304279,
+                158.1581033856949
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.0,
+      "all_triangle_projection_road_overlap_m2": 0.0,
+      "convex_hull_road_overlap_m2": 0.0,
+      "minimum_contact_road_distance_m": 7.999480809372911,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128618,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749622135423494,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                763.8118802298058,
+                157.02322736667918
+              ],
+              [
+                763.7862956479019,
+                157.7727879660024
+              ],
+              [
+                764.4358888888999,
+                157.79499025741785
+              ],
+              [
+                764.4614734721566,
+                157.04542202870022
+              ],
+              [
+                763.8118802298058,
+                157.02322736667918
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                763.4369915496789,
+                187.02792210074995
+              ],
+              [
+                762.787398307328,
+                187.00572743872894
+              ],
+              [
+                762.7618137240712,
+                187.75529566744657
+              ],
+              [
+                763.4114069664222,
+                187.77749032946758
+              ],
+              [
+                763.4369915496789,
+                187.02792210074995
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.0,
+      "all_triangle_projection_road_overlap_m2": 0.0,
+      "convex_hull_road_overlap_m2": 0.0,
+      "minimum_contact_road_distance_m": 7.6245573229792045,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    },
+    {
+      "osm_id": 817128623,
+      "base_contact_z_m": 0.46000000834465027,
+      "ground_face_filter": "all face vertices <= minZ+0.02m; horizontal base-contact surfaces only",
+      "ground_contact_area_m2": 0.9749622135422454,
+      "ground_contact_geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                856.0268992529628,
+                160.15513965766837
+              ],
+              [
+                856.0013764190548,
+                160.90470236207557
+              ],
+              [
+                856.6509714868469,
+                160.92685114069857
+              ],
+              [
+                856.6764943214794,
+                160.17728080689685
+              ],
+              [
+                856.0268992529628,
+                160.15513965766837
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                855.6544823251047,
+                190.1598651728119
+              ],
+              [
+                855.0048872565882,
+                190.1377240235834
+              ],
+              [
+                854.9793644219557,
+                190.88729435738512
+              ],
+              [
+                855.6289594904722,
+                190.90943550661362
+              ],
+              [
+                855.6544823251047,
+                190.1598651728119
+              ]
+            ]
+          ]
+        ]
+      },
+      "ground_contact_road_overlap_m2": 0.0,
+      "all_triangle_projection_road_overlap_m2": 0.0,
+      "convex_hull_road_overlap_m2": 0.0,
+      "minimum_contact_road_distance_m": 7.994622914237736,
+      "road_width_evidence": "2m estimated footway corridor, not surveyed; no automatic equipment movement authorized by this calculation"
+    }
+  ],
+  "ground_z_note": "XY collision diagnostic was computed before rigid Z correction; ground-contact polygons are XY-only and unchanged. New base Z=.001m, not original .46m."
+}

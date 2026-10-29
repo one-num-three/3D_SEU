@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "scan_includes_decompressed_blend_and_gzip": true,
+  "forbidden_private_tokens_found": [],
+  "png_metadata": [
+    {
+      "path": "previews/TAOYUAN_MISSING_18_MAP.png",
+      "metadata_keys": []
+    },
+    {
+      "path": "previews/TAOYUAN_ROAD_BASE_OVERLAP_REVIEW.png",
+      "metadata_keys": []
+    },
+    {
+      "path": "previews/TAOYUAN_30_GROUNDED_REVIEW.png",
+      "metadata_keys": []
+    }
+  ],
+  "no_reference_photo_pixels_distributed": true
+}

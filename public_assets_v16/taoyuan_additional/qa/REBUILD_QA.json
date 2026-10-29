@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "objects_exact": 90,
+  "materials_exact": 6,
+  "object_failures": [],
+  "material_failures": [],
+  "local_vertices_faces_smoothing_face_materials_matrices_props_and_node_inputs_links_checked": true
+}

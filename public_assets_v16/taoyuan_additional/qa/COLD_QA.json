@@ -1,0 +1,65 @@
+{
+  "mesh_count": 90,
+  "triangle_count": 219312,
+  "grid_boundary_mismatches_resolved_by_bijection": [
+    {
+      "name": "TAOYUAN18_V16_817128598_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999992474913597
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.291359902370698e-05,
+      "minimum_winding_normal_dot": 0.9996907544627902
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999997615814209
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999504880979657
+    },
+    {
+      "name": "TAOYUAN18_V16_817128600_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9997070319950581
+    },
+    {
+      "name": "TAOYUAN18_V16_817128609_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999510664492846
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999993480741978
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 7.62939453125e-06,
+      "minimum_winding_normal_dot": 0.9999951785430312
+    },
+    {
+      "name": "TAOYUAN18_V16_817128618_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999432135373354
+    }
+  ],
+  "exact_1mm_hash_meshes": 81,
+  "no_images_fonts_texts_external_libraries": true,
+  "sha256_blend": "5246b907e930ec1c6459c3745bf47b4eb5fe4bbdefa89db8398d20f3892c773f",
+  "sha256_glb": "f74f82241c5e0c5a6b465acb932307ac3cf531353bf6b41450cc8245cd041ba2",
+  "not_merge_approved": true
+}

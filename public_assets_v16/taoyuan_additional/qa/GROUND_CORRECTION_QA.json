@@ -1,0 +1,732 @@
+{
+  "status": "PASS_RIGID_Z_CORRECTION",
+  "ground_surface_z_m": -0.004,
+  "base_contact_z_m": 0.001,
+  "join_allowance_m": 0.005,
+  "world_xy_unchanged": true,
+  "local_geometry_topology_materials_unchanged": true,
+  "new_objects": 90,
+  "old_v15_12_courts_not_replaced": true,
+  "rows": [
+    {
+      "name": "TAOYUAN18_V16_817128594_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128594_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128594_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128594_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128594_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128594_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128594_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128594_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128594_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128594_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128595_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128595_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128595_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128595_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128595_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128595_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128595_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128595_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128595_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128595_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128596_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128596_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128596_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128596_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128596_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128596_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128596_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128596_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128596_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128596_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128597_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128597_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128597_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128597_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128597_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128597_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128597_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128597_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128597_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128597_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128598_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128598_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128598_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128598_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128598_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128599_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128599_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128599_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128599_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128599_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128600_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128600_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128600_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128600_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128600_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128600_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128600_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128600_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128600_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128600_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128605_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128605_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128605_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128605_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128605_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128605_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128605_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128605_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128605_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128605_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128606_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128606_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128606_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128606_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128606_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128606_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128606_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128606_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128606_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128606_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128607_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128607_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128607_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128607_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128607_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128607_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128607_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128607_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128607_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128607_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128609_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128609_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128609_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128609_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128609_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128609_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128609_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128609_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128609_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128609_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128610_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128610_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128610_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128610_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128610_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128613_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128613_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128613_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128613_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128613_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128613_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128613_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128613_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128613_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128613_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128615_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128615_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128615_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128615_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128615_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128615_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128615_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128615_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128615_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128615_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128616_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128616_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128616_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128616_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128616_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128616_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128616_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128616_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128616_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128616_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128617_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128617_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128617_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128617_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128617_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128617_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128617_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128617_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128617_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128617_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128618_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128618_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128618_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128618_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128618_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128618_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128618_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128618_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128618_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128618_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    },
+    {
+      "name": "TAOYUAN18_V16_817128623_BACKBOARDS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128623_BACKBOARDS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.883500099182129,
+      "world_max_z_m": 3.9684996604919434
+    },
+    {
+      "name": "TAOYUAN18_V16_817128623_BACKSTOP",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128623_BACKSTOP",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 4.200999736785889
+    },
+    {
+      "name": "TAOYUAN18_V16_817128623_MARKINGS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128623_MARKINGS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.006999999284744263,
+      "world_max_z_m": 0.015000015497207642
+    },
+    {
+      "name": "TAOYUAN18_V16_817128623_NETS",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128623_NETS",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 1.277923584730445e-07,
+      "world_min_z_m": 2.6197242736816406,
+      "world_max_z_m": 3.0510001182556152
+    },
+    {
+      "name": "TAOYUAN18_V16_817128623_SURFACE",
+      "old_candidate_name": "TAOYUAN18_CANDIDATE_817128623_SURFACE",
+      "only_rigid_z_delta_m": -0.459,
+      "max_world_coordinate_delta_error_m": 8.583068866752086e-09,
+      "world_min_z_m": 0.0010000169277191162,
+      "world_max_z_m": 0.008000016212463379
+    }
+  ]
+}
