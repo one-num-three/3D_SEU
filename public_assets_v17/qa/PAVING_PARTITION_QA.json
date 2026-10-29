@@ -1,0 +1,12 @@
+{
+  "deck_area_m2": 1122.655980630425,
+  "plain_m2": 878.6145645862043,
+  "grey_band_m2": 244.04141604422043,
+  "top_triangulated_m2": 1122.6559806304267,
+  "overlap_m2": 0.0,
+  "original_meshes_retained": 552,
+  "added_planar_meshes": 4,
+  "no_raised_red_wave": true,
+  "shore_geometry_is_flat_only": true,
+  "water_overlap_all_zero": true
+}

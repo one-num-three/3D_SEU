@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "objects": 560,
+  "maximum_database_vertex_error_m": 1.5257812492563971e-05,
+  "embedded_images": 0,
+  "embedded_fonts": 0,
+  "external_libraries": 0,
+  "module_blend_sha256": "cfe83103e7a63cecb0987f71a9d5dd597e08d7bf5f7d48537eef90e24065df00"
+}

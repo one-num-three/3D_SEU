@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "new_join_coverage_sym_difference_m2": 0.00017626589504189115,
+  "actual_new_road_top_overlap_approach_m2": 1.7568500845385275e-06,
+  "new_approach_carriageway_overlap_m2": 4.163666157893408e-06,
+  "planar_ground_pairwise_overlap_m2": 0.0,
+  "scope": "new approach vs exact 4 road replacements only; unrelated existing road junctions not modified",
+  "navigation_centerline_changes": 0,
+  "width_is_estimated": true
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "original_bridge_components_retained": 552,
+  "nondeck_components_topology_materials_z_exact": 551,
+  "deck_topology_changed_for_disjoint_planar_material_partition": true,
+  "source_original_pbr_materials_unchanged": true,
+  "source_bridge_z_levels_unchanged": true,
+  "xy_width_and_edge_placement_changed": true,
+  "width_status": "7.5m reviewed proportion hypothesis, not measured",
+  "no_red_raised_ribbons": true
+}

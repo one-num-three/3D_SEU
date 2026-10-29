@@ -1,0 +1,4978 @@
+{
+  "meshes": 552,
+  "source_meshes": 552,
+  "source_materials_preserved": true,
+  "source_topology_counts_preserved": true,
+  "all_z_unchanged": true,
+  "width_m_candidate": 7.5,
+  "objects": [
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_00_BLOCK_0",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_00_BLOCK_1",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_00_SLAT_0",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_00_SLAT_1",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_00_SLAT_2",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_01_BLOCK_0",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_01_BLOCK_1",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_01_SLAT_0",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_01_SLAT_1",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_01_SLAT_2",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_02_BLOCK_0",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_02_BLOCK_1",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_02_SLAT_0",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_02_SLAT_1",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_02_SLAT_2",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_03_BLOCK_0",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_03_BLOCK_1",
+      "classification": "assumed_bench_strip_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_03_SLAT_0",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_03_SLAT_1",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_BENCHLIKE_03_SLAT_2",
+      "classification": "photo_informed_benchlike_edge_strip",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_DECK_CONTINUOUS",
+      "classification": "deck_solid",
+      "vertices": 32,
+      "faces": 44,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121207248763,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EDGE_PLANTER_00",
+      "classification": "photo_informed_simplified_planter",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EDGE_PLANTER_01",
+      "classification": "photo_informed_simplified_planter",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EDGE_PLANTER_02",
+      "classification": "photo_informed_simplified_planter",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EDGE_PLANTER_03",
+      "classification": "photo_informed_simplified_planter",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_00_00",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999968,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_00_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4711522663979666,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_00_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.532858719449556,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_00_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.630521702617449,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_00_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7581594327513,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_00_05",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.909770960363768,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_00_06",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121198303593,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_01_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0749882069614287,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_01_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0698673392000564,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_01_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0647586173660737,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_01_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.059662199152753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_02_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0647032313437714,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_02_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.06975628282483,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_02_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.074821244010422,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_02_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.079898038048652,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_03_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0769371322044003,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_03_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.073980246240031,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_03_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0710273656539147,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_03_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0680785309652663,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_04_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.056523879671695,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_04_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0450330482597523,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_04_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0336071241302713,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_04_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0222472165797982,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_05_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0228262058142406,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_05_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0234053664991323,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_05_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0239847060230667,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_05_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0245642028017965,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_06_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.838524045861989,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_06_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6796396999245216,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_06_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5562511355203066,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_06_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4772793990826443,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_L_06_05",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000257,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_00_00",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_00_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4803635007171743,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_00_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.56793009360706,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_00_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7039029271018924,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_00_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.877796250884738,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_00_05",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121181934203,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_01_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0749882103537822,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_01_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.069867328310121,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_01_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0647586257543677,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_01_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0596621950671987,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_02_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0647032316755505,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_02_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.069756280050426,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_02_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0748212483773445,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_02_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0798980420209157,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_03_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.076937132724115,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_03_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.073980230790652,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_03_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.071027374324082,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_03_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0680785403157804,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_04_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0565238694475565,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_04_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0450330526085736,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_04_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0336071283244146,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_04_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0222472152154958,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_05_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.022826203813126,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_05_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023405369177359,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_05_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023984705809849,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_05_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0245641670583656,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_06_01",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8678493678575985,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_06_02",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7290954187852867,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_06_03",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6129444964981192,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_06_04",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5245713434970882,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_06_05",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4689977757476145,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_EXPOSED_SUPPORT_R_06_06",
+      "classification": "historic_photo_supported_exposed_vertical_support",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000008,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_BASE_RAIL",
+      "classification": "continuous_mitered_base_rail",
+      "vertices": 32,
+      "faces": 44,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121207248763,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4525394686200062,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.460353393591505,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4733591274603075,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4914207339398837,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.514357367795986,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5419516746446391,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5739583795221022,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6101145110249548,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6501475342086551,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6937822184920992,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7407479045864687,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7907827182433536,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_012",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8436365773288257,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_013",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8990740426007573,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_014",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.956875874878867,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_015",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0168384610479446,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_00_016",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.078774897259089,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080082050303424,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.07836974488767,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0766587758347987,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0749491647534604,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0732408791009274,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.071533956971331,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0698283683916974,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0681241327934354,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.066421271754624,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0647197529157273,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.063019614275142,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_01_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0613208260339553,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.061068457409764,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.062508487088815,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.063949499987469,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0653914925203827,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.066834465687519,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.068278415913254,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0697233396223917,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0711692441739338,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.07261611179412,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0740639506865057,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0755127556207085,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0769625254086748,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_012",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0784132564948457,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_02_013",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0798649499364927,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0798750104201265,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.078797869739497,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.077721257647379,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.076645155046724,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.075569602609408,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.074494581230956,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0734200917374355,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0723461350829413,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0712726918457127,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0701998029860538,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_03_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0691274494550838,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0679957831337403,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0641373544494583,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.060285939461221,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0564415775758778,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.052604308423183,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0487741718561665,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.044951207952408,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0411354570140565,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0373269538347514,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0335257506484954,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.029731882691158,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_04_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0259453911713776,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0224358798646347,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0226288745939325,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.022821891263483,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0230149261843215,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0232079793149356,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023401051868242,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0235941464067215,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0237872591406925,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0239803900616287,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0241735404160934,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.024366713954049,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_05_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.024559903159385,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023224154344082,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9626585309407834,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9042629118456358,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8482431891886568,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7948217899008498,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.744237410251273,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.696743679585487,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.652607379227377,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6121040967171494,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5755141204609446,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5431157857832742,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5151780565034567,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_012",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4919515057906985,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_013",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4736588978762228,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_014",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4604856690387578,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_CLEAR_PANEL_06_015",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4525710725383745,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_000",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000284,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_001",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4526516739758593,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_002",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4605778584500888,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_003",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.473693366279953,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_004",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4918613674391128,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_005",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5149002093681367,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_006",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5425914785490011,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_007",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5746898067450392,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_008",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6109319734320684,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_009",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6510448193866338,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_010",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6947536190647692,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_011",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7417879307667905,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_012",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7918854847212158,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_013",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8447969712834378,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_014",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9002875473362304,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_015",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9581375010671949,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_016",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0181442206237716,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_017",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121187089527,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_018",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.078408851171676,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_019",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0766978689468156,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_020",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.074988209276777,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_021",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0732799098950476,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_022",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0715729404911207,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_023",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.069867338002734,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_024",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0681630714333963,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_025",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.06646017881891,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_026",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0647586288558673,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_027",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.063058442623273,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_028",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.061359640021662,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_029",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0596621960905086,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_030",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0611012629641166,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_031",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.062541314309917,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_032",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.06398234882726,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_033",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0654243652219266,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_034",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0668673599136382,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_035",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0683113316163397,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_036",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0697562790503774,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_037",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.071202202232824,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_038",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0726490934858726,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_039",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0740969564229763,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_040",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0755457826002477,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_041",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.076995574351987,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_042",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.078446328124237,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_043",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0798980419783994,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_044",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0788208900071643,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_045",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.077744256705861,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_046",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0766681627037014,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_047",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0755925888997395,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_048",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0745175562237654,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_049",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0734430554150203,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_050",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.072369077233873,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_051",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0712956426477214,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_052",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.07022273242103,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_053",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.069150367313804,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_054",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0680785382234195,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_055",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.064219950910783,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_056",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.060368385236298,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_057",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.05652387181807,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_058",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0526864502810023,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_059",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0488561604734623,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_060",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0450330424680514,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_061",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.041217136562265,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_062",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.03740848327919,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_063",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.033607123368181,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_064",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.029813097805526,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_065",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0260264477950787,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_066",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0222472152154958,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_067",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.022440192498635,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_068",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.022633187663146,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_069",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0228262041762837,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_070",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023019238280273,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_071",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0232122937221173,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_072",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0234053685869826,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_073",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023598461058445,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_074",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023791574851665,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_075",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023984706206942,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_076",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0241778588731867,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_077",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.024371029056864,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_078",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0245642193403577,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_079",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9639536307639367,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_080",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9055086538400514,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_081",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8494349681322144,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_082",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.795954566001559,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_083",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7453058100721193,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_084",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.697742065245427,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_085",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6535298083783312,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_086",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.612944538909515,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_087",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5762664563418445,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_088",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5437740429964528,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_089",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5157365211610998,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_090",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4924049914965998,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_091",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4740029399621362,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_092",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4607166870635286,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_093",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4526865826243218,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_POST_094",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999946,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_L_TOP_RAIL",
+      "classification": "continuous_mitered_top_rail",
+      "vertices": 32,
+      "faces": 44,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121207248763,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_BASE_RAIL",
+      "classification": "continuous_mitered_base_rail",
+      "vertices": 32,
+      "faces": 44,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121207248763,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4532531470583674,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4632692059854757,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.47991276750246,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5029633147911026,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5321318900201497,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5670771886205328,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.607421932339442,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6527709426228705,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7027248075562071,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7568904507910856,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.814890662469884,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8763703612300902,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_012",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9409985288694118,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_013",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0084713021219645,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_00_014",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.078511841736066,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080081852408814,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0783695673691813,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0766586017815722,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0749489765423292,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.073240694359052,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.071533776077534,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0698281912618537,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.068123958737933,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0664210839793866,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.064719585762442,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0630194337934733,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_01_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0613206489254003,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.061179060793647,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.062729984333453,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.064282047808175,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.065835250182339,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0673895858260747,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.068945052876979,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0705016504574467,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.07205937672288,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0736182212243786,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0751781926280874,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.076739283575412,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0783014930862653,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_02_012",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0798648155593957,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0798749512137342,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.078797809391951,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0777211961600703,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0766450921100783,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0755695385354667,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.074494515893628,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.073420025265265,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.072346067223205,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0712726428504973,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0701997527228118,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_03_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0691273778925763,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.06799660603676,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0641381813966895,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0602867674237952,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0564424008052935,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0526051206502123,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.048774985077988,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0449520221509867,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0411362694558433,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0373277610543044,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0335265588072766,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.02973269177078,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_04_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.02594619550925,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0224358803405442,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.022628876614272,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0228218923939627,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0230149276410034,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023207982316614,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0234010564484155,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023594148812332,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0237872618396455,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0239803918054062,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0241735437388377,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.024366715100595,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_05_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0245599058519894,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_000",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023415986523096,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_001",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9722687429223504,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_002",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9226377371079704,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_003",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.874643447975576,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_004",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8284147142113563,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_005",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7840886644038338,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_006",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7418108097988372,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_007",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.701733736183027,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_008",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6640163326796003,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_009",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6288227050720185,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_010",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5963197048432798,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_011",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5666748337314962,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_012",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5400531168671832,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_013",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.516613701843834,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_014",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4965063012315754,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_015",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4798665596566136,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_016",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.466812582494743,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_017",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4574407580928455,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_CLEAR_PANEL_06_018",
+      "classification": "photo_supported_transparent_guard_infill",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.45182231275849,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_000",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_001",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.453405052883837,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_002",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4635726355757177,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_003",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4803635260428927,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_004",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.503555788406177,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_005",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5328587414814514,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_006",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5679300942330074,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_007",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6083924265343699,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_008",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6538498712714076,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_009",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7039028610180442,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_010",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.758159224233914,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_011",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.81624208573585,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_012",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8777961373068697,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_013",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.942491910696455,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_014",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0100258384468765,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_015",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0801211931990182,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_016",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.07840886037779,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_017",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.076697881326078,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_018",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0749882251220306,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_019",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.073279912201337,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_020",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0715729458872376,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_021",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.069867329511268,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_022",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.06816308345339,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_023",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.066460176968157,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_024",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.064758630465741,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_025",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0630584473111973,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_026",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0613596482419827,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_027",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0596622018978197,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_028",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.061211998970328,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_029",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0627629475210254,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_030",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.064315035953191,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_031",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0658682616975783,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_032",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0674226214234634,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_033",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0689781105094442,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_034",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0705347328307417,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_035",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.072092481476755,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_036",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.073651351839156,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_037",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.075211347824553,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_038",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0767724625302333,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_039",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0783346949746004,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_040",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0798980418704653,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_041",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0788208842535996,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_042",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.077744259623031,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_043",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.076668164386797,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_044",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0755925893218925,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_045",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0745175553508384,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_046",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.073443053248264,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_047",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.072369083841497,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_048",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0712956379325256,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_049",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0702227364729127,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_050",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0691503700718523,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_051",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0680785309652663,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_052",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.064219960186953,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_053",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.060368388130265,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_054",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.056523878723708,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_055",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0526864596887644,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_056",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0488561635336855,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_057",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.045033040693522,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_058",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.041217137291863,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_059",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.037408486503392,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_060",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0336071305579173,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_061",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.029813089955291,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_062",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0260264439165137,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_063",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.022247215295934,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_064",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0224401925596136,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_065",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0226331873935064,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_066",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.022826203575003,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_067",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.02301923925673,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_068",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023212294400059,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_069",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0234053670905827,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_070",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0235984611070963,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_071",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.023791574601617,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_072",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0239847075023865,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_073",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.024177857960392,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_074",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.0243710297560127,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_075",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.024564099415229,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_076",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9733846154332173,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_077",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.9237188053386753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_078",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8756869134790204,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_079",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.8294176413757757,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_080",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7850479535468415,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_081",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7427231678861093,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_082",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.7025956763453425,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_083",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6648242835163427,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_084",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.6295730196751972,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_085",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5970086761563909,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_086",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5672987433101928,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_087",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.54060836802942,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_088",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.5170968757476804,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_089",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4969142229120307,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_090",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4801963850826363,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_091",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.467061925470011,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_092",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.457607753001677,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_093",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4519056709225115,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_POST_094",
+      "classification": "guard_post",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999988,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_GUARD_R_TOP_RAIL",
+      "classification": "continuous_mitered_top_rail",
+      "vertices": 32,
+      "faces": 44,
+      "z_unchanged": true,
+      "max_xy_delta_m": 2.080121207248763,
+      "rigid_component": false
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_00",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_01",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_02",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_03",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_04",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_05",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_06",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_07",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_08",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_09",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_10",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_11",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_12",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_13",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_14",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_15",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_16",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_17",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_18",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_19",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_00_20",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_00",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_01",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_02",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_03",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_04",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_05",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_06",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_07",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_08",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_09",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_10",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_11",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_12",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_13",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_14",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_15",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_01_16",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_00",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_01",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_02",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_03",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_04",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_05",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_06",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_07",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_08",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_09",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_10",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_11",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_12",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_13",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_14",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_02_15",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_00",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_01",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_02",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_03",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_04",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_05",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_06",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_07",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_08",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_09",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_10",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_11",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_12",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_13",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_14",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_15",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_16",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_17",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_18",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_19",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_20",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_21",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_GREEN_03_22",
+      "classification": "schematic_photo_informed_planter_greenery",
+      "vertices": 12,
+      "faces": 20,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_SOIL_00",
+      "classification": "planter_soil_approximation",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000108,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_SOIL_01",
+      "classification": "planter_soil_approximation",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000224,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_SOIL_02",
+      "classification": "planter_soil_approximation",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4499999999999753,
+      "rigid_component": true
+    },
+    {
+      "name": "SEU_BRIDGE_630436309_PLANTER_SOIL_03",
+      "classification": "planter_soil_approximation",
+      "vertices": 8,
+      "faces": 6,
+      "z_unchanged": true,
+      "max_xy_delta_m": 1.4500000000000102,
+      "rigid_component": true
+    }
+  ]
+}

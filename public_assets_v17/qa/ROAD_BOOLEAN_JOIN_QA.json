@@ -1,0 +1,65 @@
+{
+  "status": "PASS_CANDIDATE",
+  "original_navigation_unchanged": true,
+  "carriageway_630100641_unchanged": true,
+  "changed_road_objects": 4,
+  "total_removed_overlap_m2": 142.65882386024356,
+  "rows": [
+    {
+      "source_name": "SEU_R_OSMWAY_1056927543",
+      "old_area_m2": 590.2986072433414,
+      "cut_area_m2": 44.96670608457376,
+      "new_area_m2": 545.3319011587673,
+      "new_approach_overlap_m2": 2.474536200801254e-15,
+      "external_expansion_m2": 0.0,
+      "non_manifold_edges": 0,
+      "z_preserved": [
+        0.004999999888241291,
+        0.03500000014901161
+      ],
+      "navigation_centerline_unchanged": true
+    },
+    {
+      "source_name": "SEU_R_OSMWAY_300030311",
+      "old_area_m2": 85.6859304892132,
+      "cut_area_m2": 76.56743133863692,
+      "new_area_m2": 9.118499150576167,
+      "new_approach_overlap_m2": 0.0,
+      "external_expansion_m2": 0.0,
+      "non_manifold_edges": 0,
+      "z_preserved": [
+        0.004999999888241291,
+        0.03500000014901161
+      ],
+      "navigation_centerline_unchanged": true
+    },
+    {
+      "source_name": "SEU_R_OSMWAY_300176516",
+      "old_area_m2": 77.62622653808648,
+      "cut_area_m2": 18.003236582983124,
+      "new_area_m2": 59.62298995510344,
+      "new_approach_overlap_m2": 0.0,
+      "external_expansion_m2": 9.616009275657478e-15,
+      "non_manifold_edges": 0,
+      "z_preserved": [
+        0.004999999888241291,
+        0.03500000014901161
+      ],
+      "navigation_centerline_unchanged": true
+    },
+    {
+      "source_name": "SEU_R_OSMWAY_630436309",
+      "old_area_m2": 301.1630132443388,
+      "cut_area_m2": 3.1214498540497617,
+      "new_area_m2": 298.0415633902888,
+      "new_approach_overlap_m2": 0.0,
+      "external_expansion_m2": 0.0,
+      "non_manifold_edges": 0,
+      "z_preserved": [
+        0.004999999888241291,
+        0.03500000014901161
+      ],
+      "navigation_centerline_unchanged": true
+    }
+  ]
+}

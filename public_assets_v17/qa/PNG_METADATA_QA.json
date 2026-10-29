@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "images": [
+    {
+      "file": "previews/BRIDGE_WIDTH_BEFORE_AFTER_REVIEW.png",
+      "size": [
+        1800,
+        850
+      ],
+      "metadata_keys": []
+    },
+    {
+      "file": "previews/BRIDGE_PAVING_DAYLIGHT_R2.png",
+      "size": [
+        1500,
+        1200
+      ],
+      "metadata_keys": []
+    }
+  ]
+}
