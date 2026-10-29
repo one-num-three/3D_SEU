@@ -1,0 +1,150 @@
+{
+  "files": [
+    {
+      "path": "INTEGRATION.json",
+      "bytes": 1855,
+      "sha256": "79e8d7ed754f49289bc9d88228b95a4c5853e47ac1bbdbafb108fd4aa3fd8939"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4961,
+      "sha256": "a9455dc787c8297c897eb1828882551543a0b0ad2798c6f7f7618d4bf7a94e22"
+    },
+    {
+      "path": "assets/SEU_Taoyuan_track_detail_candidate.blend",
+      "bytes": 702816,
+      "sha256": "c8a47f2cc94c8ffa519bc6f56c24bf8bb703942cca26fdb75dd7513428efa8b9"
+    },
+    {
+      "path": "assets/SEU_Taoyuan_track_detail_candidate.glb",
+      "bytes": 1185756,
+      "sha256": "86b9a43895665d45a2dceaf6bbeda4f48e4eb7b523d870e475b8dc00aa766522"
+    },
+    {
+      "path": "data/DETAIL_PROJECTION.local.geojson",
+      "bytes": 718167,
+      "sha256": "3d28282e9116cfdec09a9de480b5cf58463c13b87c600ce660345e1e6ba5275b"
+    },
+    {
+      "path": "data/EVIDENCE_AND_ESTIMATES.json",
+      "bytes": 1442,
+      "sha256": "65dec7201b89a14ef43c80280c37e171c432f77837005e1531cb0fc7b9f4f9a9"
+    },
+    {
+      "path": "data/FIELD_FRAME.json",
+      "bytes": 299,
+      "sha256": "1fbf709c79f6d773a7c4de8337f3de04b1433ef4af31728a1d5a5230234f2c5f"
+    },
+    {
+      "path": "data/GEOMETRY.json",
+      "bytes": 1132032,
+      "sha256": "1f7f06c3e96f3112b75a3cbd03708501ef5f766539b05b8fd980186b3dc3f161"
+    },
+    {
+      "path": "data/SOURCE_RELATIONS.local.geojson",
+      "bytes": 3356,
+      "sha256": "a1b6d2dec1245c23c55a987db34a9c2ea92d9b5a40cf0866f3c9c5f8a6ddcca2"
+    },
+    {
+      "path": "data/SOURCE_TRACK_LINES.local.geojson",
+      "bytes": 5329,
+      "sha256": "262aae346980ac9aec072b38bfe272783c4cccb0ae49fcec952342f80fc3aadf"
+    },
+    {
+      "path": "previews/AFTER.png",
+      "bytes": 1268663,
+      "sha256": "ba6be4b7ea4a06ea27c86fa98f1f1423523d15874aa9b33b2d83d8059f93cdec"
+    },
+    {
+      "path": "previews/BEFORE.png",
+      "bytes": 1122266,
+      "sha256": "bb4328e25eae3a744e0a4579ea55b820200c42fe33e5294ae7cf76a985c8fc26"
+    },
+    {
+      "path": "previews/BEFORE_AFTER.png",
+      "bytes": 1400881,
+      "sha256": "2ec6fe6246e7e2571aec4bea3d4fc9ec9c003be5605520510471b200e9dba9a6"
+    },
+    {
+      "path": "previews/GOAL_DETAIL.png",
+      "bytes": 1193442,
+      "sha256": "b1f35b15a22d3a3641da3f776c29b6db07180b35a2af14f9d78a0e282a8d6710"
+    },
+    {
+      "path": "previews/PLAN.png",
+      "bytes": 1459836,
+      "sha256": "11bc0fbde63860f18dd6b1c85df1495b79a1bf27d8e3c2ae2048a30b88f94e6c"
+    },
+    {
+      "path": "qa/BASELINE_PRESERVATION_QA.json",
+      "bytes": 400,
+      "sha256": "8dad757347f1d62a1f4bebed94a7d671049c9e61058fa16efb9b082e8213da89"
+    },
+    {
+      "path": "qa/BUILD_QA.json",
+      "bytes": 807,
+      "sha256": "8193c57e66014bc3568561f001c68419a11c3284ebc1cc70834596413996ab82"
+    },
+    {
+      "path": "qa/COLD_GLB_QA.json",
+      "bytes": 7560,
+      "sha256": "29787feaf2b8f45d0c26f35cb2b57abc9c2eb4265cb22de1af078d5181dc33d6"
+    },
+    {
+      "path": "qa/COLLISION_QA.json",
+      "bytes": 577,
+      "sha256": "5468f527388ebed8baf576e49d7320674c31c0b7469d613965cae992e318aad7"
+    },
+    {
+      "path": "qa/GEOGRAPHIC_QA.json",
+      "bytes": 1740,
+      "sha256": "c808124e6d0396782a2d248aad581870a4bb6949e52553bcbb5be5db35497e98"
+    },
+    {
+      "path": "qa/PRIVACY_QA.json",
+      "bytes": 217,
+      "sha256": "98a2d117f637ec863c0c96491d1cbfa721d4141d2897fdbd52aed7c48ac1a3f9"
+    },
+    {
+      "path": "qa/TRIANGULATION_QA.json",
+      "bytes": 3571,
+      "sha256": "9e9db0c3a706991e9d19ce659e1d68f233ac6e0bd5236d8c799a48bf7e227f00"
+    },
+    {
+      "path": "scripts/build.py",
+      "bytes": 6057,
+      "sha256": "d6424f4a31f5f96329befa1075f26c257623fb7ce4aacd910b4d68c2bc8d0d6c"
+    },
+    {
+      "path": "scripts/cold_qa.py",
+      "bytes": 2205,
+      "sha256": "0dd1ef1332b065071ece9dfff1753768f4115ddd9986597be5dcf906f8669640"
+    },
+    {
+      "path": "scripts/generate.py",
+      "bytes": 5873,
+      "sha256": "4cb08d0a69547c870bc3af702901eec721d68eb8904b32ec22c015383b5fa62f"
+    },
+    {
+      "path": "scripts/render_preview.py",
+      "bytes": 2640,
+      "sha256": "780c526b97ff04062b8c01705bf3d0203f58d2814cec805b7a37a729b5f10ebd"
+    },
+    {
+      "path": "scripts/texture.py",
+      "bytes": 631,
+      "sha256": "c30b5de69475696b351130e3dd9e0bc8860e2680d3480dd0c65d997d1003fb11"
+    },
+    {
+      "path": "scripts/validate.py",
+      "bytes": 947,
+      "sha256": "48f6a1fa29a39d9ce3f08119742492ac394a8565932b6bea88b50851d1410b34"
+    },
+    {
+      "path": "textures/turf_original.png",
+      "bytes": 279417,
+      "sha256": "b791dac5cdc9ff3834efc3da275ee471b6f9f433694973d99bd18ef83e3afcc6"
+    }
+  ],
+  "note": "v19 public copy manifest; original independent module retains its own version. PNG and track source path metadata cleaned without pixel/geometry change; see parent qa."
+}

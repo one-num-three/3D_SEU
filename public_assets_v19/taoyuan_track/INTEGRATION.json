@@ -1,0 +1,57 @@
+{
+  "asset": "assets/SEU_Taoyuan_track_detail_candidate.glb",
+  "byte_size": 1185756,
+  "sha256": "86b9a43895665d45a2dceaf6bbeda4f48e4eb7b523d870e475b8dc00aa766522",
+  "mesh_count": 16,
+  "triangles": 19889,
+  "replace_names": [],
+  "append_names": [
+    "SEU_TAOYUAN_TRACK_DETAIL_FOOTBALL_MARKINGS",
+    "SEU_TAOYUAN_TRACK_DETAIL_GOAL_NORTH",
+    "SEU_TAOYUAN_TRACK_DETAIL_GOAL_SOUTH",
+    "SEU_TAOYUAN_TRACK_DETAIL_INFIELD_EDGE",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_00",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_01",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_02",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_03",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_04",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_05",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_06",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_07",
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_08",
+    "SEU_TAOYUAN_TRACK_DETAIL_NET_NORTH",
+    "SEU_TAOYUAN_TRACK_DETAIL_NET_SOUTH",
+    "SEU_TAOYUAN_TRACK_DETAIL_TURF"
+  ],
+  "coordinates": {
+    "crs": "EPSG:32650",
+    "origin": [
+      671709.6990725585,
+      3529586.400278158
+    ],
+    "local_axes_blender": "X east Y north Z up",
+    "glb_axes": "X east Y up Z south",
+    "units": "metres"
+  },
+  "target": "additive_to_v17_and_compatible_with_v18_teaching_road_patch",
+  "render_contract": {
+    "surface_paint": {
+      "pass_name": "ground",
+      "depthTest": false,
+      "depthWrite": false,
+      "orders_from_node_extras": true
+    },
+    "sports_equipment": {
+      "pass_name": "normal",
+      "depthTest": true,
+      "depthWrite": true
+    }
+  },
+  "evidence_status": "photo_informed_estimated_detail_not_survey",
+  "do_not_replace_original_relations": [
+    11214072,
+    11214073
+  ],
+  "source_sha256": "3502104f8fa361097a1457ddb9bf6cea2163def4d01a8e03fb82e735adee8e64",
+  "baseline_kind": "complete_acceptance_scene_v17_4928_meshes_includes_4204_authoring_nodes_plus_ground_and_trees"
+}
