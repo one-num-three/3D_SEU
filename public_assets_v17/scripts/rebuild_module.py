@@ -1,0 +1,29 @@
+"""MIT: rebuild the frozen Jiuqu bridge candidate; visual rights CC BY4, geographic database ODbL."""
+import bpy,json,gzip
+from pathlib import Path
+R=Path(__file__).resolve().parents[1];db=json.load(gzip.open(R/'data/registered_geometry_database.json.gz','rt'));bpy.ops.wm.read_factory_settings(use_empty=True);s=bpy.context.scene;s.unit_settings.system='METRIC';s.unit_settings.scale_length=1
+mats={}
+for name,p in db['materials'].items():
+ m=bpy.data.materials.new(name);m.diffuse_color=p['base_color'];m.use_nodes=True;b=m.node_tree.nodes.get('Principled BSDF')
+ for k,v in [('Base Color',p['base_color']),('Roughness',p['roughness']),('Metallic',p['metallic']),('Transmission Weight',p.get('transmission',0))]:b.inputs[k].default_value=v
+ mats[name]=m
+for row in db['meshes']:
+ me=bpy.data.meshes.new(row['name']);me.from_pydata(row['vertices'],[],row['faces']);me.update();ob=bpy.data.objects.new(row['name'],me);s.collection.objects.link(ob)
+ for name in row['material_names']:me.materials.append(mats[name])
+ for i,p in enumerate(me.polygons):p.material_index=row['material_indices'][i];p.use_smooth=row['smooth'][i]
+ for k,v in row['properties'].items():ob[k]=v
+ ob['stable_id']='SEU_BRIDGE_OSMWAY_630436309';ob['osm_way_id']='630436309';ob['source_component_name']=row['source_name'];ob['layer']='bridge_structure';ob['geometry_role']='above_water_bridge_structure';ob['registration_status']='photo_proportion_from_OSM_path_approximate_not_surveyed';ob['z_datum']='legacy_display_only_not_surveyed';ob['license']='OSM geographic content ODbL; original visual contributions CC BY4'
+ 
+ if row['properties'].get('layer')=='bridge_approach_ground':
+  ob['stable_id']=row['name'];ob['layer']='bridge_approach_ground';ob['geometry_role']='approximate_planar_approach';ob['registration_status']='photo_proportional_not_independently_georeferenced';ob['osm_way_id']=''
+
+ if row['properties'].get('layer')=='road_area':
+  for k,v in row['properties'].items():ob[k]=v
+ ob.select_set(True)
+
+for screen in bpy.data.screens:
+ for area in screen.areas:
+  for sp in area.spaces:
+   if sp.type=='FILE_BROWSER' and sp.params:sp.params.directory=b'//';sp.params.filename=''
+bpy.context.preferences.filepaths.save_version=0
+s.render.filepath='//preview.png';bpy.ops.wm.save_as_mainfile(filepath=str(R/'assets/SEU_Jiuqu_bridge_photo_proportion_v17.blend'),compress=True);bpy.ops.export_scene.gltf(filepath=str(R/'assets/SEU_Jiuqu_bridge_photo_proportion_v17.glb'),export_format='GLB',use_selection=True,export_extras=True)
