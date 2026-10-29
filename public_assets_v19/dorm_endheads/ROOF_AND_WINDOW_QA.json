@@ -1,0 +1,98 @@
+[
+  {
+    "stable_id": "SEU_B_OSMWAY_630136421",
+    "roof_positive_projected_overlap_m2": 0.0,
+    "old_roof_projection_uncovered_m2": 0.0004123836754577345,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03504064369928983,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.025047953942134882,
+    "door_or_navigation_verified": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136422",
+    "roof_positive_projected_overlap_m2": 2.7052126938542642e-05,
+    "old_roof_projection_uncovered_m2": 0.0001620308927936192,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03499642168435457,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.024993444653659935,
+    "door_or_navigation_verified": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136423",
+    "roof_positive_projected_overlap_m2": 0.00017505977302789688,
+    "old_roof_projection_uncovered_m2": 0.00021649431437253952,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03499428275108585,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.025001071968176802,
+    "door_or_navigation_verified": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136424",
+    "roof_positive_projected_overlap_m2": 0.0005131131025564173,
+    "old_roof_projection_uncovered_m2": 0.0006205418306001316,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03499337993230256,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.02498672180070116,
+    "door_or_navigation_verified": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136425",
+    "roof_positive_projected_overlap_m2": 0.00011662207543849945,
+    "old_roof_projection_uncovered_m2": 0.0002106735918885854,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03495585352720809,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.024983764256603536,
+    "door_or_navigation_verified": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136426",
+    "roof_positive_projected_overlap_m2": 9.902380406856537e-05,
+    "old_roof_projection_uncovered_m2": 0.00033617875218682787,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03498610430995086,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.025043305237659297,
+    "door_or_navigation_verified": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136427",
+    "roof_positive_projected_overlap_m2": 0.0,
+    "old_roof_projection_uncovered_m2": 0.0008241835809954523,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03502398120417638,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.025008797483224043,
+    "door_or_navigation_verified": false
+  },
+  {
+    "stable_id": "SEU_B_OSMWAY_630136428",
+    "roof_positive_projected_overlap_m2": 0.0003310106698108939,
+    "old_roof_projection_uncovered_m2": 6.490241000020791e-05,
+    "roof_degenerate_faces": 0,
+    "roof_downward_faces": 0,
+    "new_windows": 10,
+    "min_glass_mullion_exposed_front_separation_m": 0.03498837040478975,
+    "min_cap_separation_m": 0.05999946594238281,
+    "min_frame_backing_engagement_m": 0.0250156622354325,
+    "door_or_navigation_verified": false
+  }
+]

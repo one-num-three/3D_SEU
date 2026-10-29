@@ -1,0 +1,7 @@
+{
+  "revision": "public_assets_v17",
+  "contract_descriptor_sha256": "8ae7934fce0dd0868f9ec2432e2f0669c0bbd383f6495cb7a1fed69f5aac8e41",
+  "materialized_member_sha256": "cbfee5753f9bed0d9f71e60c574913476fdd396a2b2eeb2fbe333f59f6dc8dac",
+  "target_mesh_count": 56,
+  "total_meshes": 4204
+}

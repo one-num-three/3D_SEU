@@ -1,0 +1,100 @@
+{
+  "baseline_revision": "public_assets_v17",
+  "baseline_descriptor_sha256": "8ae7934fce0dd0868f9ec2432e2f0669c0bbd383f6495cb7a1fed69f5aac8e41",
+  "baseline_member_sha256": "cbfee5753f9bed0d9f71e60c574913476fdd396a2b2eeb2fbe333f59f6dc8dac",
+  "replace_object_names": [
+    "SEU_B_OSMWAY_630136421__V05_pitched_roof",
+    "SEU_B_OSMWAY_630136422__V05_pitched_roof",
+    "SEU_B_OSMWAY_630136423__V05_pitched_roof",
+    "SEU_B_OSMWAY_630136424__V05_pitched_roof",
+    "SEU_B_OSMWAY_630136425__V05_pitched_roof",
+    "SEU_B_OSMWAY_630136426__V05_pitched_roof",
+    "SEU_B_OSMWAY_630136427__V05_pitched_roof",
+    "SEU_B_OSMWAY_630136428__V05_pitched_roof"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_mullions",
+    "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_mullions",
+    "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_mullions",
+    "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_mullions",
+    "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_mullions",
+    "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_mullions",
+    "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_mullions",
+    "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_central_roof",
+    "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_hip_caps",
+    "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_head_walls",
+    "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_frames",
+    "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_glazing",
+    "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_mullions"
+  ],
+  "source_fingerprints": [
+    {
+      "name": "SEU_B_OSMWAY_630136421__V05_pitched_roof",
+      "geometry_fingerprint": "1b3285d112093d07f612b1877dd97b38edb6a3b47b258350257f51a297fb95a9"
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__V05_pitched_roof",
+      "geometry_fingerprint": "2f2c40b04536f423af7e235794e2db5096ab97c6cd9b2265ed5bc7b20e2e2f20"
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__V05_pitched_roof",
+      "geometry_fingerprint": "6f1b17bcbf745e140cf88b3c6238ae9bd7c1bea9b20e4b38129706d3604e65c9"
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__V05_pitched_roof",
+      "geometry_fingerprint": "334a4c4fc361edc2e0a2bddaca14f39390c725e6911dd570b43b0993fb7f1ef0"
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__V05_pitched_roof",
+      "geometry_fingerprint": "8eb5ea59beb37cf93b43a7c7308df89e989e8cf9ba12c457697041e5fcad6c88"
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__V05_pitched_roof",
+      "geometry_fingerprint": "f46f79f6d23b4818d6c4a000d99a3f4e4c194e77dba246697ae8efdf5894c9fb"
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__V05_pitched_roof",
+      "geometry_fingerprint": "b6145245b55c24dbe323558a3541a3efbd05f2c7e3392a10a546a4aed7ab40d2"
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__V05_pitched_roof",
+      "geometry_fingerprint": "08c1cdbfd180e98429de1db04b81ba6b4a1b610d854ce5c3ea71e36916e3bf22"
+    }
+  ],
+  "preserve_other_objects": true
+}

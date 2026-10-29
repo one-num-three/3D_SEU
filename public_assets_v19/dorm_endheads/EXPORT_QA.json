@@ -1,0 +1,343 @@
+{
+  "blender_version": "4.3.2",
+  "mesh_count": 48,
+  "coordinate_contract": "X east Y north Z up metres; GLB exporter Y-up reversed on cold import",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 5.7220458984375e-06,
+      "triangle_count": 94,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 1.9073486328125e-06,
+      "triangle_count": 92,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 1.9073486328125e-06,
+      "triangle_count": 90,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 6.106495129998063e-05,
+      "triangle_count": 94,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 7.62939453125e-06,
+      "triangle_count": 91,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 2.09808349609375e-05,
+      "triangle_count": 93,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 6.337451067289791e-05,
+      "triangle_count": 91,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_central_roof",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 32,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_hip_caps",
+      "world_vertex_bidirectional_error_m": 1.5377536293599222e-05,
+      "triangle_count": 90,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_head_walls",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 20,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_frames",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_glazing",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_mullions",
+      "world_vertex_bidirectional_error_m": 0.0,
+      "triangle_count": 120,
+      "base_color_roughness_metallic_match": true,
+      "stable_id_preserved": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "source_sha256": "cbfee5753f9bed0d9f71e60c574913476fdd396a2b2eeb2fbe333f59f6dc8dac",
+  "source_meshes": 4204,
+  "retained_geometry_materials_transform_verified": 4196,
+  "removed_meshes": 8,
+  "added_meshes": 48,
+  "result_meshes": 4244,
+  "mobile_test": "not_run",
+  "real_dimensions": "photo_estimates_not_surveyed"
+}

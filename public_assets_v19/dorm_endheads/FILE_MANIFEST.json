@@ -1,0 +1,140 @@
+{
+  "files": [
+    {
+      "path": "AFTER_END_DETAIL.png",
+      "bytes": 2031307,
+      "sha256": "592b18ea8898a276221f9525c3dc4f58c58d3f3c667ca27b51a537982b354fb6"
+    },
+    {
+      "path": "AFTER_END_FACADE.png",
+      "bytes": 1772608,
+      "sha256": "f2b0ffbfe8d6347beccfb8dea7496ec77cfcfe9f0681f8ea3ccb1f5ecee3328f"
+    },
+    {
+      "path": "AFTER_GROUP.png",
+      "bytes": 1751631,
+      "sha256": "feafbd1567aecb7a8458b9ce5d59103b93db23f381a5a6c8dd52c967ca754f3c"
+    },
+    {
+      "path": "BASELINE.json",
+      "bytes": 288,
+      "sha256": "073a323d4f6dbf60c973f68e067bb698677b8207055ca7cb5fda8fa74fc497cb"
+    },
+    {
+      "path": "BASELINE_ALL_GEOMETRY_FINGERPRINTS.json",
+      "bytes": 648932,
+      "sha256": "45452dc26d92f9b4b2f0cbc367c16c87b8d05cf4e9e15f4f0374c10b601b9b68"
+    },
+    {
+      "path": "BEFORE_END_DETAIL.png",
+      "bytes": 2028439,
+      "sha256": "0c02b7da49a9649006f76739eda44191dd65d9706d90d1bb3dd5ce3b4f962849"
+    },
+    {
+      "path": "BEFORE_END_FACADE.png",
+      "bytes": 1763241,
+      "sha256": "d084582a5e6feaa39883471d11f4c67ab2c16cf154747d1ca6f0f3d461928341"
+    },
+    {
+      "path": "BEFORE_GROUP.png",
+      "bytes": 1738318,
+      "sha256": "ce062b7555aefdc463c4a0c1e45bb11b8ee005bb0b017cabb5b3aa33ed2d57ed"
+    },
+    {
+      "path": "EXPORT_QA.json",
+      "bytes": 12103,
+      "sha256": "7ad14f59099170ae896243240e0dec92db66a17725606e9c665f75f0a56e92cc"
+    },
+    {
+      "path": "GEOMETRY_QA.json",
+      "bytes": 7480,
+      "sha256": "5ca37d746fba84166bdc4246b72bb0b36b47e8d3a69e77b129ac3aeba5f22ecd"
+    },
+    {
+      "path": "INTEGRATED_QA.json",
+      "bytes": 323,
+      "sha256": "11e20050a2120a9c3a458856486ccca8e5e33700f4998b430a296ec52773f98f"
+    },
+    {
+      "path": "INTEGRATION.json",
+      "bytes": 4994,
+      "sha256": "a1ca0c8f4441a7c68ee6d637bdb52ce509ecde1b3e4397bf5164d24c1ac416c4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3758,
+      "sha256": "45ef35d5099d98573d6ec1a7a194e7785b15847f443156aa30b9f90a650ab073"
+    },
+    {
+      "path": "ROOF_AND_WINDOW_QA.json",
+      "bytes": 3872,
+      "sha256": "4ae4441741ad4186d65d43b1468008c816fd2aa8b940c8c677a362145a8cadf0"
+    },
+    {
+      "path": "UNCHANGED_TARGET_MESHES.json",
+      "bytes": 7466,
+      "sha256": "c72e228920dda362ba18a636a8e7bf300163cfa1fde99dee869f8451bbcacf66"
+    },
+    {
+      "path": "baseline_taoyuan_geometry.json.gz",
+      "bytes": 402516,
+      "sha256": "484297a01483addccbef8994ce874b30a48fb7dafcce9781d0224237d4f33fa7"
+    },
+    {
+      "path": "build_patch.py",
+      "bytes": 8984,
+      "sha256": "f09a2aadec65a971580474fd58b16fbae12500c5207cc1edf0df9189d94acaf6"
+    },
+    {
+      "path": "footprints.local.geojson",
+      "bytes": 8793,
+      "sha256": "1422447c8bf90f6f83403fcca82d55af9e8d9f61b51eb6ad4e705da5aea93123"
+    },
+    {
+      "path": "geometry_database.json.gz",
+      "bytes": 44890,
+      "sha256": "1d60912ea29e4fed16eb567da713093bc5ab058128f03ba895026031a56bdb87"
+    },
+    {
+      "path": "integrate_and_verify.py",
+      "bytes": 2575,
+      "sha256": "0ff7ff32d3daf8528c1742dbe068897f07ca108d66ef2a9c204298c4c88e498e"
+    },
+    {
+      "path": "objects_manifest.json",
+      "bytes": 32272,
+      "sha256": "06e332c0685cd6f15a21ef06ff4533f90bd50dd1a4994b843ada7f8fed7810d2"
+    },
+    {
+      "path": "rebuild_clean.py",
+      "bytes": 3233,
+      "sha256": "904815c1a74996c2508d8baa8726f30c9a29d6da4d70df81b162e0aef7c6b9c4"
+    },
+    {
+      "path": "render_compare.py",
+      "bytes": 2480,
+      "sha256": "c2335b2d534690e9a93b9ebdc3b632306beb9e4f3df421544a57d409c596b64f"
+    },
+    {
+      "path": "seu_taoyuan_endheads_candidate.blend",
+      "bytes": 131533,
+      "sha256": "731e3baae04a5e2b1dad224a297f13e120bef2e99555b8ec13e75ee48999ae9c"
+    },
+    {
+      "path": "seu_taoyuan_endheads_candidate.glb",
+      "bytes": 116928,
+      "sha256": "d609b2ee9cecb71e7e0bcbcb2c02094454f385ab99a91e76e28ac7f489bd3d57"
+    },
+    {
+      "path": "validate_export.py",
+      "bytes": 1558,
+      "sha256": "a5f7e94704e0efe50854861da5e803441c72de8c4939cdf8a89190c1d1a6c1c3"
+    },
+    {
+      "path": "validate_geometry.py",
+      "bytes": 2390,
+      "sha256": "5ea25d287efc00938a8ecf73ad38bced278f7d510c55882d662b0ea9722de33c"
+    }
+  ],
+  "note": "v19 public copy manifest; original independent module retains its own version. PNG and track source path metadata cleaned without pixel/geometry change; see parent qa."
+}

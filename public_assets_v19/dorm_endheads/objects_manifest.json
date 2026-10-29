@@ -1,0 +1,495 @@
+{
+  "schema_version": "1.0",
+  "object_count": 48,
+  "source_outline_id_count": 8,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "65dc595db5d963f6eb9e768fe78b2bd3255d8e39a96a7313e5ca9cafb4fe69d4",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "e2af325c70a650c98af3c73c5e09b0c01c3cfc3f031277ecfafb6f255e9faa0b",
+      "vertex_count": 327,
+      "polygon_count": 94
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "39c8d6171ead8948b2dd2221c2059b1ffd747fcf9bd72a65d120f0cc5b912b83",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "3db51a48ba0101a1421f18e70b38b465aa0490cf8f461a8d5c9cbe4fe11479f7",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "ef62e6bc558a5e5e063e56d609cc8cd9d44649d57799287165cc4de32afb42b6",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136421",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "e38926df998eb88d45ea8566faa1a3842a170a13380fe351578df0e0af8959f3",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "f6e167fd36be7a2e173772acd5411ae322d565eb081943d74be7ed298e228a2e",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "a8df27b8adfcf2697b216aa76b0975ce0caad977911f0f76442600c7bb0408f6",
+      "vertex_count": 324,
+      "polygon_count": 92
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "1c638a7b499946781a8ecb06c5195b72a2d5f31a05142649223ed042d0267b97",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "77cf11c48fdb71325d32f3d3916adff585286d34d8250cc4aae4ef4c5e90e687",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "b3b0025c2d6e0cc077a5e10b16776b0b3525d9c09455d0d5474ac3897fbcaf13",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136422",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "64ed6cb86d595c66b4b43a553046c0be3e16cf577760526d7e1bd6f39eb03416",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "c9260bcacd785aab73916cf82e7b396238fa54ca38f40ae75bb3fb2f7d12d435",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "8e907b4784b502595d4e37c16e9057e34ece34f23c633aec030b8d00c8d1dde2",
+      "vertex_count": 333,
+      "polygon_count": 90
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "194ff9437247568d89cf7a1f51c336050a18df3612193e29a17146b0d2bd2e32",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "71bfb8002c286368d05e67fc0bffb0c6ba1a3249c2d14329af392e18dd848ee1",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "66f41436e8ea327d5654ca46f79258a65171ba1b07b1c7975a5ba3f3f3b89ed9",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136423",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "621f1ec2f96426aaeb4af28405016525dbec6822343850c0bc9b85f13f6c910f",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "38be33bf07600293125c3df0254ecedb4789c63f9612abac3ee555d7f11b14f3",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "908614a0697ab1299af182d80b7ab2141357895bcdeb3da47b158294c6f754de",
+      "vertex_count": 324,
+      "polygon_count": 94
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "ffe3b51723dd5e18900d1d93cfa8fa7027c9f611c2fba46beae12cb70d513664",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "8f422d95da5d6346159883205a7648797f730c17d7a7f6b98dca47b4e1133a3e",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "04ddfda7d0bbe4f12084b964184d21c8ba87ebf611dea1021c9e7c36b2e587b3",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136424",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "83f0522fe3d6b3cba166053168efaee9233b591542ed3299668acc58842c7c5b",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "2f44c4158fdac08da15563fa293e22fa9335b14314bd0c5fe7ed71d668d2c06a",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "63c70ab8a6a9d9fbaabbd1cd9cb5d5715814d9918f780e686d80b25c7f8da5c8",
+      "vertex_count": 327,
+      "polygon_count": 91
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "0540e80e068bb65b2fd995857a0c53e7d2481f44538bf4e2a760f9275ebdeb2b",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "3f91a958e58de6b2921693f6eedc54cf7951da37ea0966606cc8e24f5d4e248a",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "37c100f50f600bf8242b6c0bfa3ee8d2d15bb310dbe7f811f7079272a37b4403",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136425",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "e29e1e01101549dc81a0bce593cc665edb24d99a381435bc006036f09fcf0be1",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "b2dd3479dcdc02ce4b7fcd3bd70c0c8fba09b4e60aee729135faa8b994177879",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "eadec530a432212536051431fa3436fad56b77638415aae10f0ebe9013bbcf16",
+      "vertex_count": 324,
+      "polygon_count": 93
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "f6cdc7111b6df49a2fe4b0e522a0d42fb151a7b840c9089c5437caefccb7d4d2",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "a3b6e33acd16d947ab91d5b28028136a12c72138291667c716fab73d0611258a",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "de15a95af15868a3b3437ca44394eb3cd54ef18a13c7e9fc4568a48f80c79d15",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136426",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "5286e04c7810196822813a36bc22991cab0b0db5bdf907f8ac35e449ce500674",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "86310e4fc68acbbf1d191cd7503fa9cacbb9215c14c4b14e58c9eaeb9d779522",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "25d3b3d4ad2951336c25f89321e61bdd9b0475b7a6a0034f06b1a6e716c645a7",
+      "vertex_count": 321,
+      "polygon_count": 91
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "93ccd17f1b79d1f8fef39304fd0424fbaccaec9d6278fe117a2355fa26fb5a15",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "0055f10c4201d850ccfd98d2d30b834c6e9253ed1ad15e762e8dfc58b3ac2a3f",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "898e00d601dc5bf96e40e77bbe83ec3abd1f686b186650addcd48871ced0155b",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136427",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "c7e29e9de52c0829ef5b910936adb659f8cccf5e7cd128b5e9428a98fbc2951f",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_central_roof",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "original_roof_planes_retained_where_exposed",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "ae44eb6e8266cacc7f9b92f4e323447b5f0f2989b09a6689eac13f99b48ebd4c",
+      "vertex_count": 96,
+      "polygon_count": 32
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_hip_caps",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "observed_end_hip_caps_trimmed_at_roof_intersection",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "8d00fac2b0b61259c40782f668286d7a30ed8e6a9e7cbc1ecc0f3921863501ae",
+      "vertex_count": 312,
+      "polygon_count": 90
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_head_walls",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "end_head_walls_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "1281dae5771fc24c2ccbec4a21afba8b7c3f0a6230b86c7cfa459bc877537b2b",
+      "vertex_count": 24,
+      "polygon_count": 10
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_frames",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "end_window_frames_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "158d301f21988ef43facab6a50ec496b95024e45e762252a31aecc0f29eb23f5",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_glazing",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "end_window_glazing_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "c25d0b325dc73ef05355c27b032ae5547c0bdc60b6f414f585026c1946f5e356",
+      "vertex_count": 80,
+      "polygon_count": 60
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_630136428",
+      "role": "end_window_mullions_photo_type_dimensions_estimated",
+      "assumption": "Photo type confirmed from architect-supplied 2023 aerial/top views. End-head widths, eaves/peaks, window counts/subdivision and dimensions are proportion estimates, not measured. No inferred entrance or indoor navigation.",
+      "sourceclass": "photo_type_confirmed_individual_geometry_estimated",
+      "geometry_fingerprint": "ed8b20ac31d9f77448cdf686f59217a8c6157e7646afe945722520a49c5662d5",
+      "vertex_count": 80,
+      "polygon_count": 60
+    }
+  ]
+}

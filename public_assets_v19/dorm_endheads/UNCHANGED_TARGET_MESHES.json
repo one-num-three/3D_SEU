@@ -1,0 +1,194 @@
+[
+  {
+    "name": "SEU_B_OSMWAY_630136428__V05_roof_panel_array",
+    "geometry_fingerprint": "365671c18a838cff4ffad1a06574870c7492914997d2f8d4c9e6dcf2b09a710b"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136428__0004",
+    "geometry_fingerprint": "ab7738d85716ef819013c2943eb2a95f63c915f2e21d17c5ba75cb37db403b68"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136428__0002",
+    "geometry_fingerprint": "0dca44dd2544e3beb751653e21b72a924ad784cb47ace58ad9c89295d9e79825"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136428__0001",
+    "geometry_fingerprint": "b4bd63fa0e529b5af5e76d5f21f2971e5498f6d62e0979e2575ed576898a9fe6"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136427__V05_roof_panel_array",
+    "geometry_fingerprint": "be18c2ab2d71c6b8d5f45ac7f7660532233fa21e510be48a64f5f518b57870e6"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136427__0004",
+    "geometry_fingerprint": "3dbdc8c8afdc7b448d54bd101cae0fdec876d83a43a53e1f1b8f37a090620844"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136427__0002",
+    "geometry_fingerprint": "af1cfcea978c46d94ce91c91359945ecf8b79433a74fa0a5df4e6c8040372065"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136427__0001",
+    "geometry_fingerprint": "75cf89e08d2a60f93fbcbfb89297cec990322f5dd33f84e6c71d371b9933bd77"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136426__V05_roof_panel_array",
+    "geometry_fingerprint": "7f8399f2b72624afdc0b01cc96648314c04d9f9beb50bbd67c49d37df99d3d54"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136426__0004",
+    "geometry_fingerprint": "d4ed606be195b3d177052c1431ac4b5eabe983a0fb212c3ab690cbc14ca71d56"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136426__0002",
+    "geometry_fingerprint": "b1819d835c5db14675dc0be8651eed540bf3b350ab69009bffc181bc7ecf3635"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136426__0001",
+    "geometry_fingerprint": "122bf95d1b30c5d02ae330a0f77fa1e0e304c4f16f824dfdf308ba153408f7d0"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136425__V05_roof_panel_array",
+    "geometry_fingerprint": "93edfe3b347a8823e384be99b934956d43a630c637a4c4e3c10185abfe7678ec"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136425__0004",
+    "geometry_fingerprint": "eb5c7af15a808491bdc24be67af887f66a72617b3b8c0fb6bb44461baffcc11b"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136425__0002",
+    "geometry_fingerprint": "53309fd12ac4d10515d659d557e475b807e3b05a1a64c7270d7dd1fd0fcb0fe8"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136425__0001",
+    "geometry_fingerprint": "aa4221be3589de5be12fe3e5c6f229ef94cd396cab19969472545207e78fb709"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136424__V05_roof_panel_array",
+    "geometry_fingerprint": "7abdc465ba9e6d159a59c295586b27f1793380bf7c378b242c4eb9de463e2088"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136424__0004",
+    "geometry_fingerprint": "bbe1675ada45c1e33fccb20c4e094dfaaf38762c3720e8f4931587929d408db8"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136424__0002",
+    "geometry_fingerprint": "8f78abf0593047635cadf358c91f1bc52620c46fc730137d4db2222a6d002886"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136424__0001",
+    "geometry_fingerprint": "5715d90903b9bf91befba91eb9def2d96c98b5254c3804f74fa135c730ed80de"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136423__V05_roof_panel_array",
+    "geometry_fingerprint": "a0abfa8bf273898405a1e4ebb44550bdaf6bfd65b800c3290d8b56b164beeb90"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136423__0004",
+    "geometry_fingerprint": "d42b3632eecf302ec44e92476dc521abb6f8e89c70ee38c8967131bf1ff36c55"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136423__0002",
+    "geometry_fingerprint": "a75ccc77b4b8de48268b6c5a8dace4ba8b22798d679763fb2aafe3a27981b261"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136423__0001",
+    "geometry_fingerprint": "8aa7b8698beae82c11d9e85f66140c624ec490e89b7d5104daae97f79c11ef10"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136422__V05_roof_panel_array",
+    "geometry_fingerprint": "597d2df206bd0d22a89915b89ec1219b1b164f17b0cd7bdef99f26e9df848231"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136422__0004",
+    "geometry_fingerprint": "03e88f47e5b12fee4086561623400d6506bfa49c940e62627cfee269e6aa6532"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136422__0002",
+    "geometry_fingerprint": "5aef05d62601f9e2a79489fdb8e25abbd5564e3c4d259cb3a5557d5951754b94"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136422__0001",
+    "geometry_fingerprint": "0e030091029d94ce90374b4bbc7bc3b6a80fc5c0d5858e2d8c7cabefab590428"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136421__V05_roof_panel_array",
+    "geometry_fingerprint": "20940c79eb64291618d59614c466b8fdb06fa4148b3572838d0a434ae82b387b"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136421__0004",
+    "geometry_fingerprint": "ebf8fe5db389161a11bb6023566f9f363da3e684253de4a28e02e222ab93042e"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136421__0002",
+    "geometry_fingerprint": "3879ed41807df8d9efd0069dc5d40dc712e2538a6e1a3ec8654099c948a00b32"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136421__0001",
+    "geometry_fingerprint": "a9147773ec5d086dce28ad6478cbbc8d114d2806c5a9fb5b1975da786b3ac034"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136428__V05_window_mullions__V16",
+    "geometry_fingerprint": "79df8183ee5debacab79f37fa3261a32d9c24af7cd5e33684fe305c857dfe12c"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136427__V05_window_mullions__V16",
+    "geometry_fingerprint": "7856ba2d40d504b079e45ed754e6f0d368553a635ad8fde0ecccbd82a790c0ea"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136426__V05_window_mullions__V16",
+    "geometry_fingerprint": "202540a057d740f6d7bc4fce2892fd265cd3b9cae6d35eb9c38932220f5e6210"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136425__V05_window_mullions__V16",
+    "geometry_fingerprint": "b631aeb92d6d2368a60adf6cf2bc7409cc20194382e7eca59bc46fd849238750"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136424__V05_window_mullions__V16",
+    "geometry_fingerprint": "291d4c1528eda77d1650699f3c88d0892dca2e2855c6261ce36ad4d425529403"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136423__V05_window_mullions__V16",
+    "geometry_fingerprint": "53982536b572a049d690febe9ee88d1b3b9ab7cf46964f548f7a935b75800f18"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136422__V05_window_mullions__V16",
+    "geometry_fingerprint": "df729c45555a7a2590f8ff952b3d4c2f736b690adf5cf6568d2534e12c614038"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136421__V05_window_mullions__V16",
+    "geometry_fingerprint": "44e8b0f941cf77e7b656e5ccf7829d42464be0de6e2d4de0331711af11e4531a"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136421__LOW_REMAINDER",
+    "geometry_fingerprint": "07f1cc5e1f64e31ee7e49422b315dc80e7c872c9c35f740bb8761d1681972e38"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136422__LOW_REMAINDER",
+    "geometry_fingerprint": "0f358ad8647cbac73736935978bd7ad06d7962fdb0774c24633f9e07faaa2e2c"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136423__LOW_REMAINDER",
+    "geometry_fingerprint": "589f2bc652a605e0abb1eb74d09e957578398d225394cf1f837f412c688be90d"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136424__LOW_REMAINDER",
+    "geometry_fingerprint": "755c68d10e8228da35ed57997493f2c2824e3a42354808efeed35d1beca21fdd"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136425__LOW_REMAINDER",
+    "geometry_fingerprint": "ca0d118530713ad0f83ee95e8a7336b545ef0d1498589b874a79bfe68e1a7a28"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136426__LOW_REMAINDER",
+    "geometry_fingerprint": "a74987c8046099946afac88c65abd94566b1e61ef5bf59e04656558861f94e06"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136427__LOW_REMAINDER",
+    "geometry_fingerprint": "5981c850cfa5c82c59f72de78b34747c727c196987b438e1ea30d8584a07f82a"
+  },
+  {
+    "name": "SEU_B_OSMWAY_630136428__LOW_REMAINDER",
+    "geometry_fingerprint": "48a1b49022b498a054b78314e79cf23d8c9145e3dd9085b86411cdb44addb8c0"
+  }
+]
