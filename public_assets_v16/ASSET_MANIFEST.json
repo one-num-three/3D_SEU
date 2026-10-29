@@ -1,0 +1,635 @@
+{
+  "version": "0.16.0",
+  "scope": "Complete 30 Taoyuan court details; 14 dorm mullion coplanar fixes; bounded road display and structure upgrades; exact replacement list; no performance LOD",
+  "previous_versions_immutable": true,
+  "files": {
+    "README.md": {
+      "bytes": 4762,
+      "sha256": "fdacff2730b21cb049275b4fdb96ec0ce53618116e87b380488ab996e8ff5645"
+    },
+    "assets/SEU_building_patch_v16.glb": {
+      "bytes": 11482840,
+      "sha256": "dd91e109b88bd5ea237549a67477e9d587dbc2481cefd9b5fa0426e180f88f12"
+    },
+    "assets/SEU_campus_full_quality_v16.blend": {
+      "bytes": 19351307,
+      "sha256": "a605e0d3d0adcdfceeeb0bf034fba41820a16d8873ff05fe0ecee08b9e053c4c"
+    },
+    "court_road_edge/ATTRIBUTION.txt": {
+      "bytes": 198,
+      "sha256": "0b972e644fd8705f9f21c8d40c21d15f17e89d8bf7a4729f2314f1c0c1ab9264"
+    },
+    "court_road_edge/FILE_MANIFEST.json": {
+      "bytes": 2979,
+      "sha256": "7b2242b08981e642e23ff23ba213ee4278a376b2e0e9ca988d4a425d978560df"
+    },
+    "court_road_edge/MANIFEST.json": {
+      "bytes": 1193,
+      "sha256": "78a305913a24fb5a2313b5312d882733106c137cd9f20b86326825bb63e328a1"
+    },
+    "court_road_edge/PUBLIC_RUNTIME_WHITELIST.json": {
+      "bytes": 447,
+      "sha256": "08018440ad43b257cf7e835962e67200e90c827c8004f99502dca8628248b36e"
+    },
+    "court_road_edge/README.md": {
+      "bytes": 1450,
+      "sha256": "95d5cfb314a921715386a0b9e9af142f0545a15fc1cd6cd781c144438d78378b"
+    },
+    "court_road_edge/assets/SEU_ROAD_851764290_DISPLAY_EDGE.glb": {
+      "bytes": 14696,
+      "sha256": "39fc49803611a6d983e11e2c2b023014450851f6d622c74021c6b802a978d3ed"
+    },
+    "court_road_edge/data/INTEGRATION.json": {
+      "bytes": 221,
+      "sha256": "f4d3d22c9888987c20b2d2f9243e9b454c7f6ad6a4de3f58ef7a15007111a87b"
+    },
+    "court_road_edge/data/ROAD_851764290_DISPLAY_CORRECTION.geojson": {
+      "bytes": 11881,
+      "sha256": "b46cfc709b0d06b4bd52c54efc2c68af651aeb876f7829ada0907791060466bb"
+    },
+    "court_road_edge/data/TRIANGLES.json": {
+      "bytes": 9708,
+      "sha256": "77461778a0cd93bf22ad5434f7b0bb17b676bab0138308da311ad1ab5211ceea"
+    },
+    "court_road_edge/inputs/foot_support.json": {
+      "bytes": 41319,
+      "sha256": "266a6955398aae3c8b8e395bb9c1198f2ec2db00ecb2334992ddccb6a64765ff"
+    },
+    "court_road_edge/inputs/pitches.local.geojson": {
+      "bytes": 32617,
+      "sha256": "f5de3962a1c7e266f9ea1b85aa9245b97b9e059c2a1df24a235bd6238dfa467a"
+    },
+    "court_road_edge/inputs/road_source.local.json": {
+      "bytes": 1256107,
+      "sha256": "88971c1ea855e49e61189f40c9eef754df5f1dee7de73e1aa68bc8a2240a8f47"
+    },
+    "court_road_edge/previews/BEFORE_AFTER_DISPLAY_EDGE.png": {
+      "bytes": 295402,
+      "sha256": "c8a9bee90a366aaf3db8207aea41273b3eb7c3366556aa73596f21a56a7466a1"
+    },
+    "court_road_edge/qa/DISPLAY_EDGE_QA.json": {
+      "bytes": 1283,
+      "sha256": "c522dbcd64a4170aff2b141402355db395b8cc5b3a7c3248f927b8b041497d76"
+    },
+    "court_road_edge/qa/FULL60_BASE_OVERLAP_QA.json": {
+      "bytes": 10162,
+      "sha256": "9878dc42b590f934e33d1e9ddf7e26f16a205a2615c24297f3a2ca4ff3432417"
+    },
+    "court_road_edge/qa/MODEL_QA.json": {
+      "bytes": 309,
+      "sha256": "a5bb6be83371ab8e1ec241a4124c26d12f19378bbbd6630edba595604c5b3e01"
+    },
+    "court_road_edge/scripts/build_edge.py": {
+      "bytes": 3531,
+      "sha256": "354f29f83876d648b5e1b3d66b7149c52d3c955ad1d51ad17dfa010c5a3c82f3"
+    },
+    "court_road_edge/scripts/build_model.py": {
+      "bytes": 2506,
+      "sha256": "35ff8032699b0426b21297b7b57d4718d05493ac1af437860a7fc77c560a3103"
+    },
+    "court_road_edge/scripts/check_roundtrip.py": {
+      "bytes": 926,
+      "sha256": "9e47cf5704197f74ab10e79dc6dc0082db8a4ac309bebab05920dc263f3f2538"
+    },
+    "court_road_edge/scripts/plot_and_check.py": {
+      "bytes": 3020,
+      "sha256": "74f2fa5349aca791fc85634173d1e5f41ede547d937c5b1ff5c2d63ad3488a5a"
+    },
+    "court_road_edge/scripts/vendor/geos_small.py": {
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    },
+    "data/CURRENT_COMPLETION.json": {
+      "bytes": 716,
+      "sha256": "331621d6d122215c7324d8abea8115b61fe1acfbf719c1c9c3cb0b7d64aa355c"
+    },
+    "data/MODULE_INPUTS.json": {
+      "bytes": 675,
+      "sha256": "38324d644ae02617fcbcb75b544705d74b5a57ca2890aec551c2a16e0febf068"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 5940,
+      "sha256": "56a35836b693e4a223e8f57822ae9dd2c21a38e254f9c755cdb10c1192037388"
+    },
+    "data/ROAD_MODULE_SOURCE_IMPORT.json": {
+      "bytes": 330,
+      "sha256": "0a357fdd36bb538afdaa7d92b1db6b96885fae7fe19cf6c6357d5c0ab8b1441c"
+    },
+    "data/TAOYUAN_COURT_BUFFER_DISPLAY_COLORS.json": {
+      "bytes": 1670,
+      "sha256": "1f707fb41ac575bb02f7e2811574a7100e021fbf26f106a585bdd4055ad4162a"
+    },
+    "juyuan_mullions/AFTER_NORTH_CLOSEUP.png": {
+      "bytes": 854371,
+      "sha256": "8b64564834abe50598b3e6e11264528eca7886d3848e080bc3ac5cabf1aa8d2d"
+    },
+    "juyuan_mullions/AFTER_SOUTH_CLOSEUP.png": {
+      "bytes": 880828,
+      "sha256": "456217bfed4eca25dd021b979c92b192df6b07e35109d4193a2cddcaf8358948"
+    },
+    "juyuan_mullions/BEFORE_NORTH_CLOSEUP.png": {
+      "bytes": 853562,
+      "sha256": "98377f2c352e7de1fc7be36807200258f46cdd54b5d3783959407d0564dae31f"
+    },
+    "juyuan_mullions/BEFORE_SOUTH_CLOSEUP.png": {
+      "bytes": 880294,
+      "sha256": "9eec603cc54689733d798710fdbf73b2a19309ae6a03d4ab6d6a7ccb1a6f8d56"
+    },
+    "juyuan_mullions/BLENDER_ROUNDTRIP_QA.json": {
+      "bytes": 10709,
+      "sha256": "6114e13e071b97b316cb20d664c90ef17b368b16e871ed243e8bd4470904f776"
+    },
+    "juyuan_mullions/FILE_MANIFEST.json": {
+      "bytes": 2349,
+      "sha256": "b0582366265ed8b492345c57d6d78c63961b672ed240ca2a89e8ed335f591d5d"
+    },
+    "juyuan_mullions/INTEGRATION.json": {
+      "bytes": 919,
+      "sha256": "1686501670d19546ab36200859dc15d7d88d6be3f60ec8210f66a387047ae9d5"
+    },
+    "juyuan_mullions/README.md": {
+      "bytes": 2952,
+      "sha256": "5e92bd8837c3275ef0e5b08b7b2f70d5a8f16d3ab97c5ae73e478b89e914336c"
+    },
+    "juyuan_mullions/REGRESSION_QA.json": {
+      "bytes": 838542,
+      "sha256": "693bd57f852d213249679390e125e484771d7a9c5f2bd97fab5d117fb5b54bc3"
+    },
+    "juyuan_mullions/SUMMARY.json": {
+      "bytes": 525,
+      "sha256": "5615ef9bd9b496044ae8c0259ae2884e1c74cf9e6cdbc7cff091cdd62240d071"
+    },
+    "juyuan_mullions/UNTOUCHED_48.json": {
+      "bytes": 7838,
+      "sha256": "6f2aae7abb6cebf01d9cef250bd790f4b71a2d9385964598490184d103f003bf"
+    },
+    "juyuan_mullions/VERTEX_DELTAS.json.gz": {
+      "bytes": 14889,
+      "sha256": "18d58e7a2214cc7cce47aac832ff9f05e2fa35db3054248f45df564b1cbe2221"
+    },
+    "juyuan_mullions/geometry_database.json.gz": {
+      "bytes": 99789,
+      "sha256": "95d0348b3c4812141237a55e4ca7e4cdbdf38623e3f4d49edda2abb720303a77"
+    },
+    "juyuan_mullions/objects_manifest.json": {
+      "bytes": 6205,
+      "sha256": "7398a561743f04438e76ca6c4f39fd431283d28dd045cde19a25ffe2b63bf22e"
+    },
+    "juyuan_mullions/rebuild_clean.py": {
+      "bytes": 3099,
+      "sha256": "f0f4fea8af5cd50c472fa3ea90a9090ca800faff1fc3113bbb80e3d8b1aadcc1"
+    },
+    "juyuan_mullions/seu_dorm_coplanar_regression_v16.blend": {
+      "bytes": 125106,
+      "sha256": "182e958d4a0a1387a73c419c8e54d3c27af47935d275997f74927087d550aaae"
+    },
+    "juyuan_mullions/seu_dorm_coplanar_regression_v16.glb": {
+      "bytes": 130656,
+      "sha256": "6c532852a553777b948be2291ebadc811cf9777673b24b5f2bbb85d1bf1922be"
+    },
+    "licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "licenses/README.md": {
+      "bytes": 1002,
+      "sha256": "48d568fbf3c0d8bd25a11bf119e2be83de4932090de915fedcef620e319e1677"
+    },
+    "previews/TAOYUAN30_EDGE_TOP.png": {
+      "bytes": 1241784,
+      "sha256": "4dfe79313b553a03ea82fab303684002b206aee6829fae354bb32e799f701e2d"
+    },
+    "previews/TAOYUAN_SOUTH_BASE_CLOSEUP.png": {
+      "bytes": 936991,
+      "sha256": "2a8d77a3fb7e7706fa291bedd21e135b0dd5bdc36c9b5c5573e44efb75c8a8ba"
+    },
+    "qa/BUILDING_SAFETY_BOUNDS.json": {
+      "bytes": 185447,
+      "sha256": "4b99b0a3ed67dacfa1bb9619a508ba3a33c72faf8aa71b275c6dbf267cf8cdcc"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 2345,
+      "sha256": "1104c8039f5f77dc4b89e1621fbaf123712525aae7125c75c5f27a05c1991685"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 449734,
+      "sha256": "0c31a5c37e461681376130a77e264b7392fbb8aa135cdc886525fa76934f32e1"
+    },
+    "qa/LOSSLESS_SOURCE_COMPRESSION.json": {
+      "bytes": 312,
+      "sha256": "4d0b8baf4c13d519fa963aeac2a5ee5523278a6ecceab424967b8af4d17a1866"
+    },
+    "qa/OPTIONAL_BIKE_CLEARANCE_QA.json": {
+      "bytes": 2083,
+      "sha256": "e35ed5a940231a94d8bbdbae56835b7f5f729014e568df8344920d50327f6977"
+    },
+    "qa/PATCH_IDENTITY_QA.json": {
+      "bytes": 330,
+      "sha256": "93307fc564674f938733d8734421c9fd79768649ab4941af77a898c6141d4bb7"
+    },
+    "qa/PNG_METADATA_QA.json": {
+      "bytes": 4110,
+      "sha256": "44dddc2dd01ca88e5f4646825d740eb600e1e927a44c05993f13ecb2d4c0d4d9"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 170,
+      "sha256": "7bcec5a1ae89d435d65c7f97244a494892a2be16a48736b4f99b339064944ec6"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 335,
+      "sha256": "579c9af96cc1a17d4e95901747558345ba34f6b635feed319a5cb729ecaeaf58"
+    },
+    "qa/RETAINED_TREE_CLEARANCE_QA.json": {
+      "bytes": 284,
+      "sha256": "e8fe1b94e66ec4bfe5c65770ed7330a40c00a12ce3435f85e3d17e6ee3b93414"
+    },
+    "roads_micro_surface/FILE_MANIFEST.json": {
+      "bytes": 2588,
+      "sha256": "46998201788a8bf96ed4b23d1459a60fdaec4a494c23e8acbbdfe709a85643bd"
+    },
+    "roads_micro_surface/PUBLIC_RUNTIME_WHITELIST.json": {
+      "bytes": 909,
+      "sha256": "aeea68b5c6195f86b09b6fc7cb44acb913d7ce9e5c471841e9754651178b7053"
+    },
+    "roads_micro_surface/README.md": {
+      "bytes": 1963,
+      "sha256": "059b1958cd6783825b57f2387aa1aa5c42b3ca472f65ef42b67c31daa171f825"
+    },
+    "roads_micro_surface/data/ROAD_MICROSURFACE_MAP.json": {
+      "bytes": 264437,
+      "sha256": "425b8523e3fc2f7a2099de5e4419f8e355d73edd0cb14a2e44a34194dac96d94"
+    },
+    "roads_micro_surface/inputs/ROAD_SOURCE_TAG_AUDIT.json": {
+      "bytes": 503270,
+      "sha256": "f56a915ad33ef5f5e8697f7dde7c32618d8cc014714af095dec2f6326b629ee7"
+    },
+    "roads_micro_surface/inputs/road_material_overrides.json": {
+      "bytes": 204989,
+      "sha256": "9dd3a5aa0cad2321e80dd61fb2bd030abcdccea843290333cf560231751b4460"
+    },
+    "roads_micro_surface/qa/ACTUAL_GLB_QA.json": {
+      "bytes": 676,
+      "sha256": "d0156ee60a2af2a97a4469770dfb5193ada0e20e250b470bb65de7cde22a1465"
+    },
+    "roads_micro_surface/qa/ADAPTER_QA.json": {
+      "bytes": 159,
+      "sha256": "6f62907f2ba99f89a7e31cb62b3a997fbf3d560d0fd6f64a44c9067ed59922d5"
+    },
+    "roads_micro_surface/scripts/apply_micro_surfaces.mjs": {
+      "bytes": 1940,
+      "sha256": "0c827e7f6fca1ab694d629b5a9f5543c424706dbf836f7e105ca29e898f6df64"
+    },
+    "roads_micro_surface/scripts/build_surface_pack.py": {
+      "bytes": 2336,
+      "sha256": "1ab0a4d56a6b4698d400d2b1a283d38a5ac81472ee617a2c4c7734a0423a56b6"
+    },
+    "roads_micro_surface/scripts/extract_entry_building.mjs": {
+      "bytes": 2141,
+      "sha256": "c7a70e89605c3c8fe8e6495b894c334c81c34cbd1c8696196bbd910fc683aa8f"
+    },
+    "roads_micro_surface/scripts/inspect_court_road.mjs": {
+      "bytes": 1496,
+      "sha256": "3a6beddfa0d1f4c3b213a2da204b6266d0346fd279fc7d44ebd2266816f411a0"
+    },
+    "roads_micro_surface/scripts/raycast_curb_support.mjs": {
+      "bytes": 2793,
+      "sha256": "5fb06e921680bf6753fd36d8e0f88b9a5c01c2beb312c023ee5dd436243720d0"
+    },
+    "roads_micro_surface/scripts/test_actual_glb.mjs": {
+      "bytes": 3867,
+      "sha256": "5339a57c87e8f5cdd5186590bc6966e4faabab7c172633969777928aa0d20edc"
+    },
+    "roads_micro_surface/scripts/test_micro_surfaces.mjs": {
+      "bytes": 1725,
+      "sha256": "2b04ca4acea49115eff53f456e43faafa35dd0af68329c1444794645a2df8c98"
+    },
+    "roads_micro_surface/textures/neutral_micrograin.png": {
+      "bytes": 36379,
+      "sha256": "78cdde40089d4e90cb1620fec60db819142c5a31f45611e74958c5673809f3f6"
+    },
+    "roads_micro_surface/textures/paving_joints.png": {
+      "bytes": 36103,
+      "sha256": "efa48eb88ef5505938150894e727aee72a08b1ef051ad77add97a39a8709b593"
+    },
+    "roads_micro_surface/textures/wood_grain.png": {
+      "bytes": 42012,
+      "sha256": "250cf7f869c0de7759bcd3e4d7c7d693496cc676454f8d1de5380fe0df47264d"
+    },
+    "roads_structural/ATTRIBUTION.txt": {
+      "bytes": 490,
+      "sha256": "3f2906758ea58f66b22c4181307e3a6fbb7c8fd89137ce3077eef57d1828ec6e"
+    },
+    "roads_structural/FILE_MANIFEST.json": {
+      "bytes": 5147,
+      "sha256": "aa82156d3f015bf85259e92be1bdf4d5ae52edb3945cd4e3ad9e3fe6f6abace3"
+    },
+    "roads_structural/MANIFEST.json": {
+      "bytes": 3950,
+      "sha256": "9c9170ecdce97b439e73df2afef5d68304f263afc4715288c4d7dc37ec403480"
+    },
+    "roads_structural/PUBLIC_RUNTIME_WHITELIST.json": {
+      "bytes": 605,
+      "sha256": "00d7e4699c0e8958d375b60eb09ad82383067c23987d102c9df5c0ec4d294db7"
+    },
+    "roads_structural/README.md": {
+      "bytes": 2388,
+      "sha256": "f96fbc70c579713ae442263f3ebaabc81d902ced127a2fed3fbffbe4ddbf3afb"
+    },
+    "roads_structural/assets/SEU_ROAD_STRUCTURAL_CANDIDATE_v16.glb": {
+      "bytes": 442268,
+      "sha256": "4212921f1c1aeceedf2e973315d053b96067ba9635d7f27c1be376a7f77de3b4"
+    },
+    "roads_structural/assets/asphalt_original_aggregate.png": {
+      "bytes": 43599,
+      "sha256": "b283911c1f0598cbc899098b769cc1f9879fb24110a7e3392c5451bc57246e6a"
+    },
+    "roads_structural/data/FULL_CARRIAGEWAY_JUNCTION_AUDIT.json": {
+      "bytes": 14657,
+      "sha256": "e565c6ad141731976f9ce1f70aca28419ad86911bab4af732c092ebb904bc833"
+    },
+    "roads_structural/data/ROAD_PATCH_GEOMETRY.json": {
+      "bytes": 243949,
+      "sha256": "279283c8bd0b6a2d64465bccbdda6e12ebdf8ddfd2b4a4ca9fb26622c85533cc"
+    },
+    "roads_structural/data/ROAD_SOURCE_TAG_AUDIT.json": {
+      "bytes": 503270,
+      "sha256": "f56a915ad33ef5f5e8697f7dde7c32618d8cc014714af095dec2f6326b629ee7"
+    },
+    "roads_structural/data/SOURCE_EVIDENCE.json": {
+      "bytes": 796,
+      "sha256": "4330f6d3d114c70707a63e5664af82bfa16951453f712bf314494d07ef9ceb70"
+    },
+    "roads_structural/inputs/base/data/base.local.json": {
+      "bytes": 1412519,
+      "sha256": "8398adfab1ba516000a0d4cf7d3898e40eef8b75c632c5607629e262b5b6e33b"
+    },
+    "roads_structural/inputs/base/scripts/vendor/geos_small.py": {
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    },
+    "roads_structural/inputs/base/sources/osm/campus_margin_map.json": {
+      "bytes": 1679925,
+      "sha256": "0ee8e507cbe05921a6a8b03784c07d85bcd1f63feef659399b9083a8d9491dee"
+    },
+    "roads_structural/previews/CURB_AND_PATH_DETAIL.png": {
+      "bytes": 1191550,
+      "sha256": "9a0bf0f5f6b47befe313e3d9e4b210922a5aa2fea0d09828538134ad2184a966"
+    },
+    "roads_structural/previews/REAL_SOURCE_CONNECTION_CONTEXT.png": {
+      "bytes": 1113316,
+      "sha256": "79be425b75152a8dae329826d4ad97dbb3a12313b66d9f0b4b8670b822b26fa7"
+    },
+    "roads_structural/previews/ROAD_STRUCTURE_OBLIQUE.png": {
+      "bytes": 1091256,
+      "sha256": "b7347ce34dc94324720eaf6c49406ed4a96f06a2a4e8b2a56133ab6c5e3ddddd"
+    },
+    "roads_structural/qa/ADAPTER_UNIT_QA.json": {
+      "bytes": 953,
+      "sha256": "7e950cc828452982cf3a5f5144e800db6bec0a1cca43cf64659ca95e18692174"
+    },
+    "roads_structural/qa/CONTEXT_OVERLAY_QA.json": {
+      "bytes": 496,
+      "sha256": "e92369d979c7b98ecafca1e573bcf7446079d54aba88faf4ce3bd693b84df1e8"
+    },
+    "roads_structural/qa/CURB_ACTUAL_SUPPORT_RAYCAST.json": {
+      "bytes": 761220,
+      "sha256": "4b3dcf538627d53b5a9b107ed7504205d0be59f6994c2f0b94b41c0637600c83"
+    },
+    "roads_structural/qa/CURB_SUPPORT_FIX_QA.json": {
+      "bytes": 76503,
+      "sha256": "8c641f68fd400ae55ad0dcf90985f7b2f5e5a0aa7d7428465cd6c39b0364e9ae"
+    },
+    "roads_structural/qa/ENTRY_BUILDING_ACTUAL_MESH_QA.json": {
+      "bytes": 354,
+      "sha256": "a19513dc48a88909c5fb5c90d6fd0f5be3e98b0482a6238307723b60169fe50d"
+    },
+    "roads_structural/qa/GEOMETRY_QA.json": {
+      "bytes": 670,
+      "sha256": "4947e8e79cbb9393232b549e0609d980db4360a7aca703f8804c9bc97042401d"
+    },
+    "roads_structural/qa/GLB_ROUNDTRIP_QA.json": {
+      "bytes": 1220,
+      "sha256": "74915b309421ecd95179d1294258a99d940ee7b591e01f82155afcedc3b0b762"
+    },
+    "roads_structural/qa/MODEL_QA.json": {
+      "bytes": 1130,
+      "sha256": "6f3c3acb9054408c27d8fd21d1891bdef69f613d465d0baccf77fa29eb87227a"
+    },
+    "roads_structural/qa/PUBLIC_PRIVACY_QA.json": {
+      "bytes": 173,
+      "sha256": "fd690186ab70adb860c87914e1d7b1af6d1856254a3f595bf40b2db729e82e2d"
+    },
+    "roads_structural/scripts/apply_support.py": {
+      "bytes": 1418,
+      "sha256": "e1218fb20829ecc9d70ce9a16a584d7c618e41926e0ee8149f7d1646cb213543"
+    },
+    "roads_structural/scripts/audit_source_tags.py": {
+      "bytes": 2125,
+      "sha256": "1551d704deb51ea975e63540bdd92dc37d2107116436d30facf23464b5c377ff"
+    },
+    "roads_structural/scripts/build_geometry.py": {
+      "bytes": 8045,
+      "sha256": "75f63b2e2bc519c850e6da76e493ba44ef91c575239d6e7f5a85248d23a8f61a"
+    },
+    "roads_structural/scripts/build_model.py": {
+      "bytes": 4258,
+      "sha256": "ac77aac02af8cdc94b876811ffa8a12613fd24e016a0fb2c52034b4ac1cfe931"
+    },
+    "roads_structural/scripts/render_context.py": {
+      "bytes": 2155,
+      "sha256": "e850f6fef3d759bb45c2524a004899241c30a33b2e9ad564c7a0a36802df01fc"
+    },
+    "roads_structural/scripts/render_review.py": {
+      "bytes": 1950,
+      "sha256": "20a94d95911320ec3bf5ba751c206f6c35f7f6df8207e29d75fc378b8b85555b"
+    },
+    "roads_structural/scripts/road_patch_adapter.mjs": {
+      "bytes": 2063,
+      "sha256": "994293a356101cb27e57f6d2d8b820830050828860fc88e11627726af677491b"
+    },
+    "roads_structural/scripts/test_adapter.mjs": {
+      "bytes": 1533,
+      "sha256": "38c716df342730094b02f5f6cad8aff01669b89bb3b28b879ce7e3ce347019b5"
+    },
+    "roads_structural/scripts/validate_roundtrip.py": {
+      "bytes": 932,
+      "sha256": "1c6fabc1ae0839739d4b8afe459ed2084813d1919d9bb912793a7fccce08d390"
+    },
+    "scripts/check_optional_bikes.py": {
+      "bytes": 1565,
+      "sha256": "7c8c20d8b9e6e0006c4642d8f6194ad81e414de6acbb9e9949d07948836abf53"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1802,
+      "sha256": "b04eee98d4a45915240e28b5af95329382d52a384c6eb97bdad5c42414cd8a93"
+    },
+    "scripts/check_retained_trees.py": {
+      "bytes": 1064,
+      "sha256": "8a1a812778bdc25a726faab9eaccccdd4ec886c8e99709a97828938f4e4a25c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5928,
+      "sha256": "9c548cb5a503c260b7456e9b2ebac805739a54770936c6c4db22d30606c4bd0e"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 3542,
+      "sha256": "1103c3c7b70e10e102d06b2c8de24a828e6fb763de42a7b5d26a564b95d2e3be"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1375,
+      "sha256": "a05f4aa79a80e8092c4f774b2c12f2e66d9ac34c3123ba3a3f165bbdad8dd241"
+    },
+    "taoyuan_additional/FILE_MANIFEST.json": {
+      "bytes": 3049,
+      "sha256": "d46f153b86c7f0ccb00ab21e35f531ed49faf2f2156985be1669de72c4c6dd74"
+    },
+    "taoyuan_additional/README.md": {
+      "bytes": 3779,
+      "sha256": "60ebdb32e968d399f24f98956e2f33c89535bce3f3d3a4437e955eaa1edb5b6d"
+    },
+    "taoyuan_additional/assets/SEU_Taoyuan_18_additional_v16.glb": {
+      "bytes": 10161272,
+      "sha256": "f74f82241c5e0c5a6b465acb932307ac3cf531353bf6b41450cc8245cd041ba2"
+    },
+    "taoyuan_additional/data/COVERAGE_AUDIT.json": {
+      "bytes": 2154,
+      "sha256": "5d47be1f870291c74640ecbbceba525af92c958c5b1b36d23899a555b9319143"
+    },
+    "taoyuan_additional/data/GEOMETRY_DATABASE.json.gz": {
+      "bytes": 1919486,
+      "sha256": "31e6998982018642ba37d01db26d8c9ac9c53ca01054c57ee777c423b1ae4101"
+    },
+    "taoyuan_additional/data/INTEGRATION.json": {
+      "bytes": 3926,
+      "sha256": "cf5a7a481599e2cd7cbaf64a7304e2b0c54e79095705bc8fe406e7333b96a25d"
+    },
+    "taoyuan_additional/data/TAOYUAN_30_PITCHES.local.geojson": {
+      "bytes": 32617,
+      "sha256": "f5de3962a1c7e266f9ea1b85aa9245b97b9e059c2a1df24a235bd6238dfa467a"
+    },
+    "taoyuan_additional/licenses/MIT_CODE.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "taoyuan_additional/previews/TAOYUAN_30_GROUNDED_REVIEW.png": {
+      "bytes": 1000696,
+      "sha256": "cdb51014d2b71a2c62d0af0a0bb307a7d4ac7f0866ef603e37deb7df71a22669"
+    },
+    "taoyuan_additional/previews/TAOYUAN_MISSING_18_MAP.png": {
+      "bytes": 199055,
+      "sha256": "771d6e0cb9edc932efaeb63b7b604b86cd54866b45072673c55a7b181f2a5589"
+    },
+    "taoyuan_additional/previews/TAOYUAN_ROAD_BASE_OVERLAP_REVIEW.png": {
+      "bytes": 281869,
+      "sha256": "48437487a772f32ee9978f84ec64411071bbfddd63735071c7cbfd40974014f7"
+    },
+    "taoyuan_additional/qa/COLD_QA.json": {
+      "bytes": 2229,
+      "sha256": "55a7151c098f8de04cb4ce684e7af2b7009625664b2e62b6d085700465bae083"
+    },
+    "taoyuan_additional/qa/FULL30_SUPPORT_AND_FOOTWAY_QA.json": {
+      "bytes": 41319,
+      "sha256": "266a6955398aae3c8b8e395bb9c1198f2ec2db00ecb2334992ddccb6a64765ff"
+    },
+    "taoyuan_additional/qa/FULL30_SUPPORT_RAYCAST.json": {
+      "bytes": 48977,
+      "sha256": "4867faddf485c5682e8a3f64ce63d6afd7aa9fb10511cc1b85e3c9034b6e3e5e"
+    },
+    "taoyuan_additional/qa/GROUND_CORRECTION_QA.json": {
+      "bytes": 29437,
+      "sha256": "18c7a6ab7390ae9aaf0d5f494869c75851ac735c90d379f98a80020b75bb78da"
+    },
+    "taoyuan_additional/qa/PERIMETER_FOOTWAY_REVIEW.json": {
+      "bytes": 33392,
+      "sha256": "7b9c9444b366b0d39e04c4412798692887188e0d2c5089d65d788aa73c910bb6"
+    },
+    "taoyuan_additional/qa/PRIVACY_QA.json": {
+      "bytes": 478,
+      "sha256": "971b551ebc09188015e65d4fbc958fe38bade514050415d3cb939671994153d3"
+    },
+    "taoyuan_additional/qa/REBUILD_QA.json": {
+      "bytes": 223,
+      "sha256": "1b5282d74c96ab920a2460383b48fa393d9d8ae4756ec0e1cc215b4de24d8495"
+    },
+    "taoyuan_additional/qa/SOURCE_SUPPORT_GAP_CORRECTED.json": {
+      "bytes": 7656,
+      "sha256": "e6062b470e316afebb89a9287ca9a41f05dd9d2792065254d213d312307c6174"
+    },
+    "taoyuan_additional/scripts/check_candidate.py": {
+      "bytes": 3068,
+      "sha256": "cb1d1ec06a21f0eb849638daea6e349a168aebdf961a85a7494276a65260df3f"
+    },
+    "taoyuan_additional/scripts/rebuild.py": {
+      "bytes": 2071,
+      "sha256": "aaa1800d3c58648325001d196b3d5e44c1a92dfc63bcba1f7a8e8a196fb33f7e"
+    },
+    "taoyuan_mullions/AFTER_NORTH_CLOSEUP.png": {
+      "bytes": 825744,
+      "sha256": "f5dbd9f630202c4e3f122f919e495501df504b152350c6dfdc6975636c495aaf"
+    },
+    "taoyuan_mullions/AFTER_SOUTH_CLOSEUP.png": {
+      "bytes": 873813,
+      "sha256": "459fa0456b9c5bf27658be7d0953c6733dc448c9d2ef84656da57d30f5d1e921"
+    },
+    "taoyuan_mullions/BEFORE_NORTH_CLOSEUP.png": {
+      "bytes": 813914,
+      "sha256": "360111d9415293e8e99765ad67cd0f872d06baa40c5648378deaa3f22c2b5d09"
+    },
+    "taoyuan_mullions/BEFORE_SOUTH_CLOSEUP.png": {
+      "bytes": 887670,
+      "sha256": "38d1756fd596c080a7970e5e22185132e7073250e55db069c82f02782b32517d"
+    },
+    "taoyuan_mullions/BLENDER_ROUNDTRIP_QA.json": {
+      "bytes": 9117,
+      "sha256": "b4a7fffb8ca6675287aab24f34bb7e446a0d4c01c4c0ccb6075a48dc6a4ec0f4"
+    },
+    "taoyuan_mullions/COPLANAR_QA.json": {
+      "bytes": 680034,
+      "sha256": "2f846c2073ad0349f8cd64ac784544503fdb419c8c598102bfa688cf5b8e2a9b"
+    },
+    "taoyuan_mullions/FILE_MANIFEST.json": {
+      "bytes": 2334,
+      "sha256": "1a5fe437f409b9b5a760fbb315f266fcf900cc52a414b0d7e061d98e6103e3ce"
+    },
+    "taoyuan_mullions/INTEGRATION.json": {
+      "bytes": 1095,
+      "sha256": "bb236149eec6d7db4f4ae584a25990daaf95fab7a9d01adb0b747a24bd6fae97"
+    },
+    "taoyuan_mullions/README.md": {
+      "bytes": 3895,
+      "sha256": "a427b17e4c05cf20b4f61145ceeced3641b518c3a8f4670226436de0ab4bfe67"
+    },
+    "taoyuan_mullions/SUMMARY.json": {
+      "bytes": 181,
+      "sha256": "458978c7d3a704fabf77917899b6969f5d693c3b2a8e5f3612169080720b9610"
+    },
+    "taoyuan_mullions/UNTOUCHED_40.json": {
+      "bytes": 7866,
+      "sha256": "91124189bba825e8327407a6326fde1ce9919d950ef439f5ad3757fe419854e6"
+    },
+    "taoyuan_mullions/VERTEX_DELTAS.json.gz": {
+      "bytes": 16545,
+      "sha256": "4322095f931953f30344f2c9173e9c5dd822a292b61bf30d479da4601c993c1d"
+    },
+    "taoyuan_mullions/geometry_database.json.gz": {
+      "bytes": 90236,
+      "sha256": "a209cffd047b52b8b97400b04d582be9840e9f6dcc18cf9ff8646d90115ccb82"
+    },
+    "taoyuan_mullions/objects_manifest.json": {
+      "bytes": 6599,
+      "sha256": "4c997050f1611d20c13315f998911f47ad5141e0425f7a9837afbc22533bdc89"
+    },
+    "taoyuan_mullions/rebuild_clean.py": {
+      "bytes": 3085,
+      "sha256": "2e051c15b9b96b5b485e51fdc212cd24d9bfac8e67fdb9b8a1cc0a9d4043ed83"
+    },
+    "taoyuan_mullions/seu_dorm_coplanar_fix_v16.blend": {
+      "bytes": 118626,
+      "sha256": "2eed419427e3d69a11aae9379fe45bb854a5cd9b8c11477aed3ef9f68b3974dc"
+    },
+    "taoyuan_mullions/seu_dorm_coplanar_fix_v16.glb": {
+      "bytes": 118956,
+      "sha256": "317a9d782ae5d837c68e852ab11af39b5d45391924c87435f8299107088753e6"
+    }
+  }
+}
