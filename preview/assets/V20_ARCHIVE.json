@@ -1,0 +1,15 @@
+{
+  "archive": {
+    "url": "./preview/assets/SEU_building_patch_v20_GLB.zip",
+    "bytes": 808033,
+    "sha256": "c28f716ff099bb69e1a27c0a45c35906cd415461a5cf2597a55e0faf21e29164"
+  },
+  "member": {
+    "name": "SEU_building_patch_v20.glb",
+    "bytes": 5367704,
+    "sha256": "2c909f6adbac078f18098b0fe1f3a6b1f49d1b6fc2e64f6e9ee5122a0375fb12"
+  },
+  "sourceManifestSha256": "496db0fdd43810780f1298df1b917b5cb3b9ce2995d006e55126ed57136be760",
+  "license": "CC-BY-4.0; geographic ODbL-1.0",
+  "compression": "DEFLATE9 lossless"
+}
