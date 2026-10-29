@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.19.0",
-  "model_version": "0.19",
+  "viewer_version": "0.20.0",
+  "model_version": "0.20",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 12900,
-      "sha256": "6c0dfe4625c18b64d4386ed0c55eff168e21170fb0e089a2d32a9903df90ea57"
+      "bytes": 13248,
+      "sha256": "d0f6740d45b5e807061863553034cee1c94b3a13dc1a28bd47377b1f1ef49742"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 19047,
-      "sha256": "f9e124df371a05ab525787cd73b3f478463ca533da178d24004a304bb90e4910"
+      "bytes": 19055,
+      "sha256": "ec7524526eeae9c84a820a7e79541d456504e9d1629aa52fb3e4b638a46f7d73"
     },
     {
       "path": "preview/assets/SEU_building_patch_v16_GLB.zip",
@@ -48,6 +48,11 @@
       "sha256": "8b5ff29e431c0c5b6e4e7dee0dfbfa98b1048c83bc9b038dc10e1135cd880026"
     },
     {
+      "path": "preview/assets/SEU_building_patch_v20_GLB.zip",
+      "bytes": 808033,
+      "sha256": "c28f716ff099bb69e1a27c0a45c35906cd415461a5cf2597a55e0faf21e29164"
+    },
+    {
       "path": "preview/assets/V16_ARCHIVE.json",
       "bytes": 785,
       "sha256": "71d52520129667e0afe63804cff40207f63dbea77aeb845592ea63c8a619a4e0"
@@ -68,6 +73,11 @@
       "sha256": "6f693ed445505d08fd3fe46211b0c2789e0e41d9928493529b1d62ccceb50f7b"
     },
     {
+      "path": "preview/assets/V20_ARCHIVE.json",
+      "bytes": 530,
+      "sha256": "db2e7e585c35a9bc5ed480bbcd855c7c5d3556f20dc949705cdec3af31626c2b"
+    },
+    {
       "path": "preview/assets/campus-v03.zip",
       "bytes": 11502592,
       "sha256": "618485d27a40b4b50de40aa0fa180d47dd47c3a2fe1bdc7429c57baa227ceda2"
@@ -85,12 +95,12 @@
     {
       "path": "preview/bridge-display.js",
       "bytes": 1107,
-      "sha256": "fbd2f1c5a1003971ac92908bf448f2c2b54e97a0c0a35fb41207f210588279ec"
+      "sha256": "14070286be53fd7a3bc8c38783a30a29481d9627c32868190a81183621591586"
     },
     {
       "path": "preview/ground-pass.js",
       "bytes": 3615,
-      "sha256": "fac5104471d1ba81f0b528e90c902bfe872e018417877c2419afd22c9f8cb5ec"
+      "sha256": "7e3da43e2ddae96415aeb21fadf646f77349488b3a8fe3bfc217279d4a922740"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -100,7 +110,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1644,
-      "sha256": "c9bc4e4dca9e86396bab5f5ff18bb5a442cea998018fb819b9ef130922abfe5a"
+      "sha256": "929422ef8e9ef411dbf471be9d749a56470b1cb4e171ac681e228e8a7b0aa7ca"
     },
     {
       "path": "preview/landscape.json",
@@ -129,8 +139,8 @@
     },
     {
       "path": "preview/patches.json",
-      "bytes": 442531,
-      "sha256": "8ae814f3071ef5c3ee1935417e5690f48c1c074110c4c227da4a9561ef660a6d"
+      "bytes": 444076,
+      "sha256": "15520d26153326b0ed3c783adc7e6024e5117872be0a5f8689230cf5d288d66a"
     },
     {
       "path": "preview/props-adapter.js",
@@ -140,7 +150,7 @@
     {
       "path": "preview/props-layer.js",
       "bytes": 954,
-      "sha256": "16ab9ed2fe186ff9e81a495dfbd7acc616a34e052217461746c6c135f32b2e63"
+      "sha256": "930a9c1441b027db98750c9f5c13e5b0465085aeed624901d0130580c83ffc78"
     },
     {
       "path": "preview/props.json",
@@ -149,8 +159,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 3548,
-      "sha256": "a96e0d7bd93e8b4273ac0a3aae0c686769981875a36dc2ad223329922ffe8e37"
+      "bytes": 3683,
+      "sha256": "7e4a3b2c5836364e03a020df648e3007f4fb9f719edbc01f840e3a0de01426f3"
     },
     {
       "path": "preview/resolution-policy.js",
@@ -160,7 +170,7 @@
     {
       "path": "preview/road-layer.js",
       "bytes": 3142,
-      "sha256": "f9d0f4aedefcc96f37d42c2b2628aff49b9aee42aa086b7e29136f6170b84662"
+      "sha256": "844dbfdab38ad8cae8e875a88d85ba31fed7541e2c1f7920abf9d0f93797547d"
     },
     {
       "path": "preview/road-local-style.js",
@@ -185,12 +195,12 @@
     {
       "path": "preview/runtime-loader.js",
       "bytes": 6842,
-      "sha256": "71b78c7d5bcddd3f1ff0137f7b1fa0724028d05c2a5fa226ca43fc38c046ac4c"
+      "sha256": "523b05af9636dbff51991feb9a900ce050eaa4f803d3a165c5b1cf692d18187e"
     },
     {
       "path": "preview/runtime.json",
-      "bytes": 1592,
-      "sha256": "3d7f59ceded480baa195b760129a3ec35b99439bc208e50b40d1fbe03b9c86ed"
+      "bytes": 1597,
+      "sha256": "9d3954a93c18ba5e798f4df1077d1417e62fbbace49712c79bce6e58fd76d547"
     },
     {
       "path": "preview/style.css",

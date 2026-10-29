@@ -1,6 +1,6 @@
-import {isEffectivelyVisible} from './model-patches.js?v=0.19.0';
+import {isEffectivelyVisible} from './model-patches.js?v=0.20.0';
 /* MIT. Display-only optical approximation; original materials remain available. */
-import {semantic} from './palette.js?v=0.19.0';
+import {semantic} from './palette.js?v=0.20.0';
 export function createBridgeDisplay(model){
  const originals=new Map(),lowVariants=new Map();let affected=0;
  model.traverse(n=>{if(!n.isMesh||!isEffectivelyVisible(n)||semantic(n).layer!=='bridge_structure')return;const mats=Array.isArray(n.material)?n.material:[n.material];if(!mats.some(m=>m.transmission>0))return;originals.set(n,n.material);affected++;
