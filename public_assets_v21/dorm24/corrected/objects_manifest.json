@@ -1,0 +1,975 @@
+{
+  "schema_version": "1.0",
+  "object_count": 96,
+  "source_outline_id_count": 24,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630136438__0001",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "59d2526aafadf2cf82184aecce5ae57842382290441ba5a4dbdce530a72f40ec",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0002",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "e933e41bb2a08fb753ee4c0ae8c41fae46695f24636b18d3f506503cd24a09ec",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0003",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "6e642a03653d23b8c7a577ae5e2c8b3ce3713598ec698764f1c4349b52a0ad0f",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0004",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "ee0fed11e34a671aa2b2bec6fb8537acc25bce37c4826239bd5297d943e99193",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0001",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "d04472ca343753c5478350deb22a8c2c1df42415eb9624adac704ecafb0ceebc",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0002",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c2e839989aba3bf35a97af5d40726c1d109ddbe452f73266f23e8691038525eb",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0003",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c5bae52a24c6b473a36514c5f322835898b128a61d57ff6f5a21a539ec93f8a8",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0004",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c4bae9aa73fea2259c5d2606fb2b540d5718912cbda95f81dfc881593f8ac5f8",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0001",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "d7b0b2a63c3c398f5e3bb4bd8b8f9cca5ea69004103c7f5ef63ba05a08423112",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0002",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "8ea855e526c3e76549e422dfd1290a107ac063c569841fba77b8a56a0a4020d7",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0003",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "60111b578e23b5a12f6b0f02dc29baeef118296358b300a6e8180f228e3f900c",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0004",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "601176a574a9629c6011c7ca0a013b6a6d9abf9a13f661bf24b6c400270bd1bd",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0001",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "087bf7eb34bd57d61b3164f1d56538b046eed31fdcab18e73e4d5475df5a5dfe",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0002",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "7791a1b3a88ebefd9b499a1e397a09d5fadb4a0c82f2c888f0ba468e1643ed89",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0003",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "5bcacf42d30f5c8a5d92681c409aba3b052b3dca8c8cf8a293820bf10f13f06c",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0004",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "e24fec0521f77349e23d6ee89cb245bd3beed23da50653bae8cb5bc2e2e06a41",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0001",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "e1dfabee29ce60dc9186187a488171e5c8368a9b647b80cd7c02f2d38e5fca3c",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0002",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "531fc4c10f5d94c13613a1b7515fbe64a89772a868c6842e774b5c3c8f93285f",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0003",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "4107ae70c65dbf98a27c5a8683ca58a7c5dbd80ddb1b8977f8cb5340fd0f7dde",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0004",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "a2ec3e9abe2321a1a506935185db071f2732e15deb9567523b558706eb69b281",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0001",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "9c6ee45ff8c45d4f36487420dd79650928532cbe82c2161ea5b86a397eea19c4",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0002",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "d239ee69f035a7051261e8f2bf777182f350f6109ee2511e485240a55de80d6e",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0003",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "83324ed5be534334f2c4cf0738bc507c1d03fc509d724ae5f9903fccd5cc32f6",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0004",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c8dd36f28e72209965a78473b07f81b44c36b0bb11d2e0adcf591b5434d8defa",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0001",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c3058d47ae27f3843c0ff47f852b5eaeab41a58c91711f672aa5b1210c65f448",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0002",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "bf7f6789ae124fa857f5821fe00bdf0284d470cf3bfcf42525f996787770aeaf",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0003",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "58a62b90e5eb3164233fa04203580249036b4aadeae6b30b3d00c311fc67102c",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0004",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c284f867d6b87547c3eda5a7b38ab1deb35a78eaf8137c48e3e44c57d4eab955",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0001",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "db65985c0c1ad993fc7b39bfcad07fec4538684810a572132dbd7f28a39f9e4e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0002",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "6edead7dab9ebe07f455b1d7260e3e47e4f8ffe33e4a4423406545fdba6fda2f",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0003",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "37c9d7f862b104e85ecb00444e2e89b8b03b7f6f1197e490840e6cac3b66565c",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0004",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "654b5c004092d12daa514228aca76d851168835e9ff506bd30cd1ebdcb26f176",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0001",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "aececc773e48965138fd9f461941772fc690bba40c9c862b44fdb30e1755ac15",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0002",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "a151d610095f5e264ffe622f5d40bf08288acb27de1e6ac1905135bad1e6e30d",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0003",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "1e133532c21e8e71a7e5c0aa64de180b8cc81fc41c7c546406a3e647f458e35f",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0004",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "5d6d82ff81a6caf6745cde543d4455d2470a21dd3868280ca87927e8df355b12",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0001",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "41b65a0c2922630bdc8666f4ebca88b5b01bbcb72fa00ecec09c43232dc55d4f",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0002",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "770e1b466830d770f37370cad7f12d07862c29350724835d8005ef44a5643109",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0003",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "2f79c053266314aa4f3cd4ca64c12652fc5b79771f7239134763b7fd5fff41b6",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0004",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "9772f0fbf5edf9f5d795dc183b3252c2785e38075bb3b62de384686d7953fc55",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0001",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "a722ec1473518b2d6e1c596615324399e2f63f3e7cd50e791e397a85be876c98",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0002",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "f18f14840ca9e317464b236585af4e1de758b040c0fbf051eac3a3d4c8c66b95",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0003",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "9fc4604e3c9fe54f52476e9e58cd496992e465d8d06090c85a7f5007d14fcd41",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0004",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "1d914ffe5f81c2d4b281b7860ed8055e73969df6cd1791dba964acf5474c7bf9",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0001",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "71b0e80b25b208a48ca67dce0bcf5677d81d7b273f1f53a7f1bdfbf24ae891f8",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0002",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "66c3a35c605b7866f5d4391c24a515f2ec8ae613b5c4201803ba000f05c07631",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0003",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "bbd50b527d6c21ca33b08f3edf9805a970ce598360bc165b6922e68c0b2833c7",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0004",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "ad0fd93dd2948a71d453e8e9d26ca54867f4d60cfbc9e2b7935e0b9d0518cc42",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0001",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "407ab6d430c72a22c642207de5986226d68828dc52f971856995ba766e29ad81",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0002",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "bddeaab338b474698d7314908b7eb66bc6e50b2b50652106c1bf4347f9de2bc9",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0003",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c141d03a412fc2fab051f54f6efc26fadd1dc13542f33fed7678828df2480732",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0004",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "561a2c3d0dc5a5c3a8894d32bcb7299efecf919c1d43b16098fc2be78354e5eb",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0001",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "efd7647e2af9f08f5d9a3a282de6d973a8d13697eb46e97c0568d922130b5fc3",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0002",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "9e02b457b2b2861243360dc3605ad8a15666bcca1e99133fb5484f7cb8963c72",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0003",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "73c0fb310777c0724240b7dfcfd05c65175de2a702d113646d225c1233b0a458",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0004",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "682788bf62ea3cbd65ff9317d3c010371016aaa187bc8af78f606d7f1219fb9d",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0001",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "8dad56d568368556359266de2c31160c5c1372dadb555238da1cec2e00657c40",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0002",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "932bbb6e168b6a72d42d5e2b54dfcbcfe73b1187b0959b5a18182e01e7e3957d",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0003",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "7005acfe16edaea926751b5c6c6884849c80604d4d309f39d2d397988e7ddfb8",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0004",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "57635c967a43f6af8c6d1b4fb948743e39f432d0b543ed76eea734ed474dcaaa",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0001",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "16ebcf44f7fd8d6cb979258a011c651bc3d637750478fe2e25fd87d563e060a4",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0002",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "562740d3d2111a717a4f54a92ba4368e3a0b52850099d72467b2255caf29bbc6",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0003",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "8c6137ef93046f70827b00c4a8fb64df5d37398a70e533fe9c2d2b25103f2047",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0004",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "aafa2bfa03336983c5cf776241b0ba2e626d317d829e61333e7d8569dbb8ed33",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0001",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "9d2447bc2941b94732de88dca894dc459b7a031fb768086aa4406b916eb6ca78",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0002",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "0a42fe3222e8032f8808530c447cb8c99b46552e32094fc5323b3666d1186b79",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0003",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "af73c8da3655d0450cd975bac52fa78e8626bafa94c3083ff44a72950f0025be",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0004",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "6184bd024acd96ae8a91f7f18c814c95ebaa9cf009a2be54dc8b6dc083cae317",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0001",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "4472e7cead988f57e8c27b1e30c147677dbb15fbe7b930b2c8970075ec32bbe9",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0002",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c01b4b1cc0108b15d3e0e1d705451a52261eda73bc158c4c5a52c89deab30dce",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0003",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "d983fb23afc2e4a278c49d07d7839b04d5d8c25af3f6edcaab272cc0d8673773",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0004",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "ae19456078e04230c2ea6a46398f7cce7fd8d1075daf396e5e8f58b08f7891ce",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0001",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "d12b91e09d412263772a6846c91d2e8e48b9865ea2d4eb45ea00c20b3978d83a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0002",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "716fe04862d12683ab95d758a9770c0c6a20e0ead3423be5e97cc85be64eb10f",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0003",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "fa6e1125993bf02567c3c46db19badfc87665129add31d96e0c7c9932b0ee1e7",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0004",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "79243daebecb8a39ce55101674cb6b8fc0254d9d73f56033ec0558823a64bef7",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0001",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "5b6947be6fdc10e98abeb5357575ac0a668adaa020bdfa8bd27f7c1902a2167c",
+      "vertex_count": 1000,
+      "polygon_count": 750
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0002",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "76233e5afac05f10735d0d89d08b75faa899d84d983c177568f5cc8319963dd5",
+      "vertex_count": 1000,
+      "polygon_count": 750
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0003",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "cefdf57a300f2ad90ce83176fb8f6ba0e5d73eaeea6400f322c4247fa1c1ccc9",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0004",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "e1fc0dd51aca44f5b5051f154acf723b8924ef726d66b4cb2c2c0e54051ffa30",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0001",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "597be9febe74b8a6fb79cf1c121962e7273e2ed230eccb41be0e608cf9f94b37",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0002",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "33736cf958deea34ee69dfe37e9f3cf72960038e611c183f90873f1ca2875794",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0003",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "c3da4ed581721cc5c30fa8b258e2b850d4098a35c4dfdb6df3f169008d7d34cb",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0004",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "62b9bac4021d8566b045401734a3a1b99677351adc1aea644f218ca0d3632852",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0001",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "8b7c050cdb0b38e1c34a5ab449a1b060cc1f62248cb5655f50045e3fb160c123",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0002",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "ce2ea514007a961e21a70e9ea656bbc207abd3ded55ee0790a9b70f220543b04",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0003",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "3a78524d1a02a7c7124c88ce986cbdc786027682f273b42dff3c445d40f12591",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0004",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "3293b7d659aabfecbe1317a64b0e10439a53262c0c347c6febf5525e2d85f9af",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0001",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "a661d8c44a3a5a4d5abc68e8659e57c618a32124765957c207444fd065533136",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0002",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "2b380caca6aa967e7a0d30c99b471a2bfd2e0d91c0a06782d7d2ec10040faf9f",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0003",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "de5a29c867dd5443e6cbb1f0c40207348fb51304a95fd7b331806a824bc9b6f4",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0004",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "0a5f660c3bfdd017b92c332d4d9e2c155f79542a1be2bf55891d91a489cc7523",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0001",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "510004936b6e5780683121342bf121110917f80431e8709bc853e28bce61d437",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0002",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged. Detached source windows seated on corrected facade; X/Z vertex values retained.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "a214eeb455913e5becb7566144f15ba7008ea4d7dc0cb23f5bd9fd13387ed73f",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0003",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "ff42f5f124caa8a41feca19b813777772cdaaebb6cf1bbcc4c1b1c41d128b8bd",
+      "vertex_count": 32,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0004",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Projective correction of legacy trapezoid registration into inset accepted rectangular OSM bar; no measured claim; Z unchanged.",
+      "sourceclass": "candidate_xy_registration_correction",
+      "geometry_fingerprint": "b3a6dcd766bec06991a65501143446e82d34810bea4d7bf0b67f7d7518f236cd",
+      "vertex_count": 32,
+      "polygon_count": 26
+    }
+  ]
+}
