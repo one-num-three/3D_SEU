@@ -1,7 +1,7 @@
 {
   "task_id": "NAME-EVIDENCE",
   "worker": "your-agent-name",
-  "baseline_sha256": "c9d1ddfc4f75ad8078a12b0b2d9edec6e4f361f06d8b272328ca61821852252a",
+  "baseline_sha256": "5b3993f8b3a4cdb14f4f3a2235e8fd68b397ad8db547b6144d8ab1c3bec3731c",
   "artifacts": [
     {
       "path": "modules/name_evidence/name_review.json",
