@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "modelVersion": "0.16",
-  "runtimeVersion": "0.14+0.15+0.16",
-  "sourceModelCommit": "8f0b4cd0dba070c1053282284e1a2929f54ce49b",
+  "modelVersion": "0.17",
+  "runtimeVersion": "0.14+0.15+0.16+0.17",
+  "sourceModelCommit": "34209225221300066d740526041cfa08a3c42087",
   "snapshot": {
     "archive": {
       "url": "./public_runtime_v14/assets/SEU_runtime_visible_v14_GLB.zip",
@@ -28,9 +28,9 @@
       "bytes": 29895536,
       "sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213"
     },
-    "patchesUrl": "./preview/patches.json?v=0.16.0",
-    "buildingNetworkBytes": 39791555,
-    "patchesSha256": "5ed9658eb33ed35379e71af1e51d1957fbc47aea4f3a33321515de18acd54113"
+    "patchesUrl": "./preview/patches.json?v=0.17.0",
+    "buildingNetworkBytes": 39961153,
+    "patchesSha256": "2e004926e01891282a0104643ef3874338eb986aed77ba79d1da276c32fee108"
   },
   "sourceBaseModelCommit": "1a30a944d2dcd5a0b278330fa755268ddea89427",
   "basePatchCount": 10,

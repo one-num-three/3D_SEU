@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.16.1",
-  "model_version": "0.16",
+  "viewer_version": "0.17.0",
+  "model_version": "0.17",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "license_note": "Viewer MIT; model visual CC BY 4.0; OSM geographic data ODbL 1.0; vendor licenses separate",
   "files": [
     {
       "path": "index.html",
-      "bytes": 11715,
-      "sha256": "81b7b9bdbc495e7f3c8456cb8e110a02e350f28693f53dc82127141df097466c"
+      "bytes": 12142,
+      "sha256": "379ab05055748260d17947c1a47477c7124692b63296929e38e9e634c57d5eac"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 18983,
-      "sha256": "d16c433710026a9223b800a2c622574e2549281460eee76cf4869daf7e53f1e2"
+      "bytes": 18991,
+      "sha256": "ec11eff4b889a4344818746c9e27c2cc16f9e075ae07b0cbf42e8802faa3483f"
     },
     {
       "path": "preview/assets/SEU_building_patch_v16_GLB.zip",
@@ -33,9 +33,19 @@
       "sha256": "204e8d0aa8a0c2a5325d3cbe9dae01ea2ccda5d5c63978a9715ae7ebf1b15025"
     },
     {
+      "path": "preview/assets/SEU_building_patch_v17_GLB.zip",
+      "bytes": 169598,
+      "sha256": "d1d1b22ce6e45c285ad49176661cb3786eabac61b9a60a3206760d41ab5744ca"
+    },
+    {
       "path": "preview/assets/V16_ARCHIVE.json",
       "bytes": 785,
       "sha256": "71d52520129667e0afe63804cff40207f63dbea77aeb845592ea63c8a619a4e0"
+    },
+    {
+      "path": "preview/assets/V17_ARCHIVE.json",
+      "bytes": 777,
+      "sha256": "248f3fd16b2b7b512594a4e6c725cf24624e3eee2a12b1e4cdad3e023c86c2a6"
     },
     {
       "path": "preview/assets/campus-v03.zip",
@@ -54,13 +64,13 @@
     },
     {
       "path": "preview/bridge-display.js",
-      "bytes": 1015,
-      "sha256": "ae316ae5952c476f054f30b693273f2c1105fac9a7c758de271b74ebb867cadc"
+      "bytes": 1107,
+      "sha256": "4c71f0fd2cd47a064dab1b2cccdbcdb4da4d01a091cc4e89988c470334d2ef62"
     },
     {
       "path": "preview/ground-pass.js",
-      "bytes": 3296,
-      "sha256": "dd04493849d82ef0f9ad4f1745fad356cb9de9a7b92ce3b2977d3c753a7ef325"
+      "bytes": 3370,
+      "sha256": "8c82a4dac162a77c197528220a7b6f039a7f3ff5573102a5af14de9171d65348"
     },
     {
       "path": "preview/landscape-adapter.js",
@@ -70,7 +80,7 @@
     {
       "path": "preview/landscape-layer.js",
       "bytes": 1437,
-      "sha256": "82a67396f6fb10bf37733deeb8b61fe9524cbea24f3325f1ee3a2cb71b310598"
+      "sha256": "3ac7e3963d79b1f197711756fb4efb8ad384a035bcc7e9a525eeca6a99c9b680"
     },
     {
       "path": "preview/landscape.json",
@@ -99,8 +109,8 @@
     },
     {
       "path": "preview/patches.json",
-      "bytes": 238867,
-      "sha256": "5ed9658eb33ed35379e71af1e51d1957fbc47aea4f3a33321515de18acd54113"
+      "bytes": 431547,
+      "sha256": "2e004926e01891282a0104643ef3874338eb986aed77ba79d1da276c32fee108"
     },
     {
       "path": "preview/props-adapter.js",
@@ -110,7 +120,7 @@
     {
       "path": "preview/props-layer.js",
       "bytes": 954,
-      "sha256": "09ef49fcfb1ef91d4ed0d0a096e9845bb4729077337cd2c0d314bd0ec2f278ec"
+      "sha256": "4816f5582759e52b0f838a05cf553f267369677c3559c1763dff7cfb341c80fd"
     },
     {
       "path": "preview/props.json",
@@ -119,8 +129,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 3283,
-      "sha256": "9a89bccf36990330c9f48ed9e77f2accc5c61b50151cbd7ef5dc4dce1de2d8be"
+      "bytes": 3369,
+      "sha256": "5bdf2b70b9b228cdf5e68a78e4b6a6742e588f5c4fff12d1ff0ec2ae690f8d32"
     },
     {
       "path": "preview/resolution-policy.js",
@@ -130,7 +140,7 @@
     {
       "path": "preview/road-layer.js",
       "bytes": 2452,
-      "sha256": "a69c9a83787ebdc0a964e0b39f26687fa2d161a4333b969c083027b05acc1de7"
+      "sha256": "e83c42b3f6e17f68bf12e364f1b7c0c1fd56b01533371dd6ab7d6495aa554f23"
     },
     {
       "path": "preview/road-micro.js",
@@ -150,12 +160,12 @@
     {
       "path": "preview/runtime-loader.js",
       "bytes": 6842,
-      "sha256": "d58dc1d04a4ce795236a2b830d423d7913e30b29a7bfd17748539cf5e695cbde"
+      "sha256": "70e06bc98d1af6da21d07ed3a787e2e641ff144d8563bb91376dbb5363424bce"
     },
     {
       "path": "preview/runtime.json",
-      "bytes": 1577,
-      "sha256": "08a82890aa62a83619d924acd66c569f5ffbae3eb1d72824cfffe28f3c194fe3"
+      "bytes": 1582,
+      "sha256": "44cf040d8dde124d2af0cdb84059c37160752b0ce0160fb1c87264d6f34da83c"
     },
     {
       "path": "preview/style.css",
