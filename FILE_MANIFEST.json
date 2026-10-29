@@ -29,18 +29,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 31382,
-      "sha256": "41ff5ff327ccf14e2bc37d56654714c515176ac05f5430e96ee0197d4b4393f9"
+      "bytes": 33142,
+      "sha256": "6b8847428bd0f586ae16b29915accfd17445161d5317d25b2a2cdfd2670c518d"
     },
     {
       "path": "docs/AI_HANDOFF.md",
-      "bytes": 3936,
-      "sha256": "d1c147eb0c7ff8bd3a34d1aa0769686e2a467f37b57ce03a133c28e97f9297c4"
+      "bytes": 4855,
+      "sha256": "74a8b5aa238a8f9e1348d991f07e17b12464c0cef0dec40314f1e7cf625f298a"
     },
     {
       "path": "docs/CANDIDATE_SCAN.json",
       "bytes": 449,
-      "sha256": "102aa83503ffd162b8b1db01cb05e65c1e2b4d00ace1fd9090202518c64d332a"
+      "sha256": "f130b245736cdac5c60c046b5d6583f32aed1fc0b12b385e550fdecc9c0f4237"
     },
     {
       "path": "docs/RELEASE_READINESS.md",
@@ -60,7 +60,7 @@
     {
       "path": "examples/evidence.template.json",
       "bytes": 669,
-      "sha256": "dccde758b573faad375ee124162f65bd4f1f5b43608972e138c4312b5a84868b"
+      "sha256": "0f39fea3ed2fc515a82390d489deb82ad82db22fdd75f8f71a11f7635825695b"
     },
     {
       "path": "modules.json",
@@ -69,8 +69,8 @@
     },
     {
       "path": "project_contract.json",
-      "bytes": 1392,
-      "sha256": "ad15f09edbb2e1485762743c83296e5637ffc2096a4132715bb084ce33e26261"
+      "bytes": 1620,
+      "sha256": "781c349e064994ed85b82203d829d59c6998c5eec593a4829966865dfaf2586c"
     },
     {
       "path": "schemas/evidence.schema.json",
@@ -79,8 +79,8 @@
     },
     {
       "path": "tasks.json",
-      "bytes": 9189,
-      "sha256": "a90438c6db6457eb355964c1421eadb266e517693cf7463e8dbb1119fbaf1749"
+      "bytes": 9112,
+      "sha256": "23e8bc0cd1a89284b1a3c6b094e4d973545029e3f4413e87467a9def6272a6f0"
     },
     {
       "path": "tools/coop.py",
@@ -99,13 +99,13 @@
     },
     {
       "path": "tools/validate_candidate.py",
-      "bytes": 5334,
-      "sha256": "9593ffcb38c0ce4c438fc88b753f00d98c53ad3185d53ca965168429640de2fa"
+      "bytes": 5374,
+      "sha256": "310f8159276b802ebebb58c0eabc885000239d84f31bca6d23b61eb8c73cf5b5"
     },
     {
       "path": "tools/validate_contract.py",
-      "bytes": 3813,
-      "sha256": "b5a8a46a15945674a24c853d68a96919021c146a1105c51dccdf30d135e6fd05"
+      "bytes": 8285,
+      "sha256": "a3ed0b5af2b82cfbfb5a6d85e4b5b2276f21b499a80471e1e32fdb3568f75dfc"
     }
   ],
   "scope": "Framework code and handoff documents only; versioned public_assets directories and preview have independent manifests.",
