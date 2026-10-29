@@ -1,0 +1,151 @@
+{
+  "version": "0.20.0",
+  "scope": "Taoyuan west grandstand at OSM1056927532;16 additive detailed meshes; all v19 geometry retained; heights and model seating counts estimated",
+  "previous_versions_immutable": true,
+  "files": {
+    "ATTRIBUTION.md": {
+      "bytes": 636,
+      "sha256": "5927b7039c762ea238163d4c32e9dbda6a611d0e17afd6a8795e045f096e77fe"
+    },
+    "README.md": {
+      "bytes": 2558,
+      "sha256": "5e4d9571e92225293b7b95b56aff212aa8d3c7b44258b5c144f4bca0e5d1c0dd"
+    },
+    "assets/SEU_building_patch_v20.glb": {
+      "bytes": 5367704,
+      "sha256": "2c909f6adbac078f18098b0fe1f3a6b1f49d1b6fc2e64f6e9ee5122a0375fb12"
+    },
+    "assets/SEU_campus_full_quality_v20.blend.zip.001": {
+      "bytes": 16777216,
+      "sha256": "7e1d88289876f2e4de60eb4a31c61a47ff11d2a19a4f27d4a9bbfa52ca8c2225"
+    },
+    "assets/SEU_campus_full_quality_v20.blend.zip.002": {
+      "bytes": 12247900,
+      "sha256": "efc20ee3e65ebf27cddfb8707e19663bd86ad44f88764eee2d0da49485f43cc3"
+    },
+    "data/FULL_SOURCE_ARCHIVE.json": {
+      "bytes": 787,
+      "sha256": "5b3993f8b3a4cdb14f4f3a2235e8fd68b397ad8db547b6144d8ab1c3bec3731c"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 2146,
+      "sha256": "5009853283ad8cb3e363c9d2e1d222071b378404fa3799509b52de4301ac0339"
+    },
+    "grandstand/FILE_MANIFEST.json": {
+      "bytes": 3233,
+      "sha256": "8aaeaba9d1b20107d64ba9b9bf489c33a0732fd9aacca56e5c0814f675cd74c8"
+    },
+    "grandstand/INTEGRATION.json": {
+      "bytes": 1656,
+      "sha256": "15e440f6a6c2dcccacc76b1148f51b16fee7f7a299645148a93f6e33e9e25fa7"
+    },
+    "grandstand/README.md": {
+      "bytes": 4567,
+      "sha256": "7c49cf444b1c2614d6a86686690a528750580d8cd9e14bbdd68e86f514e01371"
+    },
+    "grandstand/assets/SEU_Taoyuan_grandstand_candidate.blend": {
+      "bytes": 4295584,
+      "sha256": "e3b3193df0130d7a2848951e9c30d659684b82100dcbc7e251f2b1a5c4914f92"
+    },
+    "grandstand/assets/SEU_Taoyuan_grandstand_candidate.glb": {
+      "bytes": 5367248,
+      "sha256": "00d1532378381a30fe91107d4ddabf7750a3f680be00558b2bb1df3f7fb37060"
+    },
+    "grandstand/data/FOOTPRINT_FRAME.json": {
+      "bytes": 1303,
+      "sha256": "8120190268c5f537014ded69d9624a8292f9e0efb69873110b3379e507f9e44d"
+    },
+    "grandstand/previews/AFTER.png": {
+      "bytes": 1792897,
+      "sha256": "b7c7e98e9faccf16767fd06c02096eac475ef7c73acc1db79e306b564f43114b"
+    },
+    "grandstand/previews/BEFORE.png": {
+      "bytes": 1665096,
+      "sha256": "8e32a975a30a9d908e4cd500406d87b5ae0f6e22ae47e2a6ce8488e111b180a5"
+    },
+    "grandstand/previews/BEFORE_AFTER.png": {
+      "bytes": 2744220,
+      "sha256": "76bcd685804598229fc2c8f261121a4db967cf6ed83bcc135cba6d032a8b9e73"
+    },
+    "grandstand/previews/SEATS_ROOF_DETAIL.png": {
+      "bytes": 2502351,
+      "sha256": "ce0c64425a0a2356bd8e857bf52a6a1b338b0b2ffdad811422ee5d53a010556a"
+    },
+    "grandstand/previews/STAND_FRONT.png": {
+      "bytes": 1772006,
+      "sha256": "c2d77b6add8db9903dcbfcf03b580ee254f751e4f6ef8a8bf3093ed45e2c309a"
+    },
+    "grandstand/qa/BASELINE_PRESERVATION_QA.json": {
+      "bytes": 337,
+      "sha256": "584e5acc20207179c15aa8e0c41cbe46db0d5b980b379c1d608e9fa16cc8830e"
+    },
+    "grandstand/qa/BUILD_QA.json": {
+      "bytes": 975,
+      "sha256": "30082334cdeb0893c7597c95ee6b1273ed4cdd71bae3eb9fc0319e24d7b9e796"
+    },
+    "grandstand/qa/COLD_GLB_QA.json": {
+      "bytes": 6965,
+      "sha256": "3de7d29da64a4aaa155cea5a776999dfc8e6d6fc7d3f09beea03adb5ac249653"
+    },
+    "grandstand/qa/PNG_METADATA_QA.json": {
+      "bytes": 831,
+      "sha256": "7ab4b77b8f39d257da4bb1fc9e6bc791278c57787d16052c4406c66c683bd768"
+    },
+    "grandstand/qa/PRIVACY_QA.json": {
+      "bytes": 209,
+      "sha256": "a8debb5bfbb5d86a2282cfb659a1c5713658c5235363c80dad2ef44e8275e9e0"
+    },
+    "grandstand/qa/PROJECTION_COLLISION_QA.json": {
+      "bytes": 341,
+      "sha256": "3738ecdc7d688e3295b81acbc379f7bf49b3b348f86331b0f9d05ec0a503347f"
+    },
+    "grandstand/scripts/build.py": {
+      "bytes": 7411,
+      "sha256": "227296c03d1562c3af5857a0fead8b3bb0a4b80d043848ed1b2ca17e6f8a1c75"
+    },
+    "grandstand/scripts/cold_qa.py": {
+      "bytes": 1759,
+      "sha256": "a9143719e92830497764f928789caea8c7a62a80a6ec2b7e48abf7b8226731e5"
+    },
+    "grandstand/scripts/render_preview.py": {
+      "bytes": 2688,
+      "sha256": "5433e74ac59bfd81b62c4c75982ee840bbac8433ee8819d6c6a401733ee29699"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 503,
+      "sha256": "b8606b1d67283eeb3287c121cd827c0f05530bda2f092e997add5566511f3e4b"
+    },
+    "qa/EXISTING_OCCUPANCY_QA.json": {
+      "bytes": 246,
+      "sha256": "fefdd161bba3792f0877cd6972c6bb654ecdcfb0d541f8f2121b3bc610afc1ae"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 471934,
+      "sha256": "42733e7fa05e85142898e24586b31f2f2d1f5afa2eb284f867ffb43c19b0ae58"
+    },
+    "qa/PREVIEW_ATTRIBUTION_QA.json": {
+      "bytes": 1538,
+      "sha256": "212794aa2ff963d6e74199a05866eab6ccc1358f09503c0e9841156e8db4bd34"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "eceeadb02eec7688bb74e242924c5105eeb817321984b24e8f1edf057994bb74"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5739,
+      "sha256": "66efc5b482cea1fbc43d941ebaf3846d851677454bf68e68614976b62caa5e87"
+    },
+    "scripts/unpack_full_source.py": {
+      "bytes": 754,
+      "sha256": "1ffe8739e929a5d050cc67834e3c99a069cd6f6682bf61ee3ceaef4cc8a6ddcd"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 3595,
+      "sha256": "c997b05cec79bea07bb701458b1cb53f0a007024343908a2a01e17b177ccee8a"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1375,
+      "sha256": "a05f4aa79a80e8092c4f774b2c12f2e66d9ac34c3123ba3a3f165bbdad8dd241"
+    }
+  }
+}
