@@ -1,0 +1,17 @@
+{
+  "source_url": "./public_assets_v17/assets/SEU_building_patch_v17.glb",
+  "source_sha256": "8d0f47d24be3ead94877590e3128f075c94fed4e4e0bba66674986e214183c87",
+  "archive": {
+    "url": "./preview/assets/SEU_building_patch_v17_GLB.zip",
+    "bytes": 169598,
+    "sha256": "d1d1b22ce6e45c285ad49176661cb3786eabac61b9a60a3206760d41ab5744ca"
+  },
+  "member": {
+    "name": "SEU_building_patch_v17.glb",
+    "bytes": 1543716,
+    "sha256": "8d0f47d24be3ead94877590e3128f075c94fed4e4e0bba66674986e214183c87"
+  },
+  "method": "ZIP_DEFLATED level9 fixed timestamp2026-10-29T00:00:00; raw source bytes unchanged",
+  "source_asset_manifest_sha256": "b684e64995d5eb669347df9df8c05c0fb42853da2edf1422ed5226a34efc26e7",
+  "licenses": "Model CC BY 4.0; geographic ODbL 1.0; viewer MIT"
+}
