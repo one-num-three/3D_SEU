@@ -1,6 +1,6 @@
-import {verifiedFetch} from './runtime-loader.js?v=0.15.0';
+import {verifiedFetch} from './runtime-loader.js?v=0.16.0';
 /* MIT. Optional, hash-verified vegetation: failure cannot disable building preview. */
-import {makeLandscapeInstances,applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.15.0';
+import {makeLandscapeInstances,applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.16.0';
 export async function verifiedBytes(spec){
  const data=await verifiedFetch(spec);return data.buffer.slice(data.byteOffset,data.byteOffset+data.byteLength);
 }

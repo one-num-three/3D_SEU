@@ -1,5 +1,5 @@
 {
-  "version": "0.15.0",
+  "version": "0.16.0",
   "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
   "patches": [
     {
@@ -4298,8 +4298,226 @@
           "stable_id": "SEU_B_OSMWAY_1488713409"
         }
       ]
+    },
+    {
+      "url": "./public_assets_v16/assets/SEU_building_patch_v16.glb",
+      "bytes": 11482840,
+      "sha256": "dd91e109b88bd5ea237549a67477e9d587dbc2481cefd9b5fa0426e180f88f12",
+      "label": "桃园30场完善、窗梃修正与周界路面",
+      "replace_names": [
+        "SEU_B_OSMWAY_630136421__V05_window_mullions",
+        "SEU_B_OSMWAY_630136422__V05_window_mullions",
+        "SEU_B_OSMWAY_630136423__V05_window_mullions",
+        "SEU_B_OSMWAY_630136424__V05_window_mullions",
+        "SEU_B_OSMWAY_630136425__V05_window_mullions",
+        "SEU_B_OSMWAY_630136426__V05_window_mullions",
+        "SEU_B_OSMWAY_630136427__V05_window_mullions",
+        "SEU_B_OSMWAY_630136428__V05_window_mullions",
+        "SEU_B_OSMWAY_1056927545__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927546__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927547__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927548__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927549__V05JY_window_mullions",
+        "SEU_B_OSMWAY_1056927551__V05JY_window_mullions",
+        "SEU_R_OSMWAY_851764290"
+      ],
+      "replace_targets": [
+        {
+          "name": "SEU_B_OSMWAY_630136421__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136421"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136422__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136422"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136423__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136423"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136424__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136424"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136425__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136425"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136426__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136426"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136427__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136427"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136428__V05_window_mullions",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136428"
+        },
+        {
+          "name": "SEU_B_OSMWAY_1056927545__V05JY_window_mullions",
+          "source_sha256": "021d3e34eeefd81794f7eb02fdcf48807aad90fefbcbfd62650331f79d5672d3",
+          "stable_id": "SEU_B_OSMWAY_1056927545"
+        },
+        {
+          "name": "SEU_B_OSMWAY_1056927546__V05JY_window_mullions",
+          "source_sha256": "021d3e34eeefd81794f7eb02fdcf48807aad90fefbcbfd62650331f79d5672d3",
+          "stable_id": "SEU_B_OSMWAY_1056927546"
+        },
+        {
+          "name": "SEU_B_OSMWAY_1056927547__V05JY_window_mullions",
+          "source_sha256": "021d3e34eeefd81794f7eb02fdcf48807aad90fefbcbfd62650331f79d5672d3",
+          "stable_id": "SEU_B_OSMWAY_1056927547"
+        },
+        {
+          "name": "SEU_B_OSMWAY_1056927548__V05JY_window_mullions",
+          "source_sha256": "021d3e34eeefd81794f7eb02fdcf48807aad90fefbcbfd62650331f79d5672d3",
+          "stable_id": "SEU_B_OSMWAY_1056927548"
+        },
+        {
+          "name": "SEU_B_OSMWAY_1056927549__V05JY_window_mullions",
+          "source_sha256": "021d3e34eeefd81794f7eb02fdcf48807aad90fefbcbfd62650331f79d5672d3",
+          "stable_id": "SEU_B_OSMWAY_1056927549"
+        },
+        {
+          "name": "SEU_B_OSMWAY_1056927551__V05JY_window_mullions",
+          "source_sha256": "021d3e34eeefd81794f7eb02fdcf48807aad90fefbcbfd62650331f79d5672d3",
+          "stable_id": "SEU_B_OSMWAY_1056927551"
+        },
+        {
+          "name": "SEU_R_OSMWAY_851764290",
+          "source_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
+          "stable_id": "SEU_R_OSMWAY_851764290"
+        }
+      ],
+      "append_names": [
+        "TAOYUAN18_V16_817128623_SURFACE",
+        "TAOYUAN18_V16_817128623_NETS",
+        "TAOYUAN18_V16_817128623_MARKINGS",
+        "TAOYUAN18_V16_817128623_BACKSTOP",
+        "TAOYUAN18_V16_817128623_BACKBOARDS",
+        "TAOYUAN18_V16_817128618_SURFACE",
+        "TAOYUAN18_V16_817128618_NETS",
+        "TAOYUAN18_V16_817128618_MARKINGS",
+        "TAOYUAN18_V16_817128618_BACKSTOP",
+        "TAOYUAN18_V16_817128618_BACKBOARDS",
+        "TAOYUAN18_V16_817128617_SURFACE",
+        "TAOYUAN18_V16_817128617_NETS",
+        "TAOYUAN18_V16_817128617_MARKINGS",
+        "TAOYUAN18_V16_817128617_BACKSTOP",
+        "TAOYUAN18_V16_817128617_BACKBOARDS",
+        "TAOYUAN18_V16_817128616_SURFACE",
+        "TAOYUAN18_V16_817128616_NETS",
+        "TAOYUAN18_V16_817128616_MARKINGS",
+        "TAOYUAN18_V16_817128616_BACKSTOP",
+        "TAOYUAN18_V16_817128616_BACKBOARDS",
+        "TAOYUAN18_V16_817128615_SURFACE",
+        "TAOYUAN18_V16_817128615_NETS",
+        "TAOYUAN18_V16_817128615_MARKINGS",
+        "TAOYUAN18_V16_817128615_BACKSTOP",
+        "TAOYUAN18_V16_817128615_BACKBOARDS",
+        "TAOYUAN18_V16_817128613_SURFACE",
+        "TAOYUAN18_V16_817128613_NETS",
+        "TAOYUAN18_V16_817128613_MARKINGS",
+        "TAOYUAN18_V16_817128613_BACKSTOP",
+        "TAOYUAN18_V16_817128613_BACKBOARDS",
+        "TAOYUAN18_V16_817128610_SURFACE",
+        "TAOYUAN18_V16_817128610_NETS",
+        "TAOYUAN18_V16_817128610_MARKINGS",
+        "TAOYUAN18_V16_817128610_BACKSTOP",
+        "TAOYUAN18_V16_817128610_BACKBOARDS",
+        "TAOYUAN18_V16_817128609_SURFACE",
+        "TAOYUAN18_V16_817128609_NETS",
+        "TAOYUAN18_V16_817128609_MARKINGS",
+        "TAOYUAN18_V16_817128609_BACKSTOP",
+        "TAOYUAN18_V16_817128609_BACKBOARDS",
+        "TAOYUAN18_V16_817128607_SURFACE",
+        "TAOYUAN18_V16_817128607_NETS",
+        "TAOYUAN18_V16_817128607_MARKINGS",
+        "TAOYUAN18_V16_817128607_BACKSTOP",
+        "TAOYUAN18_V16_817128607_BACKBOARDS",
+        "TAOYUAN18_V16_817128606_SURFACE",
+        "TAOYUAN18_V16_817128606_NETS",
+        "TAOYUAN18_V16_817128606_MARKINGS",
+        "TAOYUAN18_V16_817128606_BACKSTOP",
+        "TAOYUAN18_V16_817128606_BACKBOARDS",
+        "TAOYUAN18_V16_817128605_SURFACE",
+        "TAOYUAN18_V16_817128605_NETS",
+        "TAOYUAN18_V16_817128605_MARKINGS",
+        "TAOYUAN18_V16_817128605_BACKSTOP",
+        "TAOYUAN18_V16_817128605_BACKBOARDS",
+        "TAOYUAN18_V16_817128600_SURFACE",
+        "TAOYUAN18_V16_817128600_NETS",
+        "TAOYUAN18_V16_817128600_MARKINGS",
+        "TAOYUAN18_V16_817128600_BACKSTOP",
+        "TAOYUAN18_V16_817128600_BACKBOARDS",
+        "TAOYUAN18_V16_817128599_SURFACE",
+        "TAOYUAN18_V16_817128599_NETS",
+        "TAOYUAN18_V16_817128599_MARKINGS",
+        "TAOYUAN18_V16_817128599_BACKSTOP",
+        "TAOYUAN18_V16_817128599_BACKBOARDS",
+        "TAOYUAN18_V16_817128598_SURFACE",
+        "TAOYUAN18_V16_817128598_NETS",
+        "TAOYUAN18_V16_817128598_MARKINGS",
+        "TAOYUAN18_V16_817128598_BACKSTOP",
+        "TAOYUAN18_V16_817128598_BACKBOARDS",
+        "TAOYUAN18_V16_817128597_SURFACE",
+        "TAOYUAN18_V16_817128597_NETS",
+        "TAOYUAN18_V16_817128597_MARKINGS",
+        "TAOYUAN18_V16_817128597_BACKSTOP",
+        "TAOYUAN18_V16_817128597_BACKBOARDS",
+        "TAOYUAN18_V16_817128596_SURFACE",
+        "TAOYUAN18_V16_817128596_NETS",
+        "TAOYUAN18_V16_817128596_MARKINGS",
+        "TAOYUAN18_V16_817128596_BACKSTOP",
+        "TAOYUAN18_V16_817128596_BACKBOARDS",
+        "TAOYUAN18_V16_817128595_SURFACE",
+        "TAOYUAN18_V16_817128595_NETS",
+        "TAOYUAN18_V16_817128595_MARKINGS",
+        "TAOYUAN18_V16_817128595_BACKSTOP",
+        "TAOYUAN18_V16_817128595_BACKBOARDS",
+        "TAOYUAN18_V16_817128594_SURFACE",
+        "TAOYUAN18_V16_817128594_NETS",
+        "TAOYUAN18_V16_817128594_MARKINGS",
+        "TAOYUAN18_V16_817128594_BACKSTOP",
+        "TAOYUAN18_V16_817128594_BACKBOARDS",
+        "SEU_B_OSMWAY_630136428__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_630136427__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_630136426__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_630136425__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_630136424__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_630136423__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_630136422__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_630136421__V05_window_mullions__V16",
+        "SEU_B_OSMWAY_1056927551__V05JY_window_mullions__V16",
+        "SEU_B_OSMWAY_1056927549__V05JY_window_mullions__V16",
+        "SEU_B_OSMWAY_1056927548__V05JY_window_mullions__V16",
+        "SEU_B_OSMWAY_1056927547__V05JY_window_mullions__V16",
+        "SEU_B_OSMWAY_1056927546__V05JY_window_mullions__V16",
+        "SEU_B_OSMWAY_1056927545__V05JY_window_mullions__V16",
+        "SEU_R_OSMWAY_851764290__V16"
+      ],
+      "append_node_count": 105,
+      "archive": {
+        "url": "./preview/assets/SEU_building_patch_v16_GLB.zip",
+        "bytes": 1600615,
+        "sha256": "204e8d0aa8a0c2a5325d3cbe9dae01ea2ccda5d5c63978a9715ae7ebf1b15025"
+      },
+      "member": {
+        "name": "SEU_building_patch_v16.glb",
+        "bytes": 11482840,
+        "sha256": "dd91e109b88bd5ea237549a67477e9d587dbc2481cefd9b5fa0426e180f88f12"
+      }
     }
   ],
   "schemaVersion": 2,
-  "finalVisibleAuthorNodes": 4110
+  "finalVisibleAuthorNodes": 4200
 }

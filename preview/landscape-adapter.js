@@ -60,7 +60,7 @@ export function applyRoadMaterialOverrides(THREE, scene, data) {
   const materials=new Map();
   const lookup=new Map(data.overrides.map(r=>[r.object_name,r]));const applied=new Set();
   scene.traverse(o=>{
-    const row=lookup.get(o.name);if(!row||!o.isMesh)return;
+    const row=lookup.get(o.name)||lookup.get(o.userData?.stable_id)||lookup.get(o.userData?.stableID);if(!row||!o.isMesh)return;for(let p=o;p;p=p.parent)if(!p.visible)return;
     function restyle(original) {
       // Preserve depth-independent ground-pass material type and depth flags.
       const key=`${original.uuid}|${row.style}`;
