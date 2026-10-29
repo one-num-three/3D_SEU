@@ -1,6 +1,6 @@
 {
-  "revision": "public_assets_v20",
-  "baseline_sha256": "5b3993f8b3a4cdb14f4f3a2235e8fd68b397ad8db547b6144d8ab1c3bec3731c",
+  "revision": "public_assets_v21",
+  "baseline_sha256": "23c88b0edb740d2ea3e93e3c881e6f8e3bb21d50d6f50d8a5fbc991abac5ce04",
   "source_crs": "EPSG:4326",
   "source_axis_order": [
     "longitude",
@@ -21,17 +21,17 @@
   "framework_license": "MIT",
   "framework_release_authorized": true,
   "public_release_field_scope": "Versioned public assets only; private reference images are not distributed",
-  "baseline_path": "public_assets_v20/data/FULL_SOURCE_ARCHIVE.json",
-  "baseline_manifest_path": "public_assets_v20/ASSET_MANIFEST.json",
-  "baseline_manifest_sha256": "496db0fdd43810780f1298df1b917b5cb3b9ce2995d006e55126ed57136be760",
-  "release_git_commit": "28a6f563fef82fc4aa4a129d155f56d606e2db8b",
+  "baseline_path": "public_assets_v21/data/FULL_SOURCE_ARCHIVE.json",
+  "baseline_manifest_path": "public_assets_v21/ASSET_MANIFEST.json",
+  "baseline_manifest_sha256": "3f70a1615a34960c9f238b02db655d4685302fda3fd6fd282ca8af7a1ef3a8a3",
+  "release_git_commit": "1fc12ddcf2c0a0dd052f9258b9eb4ae7512b7686",
   "release_record_status": "publisher_verified_public_baseline_commit",
   "repository": "https://github.com/one-num-three/3D_SEU",
   "runtime_patch_index": "preview/patches.json",
   "phase": "geographic_realism_first",
   "navigation_runtime_implemented": false,
-  "release_asset_commit": "28a6f563fef82fc4aa4a129d155f56d606e2db8b",
+  "release_asset_commit": "1fc12ddcf2c0a0dd052f9258b9eb4ae7512b7686",
   "baseline_kind": "split_zip_descriptor",
-  "materialized_baseline_path": "public_assets_v20/assets/SEU_campus_full_quality_v20.blend",
-  "materialized_baseline_sha256": "e98ab847697da36aadec205b8f7075966be31bde1b6693476b9ee82623291889"
+  "materialized_baseline_path": "public_assets_v21/assets/SEU_campus_full_quality_v21.blend",
+  "materialized_baseline_sha256": "472bb988f6741b6766c70a4a191ae0586a3b442ca72805de3ce0d6ef1c19770f"
 }
