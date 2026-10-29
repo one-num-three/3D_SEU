@@ -1,0 +1,56 @@
+{
+  "observed": [
+    {
+      "source": "https://news.seu.edu.cn/2023/0906/c5495a463692/page.htm",
+      "seen_pixels": true,
+      "supports": [
+        "ochre-red running surface",
+        "white lane lines",
+        "green infield",
+        "white inner boundary"
+      ]
+    },
+    {
+      "source": "https://news.seu.edu.cn/2025/1023/c5486a543202/page.htm",
+      "seen_pixels": true,
+      "supports": [
+        "football use at Taoyuan stadium",
+        "white goal and net",
+        "natural grass",
+        "green low perimeter fence",
+        "yellow/orange stand seats"
+      ]
+    },
+    {
+      "source": "https://civil.seu.edu.cn/2017/1001/c1251a200115/pagem.htm",
+      "seen_pixels": true,
+      "supports": [
+        "covered stands and yellow seats"
+      ],
+      "modelled": false
+    }
+  ],
+  "geographic": {
+    "relation": 11214072,
+    "outer_way": 630436322,
+    "inner_way": 817128568,
+    "running_way": 630436321,
+    "source_lanes": 8,
+    "preserved_old_inner_sport_tag": "softball"
+  },
+  "estimated": [
+    "lane curves and variable widths",
+    "paint widths",
+    "pitch 100x64m fit",
+    "7.32x2.44m standard goal motif",
+    "goal position and net depth",
+    "RGB colours and procedural texture"
+  ],
+  "deferred": [
+    "fence alignment and gates",
+    "grandstand footprint and seat count",
+    "start and finish markings",
+    "mobile visual/flicker test"
+  ],
+  "reference_images_distributed": false
+}
