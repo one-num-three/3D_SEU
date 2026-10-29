@@ -1,0 +1,85 @@
+{
+  "module": "court_road_edge",
+  "files": {
+    "ATTRIBUTION.txt": {
+      "bytes": 198,
+      "sha256": "0b972e644fd8705f9f21c8d40c21d15f17e89d8bf7a4729f2314f1c0c1ab9264"
+    },
+    "MANIFEST.json": {
+      "bytes": 1193,
+      "sha256": "78a305913a24fb5a2313b5312d882733106c137cd9f20b86326825bb63e328a1"
+    },
+    "PUBLIC_RUNTIME_WHITELIST.json": {
+      "bytes": 447,
+      "sha256": "08018440ad43b257cf7e835962e67200e90c827c8004f99502dca8628248b36e"
+    },
+    "README.md": {
+      "bytes": 1450,
+      "sha256": "95d5cfb314a921715386a0b9e9af142f0545a15fc1cd6cd781c144438d78378b"
+    },
+    "assets/SEU_ROAD_851764290_DISPLAY_EDGE.glb": {
+      "bytes": 14696,
+      "sha256": "39fc49803611a6d983e11e2c2b023014450851f6d622c74021c6b802a978d3ed"
+    },
+    "data/INTEGRATION.json": {
+      "bytes": 221,
+      "sha256": "f4d3d22c9888987c20b2d2f9243e9b454c7f6ad6a4de3f58ef7a15007111a87b"
+    },
+    "data/ROAD_851764290_DISPLAY_CORRECTION.geojson": {
+      "bytes": 11881,
+      "sha256": "b46cfc709b0d06b4bd52c54efc2c68af651aeb876f7829ada0907791060466bb"
+    },
+    "data/TRIANGLES.json": {
+      "bytes": 9708,
+      "sha256": "77461778a0cd93bf22ad5434f7b0bb17b676bab0138308da311ad1ab5211ceea"
+    },
+    "inputs/foot_support.json": {
+      "bytes": 41319,
+      "sha256": "266a6955398aae3c8b8e395bb9c1198f2ec2db00ecb2334992ddccb6a64765ff"
+    },
+    "inputs/pitches.local.geojson": {
+      "bytes": 32617,
+      "sha256": "f5de3962a1c7e266f9ea1b85aa9245b97b9e059c2a1df24a235bd6238dfa467a"
+    },
+    "inputs/road_source.local.json": {
+      "bytes": 1256107,
+      "sha256": "88971c1ea855e49e61189f40c9eef754df5f1dee7de73e1aa68bc8a2240a8f47"
+    },
+    "previews/BEFORE_AFTER_DISPLAY_EDGE.png": {
+      "bytes": 295402,
+      "sha256": "c8a9bee90a366aaf3db8207aea41273b3eb7c3366556aa73596f21a56a7466a1"
+    },
+    "qa/DISPLAY_EDGE_QA.json": {
+      "bytes": 1283,
+      "sha256": "c522dbcd64a4170aff2b141402355db395b8cc5b3a7c3248f927b8b041497d76"
+    },
+    "qa/FULL60_BASE_OVERLAP_QA.json": {
+      "bytes": 10162,
+      "sha256": "9878dc42b590f934e33d1e9ddf7e26f16a205a2615c24297f3a2ca4ff3432417"
+    },
+    "qa/MODEL_QA.json": {
+      "bytes": 309,
+      "sha256": "a5bb6be83371ab8e1ec241a4124c26d12f19378bbbd6630edba595604c5b3e01"
+    },
+    "scripts/build_edge.py": {
+      "bytes": 3531,
+      "sha256": "354f29f83876d648b5e1b3d66b7149c52d3c955ad1d51ad17dfa010c5a3c82f3"
+    },
+    "scripts/build_model.py": {
+      "bytes": 2506,
+      "sha256": "35ff8032699b0426b21297b7b57d4718d05493ac1af437860a7fc77c560a3103"
+    },
+    "scripts/check_roundtrip.py": {
+      "bytes": 926,
+      "sha256": "9e47cf5704197f74ab10e79dc6dc0082db8a4ac309bebab05920dc263f3f2538"
+    },
+    "scripts/plot_and_check.py": {
+      "bytes": 3020,
+      "sha256": "74f2fa5349aca791fc85634173d1e5f41ede547d937c5b1ff5c2d63ad3488a5a"
+    },
+    "scripts/vendor/geos_small.py": {
+      "bytes": 1697,
+      "sha256": "ed45e2321c5a927441cc69db3a64e26a748d4ae0de4a2634101af718b884819f"
+    }
+  }
+}

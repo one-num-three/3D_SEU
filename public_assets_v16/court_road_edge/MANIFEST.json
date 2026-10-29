@@ -1,0 +1,62 @@
+{
+  "replace_object_names": [
+    "SEU_R_OSMWAY_851764290"
+  ],
+  "new_stable_ids": [
+    "SEU_R_OSMWAY_851764290"
+  ],
+  "geometry_action": "exact original road polygon minus union of 30 explicit OSM pitch polygons",
+  "navigation_changed": false,
+  "source_way": 851764290,
+  "source_pitches": [
+    817128594,
+    817128595,
+    817128596,
+    817128597,
+    817128598,
+    817128599,
+    817128600,
+    817128601,
+    817128602,
+    817128603,
+    817128604,
+    817128605,
+    817128606,
+    817128607,
+    817128608,
+    817128609,
+    817128610,
+    817128611,
+    817128612,
+    817128613,
+    817128614,
+    817128615,
+    817128616,
+    817128617,
+    817128618,
+    817128619,
+    817128620,
+    817128621,
+    817128622,
+    817128623
+  ],
+  "mesh_count": 1,
+  "triangles": 316,
+  "display_z_m": [
+    0.005,
+    0.035
+  ],
+  "renderer": {
+    "layer": 1,
+    "renderOrder": 200,
+    "depthTest": false,
+    "depthWrite": false,
+    "semantic_layer": "road_area"
+  },
+  "width_status": "remaining outside half only; not measured or compliance-certified",
+  "public_runtime_files": [
+    "assets/SEU_ROAD_851764290_DISPLAY_EDGE.glb",
+    "MANIFEST.json",
+    "ATTRIBUTION.txt"
+  ]
+}

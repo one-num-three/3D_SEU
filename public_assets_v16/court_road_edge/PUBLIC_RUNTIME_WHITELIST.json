@@ -1,0 +1,17 @@
+[
+  {
+    "path": "assets/SEU_ROAD_851764290_DISPLAY_EDGE.glb",
+    "bytes": 14696,
+    "sha256": "39fc49803611a6d983e11e2c2b023014450851f6d622c74021c6b802a978d3ed"
+  },
+  {
+    "path": "MANIFEST.json",
+    "bytes": 1193,
+    "sha256": "78a305913a24fb5a2313b5312d882733106c137cd9f20b86326825bb63e328a1"
+  },
+  {
+    "path": "ATTRIBUTION.txt",
+    "bytes": 198,
+    "sha256": "0b972e644fd8705f9f21c8d40c21d15f17e89d8bf7a4729f2314f1c0c1ab9264"
+  }
+]
