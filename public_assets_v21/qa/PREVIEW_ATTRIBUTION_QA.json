@@ -1,0 +1,32 @@
+[
+  {
+    "file": "dorm24/BEFORE_GROUP.png",
+    "original_pixels_preserved": true,
+    "original_rgb_sha256": "575c065399391322689d4671a1be5fcd9e4e12510f9fbf7f19221edcb6a2aed4",
+    "added_footer": "source attribution and correction/estimate scope"
+  },
+  {
+    "file": "dorm24/CORRECTED_GROUP.png",
+    "original_pixels_preserved": true,
+    "original_rgb_sha256": "4348dd184791286a70559f60838807fb27ba8f3eba45b4d97e0fc87a42e45fbc",
+    "added_footer": "source attribution and correction/estimate scope"
+  },
+  {
+    "file": "dorm24/CORRECTED_TOP.png",
+    "original_pixels_preserved": true,
+    "original_rgb_sha256": "d9f5167db8fd538c47d5e81258e2add2afa1c2923ff07c3c75a749da5f091f60",
+    "added_footer": "source attribution and correction/estimate scope"
+  },
+  {
+    "file": "dorm24/DORM24_TOP_COMPARISON.png",
+    "original_pixels_preserved": true,
+    "original_rgb_sha256": "5baf7444bd7046853479fdf7e685e3ce92aec24824cb86bdd2937479d0118ce8",
+    "added_footer": "source attribution and correction/estimate scope"
+  },
+  {
+    "file": "dorm24/BEFORE_TOP.png",
+    "original_pixels_preserved": true,
+    "original_rgb_sha256": "f2db0977941952321e8b99f9aa08e706efc80c36dbab8e96d29e8db2f0c7f8a6",
+    "added_footer": "source attribution and correction/estimate scope"
+  }
+]
