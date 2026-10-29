@@ -1,0 +1,975 @@
+{
+  "schema_version": "1.0",
+  "object_count": 96,
+  "source_outline_id_count": 24,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_630136438__0001",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "a9762b0d255cd1b100211fc38eb80790978b9fc790edd9db7a65b804a913d92a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0002",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "602c7fdcddb45f674fa38f5ff2d3c9779a27c28fec5a416287eaac9a4ebae6c3",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0003",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "9c6d36674bb1032b2b4c649ff96627033cbdc3f7b9b068906eb45f862b1e3de1",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136438__0004",
+      "stable_id": "SEU_B_OSMWAY_630136438",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "8a03c1de3c8eb787660d87b7b37e08d0c743daa34d8907df22c1843d5c503ef0",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0001",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "397366ab31395422ddb370b257cbd672d20babd4f3322f9e52b95e4ebf4493c1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0002",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "d60aa3c602f41cbd62ab12dabc73e93173f344a8c4018604b939a8da6318384b",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0003",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "12e9901f6b2f5e613eccfec5518556b2392cdefd6b9fc5bd8787fc2e25127d5f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136443__0004",
+      "stable_id": "SEU_B_OSMWAY_630136443",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "c5f34c645a5ea69c8e1e9389860721d4a8db6db3a9f4a63c910f2d73a5dbe8c6",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0001",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "de5c83dcbad7a3fc86e8e2b4b9e8c93e431ee322fed63f0540ff8c0ca022b995",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0002",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "817d691b6ac567ab94c3220d4b2ee8658ec1da3234ce46b603fc6ee808ab091d",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0003",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "3a8fc9fe84bfb7d1fe93ea767b340a0375bd1e8b15a658bfeeb34d3dd1c55871",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136446__0004",
+      "stable_id": "SEU_B_OSMWAY_630136446",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "c48f4a68d359236f897c45be57cac4ae61cc376ea098ad95bb8c1a3b749f852b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0001",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "cc664cbdc1c46e3763b83bfa888d09754b41a07cd171384fda39444731e501fb",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0002",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "11bf57dd2b89e444072b28f8505cfd051a7d8ebf99773b3cb045007e143fc7a1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0003",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "a1c2eafd836459177a4e521bfac916e0a5129fb8e7356f05c30b68095bb881db",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136447__0004",
+      "stable_id": "SEU_B_OSMWAY_630136447",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "a26953391a4d7a9e58da701f11589264a888309eb9cfa5b39015bb57b41cf853",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0001",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "aa38485ae5b8a66501c325bd73ed423db71d9ec5c12addb91c588ba81935263b",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0002",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "07f36f537b7b1e3133752f3dcb3ccc462755d3f8907c6e3b98b4e8d5fef632dc",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0003",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "a954730ed9b20f3a164f36ca64248c5cfaf8412f8cba4c191e56f37143d5f3db",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136454__0004",
+      "stable_id": "SEU_B_OSMWAY_630136454",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "c2b445fe8ca3057c2e51f1bc367ec244b04f742e18f41d561422c28d42d56902",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0001",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "0051cc9bb2f07e12f9b6c2f1d30171b1fe1a643873c3292b19419c6fcc628b92",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0002",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "6cc66316500ce95ece4ae3b30662179f2e4c95aee8a621ea224caa8ce6ec8a4b",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0003",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "4a62dc4af2493e7a907a51b95d42df081d894f014f01abb4fcfbd44f7e074d45",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136455__0004",
+      "stable_id": "SEU_B_OSMWAY_630136455",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "1716ded47912c61cd37da8aa73db8743165d98323adb9e45fd55130259bc2597",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0001",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "afa6f2638e815224a27b86e808ebc768c285344ef4d8477400fa266e3fc78779",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0002",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "fd800961a5a3cd3f1b3737cd9cd73e05fcddd7d65eb2d289e5100ec1b259c866",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0003",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "2c726579e22c633dbcc1aa7fbb44072ed59d26e5b33c50efc1a2ed0d0a58e389",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136457__0004",
+      "stable_id": "SEU_B_OSMWAY_630136457",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "35209ce5b8007945e5183ada4d0f03989be43b986ee63632453665ac9dbeab9d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0001",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "676e802909dcfa42901a6d7efecfdc699b2f40835ab82171f6335196a5dc1774",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0002",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "812726d0d1852877c7a3abeba82e879b2f368cf94a3f63795c984b5a8b470161",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0003",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "d0284655de1e7a5c76e5cc26431fa864320b6cbb5cd2f8ba1b4b02fe8d4f613d",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136458__0004",
+      "stable_id": "SEU_B_OSMWAY_630136458",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "8034261ea6031123c2242d6fcb9667a13c31d2078b0b5bcd997757cd5be2c959",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0001",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "08764dafcfbb9c3743762d452dac933c5159babe33733b1997f7594bbd1d1ccb",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0002",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "c2a92fe0a30495178d8b2d5cbc5fbed4798e0231a7ff4945505025f9b7cae13f",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0003",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "cfbffaa234764a4eddd580756069c840855e943986d233b1f35c2d735b79a90a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136460__0004",
+      "stable_id": "SEU_B_OSMWAY_630136460",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "1f40969d521dbb16bb1e31eefba9f6c7b6d9a93f900eb8ffc750bf270a968402",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0001",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "ebdfaa305cd8fcdaf65d9325f44c79f2e88081713825590fd7748bafce5d0106",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0002",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "e4624d45bb8f3b7d6af5248bcb3f503f9ee2b8fca70a49fbbc710755f6d8db8a",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0003",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "2f3c37a6e02ae2b2c24b4bb2b4a189bd6923d95903bb551f01f15493c4575504",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136462__0004",
+      "stable_id": "SEU_B_OSMWAY_630136462",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "b805b574821f5622a4c125460c72607a894590a3d2afc04312409d2f19129c77",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0001",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "cb7b0d88c9308b98dc350b1501a86a9411736bf7dc29980e55763bb9802d5d03",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0002",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "7d657f3def6db42e46d71027ee5c2bd6eb6c4a0951a785de985cf8064ba32496",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0003",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "cc050343f79a579a649f5b04b73c8598b1bd1e94ff6b9ccef97a2984eda3e990",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136464__0004",
+      "stable_id": "SEU_B_OSMWAY_630136464",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "3c5c54912f51dba031bd277109b3a51ea6b58be88436c130f926594b39ee73e9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0001",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "09ae08f6976c3ddc4438cfbac2cfc927db50fc543aeedd75054fee5484b7caaa",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0002",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "d437f31940448af98519f304810352ca5a331fb327af5a9fcb0362977d2b1c8c",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0003",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "634bc3e2edc0fe87adca280ff52fcf0ce5220a57733ee18e420b4c8faef88b0e",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136465__0004",
+      "stable_id": "SEU_B_OSMWAY_630136465",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "d19bd3721c558042e9e6d10075a5c125c4319c2de4060324cb72f3992a10f6f4",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0001",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "a1c4aa32d25cddb19969a5f4014271b4f89433bf5de67b953db117fa853aa2be",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0002",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "67f5caacea6c65d2fcb2c7d05595739483923a0da672e46fbd68ca3da740090d",
+      "vertex_count": 880,
+      "polygon_count": 660
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0003",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "97e6d45ce241cc356bc2a074f053a21cfd8eb53daf7d7b23fd5bbbed9bbc601a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136470__0004",
+      "stable_id": "SEU_B_OSMWAY_630136470",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "3bd7135230cfa49c679e26a20ebada4590b7bc81721e9ae127ad46395b3e6fea",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0001",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "35e3f648f31e7166db8970f44f491b150da6f8ba26cfd56ef381f81923ce33ef",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0002",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "f571cc27aab526e0baab7f5ffb3e954733131fc2cc2325cb772bfd7301555765",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0003",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "96215068f56f90c5869a6e4100583baeb5577db30fe576d9b29fc7c3757e39a2",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136471__0004",
+      "stable_id": "SEU_B_OSMWAY_630136471",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "09e0595bfd26573c6305b0ef44e7c05c80553a4b8624786c4d6b539c68320e52",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0001",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "7f3f81c1639dfa61020c01d91a05016709494e4eed3bf2628e94d1de1e4e29db",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0002",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "5f1f94df666e273d6d2a969b4f63c0dbdff01793fd8720b26c25e04a02330df1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0003",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "73280f5db7ad93d231fbcad9d186c1817ed555e85061a2c56a9b0d9895190bef",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136473__0004",
+      "stable_id": "SEU_B_OSMWAY_630136473",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "02b1bee68a953030b0754d793068a58eeb3380fc130255866733f0a6f58b806a",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0001",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "a99a078de731e071d76a065cfdeb7924d68f5b718ce2a54c6b9bf70e92db1a5e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0002",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "2a2542f284c470df9b50411a89d05326bdd35f5341534a4ae4cee49ef501569c",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0003",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "15b95597065ff7a68db8f8fcf076f38a705ee49e5655617a0895540dcd4531b3",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136474__0004",
+      "stable_id": "SEU_B_OSMWAY_630136474",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "40c4858362e2804a019e5092c1c8b0372dc4c5a5394450aa265310715c3bb8ed",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0001",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "71424378c8c69d458a1d457396d5db3214086d775554b3714332cbea9b2d502e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0002",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "7c9af0e559b87fe8d2dddbc77b7229ff72eff5bb47364a53e8f89d92bcadbe9e",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0003",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "e5c365f105f54d738879e59aef2937f87ef167fb4d34c74512d298f781cda19b",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136476__0004",
+      "stable_id": "SEU_B_OSMWAY_630136476",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "2f8794a54fba4bba9a5092ac633d7bdccf822086bf6326d986c8fbd6dca2385c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0001",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "2eeced36a4b4133d56aab32a1508ae0601744a744e2b11922238a08eca628a0d",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0002",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "a1b3ca02970fc589f266913c93f737c4ae30a7f7c125b2d32ea66c77376c0d0b",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0003",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "c055cd38c569f94bab474b5bbbbb3c1d01776c85ad4bd61f63be264520269c5f",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136478__0004",
+      "stable_id": "SEU_B_OSMWAY_630136478",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "e2ac27baf5f1a22c8f92db49db6b916292ada7c627eccedbca9f048c0957c704",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0001",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "c1756af0eb38b918f8f94b805a1cdf7ef7e5f8bb405e3b9d59328eb9331881c1",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0002",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "3bf8bd21d955fd0c429106331d7000f7664cffe9dfc23f4bafc37d9a77f913da",
+      "vertex_count": 840,
+      "polygon_count": 630
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0003",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "d0f332436482adac8009fb1776559d00448ecb927ec314dee613b1e9e5113c63",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136480__0004",
+      "stable_id": "SEU_B_OSMWAY_630136480",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "eee510c2de565f13c3425fd214d69c2c7a434301719bae2b5f64a93fd92a4e98",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0001",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "12e950111fdeaa53f79139b40b3551159a3c1a8c3a98aa147be99f42f0eeab16",
+      "vertex_count": 1000,
+      "polygon_count": 750
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0002",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "cb8cf9900be2cca515c1127a50e80df54ef339d0882fd896a60939c24f82da8b",
+      "vertex_count": 1000,
+      "polygon_count": 750
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0003",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "45b068182654614c48bfca993e582f0eea374b8c283f546dac80ebbbd6ec9d79",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136481__0004",
+      "stable_id": "SEU_B_OSMWAY_630136481",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "25a14d7b8dc7ef95032399eebd8c07b6b1d49d51a217d99550ca3b76f0d4d09c",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0001",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "7fe2c320119b1f4ad3c8d70bd1fb315ded3f54f485b6792bac3b685e1336428e",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0002",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "ba012299b30e595f053fe8139c076f145b0d9334a3a1809968efe16ca1d7b002",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0003",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "1dfa891e5d65d21482f005532641219c77c215a2405c527bef207fccd1d66d41",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136487__0004",
+      "stable_id": "SEU_B_OSMWAY_630136487",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "b8e089a23904c2631886e3f7ab2e0934ba804f01896e82a39ecf0745ae852be7",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0001",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "ba5b580685a42799f480823b23a4717382147d1d79a4e678cb4b4ae934920ecf",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0002",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "ad709ad6babb8ec5e0e4dc8299d8504412611f12d6cc018d23b476ad3f14c910",
+      "vertex_count": 960,
+      "polygon_count": 720
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0003",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "d8f8b11c7c91082184a9891c257d9c007d9f20a82b42ef5fb6707fc404dc9937",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136488__0004",
+      "stable_id": "SEU_B_OSMWAY_630136488",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "10c067fa1edc5236cd1cd7f1909ac6a3a0da48c704d34a46ac89b37f5a6738fe",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0001",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "90b4cf4c81dc946680d60e8748d95ed19a42dd648d4c233499e1a7025ea4d78e",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0002",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "20fb8ec2781ac6cd8a93c8a3c56aeb864f19d4853f884fa1b366b08d64e2a400",
+      "vertex_count": 1040,
+      "polygon_count": 780
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0003",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "fb31a8f9c7fa08864b5694cb5d37c523a9d9dffb459fce8f57d60084180b6c83",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136490__0004",
+      "stable_id": "SEU_B_OSMWAY_630136490",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "9fde95dd285cd02b32264b79f02c596a90ffddc33bcf2c5dae42df0cb2400802",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0001",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "f90a9a58fdabf1316d6b63a238b9d79d39a246daf57deb04e51d9449de6d6f32",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0002",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "853e21e7775f3767bd798f9afc9cef9e02354258d95c526f572e0c624210938c",
+      "vertex_count": 920,
+      "polygon_count": 690
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0003",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "053acea9cf3e8cb3cacf3a1f70cd477f86beeec664c5694ca451dee58ca6edef",
+      "vertex_count": 24,
+      "polygon_count": 26
+    },
+    {
+      "name": "SEU_B_OSMWAY_630136491__0004",
+      "stable_id": "SEU_B_OSMWAY_630136491",
+      "role": "original_dorm_geometry",
+      "assumption": "Source v20; dimensions estimated",
+      "sourceclass": "baseline_geometry",
+      "geometry_fingerprint": "5209fc08978df6d0b3f04aca157cba89206cc1a411b6d198bb2594b64396b0f9",
+      "vertex_count": 24,
+      "polygon_count": 26
+    }
+  ]
+}
