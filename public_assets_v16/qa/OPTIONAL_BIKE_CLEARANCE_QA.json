@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "positions_not_modified": true,
+  "instance_count": 8,
+  "visibility": "optional_default_off",
+  "actual_entry_positions_not_surveyed": true,
+  "bounds_sha256": "4b99b0a3ed67dacfa1bb9619a508ba3a33c72faf8aa71b275c6dbf267cf8cdcc",
+  "instance_sha256": "71425ee05de56f09315bf3b69edafa393af143e1991ec92f33805c3eb852f86e",
+  "rows": [
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136435_0",
+      "road_distance_m": 3.089608529268916,
+      "building_bounds_distance_m": 5.774399072265624,
+      "tree_crown_distance_m": 98.2421531842163
+    },
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136435_1",
+      "road_distance_m": 2.8073789586226012,
+      "building_bounds_distance_m": 5.774399072265624,
+      "tree_crown_distance_m": 101.63187032220776
+    },
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136437_0",
+      "road_distance_m": 3.0745175865632413,
+      "building_bounds_distance_m": 5.835165820312512,
+      "tree_crown_distance_m": 41.38158834800766
+    },
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136437_1",
+      "road_distance_m": 2.7911739377758034,
+      "building_bounds_distance_m": 5.835165820312512,
+      "tree_crown_distance_m": 43.791704634059734
+    },
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136450_0",
+      "road_distance_m": 3.0739565343533926,
+      "building_bounds_distance_m": 5.835226953125016,
+      "tree_crown_distance_m": 165.47411235278602
+    },
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136450_1",
+      "road_distance_m": 2.790701796443574,
+      "building_bounds_distance_m": 5.835226953125016,
+      "tree_crown_distance_m": 166.01271428988656
+    },
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136453_0",
+      "road_distance_m": 3.0895275745986552,
+      "building_bounds_distance_m": 5.774490722656254,
+      "tree_crown_distance_m": 190.21582387333083
+    },
+    {
+      "id": "R1_OPTIONAL_PARKED_BIKE_630136453_1",
+      "road_distance_m": 2.8072939848276266,
+      "building_bounds_distance_m": 5.774490722656254,
+      "tree_crown_distance_m": 191.9170033697796
+    }
+  ],
+  "conflicts": []
+}

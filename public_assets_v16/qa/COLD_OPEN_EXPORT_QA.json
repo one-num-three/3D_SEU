@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "cold_full_checkpoint_meshes": 4200,
+  "patch_meshes": 105,
+  "patch_triangles": 245980,
+  "patch_roundtrip_verified": true,
+  "exact_1mm_grid_hash_objects": 96,
+  "grid_boundary_triangle_bijections": [
+    {
+      "name": "TAOYUAN18_V16_817128618_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999432135373354
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 7.62939453125e-06,
+      "minimum_winding_normal_dot": 0.9999951785430312
+    },
+    {
+      "name": "TAOYUAN18_V16_817128610_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999993480741978
+    },
+    {
+      "name": "TAOYUAN18_V16_817128609_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999510664492846
+    },
+    {
+      "name": "TAOYUAN18_V16_817128600_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9997070319950581
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999504880979657
+    },
+    {
+      "name": "TAOYUAN18_V16_817128599_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999997615814209
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_NETS",
+      "triangle_bijection_verified": 5912,
+      "max_vertex_error_m": 6.291359902370698e-05,
+      "minimum_winding_normal_dot": 0.9996907544627902
+    },
+    {
+      "name": "TAOYUAN18_V16_817128598_MARKINGS",
+      "triangle_bijection_verified": 5556,
+      "max_vertex_error_m": 6.103515625e-05,
+      "minimum_winding_normal_dot": 0.9999992474913597
+    }
+  ],
+  "no_embedded_photos_texts_fonts_or_external_libraries": true,
+  "patch_glb_bytes": 11482840,
+  "patch_glb_sha256": "dd91e109b88bd5ea237549a67477e9d587dbc2481cefd9b5fa0426e180f88f12",
+  "full_blend_sha256": "a605e0d3d0adcdfceeeb0bf034fba41820a16d8873ff05fe0ecee08b9e053c4c"
+}

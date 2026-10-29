@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "replace_count": 15,
+  "append_count": 105,
+  "new_mullions": 14,
+  "new_basketball_components": 90,
+  "replacement_display_road": 1,
+  "same_name_ambiguity_avoided": true,
+  "replaced_objects_new_names_suffix": "__V16",
+  "navigation_unchanged": true,
+  "prior_model_v15_ground_corrected_required": true
+}

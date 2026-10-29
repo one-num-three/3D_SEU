@@ -1,0 +1,111 @@
+{
+  "status": "PASS",
+  "pixels_unchanged": true,
+  "images": [
+    {
+      "path": "previews/TAOYUAN30_EDGE_TOP.png",
+      "rgba_sha256": "fccedef71e7143bb4ce1035a94d931627fb7fc8bdaa8bc1b5021143e7e905bb0",
+      "metadata_keys": []
+    },
+    {
+      "path": "previews/TAOYUAN_SOUTH_BASE_CLOSEUP.png",
+      "rgba_sha256": "c8c2893a491706cd0e78e52fa61d8201725bd0ce0c31cede133df09d1e2f4acc",
+      "metadata_keys": []
+    },
+    {
+      "path": "taoyuan_mullions/BEFORE_NORTH_CLOSEUP.png",
+      "rgba_sha256": "da05b81686cff8ad789f8703e3ea5707427fbbe70e1e8d793fc2e34232e6ecfe",
+      "metadata_keys": []
+    },
+    {
+      "path": "taoyuan_mullions/AFTER_NORTH_CLOSEUP.png",
+      "rgba_sha256": "9b02163e237f5f1f72e261179d7da1f7f754b144385eae763b7953a665d2fd03",
+      "metadata_keys": []
+    },
+    {
+      "path": "taoyuan_mullions/BEFORE_SOUTH_CLOSEUP.png",
+      "rgba_sha256": "1e65426bed78724d68ae25f8c81acd15ff52d441ae05359f088310188f01ab49",
+      "metadata_keys": []
+    },
+    {
+      "path": "taoyuan_mullions/AFTER_SOUTH_CLOSEUP.png",
+      "rgba_sha256": "cbcd61890ec5b2ffd0204949ef12802ce278d78efcae7aaa740b8a7561f24e1a",
+      "metadata_keys": []
+    },
+    {
+      "path": "juyuan_mullions/BEFORE_NORTH_CLOSEUP.png",
+      "rgba_sha256": "40f7654212d280fe4c026edb5e307cdd74154923bc24ba03102b75a3e0f5f4d0",
+      "metadata_keys": []
+    },
+    {
+      "path": "juyuan_mullions/AFTER_NORTH_CLOSEUP.png",
+      "rgba_sha256": "07c042d6e4653c8ff557273ab99921ea7a8988cb2c8ee030f3ea32a163e82cec",
+      "metadata_keys": []
+    },
+    {
+      "path": "juyuan_mullions/BEFORE_SOUTH_CLOSEUP.png",
+      "rgba_sha256": "6f9063fdbc8fd95f595103e65ce1c50bceba9b5ffca56fad67ded0b45bcaeae1",
+      "metadata_keys": []
+    },
+    {
+      "path": "juyuan_mullions/AFTER_SOUTH_CLOSEUP.png",
+      "rgba_sha256": "677b1766c7f44867f0611ad6a76f180275cb10b74ee13f91fdf640466ff919fd",
+      "metadata_keys": []
+    },
+    {
+      "path": "roads_structural/previews/REAL_SOURCE_CONNECTION_CONTEXT.png",
+      "rgba_sha256": "59f845e7a802b6b9f1b4b502fc964bd7801bc4cca96bd33b9015914b5c8e9de7",
+      "metadata_keys": []
+    },
+    {
+      "path": "roads_structural/previews/CURB_AND_PATH_DETAIL.png",
+      "rgba_sha256": "9575b83c9b513f72d524516dd14109b2acea0ac973df12260e7664f5a879d7df",
+      "metadata_keys": []
+    },
+    {
+      "path": "roads_structural/previews/ROAD_STRUCTURE_OBLIQUE.png",
+      "rgba_sha256": "9f9dce770d707e8b70eb15cd057fd0b9d08f313d80de79bfb97cb8435dc67e5f",
+      "metadata_keys": []
+    },
+    {
+      "path": "roads_structural/assets/asphalt_original_aggregate.png",
+      "rgba_sha256": "e739fc2007f30d931d580a550341beb20ab86e49f5c87253e016259171e12539",
+      "metadata_keys": []
+    },
+    {
+      "path": "court_road_edge/previews/BEFORE_AFTER_DISPLAY_EDGE.png",
+      "rgba_sha256": "30dc4d2a8c04a68a618c22adfc1399aca689719aea8426d0a0fdc1405f80098e",
+      "metadata_keys": []
+    },
+    {
+      "path": "roads_micro_surface/textures/neutral_micrograin.png",
+      "rgba_sha256": "eb8235b3485bbc759d2b4a7c16e38c674a21e46e8f06bc713af5c8aa054a7712",
+      "metadata_keys": []
+    },
+    {
+      "path": "roads_micro_surface/textures/wood_grain.png",
+      "rgba_sha256": "83b278f5f8140bff2944e25d01b9d243faa0543725dada2220d89137526b1378",
+      "metadata_keys": []
+    },
+    {
+      "path": "roads_micro_surface/textures/paving_joints.png",
+      "rgba_sha256": "8ed842f63d2fa1eaccf4a337ff8f0772f622f31a9b6ae4bd873856981372bbae",
+      "metadata_keys": []
+    },
+    {
+      "path": "taoyuan_additional/previews/TAOYUAN_MISSING_18_MAP.png",
+      "rgba_sha256": "371a9e4a5748f1df2dc70430ed8fd7dad00ca65f5a26cae9d59f0e231adb8f94",
+      "metadata_keys": []
+    },
+    {
+      "path": "taoyuan_additional/previews/TAOYUAN_ROAD_BASE_OVERLAP_REVIEW.png",
+      "rgba_sha256": "2ca9cab7bd70beffbfb580f404682ceae7699c83ef580efb85a61e2ada74efe8",
+      "metadata_keys": []
+    },
+    {
+      "path": "taoyuan_additional/previews/TAOYUAN_30_GROUNDED_REVIEW.png",
+      "rgba_sha256": "0ae58cd743126297b6184a436733e6fe6d306ce06b9f5204d6b5270b2a1c99ca",
+      "metadata_keys": []
+    }
+  ]
+}
