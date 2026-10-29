@@ -1,0 +1,73 @@
+{
+  "module": "roads_micro_surface",
+  "files": {
+    "PUBLIC_RUNTIME_WHITELIST.json": {
+      "bytes": 909,
+      "sha256": "aeea68b5c6195f86b09b6fc7cb44acb913d7ce9e5c471841e9754651178b7053"
+    },
+    "README.md": {
+      "bytes": 1963,
+      "sha256": "059b1958cd6783825b57f2387aa1aa5c42b3ca472f65ef42b67c31daa171f825"
+    },
+    "data/ROAD_MICROSURFACE_MAP.json": {
+      "bytes": 264437,
+      "sha256": "425b8523e3fc2f7a2099de5e4419f8e355d73edd0cb14a2e44a34194dac96d94"
+    },
+    "inputs/ROAD_SOURCE_TAG_AUDIT.json": {
+      "bytes": 503270,
+      "sha256": "f56a915ad33ef5f5e8697f7dde7c32618d8cc014714af095dec2f6326b629ee7"
+    },
+    "inputs/road_material_overrides.json": {
+      "bytes": 204989,
+      "sha256": "9dd3a5aa0cad2321e80dd61fb2bd030abcdccea843290333cf560231751b4460"
+    },
+    "qa/ACTUAL_GLB_QA.json": {
+      "bytes": 676,
+      "sha256": "d0156ee60a2af2a97a4469770dfb5193ada0e20e250b470bb65de7cde22a1465"
+    },
+    "qa/ADAPTER_QA.json": {
+      "bytes": 159,
+      "sha256": "6f62907f2ba99f89a7e31cb62b3a997fbf3d560d0fd6f64a44c9067ed59922d5"
+    },
+    "scripts/apply_micro_surfaces.mjs": {
+      "bytes": 1940,
+      "sha256": "0c827e7f6fca1ab694d629b5a9f5543c424706dbf836f7e105ca29e898f6df64"
+    },
+    "scripts/build_surface_pack.py": {
+      "bytes": 2336,
+      "sha256": "1ab0a4d56a6b4698d400d2b1a283d38a5ac81472ee617a2c4c7734a0423a56b6"
+    },
+    "scripts/extract_entry_building.mjs": {
+      "bytes": 2141,
+      "sha256": "c7a70e89605c3c8fe8e6495b894c334c81c34cbd1c8696196bbd910fc683aa8f"
+    },
+    "scripts/inspect_court_road.mjs": {
+      "bytes": 1496,
+      "sha256": "3a6beddfa0d1f4c3b213a2da204b6266d0346fd279fc7d44ebd2266816f411a0"
+    },
+    "scripts/raycast_curb_support.mjs": {
+      "bytes": 2793,
+      "sha256": "5fb06e921680bf6753fd36d8e0f88b9a5c01c2beb312c023ee5dd436243720d0"
+    },
+    "scripts/test_actual_glb.mjs": {
+      "bytes": 3867,
+      "sha256": "5339a57c87e8f5cdd5186590bc6966e4faabab7c172633969777928aa0d20edc"
+    },
+    "scripts/test_micro_surfaces.mjs": {
+      "bytes": 1725,
+      "sha256": "2b04ca4acea49115eff53f456e43faafa35dd0af68329c1444794645a2df8c98"
+    },
+    "textures/neutral_micrograin.png": {
+      "bytes": 36379,
+      "sha256": "78cdde40089d4e90cb1620fec60db819142c5a31f45611e74958c5673809f3f6"
+    },
+    "textures/paving_joints.png": {
+      "bytes": 36103,
+      "sha256": "efa48eb88ef5505938150894e727aee72a08b1ef051ad77add97a39a8709b593"
+    },
+    "textures/wood_grain.png": {
+      "bytes": 42012,
+      "sha256": "250cf7f869c0de7759bcd3e4d7c7d693496cc676454f8d1de5380fe0df47264d"
+    }
+  }
+}

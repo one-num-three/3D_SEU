@@ -1,0 +1,32 @@
+[
+  {
+    "path": "data/ROAD_MICROSURFACE_MAP.json",
+    "bytes": 264437,
+    "sha256": "425b8523e3fc2f7a2099de5e4419f8e355d73edd0cb14a2e44a34194dac96d94"
+  },
+  {
+    "path": "scripts/apply_micro_surfaces.mjs",
+    "bytes": 1940,
+    "sha256": "0c827e7f6fca1ab694d629b5a9f5543c424706dbf836f7e105ca29e898f6df64"
+  },
+  {
+    "path": "textures/neutral_micrograin.png",
+    "bytes": 36379,
+    "sha256": "78cdde40089d4e90cb1620fec60db819142c5a31f45611e74958c5673809f3f6"
+  },
+  {
+    "path": "textures/wood_grain.png",
+    "bytes": 42012,
+    "sha256": "250cf7f869c0de7759bcd3e4d7c7d693496cc676454f8d1de5380fe0df47264d"
+  },
+  {
+    "path": "textures/paving_joints.png",
+    "bytes": 36103,
+    "sha256": "efa48eb88ef5505938150894e727aee72a08b1ef051ad77add97a39a8709b593"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1963,
+    "sha256": "059b1958cd6783825b57f2387aa1aa5c42b3ca472f65ef42b67c31daa171f825"
+  }
+]
