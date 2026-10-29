@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "scope": "index.html and preview/**; this manifest excluded",
-  "viewer_version": "0.16.0",
+  "viewer_version": "0.16.1",
   "model_version": "0.16",
   "basemap_version": "0.4",
   "model_commit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
@@ -10,7 +10,7 @@
     {
       "path": "index.html",
       "bytes": 11715,
-      "sha256": "83410347bcb01c5775f81b98f9a80f0a092424caaa741517eacfd8efa154cef9"
+      "sha256": "81b7b9bdbc495e7f3c8456cb8e110a02e350f28693f53dc82127141df097466c"
     },
     {
       "path": "preview/LICENSE",
@@ -24,8 +24,8 @@
     },
     {
       "path": "preview/app.js",
-      "bytes": 18842,
-      "sha256": "29e262e02d8130c8b5a84c432c92743a2a09ee6de378004810a88ae471e3c5ac"
+      "bytes": 18983,
+      "sha256": "d16c433710026a9223b800a2c622574e2549281460eee76cf4869daf7e53f1e2"
     },
     {
       "path": "preview/assets/SEU_building_patch_v16_GLB.zip",
@@ -119,8 +119,8 @@
     },
     {
       "path": "preview/release.json",
-      "bytes": 3150,
-      "sha256": "c1a51a7661545990cd49ed5134e140c198c59942a3588fd83e69324b9e59ab69"
+      "bytes": 3283,
+      "sha256": "9a89bccf36990330c9f48ed9e77f2accc5c61b50151cbd7ef5dc4dce1de2d8be"
     },
     {
       "path": "preview/resolution-policy.js",

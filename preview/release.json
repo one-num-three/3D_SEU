@@ -1,6 +1,6 @@
 {
   "modelVersion": "0.16",
-  "viewerVersion": "0.16.0",
+  "viewerVersion": "0.16.1",
   "publishedAt": "2026-10-29",
   "modelCommit": "3ffbdc36df9cd4df94bb38e06c5786f579dc532b",
   "viewerCommit": null,
@@ -76,5 +76,6 @@
   "runtimeSnapshotStatus": "published",
   "displayQuality": "Original bridge transmission, all603highest-detail trees, nativeDPR; complete sports source geometry and compatible PBR, 3 procedural Noise/Bump materials only preserved in Blender",
   "depthDisplay": "Logarithmic depth for thin facade separation; device visual retest required, no geometry reduction",
-  "runtimeLoadingStrategy": "固定 v14 无损基底 + v15/v16 完整质量增量；按 SHA 本地缓存"
+  "runtimeLoadingStrategy": "固定 v14 无损基底 + v15/v16 完整质量增量；按 SHA 本地缓存",
+  "viewerChange": "让现有两盏灯同时覆盖地表和三维绘制层，修正PBR球场无光变黑；模型与原材质不变"
 }
