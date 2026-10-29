@@ -1,0 +1,100 @@
+{
+  "files": [
+    {
+      "path": "INTEGRATION.json",
+      "bytes": 1656,
+      "sha256": "15e440f6a6c2dcccacc76b1148f51b16fee7f7a299645148a93f6e33e9e25fa7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4567,
+      "sha256": "7c49cf444b1c2614d6a86686690a528750580d8cd9e14bbdd68e86f514e01371"
+    },
+    {
+      "path": "assets/SEU_Taoyuan_grandstand_candidate.blend",
+      "bytes": 4295584,
+      "sha256": "e3b3193df0130d7a2848951e9c30d659684b82100dcbc7e251f2b1a5c4914f92"
+    },
+    {
+      "path": "assets/SEU_Taoyuan_grandstand_candidate.glb",
+      "bytes": 5367248,
+      "sha256": "00d1532378381a30fe91107d4ddabf7750a3f680be00558b2bb1df3f7fb37060"
+    },
+    {
+      "path": "data/FOOTPRINT_FRAME.json",
+      "bytes": 1303,
+      "sha256": "8120190268c5f537014ded69d9624a8292f9e0efb69873110b3379e507f9e44d"
+    },
+    {
+      "path": "previews/AFTER.png",
+      "bytes": 1792897,
+      "sha256": "b7c7e98e9faccf16767fd06c02096eac475ef7c73acc1db79e306b564f43114b"
+    },
+    {
+      "path": "previews/BEFORE.png",
+      "bytes": 1665096,
+      "sha256": "8e32a975a30a9d908e4cd500406d87b5ae0f6e22ae47e2a6ce8488e111b180a5"
+    },
+    {
+      "path": "previews/BEFORE_AFTER.png",
+      "bytes": 2744220,
+      "sha256": "76bcd685804598229fc2c8f261121a4db967cf6ed83bcc135cba6d032a8b9e73"
+    },
+    {
+      "path": "previews/SEATS_ROOF_DETAIL.png",
+      "bytes": 2502351,
+      "sha256": "ce0c64425a0a2356bd8e857bf52a6a1b338b0b2ffdad811422ee5d53a010556a"
+    },
+    {
+      "path": "previews/STAND_FRONT.png",
+      "bytes": 1772006,
+      "sha256": "c2d77b6add8db9903dcbfcf03b580ee254f751e4f6ef8a8bf3093ed45e2c309a"
+    },
+    {
+      "path": "qa/BASELINE_PRESERVATION_QA.json",
+      "bytes": 337,
+      "sha256": "584e5acc20207179c15aa8e0c41cbe46db0d5b980b379c1d608e9fa16cc8830e"
+    },
+    {
+      "path": "qa/BUILD_QA.json",
+      "bytes": 975,
+      "sha256": "30082334cdeb0893c7597c95ee6b1273ed4cdd71bae3eb9fc0319e24d7b9e796"
+    },
+    {
+      "path": "qa/COLD_GLB_QA.json",
+      "bytes": 6965,
+      "sha256": "3de7d29da64a4aaa155cea5a776999dfc8e6d6fc7d3f09beea03adb5ac249653"
+    },
+    {
+      "path": "qa/PNG_METADATA_QA.json",
+      "bytes": 831,
+      "sha256": "7ab4b77b8f39d257da4bb1fc9e6bc791278c57787d16052c4406c66c683bd768"
+    },
+    {
+      "path": "qa/PRIVACY_QA.json",
+      "bytes": 209,
+      "sha256": "a8debb5bfbb5d86a2282cfb659a1c5713658c5235363c80dad2ef44e8275e9e0"
+    },
+    {
+      "path": "qa/PROJECTION_COLLISION_QA.json",
+      "bytes": 341,
+      "sha256": "3738ecdc7d688e3295b81acbc379f7bf49b3b348f86331b0f9d05ec0a503347f"
+    },
+    {
+      "path": "scripts/build.py",
+      "bytes": 7411,
+      "sha256": "227296c03d1562c3af5857a0fead8b3bb0a4b80d043848ed1b2ca17e6f8a1c75"
+    },
+    {
+      "path": "scripts/cold_qa.py",
+      "bytes": 1759,
+      "sha256": "a9143719e92830497764f928789caea8c7a62a80a6ec2b7e48abf7b8226731e5"
+    },
+    {
+      "path": "scripts/render_preview.py",
+      "bytes": 2688,
+      "sha256": "5433e74ac59bfd81b62c4c75982ee840bbac8433ee8819d6c6a401733ee29699"
+    }
+  ],
+  "note": "v20 public copy manifest; original independent module retains its own version. PNG and track source path metadata cleaned without pixel/geometry change; see parent qa."
+}

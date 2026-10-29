@@ -1,0 +1,47 @@
+{
+  "asset": "assets/SEU_Taoyuan_grandstand_candidate.glb",
+  "byte_size": 5367248,
+  "sha256": "00d1532378381a30fe91107d4ddabf7750a3f680be00558b2bb1df3f7fb37060",
+  "mesh_count": 16,
+  "triangles": 100604,
+  "replace_names": [],
+  "append_names": [
+    "SEU_B_OSMWAY_1056927532_AISLE_STEPS",
+    "SEU_B_OSMWAY_1056927532_CANOPY",
+    "SEU_B_OSMWAY_1056927532_END_ACCESS_STAIRS",
+    "SEU_B_OSMWAY_1056927532_FOUNDATION",
+    "SEU_B_OSMWAY_1056927532_FRONT_RAIL",
+    "SEU_B_OSMWAY_1056927532_HANDRAILS",
+    "SEU_B_OSMWAY_1056927532_REAR_COLUMNS",
+    "SEU_B_OSMWAY_1056927532_ROOF_TRUSSES",
+    "SEU_B_OSMWAY_1056927532_SEATING_TREADS",
+    "SEU_B_OSMWAY_1056927532_SEATS_ORANGE",
+    "SEU_B_OSMWAY_1056927532_SEATS_YELLOW",
+    "SEU_B_OSMWAY_1056927532_SERVICE_BODY",
+    "SEU_B_OSMWAY_1056927532_SERVICE_DOORS",
+    "SEU_B_OSMWAY_1056927532_UPPER_CONCOURSE",
+    "SEU_B_OSMWAY_1056927532_WEST_WINDOWS",
+    "SEU_B_OSMWAY_1056927532_WINDOW_FRAMES"
+  ],
+  "role": "building_detail",
+  "render_contract": {
+    "pass_name": "normal",
+    "depthTest": true,
+    "depthWrite": true
+  },
+  "source_osm_way": 1056927532,
+  "footprint_source": "data/FOOTPRINT_FRAME.json",
+  "target": "additive_to_v19_keep_all_prior_track16",
+  "coordinates": {
+    "crs": "EPSG:32650",
+    "origin": [
+      671709.6990725585,
+      3529586.400278158
+    ],
+    "local_axes_blender": "X east Y north Z up",
+    "glb_axes": "X east Y up Z south",
+    "units": "metres"
+  },
+  "source_sha256": "bcc2ec668625910f40682e163ddc68a03c3fc8d8b75d13565b380727aa02b2f3",
+  "estimate_note": "body/roof height, rows, seats, structural intervals, openings estimated; OSM footprint fixed"
+}
