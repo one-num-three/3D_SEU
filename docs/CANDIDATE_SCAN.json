@@ -1,8 +1,8 @@
 {
   "technical_scan": "PASS",
   "errors": [],
-  "file_count": 63,
-  "preview_manifested_files": 40,
+  "file_count": 66,
+  "preview_manifested_files": 43,
   "framework_license": "MIT",
   "framework_release_authorized": true,
   "campus_assets_legal_clearance": false,
