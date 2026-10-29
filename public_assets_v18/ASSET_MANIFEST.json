@@ -1,0 +1,143 @@
+{
+  "version": "0.18.0",
+  "scope": "Twelve local teaching-road display partitions; exact union and navigation retained; four internal-route asphalt material observations; no new sidewalk or width change",
+  "previous_versions_immutable": true,
+  "files": {
+    "AGENTS.md": {
+      "bytes": 1068,
+      "sha256": "fba10a709ca2e5dd02748db7c1cc8eed65915bedf7174a5efaa87a80f01e58fd"
+    },
+    "LICENSE_CODE_MIT.txt": {
+      "bytes": 1076,
+      "sha256": "31ea96654816f6c1c2a19b4f922062cb5d14f2f005f195ab82c3d46f37166a0b"
+    },
+    "README.md": {
+      "bytes": 3418,
+      "sha256": "6e53917e0dd2d8a83a83439b3119e8efeb1279c1f130d0c207ab1afc477fb27b"
+    },
+    "assets/SEU_TEACHING_ROAD_PARTITIONS_v18.blend": {
+      "bytes": 118101,
+      "sha256": "641912efc3f510c3b33b8e7bea40973779bce8211ece8b5571d733c35433f186"
+    },
+    "assets/SEU_TEACHING_ROAD_PARTITIONS_v18.glb": {
+      "bytes": 82104,
+      "sha256": "f0907a1f35a0a3fb06428d5496e40f049779f8c982a67a4e4ff5cddcbc251a53"
+    },
+    "assets/SEU_building_patch_v18.glb": {
+      "bytes": 82556,
+      "sha256": "a20e8dcfb0d566d8a2ebff4bb281a6a1e55e02f0c7d622dc8c64186830bee4a8"
+    },
+    "assets/SEU_campus_full_quality_v18.blend.zip.001": {
+      "bytes": 16777216,
+      "sha256": "2af246508e9e3b513a93c6abedc53b440c8ace20cfbdcb123495a1df5d1d14af"
+    },
+    "assets/SEU_campus_full_quality_v18.blend.zip.002": {
+      "bytes": 10330906,
+      "sha256": "c7a5755b8e67dcb521640e21672e4822ad5920f36a5a4eb4d09b09566bcb7b36"
+    },
+    "data/FULL_SOURCE_ARCHIVE.json": {
+      "bytes": 784,
+      "sha256": "cd38c1951f8172a70e0ded5432c322015a674fee4cb9e801a81412225dc9471a"
+    },
+    "data/INTEGRATION.json": {
+      "bytes": 1470,
+      "sha256": "a3ae8e99832bd19152c3d61809dcbb0e0a6a3d433f5df404d1c1a09393322dfb"
+    },
+    "data/ORIGINAL_ROAD_GEOMETRY.local.json.gz": {
+      "bytes": 15159,
+      "sha256": "c74066275747e83dc1de136182d52192091cc70eddae877280832a8681b1c31e"
+    },
+    "data/PARTITION_RECORD.json": {
+      "bytes": 86837,
+      "sha256": "64f453979f5603ec40ffc0ff3f37d36ab26f989fa26fe1dcde62ad00ad89ec64"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 1788,
+      "sha256": "da6c2fae60257b2f4abdabd983775424bde06d5de2e7f0c4ad5e42f9e4632766"
+    },
+    "data/SOURCE_ROADS.local.geojson": {
+      "bytes": 61190,
+      "sha256": "4d7b6416d6e21b4e47dd15db86e9dac109f6852dae0854a6cbe6c807cd5901d4"
+    },
+    "data/TEACHING_ASPHALT_DISPLAY.json": {
+      "bytes": 1943,
+      "sha256": "ad32dc6d3089a86aaf43a3dfc3c5408d0f879e159265ce6e5aba26d68163c47e"
+    },
+    "data/TEACHING_ROAD_GEOMETRY.local.json.gz": {
+      "bytes": 11966,
+      "sha256": "31057ce3c65ae2124930f0ee4a15ce18e6f02b210fe86f2059ee475551ac941a"
+    },
+    "previews/TEACHING_ROADS_BEFORE_AFTER.png": {
+      "bytes": 2139999,
+      "sha256": "c86dce18aaf46c82ab9c3c35f66467d7e971ff45484709b83d6b0c71111b5966"
+    },
+    "qa/ACTUAL_COVERAGE_QA.json": {
+      "bytes": 2824,
+      "sha256": "adf9829a6f71285cb402936c4ba553b25e1780eee22b3a7e3e9ba84c385b9b8a"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 499,
+      "sha256": "26b7a87f5521c933d9f84b43a4ec5be080a79b5379db453ed49dd5a60cb991f1"
+    },
+    "qa/EXPORTED_TOP_FACES.json": {
+      "bytes": 45146,
+      "sha256": "26f74c764cdd8bcadead221960ecd97dc835a1fb1a3f73c37f8099c414196a74"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 463223,
+      "sha256": "20e528c5f4c1a0ecd65bc438eb9f94c62ae86a5a727e1f819f845a69213c6036"
+    },
+    "qa/MESH_QA.json": {
+      "bytes": 1630,
+      "sha256": "cf31461b0f4873d4d64615bf1406954831c15cfbb575d3597f4136230ae092cc"
+    },
+    "qa/NAVIGATION_RETENTION.json": {
+      "bytes": 4004,
+      "sha256": "95a6a28bcbde9c5a2fccf33ec34da5dccc760b1b3fc3d8e06428c3ff1abc74a1"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "9ace765c3c6dfc6368ba35d7625cada17b8541b67050ae7ac961237464739ac2"
+    },
+    "qa/RETAINED_MATERIAL_QA.json": {
+      "bytes": 335,
+      "sha256": "d1848ac4eb20d068b1cc982f0b98c270f1d74e5675dbaf8e428d7c41aad1c7be"
+    },
+    "qa/TARGET_PBR_ID_QA.json": {
+      "bytes": 6095,
+      "sha256": "eadbf4d3e5ae4e3def860f6cb4cc72d78d3015b3a3744d8093df1af5105095a9"
+    },
+    "scripts/check_retained_materials.py": {
+      "bytes": 1802,
+      "sha256": "8ef2f2e69cd9af5e2e6f37ef8afef0582a298486dcd016ba607ebd3714f4a6b8"
+    },
+    "scripts/check_target_materials.py": {
+      "bytes": 1505,
+      "sha256": "ffee0a8034577fc086c69f203f4894f3601c0b315bb845761c6aa19bc6176397"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 4092,
+      "sha256": "81a69f6547413d5d9cb3d3dd744556523dd4e4c87b1a7e64b5620c579f513fc4"
+    },
+    "scripts/rebuild_module.py": {
+      "bytes": 2202,
+      "sha256": "5dc842437b34298a3da36085147eb4421b1b366bad8abb61fa1212b4b8514659"
+    },
+    "scripts/unpack_full_source.py": {
+      "bytes": 754,
+      "sha256": "1ffe8739e929a5d050cc67834e3c99a069cd6f6682bf61ee3ceaef4cc8a6ddcd"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 3542,
+      "sha256": "e7ea7b13971ed367a781ec0f61cc1ee8a25601e44371bee56737c636376a7501"
+    },
+    "scripts/validate_coverage.py": {
+      "bytes": 1515,
+      "sha256": "a87e22a9bd90289bbf2ce8663a614222cae405b496cb1ba665ce55d962270b63"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1375,
+      "sha256": "a05f4aa79a80e8092c4f774b2c12f2e66d9ac34c3123ba3a3f165bbdad8dd241"
+    }
+  }
+}

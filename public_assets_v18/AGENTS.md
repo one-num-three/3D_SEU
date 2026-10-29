@@ -1,0 +1,5 @@
+# Local road revision contract
+Read repository root AGENTS/current contract first. Exactly12 ordered replacements; unique stableIDs retain original navigation and access classes. No blanket asphalt recolor, no new sidewalk, no measured-width claim. Only4 internal main-route display basecolors change from user local observation; original roughness/metallic/otherPBR preserved.
+The area values are not survey measurements: use exact qa/ACTUAL_COVERAGE_QA.json (union1801.269m2, duplicate-counted60.341m2 removed). Shared road coverage stays unchanged; triangles reduced only by duplicate top-face repartition, not LOD.
+Web apply explicit4 road colors after generic roadpalette and before existing microtextures. Keep visible current road nodes only, stableID map398, original B2 independent6nodes, bridge17 and all quality/cache/light/touch defaults.
+Frozen priorversions immutable. No private photos/IDs/paths in source. CodeMIT/original visualsCCBY/OSM factsODbL. Full source zip parts must pass both per-part and reconstructed archive/member hashes before opening.
