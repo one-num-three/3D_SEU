@@ -1,0 +1,11 @@
+{
+  "replace_object_names": [
+    "SEU_R_OSMWAY_851764290"
+  ],
+  "append_object_names": [
+    "SEU_R_OSMWAY_851764290"
+  ],
+  "stable_id_unchanged": true,
+  "display_geometry_only": true,
+  "navigation_unchanged": true
+}
