@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "images": [
+    {
+      "file": "SEATS_ROOF_DETAIL.png",
+      "pixels_unchanged": true,
+      "pixel_sha256": "ec7b0a920ff087a4fe557b4fceb3f57ad7364509ff9b2e1e1ad5ea965b9b31e6",
+      "metadata_removed": true
+    },
+    {
+      "file": "BEFORE.png",
+      "pixels_unchanged": true,
+      "pixel_sha256": "987ea0d998aa4283b0b57ae6d3c050b6b734bdf32d8337191a23e4d774724b7d",
+      "metadata_removed": true
+    },
+    {
+      "file": "STAND_FRONT.png",
+      "pixels_unchanged": true,
+      "pixel_sha256": "7ac2a6868c40b0fece18fd57310c3eec04b195443ccc555a734ec97d75c0b4da",
+      "metadata_removed": true
+    },
+    {
+      "file": "AFTER.png",
+      "pixels_unchanged": true,
+      "pixel_sha256": "bcc52e2c98d4217960c73873e091e9323e45835d478c21cbadccd90009281287",
+      "metadata_removed": true
+    }
+  ]
+}

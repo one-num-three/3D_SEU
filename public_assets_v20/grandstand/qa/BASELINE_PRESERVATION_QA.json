@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "baseline_sha256": "bcc2ec668625910f40682e163ddc68a03c3fc8d8b75d13565b380727aa02b2f3",
+  "baseline_mesh_count": 4984,
+  "all_original_geometry_and_transforms_unchanged": true,
+  "new_mesh_count": 16,
+  "original_track_16_preserved": true,
+  "nearby_road_building_meshes": [],
+  "baseline_file_not_written": true
+}

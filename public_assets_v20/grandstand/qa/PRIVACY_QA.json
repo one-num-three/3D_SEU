@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "all_raw_uncompressed_blend_bytes_scanned": true,
+  "all_png_metadata_scanned": true,
+  "all_text_and_glb_scanned": true,
+  "reference_photos_not_packaged": true,
+  "bad_patterns": []
+}

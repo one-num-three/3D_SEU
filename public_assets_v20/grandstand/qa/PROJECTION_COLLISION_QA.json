@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "osm_way": 1056927532,
+  "source_footprint_area_m2": 3526.8837454808427,
+  "all_new_vertices_inside_original_footprint_with_float_tolerance_m": 0.0002,
+  "road_building_checks": [],
+  "source_polygon_not_bbox_used": true,
+  "height_measured": false,
+  "structural_engineering_or_egress_compliance_not_checked": true
+}

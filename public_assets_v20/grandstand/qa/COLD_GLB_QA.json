@@ -1,0 +1,268 @@
+{
+  "status": "PASS",
+  "meshes": 16,
+  "triangles": 100604,
+  "bounds_max_roundtrip_error_m": 0.0,
+  "no_degenerate_or_nonfinite": true,
+  "no_external_refs_or_images": true,
+  "inventory": {
+    "SEU_B_OSMWAY_1056927532_AISLE_STEPS": {
+      "bounds_min": [
+        745.4155883789062,
+        317.6490478515625,
+        1.8200000524520874
+      ],
+      "bounds_max": [
+        763.2386474609375,
+        402.2108459472656,
+        8.930000305175781
+      ],
+      "triangles": 2040,
+      "area": 469.60794781894367,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_AISLE_STEPS"
+    },
+    "SEU_B_OSMWAY_1056927532_CANOPY": {
+      "bounds_min": [
+        735.919189453125,
+        296.562744140625,
+        12.44408893585205
+      ],
+      "bounds_max": [
+        764.248779296875,
+        424.5080871582031,
+        13.945775032043457
+      ],
+      "triangles": 5504,
+      "area": 6156.984522245256,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_CANOPY"
+    },
+    "SEU_B_OSMWAY_1056927532_END_ACCESS_STAIRS": {
+      "bounds_min": [
+        740.1824951171875,
+        296.10992431640625,
+        0.30000001192092896
+      ],
+      "bounds_max": [
+        763.76953125,
+        425.4904479980469,
+        8.699999809265137
+      ],
+      "triangles": 960,
+      "area": 229.07526589553186,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_END_ACCESS_STAIRS"
+    },
+    "SEU_B_OSMWAY_1056927532_FOUNDATION": {
+      "bounds_min": [
+        734.6549682617188,
+        292.12774658203125,
+        0.02500000037252903
+      ],
+      "bounds_max": [
+        765.0103149414062,
+        428.8182678222656,
+        0.30000001192092896
+      ],
+      "triangles": 20,
+      "area": 7141.641909656136,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_FOUNDATION"
+    },
+    "SEU_B_OSMWAY_1056927532_FRONT_RAIL": {
+      "bounds_min": [
+        759.7686767578125,
+        297.9771423339844,
+        2.0
+      ],
+      "bounds_max": [
+        764.1682739257812,
+        424.4060974121094,
+        3.0899999141693115
+      ],
+      "triangles": 1204,
+      "area": 37.891959785763895,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_FRONT_RAIL"
+    },
+    "SEU_B_OSMWAY_1056927532_HANDRAILS": {
+      "bounds_min": [
+        743.905029296875,
+        297.4955139160156,
+        2.0
+      ],
+      "bounds_max": [
+        763.9412841796875,
+        424.3379211425781,
+        10.086533546447754
+      ],
+      "triangles": 2856,
+      "area": 57.49543487789439,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_HANDRAILS"
+    },
+    "SEU_B_OSMWAY_1056927532_REAR_COLUMNS": {
+      "bounds_min": [
+        741.6595458984375,
+        297.53692626953125,
+        0.30000001192092896
+      ],
+      "bounds_max": [
+        746.5324096679688,
+        422.6244201660156,
+        12.600000381469727
+      ],
+      "triangles": 132,
+      "area": 343.9913413824078,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_REAR_COLUMNS"
+    },
+    "SEU_B_OSMWAY_1056927532_ROOF_TRUSSES": {
+      "bounds_min": [
+        736.3336181640625,
+        297.5858154296875,
+        10.412029266357422
+      ],
+      "bounds_max": [
+        763.7236328125,
+        422.9819030761719,
+        13.868276596069336
+      ],
+      "triangles": 7260,
+      "area": 404.45555235082867,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_ROOF_TRUSSES"
+    },
+    "SEU_B_OSMWAY_1056927532_SEATING_TREADS": {
+      "bounds_min": [
+        744.657470703125,
+        297.4608459472656,
+        0.30000001192092896
+      ],
+      "bounds_max": [
+        763.928466796875,
+        424.3979187011719,
+        8.720000267028809
+      ],
+      "triangles": 204,
+      "area": 25699.33844038543,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_SEATING_TREADS"
+    },
+    "SEU_B_OSMWAY_1056927532_SEATS_ORANGE": {
+      "bounds_min": [
+        745.6272583007812,
+        299.5833435058594,
+        2.2799999713897705
+      ],
+      "bounds_max": [
+        762.9261474609375,
+        419.7127685546875,
+        9.569999694824219
+      ],
+      "triangles": 39168,
+      "area": 1929.7929615289042,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_SEATS_ORANGE"
+    },
+    "SEU_B_OSMWAY_1056927532_SEATS_YELLOW": {
+      "bounds_min": [
+        744.92724609375,
+        299.6434631347656,
+        2.2799999713897705
+      ],
+      "bounds_max": [
+        763.6261596679688,
+        419.5625305175781,
+        9.569999694824219
+      ],
+      "triangles": 39168,
+      "area": 1929.7928478628514,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_SEATS_YELLOW"
+    },
+    "SEU_B_OSMWAY_1056927532_SERVICE_BODY": {
+      "bounds_min": [
+        735.0535278320312,
+        293.13909912109375,
+        0.30000001192092896
+      ],
+      "bounds_max": [
+        749.11376953125,
+        427.385009765625,
+        8.5
+      ],
+      "triangles": 12,
+      "area": 4896.556144307661,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_SERVICE_BODY"
+    },
+    "SEU_B_OSMWAY_1056927532_SERVICE_DOORS": {
+      "bounds_min": [
+        735.0494384765625,
+        296.13360595703125,
+        0.3100000023841858
+      ],
+      "bounds_max": [
+        739.536865234375,
+        423.9631042480469,
+        2.6500000953674316
+      ],
+      "triangles": 48,
+      "area": 39.638604841049926,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_SERVICE_DOORS"
+    },
+    "SEU_B_OSMWAY_1056927532_UPPER_CONCOURSE": {
+      "bounds_min": [
+        740.3029174804688,
+        296.81292724609375,
+        8.5
+      ],
+      "bounds_max": [
+        748.9942626953125,
+        424.38677978515625,
+        8.720000267028809
+      ],
+      "triangles": 12,
+      "area": 1164.723921170588,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_UPPER_CONCOURSE"
+    },
+    "SEU_B_OSMWAY_1056927532_WEST_WINDOWS": {
+      "bounds_min": [
+        735.143798828125,
+        300.1329650878906,
+        2.0
+      ],
+      "bounds_max": [
+        739.4002685546875,
+        422.6638488769531,
+        7.199999809265137
+      ],
+      "triangles": 504,
+      "area": 351.7071192489324,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_WEST_WINDOWS"
+    },
+    "SEU_B_OSMWAY_1056927532_WINDOW_FRAMES": {
+      "bounds_min": [
+        735.102294921875,
+        300.0866394042969,
+        1.9500000476837158
+      ],
+      "bounds_max": [
+        739.341796875,
+        422.706787109375,
+        7.25
+      ],
+      "triangles": 1512,
+      "area": 57.58237499635013,
+      "role": "building_detail",
+      "stable_id": "SEU_B_OSMWAY_1056927532_WINDOW_FRAMES"
+    }
+  },
+  "real_world_height_measured": false,
+  "real_device_tested": false
+}
