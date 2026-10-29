@@ -1,0 +1,303 @@
+{
+  "version": "0.19.0",
+  "scope": "Eight Taoyuan dormitory roof-end refinements plus Taoyuan track and football details; v18 geography and roads retained; photo-informed dimensions estimated",
+  "previous_versions_immutable": true,
+  "files": {
+    "ATTRIBUTION.md": {
+      "bytes": 692,
+      "sha256": "ab7c230f10f751c681eb35892701a96cca90a480f5d34988b8d93b1bb7c76496"
+    },
+    "README.md": {
+      "bytes": 3645,
+      "sha256": "078761a4caf082155f4089abf1f58f2e7226966b56f952d99d7fb49d0c60d69a"
+    },
+    "assets/SEU_building_patch_v19.glb": {
+      "bytes": 1466232,
+      "sha256": "7ee3b2736988301ec225e5cf7854c8c2fde78c37d1c96ad29394678fcf818584"
+    },
+    "assets/SEU_campus_full_quality_v19.blend.zip.001": {
+      "bytes": 16777216,
+      "sha256": "fa3fdc1f3d6862d7951357ed15eccb8d0a361dafc4caf9b8bda0df4e0a7875da"
+    },
+    "assets/SEU_campus_full_quality_v19.blend.zip.002": {
+      "bytes": 10891417,
+      "sha256": "39fe8e18d0ad739bf8fadc47893ae8593453081847bc46f6d39c8c770ba57c19"
+    },
+    "data/FULL_SOURCE_ARCHIVE.json": {
+      "bytes": 787,
+      "sha256": "c9d1ddfc4f75ad8078a12b0b2d9edec6e4f361f06d8b272328ca61821852252a"
+    },
+    "data/REPLACEMENT_MANIFEST.json": {
+      "bytes": 5531,
+      "sha256": "7ba3bc840f46f7515d3e821a2e0ea43753fd7fc2d4121a976eafe31f18f006cd"
+    },
+    "dorm_endheads/AFTER_END_DETAIL.png": {
+      "bytes": 2031307,
+      "sha256": "592b18ea8898a276221f9525c3dc4f58c58d3f3c667ca27b51a537982b354fb6"
+    },
+    "dorm_endheads/AFTER_END_FACADE.png": {
+      "bytes": 1772608,
+      "sha256": "f2b0ffbfe8d6347beccfb8dea7496ec77cfcfe9f0681f8ea3ccb1f5ecee3328f"
+    },
+    "dorm_endheads/AFTER_GROUP.png": {
+      "bytes": 1751631,
+      "sha256": "feafbd1567aecb7a8458b9ce5d59103b93db23f381a5a6c8dd52c967ca754f3c"
+    },
+    "dorm_endheads/BASELINE.json": {
+      "bytes": 288,
+      "sha256": "073a323d4f6dbf60c973f68e067bb698677b8207055ca7cb5fda8fa74fc497cb"
+    },
+    "dorm_endheads/BASELINE_ALL_GEOMETRY_FINGERPRINTS.json": {
+      "bytes": 648932,
+      "sha256": "45452dc26d92f9b4b2f0cbc367c16c87b8d05cf4e9e15f4f0374c10b601b9b68"
+    },
+    "dorm_endheads/BEFORE_END_DETAIL.png": {
+      "bytes": 2028439,
+      "sha256": "0c02b7da49a9649006f76739eda44191dd65d9706d90d1bb3dd5ce3b4f962849"
+    },
+    "dorm_endheads/BEFORE_END_FACADE.png": {
+      "bytes": 1763241,
+      "sha256": "d084582a5e6feaa39883471d11f4c67ab2c16cf154747d1ca6f0f3d461928341"
+    },
+    "dorm_endheads/BEFORE_GROUP.png": {
+      "bytes": 1738318,
+      "sha256": "ce062b7555aefdc463c4a0c1e45bb11b8ee005bb0b017cabb5b3aa33ed2d57ed"
+    },
+    "dorm_endheads/EXPORT_QA.json": {
+      "bytes": 12103,
+      "sha256": "7ad14f59099170ae896243240e0dec92db66a17725606e9c665f75f0a56e92cc"
+    },
+    "dorm_endheads/FILE_MANIFEST.json": {
+      "bytes": 4442,
+      "sha256": "f9baa8680adf18f4ff2385d6d754e9812c158ed7b9553be55602dc0321d59e7d"
+    },
+    "dorm_endheads/GEOMETRY_QA.json": {
+      "bytes": 7480,
+      "sha256": "5ca37d746fba84166bdc4246b72bb0b36b47e8d3a69e77b129ac3aeba5f22ecd"
+    },
+    "dorm_endheads/INTEGRATED_QA.json": {
+      "bytes": 323,
+      "sha256": "11e20050a2120a9c3a458856486ccca8e5e33700f4998b430a296ec52773f98f"
+    },
+    "dorm_endheads/INTEGRATION.json": {
+      "bytes": 4994,
+      "sha256": "a1ca0c8f4441a7c68ee6d637bdb52ce509ecde1b3e4397bf5164d24c1ac416c4"
+    },
+    "dorm_endheads/README.md": {
+      "bytes": 3758,
+      "sha256": "45ef35d5099d98573d6ec1a7a194e7785b15847f443156aa30b9f90a650ab073"
+    },
+    "dorm_endheads/ROOF_AND_WINDOW_QA.json": {
+      "bytes": 3872,
+      "sha256": "4ae4441741ad4186d65d43b1468008c816fd2aa8b940c8c677a362145a8cadf0"
+    },
+    "dorm_endheads/UNCHANGED_TARGET_MESHES.json": {
+      "bytes": 7466,
+      "sha256": "c72e228920dda362ba18a636a8e7bf300163cfa1fde99dee869f8451bbcacf66"
+    },
+    "dorm_endheads/baseline_taoyuan_geometry.json.gz": {
+      "bytes": 402516,
+      "sha256": "484297a01483addccbef8994ce874b30a48fb7dafcce9781d0224237d4f33fa7"
+    },
+    "dorm_endheads/build_patch.py": {
+      "bytes": 8984,
+      "sha256": "f09a2aadec65a971580474fd58b16fbae12500c5207cc1edf0df9189d94acaf6"
+    },
+    "dorm_endheads/footprints.local.geojson": {
+      "bytes": 8793,
+      "sha256": "1422447c8bf90f6f83403fcca82d55af9e8d9f61b51eb6ad4e705da5aea93123"
+    },
+    "dorm_endheads/geometry_database.json.gz": {
+      "bytes": 44890,
+      "sha256": "1d60912ea29e4fed16eb567da713093bc5ab058128f03ba895026031a56bdb87"
+    },
+    "dorm_endheads/integrate_and_verify.py": {
+      "bytes": 2575,
+      "sha256": "0ff7ff32d3daf8528c1742dbe068897f07ca108d66ef2a9c204298c4c88e498e"
+    },
+    "dorm_endheads/objects_manifest.json": {
+      "bytes": 32272,
+      "sha256": "06e332c0685cd6f15a21ef06ff4533f90bd50dd1a4994b843ada7f8fed7810d2"
+    },
+    "dorm_endheads/rebuild_clean.py": {
+      "bytes": 3233,
+      "sha256": "904815c1a74996c2508d8baa8726f30c9a29d6da4d70df81b162e0aef7c6b9c4"
+    },
+    "dorm_endheads/render_compare.py": {
+      "bytes": 2480,
+      "sha256": "c2335b2d534690e9a93b9ebdc3b632306beb9e4f3df421544a57d409c596b64f"
+    },
+    "dorm_endheads/seu_taoyuan_endheads_candidate.blend": {
+      "bytes": 131533,
+      "sha256": "731e3baae04a5e2b1dad224a297f13e120bef2e99555b8ec13e75ee48999ae9c"
+    },
+    "dorm_endheads/seu_taoyuan_endheads_candidate.glb": {
+      "bytes": 116928,
+      "sha256": "d609b2ee9cecb71e7e0bcbcb2c02094454f385ab99a91e76e28ac7f489bd3d57"
+    },
+    "dorm_endheads/validate_export.py": {
+      "bytes": 1558,
+      "sha256": "a5f7e94704e0efe50854861da5e803441c72de8c4939cdf8a89190c1d1a6c1c3"
+    },
+    "dorm_endheads/validate_geometry.py": {
+      "bytes": 2390,
+      "sha256": "5ea25d287efc00938a8ecf73ad38bced278f7d510c55882d662b0ea9722de33c"
+    },
+    "qa/COLD_OPEN_EXPORT_QA.json": {
+      "bytes": 502,
+      "sha256": "5e5d935735b1b9d9d2620e6c7194af8ab50a1ecc61427ed545d8d0cab44b9d44"
+    },
+    "qa/INTEGRATION_QA.json": {
+      "bytes": 464024,
+      "sha256": "0a9bdfc8da09dda7653f0aad9ebde121dedfdc435b61c3b5660423867ad3448f"
+    },
+    "qa/PNG_METADATA_ONLY_CLEANUP.json": {
+      "bytes": 4228,
+      "sha256": "4380cc9d223b1d081121d609c10f0f286ad6017498a213ac9277aa06f54717f5"
+    },
+    "qa/PRIVACY_SCAN.json": {
+      "bytes": 169,
+      "sha256": "dcd13b036c036f5da846b53a2f211e42f7b4b10af8b2dd037b313ae57a1f6e22"
+    },
+    "qa/TRACK_PUBLIC_COPY_CLEANUP.json": {
+      "bytes": 274,
+      "sha256": "8747ccde4edf0d336fd7cf4bee9865202dccabca68673bc437ca2ca03fd301c9"
+    },
+    "scripts/integrate_checkpoint.py": {
+      "bytes": 5395,
+      "sha256": "ba5e798ccd1f3e2fcf0989f97167072e58aea0f99d3eae7de0c7c663292cc3ef"
+    },
+    "scripts/unpack_full_source.py": {
+      "bytes": 754,
+      "sha256": "1ffe8739e929a5d050cc67834e3c99a069cd6f6682bf61ee3ceaef4cc8a6ddcd"
+    },
+    "scripts/validate_checkpoint_blender.py": {
+      "bytes": 3643,
+      "sha256": "dc312208ebf28c31a3763f18d209fb810c37ec32a8e5b1810f31258ab956cc5d"
+    },
+    "scripts/validate_release.py": {
+      "bytes": 1375,
+      "sha256": "a05f4aa79a80e8092c4f774b2c12f2e66d9ac34c3123ba3a3f165bbdad8dd241"
+    },
+    "taoyuan_track/FILE_MANIFEST.json": {
+      "bytes": 4825,
+      "sha256": "6f6b10e2aefb4e8f47d44e47a60e963b338fcc30b396da42d143aa89e517e554"
+    },
+    "taoyuan_track/INTEGRATION.json": {
+      "bytes": 1855,
+      "sha256": "79e8d7ed754f49289bc9d88228b95a4c5853e47ac1bbdbafb108fd4aa3fd8939"
+    },
+    "taoyuan_track/README.md": {
+      "bytes": 4961,
+      "sha256": "a9455dc787c8297c897eb1828882551543a0b0ad2798c6f7f7618d4bf7a94e22"
+    },
+    "taoyuan_track/assets/SEU_Taoyuan_track_detail_candidate.blend": {
+      "bytes": 702816,
+      "sha256": "c8a47f2cc94c8ffa519bc6f56c24bf8bb703942cca26fdb75dd7513428efa8b9"
+    },
+    "taoyuan_track/assets/SEU_Taoyuan_track_detail_candidate.glb": {
+      "bytes": 1185756,
+      "sha256": "86b9a43895665d45a2dceaf6bbeda4f48e4eb7b523d870e475b8dc00aa766522"
+    },
+    "taoyuan_track/data/DETAIL_PROJECTION.local.geojson": {
+      "bytes": 718167,
+      "sha256": "3d28282e9116cfdec09a9de480b5cf58463c13b87c600ce660345e1e6ba5275b"
+    },
+    "taoyuan_track/data/EVIDENCE_AND_ESTIMATES.json": {
+      "bytes": 1442,
+      "sha256": "65dec7201b89a14ef43c80280c37e171c432f77837005e1531cb0fc7b9f4f9a9"
+    },
+    "taoyuan_track/data/FIELD_FRAME.json": {
+      "bytes": 299,
+      "sha256": "1fbf709c79f6d773a7c4de8337f3de04b1433ef4af31728a1d5a5230234f2c5f"
+    },
+    "taoyuan_track/data/GEOMETRY.json": {
+      "bytes": 1132032,
+      "sha256": "1f7f06c3e96f3112b75a3cbd03708501ef5f766539b05b8fd980186b3dc3f161"
+    },
+    "taoyuan_track/data/SOURCE_RELATIONS.local.geojson": {
+      "bytes": 3356,
+      "sha256": "a1b6d2dec1245c23c55a987db34a9c2ea92d9b5a40cf0866f3c9c5f8a6ddcca2"
+    },
+    "taoyuan_track/data/SOURCE_TRACK_LINES.local.geojson": {
+      "bytes": 5329,
+      "sha256": "262aae346980ac9aec072b38bfe272783c4cccb0ae49fcec952342f80fc3aadf"
+    },
+    "taoyuan_track/previews/AFTER.png": {
+      "bytes": 1268663,
+      "sha256": "ba6be4b7ea4a06ea27c86fa98f1f1423523d15874aa9b33b2d83d8059f93cdec"
+    },
+    "taoyuan_track/previews/BEFORE.png": {
+      "bytes": 1122266,
+      "sha256": "bb4328e25eae3a744e0a4579ea55b820200c42fe33e5294ae7cf76a985c8fc26"
+    },
+    "taoyuan_track/previews/BEFORE_AFTER.png": {
+      "bytes": 1400881,
+      "sha256": "2ec6fe6246e7e2571aec4bea3d4fc9ec9c003be5605520510471b200e9dba9a6"
+    },
+    "taoyuan_track/previews/GOAL_DETAIL.png": {
+      "bytes": 1193442,
+      "sha256": "b1f35b15a22d3a3641da3f776c29b6db07180b35a2af14f9d78a0e282a8d6710"
+    },
+    "taoyuan_track/previews/PLAN.png": {
+      "bytes": 1459836,
+      "sha256": "11bc0fbde63860f18dd6b1c85df1495b79a1bf27d8e3c2ae2048a30b88f94e6c"
+    },
+    "taoyuan_track/qa/BASELINE_PRESERVATION_QA.json": {
+      "bytes": 400,
+      "sha256": "8dad757347f1d62a1f4bebed94a7d671049c9e61058fa16efb9b082e8213da89"
+    },
+    "taoyuan_track/qa/BUILD_QA.json": {
+      "bytes": 807,
+      "sha256": "8193c57e66014bc3568561f001c68419a11c3284ebc1cc70834596413996ab82"
+    },
+    "taoyuan_track/qa/COLD_GLB_QA.json": {
+      "bytes": 7560,
+      "sha256": "29787feaf2b8f45d0c26f35cb2b57abc9c2eb4265cb22de1af078d5181dc33d6"
+    },
+    "taoyuan_track/qa/COLLISION_QA.json": {
+      "bytes": 577,
+      "sha256": "5468f527388ebed8baf576e49d7320674c31c0b7469d613965cae992e318aad7"
+    },
+    "taoyuan_track/qa/GEOGRAPHIC_QA.json": {
+      "bytes": 1740,
+      "sha256": "c808124e6d0396782a2d248aad581870a4bb6949e52553bcbb5be5db35497e98"
+    },
+    "taoyuan_track/qa/PRIVACY_QA.json": {
+      "bytes": 217,
+      "sha256": "98a2d117f637ec863c0c96491d1cbfa721d4141d2897fdbd52aed7c48ac1a3f9"
+    },
+    "taoyuan_track/qa/TRIANGULATION_QA.json": {
+      "bytes": 3571,
+      "sha256": "9e9db0c3a706991e9d19ce659e1d68f233ac6e0bd5236d8c799a48bf7e227f00"
+    },
+    "taoyuan_track/scripts/build.py": {
+      "bytes": 6057,
+      "sha256": "d6424f4a31f5f96329befa1075f26c257623fb7ce4aacd910b4d68c2bc8d0d6c"
+    },
+    "taoyuan_track/scripts/cold_qa.py": {
+      "bytes": 2205,
+      "sha256": "0dd1ef1332b065071ece9dfff1753768f4115ddd9986597be5dcf906f8669640"
+    },
+    "taoyuan_track/scripts/generate.py": {
+      "bytes": 5873,
+      "sha256": "4cb08d0a69547c870bc3af702901eec721d68eb8904b32ec22c015383b5fa62f"
+    },
+    "taoyuan_track/scripts/render_preview.py": {
+      "bytes": 2640,
+      "sha256": "780c526b97ff04062b8c01705bf3d0203f58d2814cec805b7a37a729b5f10ebd"
+    },
+    "taoyuan_track/scripts/texture.py": {
+      "bytes": 631,
+      "sha256": "c30b5de69475696b351130e3dd9e0bc8860e2680d3480dd0c65d997d1003fb11"
+    },
+    "taoyuan_track/scripts/validate.py": {
+      "bytes": 947,
+      "sha256": "48f6a1fa29a39d9ce3f08119742492ac394a8565932b6bea88b50851d1410b34"
+    },
+    "taoyuan_track/textures/turf_original.png": {
+      "bytes": 279417,
+      "sha256": "b791dac5cdc9ff3834efc3da275ee471b6f9f433694973d99bd18ef83e3afcc6"
+    }
+  }
+}
