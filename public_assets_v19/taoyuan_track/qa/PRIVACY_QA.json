@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "reference_photographs_packaged": false,
+  "private_urls_or_paths_in_gltf": false,
+  "images_embedded": true,
+  "images": 1,
+  "mesh_count": 16,
+  "only_original_synthetic_turf_texture": true
+}

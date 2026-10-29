@@ -1,0 +1,286 @@
+{
+  "status": "PASS",
+  "meshes": 16,
+  "triangles": 19889,
+  "bounds_roundtrip_max_error_m": 0.0,
+  "preserved_role_and_order_extras": true,
+  "no_nonfinite_or_degenerate_triangles": true,
+  "all_16_identity_transforms": true,
+  "geography_aligned_Xeast_Ynorth_Zup_in_blend": true,
+  "GLB_Xeast_Yup_Zsouth_import_roundtrip": true,
+  "inventory": {
+    "SEU_TAOYUAN_TRACK_DETAIL_FOOTBALL_MARKINGS": {
+      "bounds_min": [
+        788.8109741210938,
+        313.4437255859375,
+        0.02500000037252903
+      ],
+      "bounds_max": [
+        856.470458984375,
+        415.7848205566406,
+        0.02500000037252903
+      ],
+      "triangles": 1603,
+      "area": 69.47288888797148,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_FOOTBALL_MARKINGS",
+      "render_order": 35
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_GOAL_NORTH": {
+      "bounds_min": [
+        817.0802612304688,
+        414.395263671875,
+        0.014999747276306152
+      ],
+      "bounds_max": [
+        824.5546875,
+        416.9371337890625,
+        2.5350003242492676
+      ],
+      "triangles": 328,
+      "area": 7.049474351055501,
+      "role": "sports_equipment",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_GOAL_NORTH",
+      "render_order": null
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_GOAL_SOUTH": {
+      "bounds_min": [
+        820.7267456054688,
+        312.2914123535156,
+        0.014999628067016602
+      ],
+      "bounds_max": [
+        828.201171875,
+        314.8332824707031,
+        2.5350003242492676
+      ],
+      "triangles": 328,
+      "area": 7.049101794002019,
+      "role": "sports_equipment",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_GOAL_SOUTH",
+      "render_order": null
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_INFIELD_EDGE": {
+      "bounds_min": [
+        784.811767578125,
+        309.2471923828125,
+        0.026000000536441803
+      ],
+      "bounds_max": [
+        860.6235961914062,
+        419.9397277832031,
+        0.026000000536441803
+      ],
+      "triangles": 79,
+      "area": 28.285407202566642,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_INFIELD_EDGE",
+      "render_order": 36
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_00": {
+      "bounds_min": [
+        783.0584106445312,
+        287.6596374511719,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        860.7742919921875,
+        444.9388427734375,
+        0.024000000208616257
+      ],
+      "triangles": 1310,
+      "area": 27.94283024327985,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_00",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_01": {
+      "bounds_min": [
+        781.8660888671875,
+        286.4853820800781,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        861.6690063476562,
+        446.138427734375,
+        0.024000000208616257
+      ],
+      "triangles": 1705,
+      "area": 28.454300838421318,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_01",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_02": {
+      "bounds_min": [
+        780.6712646484375,
+        285.286865234375,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        862.6356201171875,
+        447.3380126953125,
+        0.024000000208616257
+      ],
+      "triangles": 1725,
+      "area": 28.96239790378876,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_02",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_03": {
+      "bounds_min": [
+        779.4749145507812,
+        284.0882873535156,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        863.6612548828125,
+        448.5376281738281,
+        0.024000000208616257
+      ],
+      "triangles": 1730,
+      "area": 29.47297014627666,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_03",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_04": {
+      "bounds_min": [
+        778.2727661132812,
+        282.88970947265625,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        864.716064453125,
+        449.7372131347656,
+        0.024000000208616257
+      ],
+      "triangles": 1731,
+      "area": 29.991248497121568,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_04",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_05": {
+      "bounds_min": [
+        777.0694580078125,
+        281.691162109375,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        865.7769165039062,
+        450.9367980957031,
+        0.024000000208616257
+      ],
+      "triangles": 1732,
+      "area": 30.510856363583294,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_05",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_06": {
+      "bounds_min": [
+        775.8657836914062,
+        280.4925842285156,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        866.8546752929688,
+        452.1363830566406,
+        0.024000000208616257
+      ],
+      "triangles": 1733,
+      "area": 31.03499076391218,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_06",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_07": {
+      "bounds_min": [
+        774.6620483398438,
+        279.2940368652344,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        867.9412231445312,
+        453.33599853515625,
+        0.024000000208616257
+      ],
+      "triangles": 1724,
+      "area": 31.565679125390844,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_07",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_LANE_08": {
+      "bounds_min": [
+        773.4583740234375,
+        278.09149169921875,
+        0.024000000208616257
+      ],
+      "bounds_max": [
+        869.0277709960938,
+        454.5360412597656,
+        0.024000000208616257
+      ],
+      "triangles": 1347,
+      "area": 32.09023301318488,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_LANE_08",
+      "render_order": 34
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_NET_NORTH": {
+      "bounds_min": [
+        817.0972900390625,
+        414.4422607421875,
+        0.03199976682662964
+      ],
+      "bounds_max": [
+        824.5076904296875,
+        416.9201354980469,
+        2.4880003929138184
+      ],
+      "triangles": 1404,
+      "area": 15.418902568155247,
+      "role": "sports_equipment",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_NET_NORTH",
+      "render_order": null
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_NET_SOUTH": {
+      "bounds_min": [
+        820.7737426757812,
+        312.30841064453125,
+        0.03199976682662964
+      ],
+      "bounds_max": [
+        828.1841430664062,
+        314.7862854003906,
+        2.4880001544952393
+      ],
+      "triangles": 1404,
+      "area": 15.420046701933215,
+      "role": "sports_equipment",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_NET_SOUTH",
+      "render_order": null
+    },
+    "SEU_TAOYUAN_TRACK_DETAIL_TURF": {
+      "bounds_min": [
+        784.8917236328125,
+        309.3271484375,
+        0.01600000075995922
+      ],
+      "bounds_max": [
+        860.5436401367188,
+        419.8597412109375,
+        0.01600000075995922
+      ],
+      "triangles": 6,
+      "area": 7830.503902234946,
+      "role": "surface_paint",
+      "stable_id": "SEU_TAOYUAN_TRACK_DETAIL_TURF",
+      "render_order": 31
+    }
+  },
+  "real_device_webgl_tested": false
+}

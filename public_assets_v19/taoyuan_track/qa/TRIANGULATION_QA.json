@@ -1,0 +1,101 @@
+{
+  "status": "PASS",
+  "meshes": [
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_TURF",
+      "triangles": 6,
+      "source_area_m2": 7830.503417040607,
+      "triangulated_area_m2": 7830.503417040607,
+      "symmetric_difference_m2": 0.0,
+      "overlapping_triangle_area_m2": 0.0
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_00",
+      "triangles": 1311,
+      "source_area_m2": 27.940552293293877,
+      "triangulated_area_m2": 27.940552293292058,
+      "symmetric_difference_m2": 9.663268930426138e-12,
+      "overlapping_triangle_area_m2": 1.0302869668521453e-12
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_01",
+      "triangles": 1707,
+      "source_area_m2": 28.443140407265673,
+      "triangulated_area_m2": 28.443140405233862,
+      "symmetric_difference_m2": 2.0679121353651964e-09,
+      "overlapping_triangle_area_m2": -6.000533403494046e-12
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_02",
+      "triangles": 1727,
+      "source_area_m2": 28.950318543338653,
+      "triangulated_area_m2": 28.95031854111221,
+      "symmetric_difference_m2": 2.2058366413828245e-09,
+      "overlapping_triangle_area_m2": 1.8495427411835408e-11
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_03",
+      "triangles": 1730,
+      "source_area_m2": 29.46203585350304,
+      "triangulated_area_m2": 29.462035851960536,
+      "symmetric_difference_m2": 1.5694105099696432e-09,
+      "overlapping_triangle_area_m2": -9.71667191151937e-12
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_04",
+      "triangles": 1731,
+      "source_area_m2": 29.978232713670877,
+      "triangulated_area_m2": 29.978232711997407,
+      "symmetric_difference_m2": 1.6744478473045e-09,
+      "overlapping_triangle_area_m2": -9.400480394106125e-12
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_05",
+      "triangles": 1732,
+      "source_area_m2": 30.498843058210696,
+      "triangulated_area_m2": 30.498843056626356,
+      "symmetric_difference_m2": 1.5696314777449705e-09,
+      "overlapping_triangle_area_m2": 1.4132695014268393e-11
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_06",
+      "triangles": 1734,
+      "source_area_m2": 31.02379094673961,
+      "triangulated_area_m2": 31.02379094450407,
+      "symmetric_difference_m2": 2.206026901950542e-09,
+      "overlapping_triangle_area_m2": 5.123013124830322e-12
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_07",
+      "triangles": 1724,
+      "source_area_m2": 31.552992972192442,
+      "triangulated_area_m2": 31.552992970136984,
+      "symmetric_difference_m2": 2.0678170005276886e-09,
+      "overlapping_triangle_area_m2": -4.568789790937444e-12
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_LANE_08",
+      "triangles": 1348,
+      "source_area_m2": 32.08635741251601,
+      "triangulated_area_m2": 32.08635741255239,
+      "symmetric_difference_m2": 9.97503438220559e-12,
+      "overlapping_triangle_area_m2": -2.2282620193436742e-11
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_FOOTBALL_MARKINGS",
+      "triangles": 1603,
+      "source_area_m2": 69.47074348077219,
+      "triangulated_area_m2": 69.47074348077179,
+      "symmetric_difference_m2": 2.7052388107406955e-12,
+      "overlapping_triangle_area_m2": -1.0942358130705543e-12
+    },
+    {
+      "name": "SEU_TAOYUAN_TRACK_DETAIL_INFIELD_EDGE",
+      "triangles": 79,
+      "source_area_m2": 28.283914345645826,
+      "triangulated_area_m2": 28.283914345646735,
+      "symmetric_difference_m2": 0.0,
+      "overlapping_triangle_area_m2": -2.1280754936015e-12
+    }
+  ]
+}

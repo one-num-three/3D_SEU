@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "road_checks": [
+    {
+      "name": "SEU_R_OSMWAY_300178535",
+      "detail_overlap_m2": 0.0
+    },
+    {
+      "name": "SEU_R_OSMWAY_300178544",
+      "detail_overlap_m2": 0.0
+    }
+  ],
+  "goal_projection_checks": [
+    {
+      "end": "south",
+      "outside_preserved_inner_field_m2": 0.0
+    },
+    {
+      "end": "north",
+      "outside_preserved_inner_field_m2": 0.0
+    }
+  ],
+  "nearby_building_intersections": 0,
+  "existing_basemap_overlap_intentional": true,
+  "original_tartan_not_replaced": true,
+  "physical_collision_simulation": false
+}

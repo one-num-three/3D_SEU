@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "baseline_sha256": "3502104f8fa361097a1457ddb9bf6cea2163def4d01a8e03fb82e735adee8e64",
+  "baseline_mesh_count": 4928,
+  "all_original_mesh_geometry_and_transforms_unchanged": true,
+  "new_mesh_count": 16,
+  "no_same_name_replacements": true,
+  "nearby_road_building_meshes": [
+    "SEU_R_OSMWAY_300178535",
+    "SEU_R_OSMWAY_300178544"
+  ],
+  "full_source_not_written": true
+}

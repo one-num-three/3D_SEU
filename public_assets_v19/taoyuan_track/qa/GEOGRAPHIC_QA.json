@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "relation_id": 11214072,
+  "original_ring_area_m2": 7784.286437444769,
+  "original_hole_area_m2": 7830.503417040607,
+  "preserved_holes": 1,
+  "lane_count_source": "OSM way630436321 lanes=8",
+  "lane_edges_estimated": true,
+  "not_400m_claim": true,
+  "not_standard_width_claim": true,
+  "lane_boundaries": [
+    {
+      "lane_boundary": 0,
+      "length_m": 399.1508835445816,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 1,
+      "length_m": 406.33067175906893,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 2,
+      "length_m": 413.5760521398381,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 3,
+      "length_m": 420.8862844423243,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 4,
+      "length_m": 428.26052609116084,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 5,
+      "length_m": 435.69782061030133,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 6,
+      "length_m": 443.1970923756994,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 7,
+      "length_m": 450.7571480324614,
+      "outside_original_tartan_m2": 0.0
+    },
+    {
+      "lane_boundary": 8,
+      "length_m": 458.376683992978,
+      "outside_original_tartan_m2": 0.0
+    }
+  ],
+  "minimum_adjacent_lane_curve_distances_m": [
+    0.8894419831080286,
+    0.9233312415623515,
+    0.9572700746583381,
+    0.9910163832329041,
+    1.0228967866747125,
+    1.050101632766506,
+    1.0555192520582881,
+    1.060727662823279
+  ],
+  "infield_marking_outside_m2": 0.0,
+  "full_perimeter_fence_and_entrance": "deferred_exact_alignment_unconfirmed"
+}
