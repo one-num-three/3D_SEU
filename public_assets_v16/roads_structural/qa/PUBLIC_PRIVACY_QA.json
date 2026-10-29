@@ -1,0 +1,5 @@
+{
+  "passed": true,
+  "scope": "Exact public runtime whitelist; no Library IDs, workspace paths or private reference identity",
+  "original_photographs_distributed": false
+}

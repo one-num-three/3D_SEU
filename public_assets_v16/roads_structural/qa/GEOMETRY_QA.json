@@ -1,0 +1,16 @@
+{
+  "status": "PASS_CANDIDATE_GEOMETRY",
+  "carriageway_surface_outside_original_m2": 0.0,
+  "median_overlap_carriageways_m2": 0.0,
+  "paving_overlap_carriageways_m2": 0.0,
+  "mapped_footway_buffer_trimmed_from_road_surface_m2": 7.669953312940102,
+  "median_area_m2": 202.8809931327229,
+  "curb_blocks": 386,
+  "curb_blocks_omitted_at_existing_path_connection": 43,
+  "source_centerlines_sha256": {
+    "SEU_R_OSMWAY_630686683": "ad2a4d6888d31f74d29f0da802f243371ad36f4ce5be4eb3629032ee072500ba",
+    "SEU_R_OSMWAY_630100637": "552ef3ff381c4985a580b7eb37a162a5b9ec539ad13b1631d3de9440555d2766"
+  },
+  "all_triangles_preserve_source_holes": true,
+  "not_a_survey": true
+}

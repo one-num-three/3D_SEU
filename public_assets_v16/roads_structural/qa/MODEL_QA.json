@@ -1,0 +1,50 @@
+{
+  "mesh_count": 6,
+  "meshes": [
+    {
+      "name": "SEU_ROAD_V16_GROUND_630686683",
+      "role": "asphalt_ground",
+      "vertices": 27,
+      "triangles": 9,
+      "material_count": 1
+    },
+    {
+      "name": "SEU_ROAD_V16_GROUND_630100637",
+      "role": "asphalt_ground",
+      "vertices": 18,
+      "triangles": 6,
+      "material_count": 1
+    },
+    {
+      "name": "SEU_ROAD_V16_GROUND_FOOT_630957182",
+      "role": "paving_ground",
+      "vertices": 15,
+      "triangles": 5,
+      "material_count": 1
+    },
+    {
+      "name": "SEU_ROAD_V16_RAISED_MEDIAN",
+      "role": "median_soil",
+      "vertices": 12,
+      "triangles": 4,
+      "material_count": 1
+    },
+    {
+      "name": "SEU_ROAD_V16_GROUND_PAVING_JOINTS",
+      "role": "paving_joints_ground",
+      "vertices": 345,
+      "triangles": 115,
+      "material_count": 1
+    },
+    {
+      "name": "SEU_ROAD_V16_RAISED_CURBS",
+      "role": "raised_curbs",
+      "vertices": 4632,
+      "triangles": 7720,
+      "material_count": 1
+    }
+  ],
+  "all_geometry_metre_scale": true,
+  "simplification_applied": false,
+  "original_texture_not_photo": true
+}

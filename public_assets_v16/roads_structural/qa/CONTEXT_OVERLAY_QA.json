@@ -1,0 +1,13 @@
+{
+  "scope": "201 OSM footprints + final v15 conservative raised-building bounds + 603 procedural trees; not GPU",
+  "building_overlaps": [
+    [
+      "V15_CONSERVATIVE_SEU_B_OSMWAY_299961595",
+      32.19404065461787
+    ]
+  ],
+  "tree_crown_xy_overlaps": [],
+  "passed": false,
+  "warning_resolution": "Only conservative bbox hit was 299961595; frozen v15 actual raised mesh projection has zero overlap (see ENTRY_BUILDING_ACTUAL_MESH_QA.json).",
+  "passed_after_exact_mesh_refinement": true
+}

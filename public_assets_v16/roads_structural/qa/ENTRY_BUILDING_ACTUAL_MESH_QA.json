@@ -1,0 +1,8 @@
+{
+  "source": "Frozen v15 author-exported world triangles, target SEU_B_OSMWAY_299961595, all raised mesh triangles projected XY; original baseoutline excluded",
+  "projected_building_area_m2": 2493.374985967925,
+  "patch_overlaps": [],
+  "author_confirmed_target_unchanged_in_v15": true,
+  "passed": true,
+  "conservative_bbox_warning_explained": true
+}

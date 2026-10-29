@@ -1,0 +1,48 @@
+{
+  "pass": true,
+  "mesh_count": 6,
+  "rows": [
+    {
+      "name": "SEU_ROAD_V16_GROUND_630686683",
+      "role": "asphalt_ground",
+      "min_z_m": 0.03999999910593033,
+      "max_z_m": 0.03999999910593033,
+      "texture_images": 1
+    },
+    {
+      "name": "SEU_ROAD_V16_GROUND_630100637",
+      "role": "asphalt_ground",
+      "min_z_m": 0.03999999910593033,
+      "max_z_m": 0.03999999910593033,
+      "texture_images": 1
+    },
+    {
+      "name": "SEU_ROAD_V16_GROUND_FOOT_630957182",
+      "role": "paving_ground",
+      "min_z_m": 0.04500000178813934,
+      "max_z_m": 0.04500000178813934,
+      "texture_images": 0
+    },
+    {
+      "name": "SEU_ROAD_V16_RAISED_MEDIAN",
+      "role": "median_soil",
+      "min_z_m": 0.10000000149011612,
+      "max_z_m": 0.10000000149011612,
+      "texture_images": 0
+    },
+    {
+      "name": "SEU_ROAD_V16_GROUND_PAVING_JOINTS",
+      "role": "paving_joints_ground",
+      "min_z_m": 0.04600000008940697,
+      "max_z_m": 0.04600000008940697,
+      "texture_images": 0
+    },
+    {
+      "name": "SEU_ROAD_V16_RAISED_CURBS",
+      "role": "raised_curbs",
+      "min_z_m": -0.009000000543892384,
+      "max_z_m": 0.1850000023841858,
+      "texture_images": 0
+    }
+  ]
+}

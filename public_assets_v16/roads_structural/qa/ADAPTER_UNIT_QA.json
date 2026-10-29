@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "test_scope": "Synthetic Three.js objects; NOT browser/GPU integration",
+  "meshes": [
+    {
+      "name": "test_0",
+      "role": "asphalt_ground",
+      "layers": 2,
+      "renderOrder": 220,
+      "mapRetained": true
+    },
+    {
+      "name": "test_1",
+      "role": "asphalt_ground",
+      "layers": 2,
+      "renderOrder": 220,
+      "mapRetained": true
+    },
+    {
+      "name": "test_2",
+      "role": "paving_ground",
+      "layers": 2,
+      "renderOrder": 230,
+      "mapRetained": false
+    },
+    {
+      "name": "test_3",
+      "role": "median_soil",
+      "layers": 1,
+      "renderOrder": 0,
+      "mapRetained": false
+    },
+    {
+      "name": "test_4",
+      "role": "paving_joints_ground",
+      "layers": 2,
+      "renderOrder": 231,
+      "mapRetained": false
+    },
+    {
+      "name": "test_5",
+      "role": "raised_curbs",
+      "layers": 1,
+      "renderOrder": 0,
+      "mapRetained": false
+    }
+  ]
+}
