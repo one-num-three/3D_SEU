@@ -1,0 +1,7 @@
+/* MIT. Same-origin public payload cache, keyed by verified SHA-256; no credentials or service worker. */
+export const CACHE_NAME='seu-public-model-sha256-v1';
+export async function readCached(spec,{storage=globalThis.caches,hash,signal,onProgress=()=>{}}={}){
+ if(!storage)return null;try{const c=await storage.open(CACHE_NAME),key=new URL(`./__model_cache__/${spec.sha256}`,globalThis.location?.href||'http://localhost/').href;const response=await c.match(key);if(!response)return null;const bytes=new Uint8Array(await response.arrayBuffer());if(signal?.aborted)throw new DOMException('已取消加载','AbortError');if(bytes.length!==spec.bytes||await hash(bytes)!==spec.sha256){await c.delete(key);onProgress({phase:'cache-corrupt',total:spec.bytes});return null;}onProgress({phase:'cache-hit',received:bytes.length,total:bytes.length});return bytes;}catch(e){if(e.name==='AbortError')throw e;onProgress({phase:'cache-unavailable'});return null;}
+}
+export async function storeCached(spec,bytes,{storage=globalThis.caches,onProgress=()=>{}}={}){if(!storage){onProgress({phase:'cache-unavailable'});return;}try{const c=await storage.open(CACHE_NAME),key=new URL(`./__model_cache__/${spec.sha256}`,globalThis.location?.href||'http://localhost/').href;await c.put(key,new Response(bytes,{headers:{'Content-Type':'application/octet-stream','X-Content-SHA256':spec.sha256}}));}catch{onProgress({phase:'cache-unavailable'});}}
+export async function clearModelCache(){return globalThis.caches?.delete(CACHE_NAME);}

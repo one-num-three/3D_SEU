@@ -1,9 +1,8 @@
+import {verifiedFetch} from './runtime-loader.js?v=0.15.0';
 /* MIT. Optional, hash-verified vegetation: failure cannot disable building preview. */
-import {makeLandscapeInstances,applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.14.3';
+import {makeLandscapeInstances,applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.15.0';
 export async function verifiedBytes(spec){
- const response=await fetch(spec.url);if(!response.ok)throw Error('植被文件请求失败');
- const bytes=await response.arrayBuffer();const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),b=>b.toString(16).padStart(2,'0')).join('');
- if(bytes.byteLength!==spec.bytes||hash!==spec.sha256)throw Error('植被文件完整性校验失败');return bytes;
+ const data=await verifiedFetch(spec);return data.buffer.slice(data.byteOffset,data.byteOffset+data.byteLength);
 }
 export function treeBudget({count=603}={}){return count;}
 export async function loadLandscape(THREE,loader,config,model,maxInstances){

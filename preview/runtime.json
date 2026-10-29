@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
-  "modelVersion": "0.14",
-  "runtimeVersion": "0.14",
-  "sourceModelCommit": "1a30a944d2dcd5a0b278330fa755268ddea89427",
+  "schemaVersion": 2,
+  "modelVersion": "0.15",
+  "runtimeVersion": "0.14+0.15",
+  "sourceModelCommit": "4c8b157db74c9712df760d3d4085aaf23c5a91f7",
   "snapshot": {
     "archive": {
       "url": "./public_runtime_v14/assets/SEU_runtime_visible_v14_GLB.zip",
@@ -28,8 +28,16 @@
       "bytes": 29895536,
       "sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213"
     },
-    "patchesUrl": "./preview/patches.json?v=0.14.1",
-    "buildingNetworkBytes": 30194820,
-    "patchesSha256": "b0fc918d1f26839e56d4f3c6d2f8dee851a79425af41b336243cde87ccca4b04"
-  }
+    "patchesUrl": "./preview/patches.json?v=0.15.0",
+    "buildingNetworkBytes": 38190940,
+    "patchesSha256": "a049989704ab70c9920593e21c6e4fae3b5d56ebd24e817b6b88f04005500b77"
+  },
+  "sourceBaseModelCommit": "1a30a944d2dcd5a0b278330fa755268ddea89427",
+  "basePatchCount": 10,
+  "baseProvenance": {
+    "url": "./public_runtime_v14/data/SOURCE_NODE_MAPPING.json",
+    "bytes": 1095935,
+    "sha256": "5fb0c65ac9916db0838db8d35e828a36fb88e3c234de43fd1c15e3b3534deb44"
+  },
+  "loadingStrategy": "stable-base-plus-verified-deltas"
 }

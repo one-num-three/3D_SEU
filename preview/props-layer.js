@@ -1,8 +1,7 @@
-import {makeOptionalProps} from './props-adapter.js?v=0.14.3';
+import {verifiedFetch} from './runtime-loader.js?v=0.15.0';
+import {makeOptionalProps} from './props-adapter.js?v=0.15.0';
 async function checkedBytes(spec){
- const response=await fetch(spec.url);if(!response.ok)throw Error(`停车示例请求失败（${response.status}）`);
- const bytes=await response.arrayBuffer();const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),v=>v.toString(16).padStart(2,'0')).join('');
- if(bytes.byteLength!==spec.bytes||hash!==spec.sha256)throw Error('停车示例校验失败');return bytes;
+ const data=await verifiedFetch(spec);return data.buffer.slice(data.byteOffset,data.byteOffset+data.byteLength);
 }
 export async function loadOptionalProps(THREE,loader,config){
  const [bytes,dataBytes]=await Promise.all([checkedBytes(config.model),checkedBytes(config.instances)]);
