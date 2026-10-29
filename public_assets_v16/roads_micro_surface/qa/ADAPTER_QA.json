@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "synthetic_meshes": 398,
+  "positions_indices_palette_depth_order_unchanged": true,
+  "restoration_passed": true,
+  "gpu_tested": false
+}

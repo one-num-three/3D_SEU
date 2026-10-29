@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "input": "v143 staging actual visible v14 runtime GLB",
+  "glb_sha256": "531c786bcd8e4922a7eb6dd33815936c385cc543154da180535785884e6e995e",
+  "actual_mapped_roads": 398,
+  "unique_source_ids": 398,
+  "nonroad_meshes_unchanged": 3931,
+  "positions_indices_matrices_colors_layers_order_depth_unchanged": true,
+  "world_uv_max_float32_error_m": 0.000030517578125,
+  "shared_material_no_cross_pollution": true,
+  "restored_original_geometry_material_uv": true,
+  "logdepth_compatibility": "No shader modifications; original material class/depth flags preserved; v143 renderer logdepth enabled. GPU visual verification still pending.",
+  "gpu_tested": false
+}
