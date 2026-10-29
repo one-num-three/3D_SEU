@@ -1,5 +1,5 @@
 {
-  "version": "0.18.0",
+  "version": "0.19.0",
   "base_glb_sha256": "416d3fc1b3e7f15bb1ecfc3e45e7301ce414d3b18c2788cc33f68ab1d0ab3213",
   "patches": [
     {
@@ -8542,8 +8542,143 @@
         "bytes": 82556,
         "sha256": "a20e8dcfb0d566d8a2ebff4bb281a6a1e55e02f0c7d622dc8c64186830bee4a8"
       }
+    },
+    {
+      "url": "./public_assets_v19/assets/SEU_building_patch_v19.glb",
+      "bytes": 1466232,
+      "sha256": "7ee3b2736988301ec225e5cf7854c8c2fde78c37d1c96ad29394678fcf818584",
+      "label": "v0.19 宿舍端部与桃园田径场（照片比例估计）",
+      "replace_names": [
+        "SEU_B_OSMWAY_630136421__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136422__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136423__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136424__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136425__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136426__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136427__V05_pitched_roof",
+        "SEU_B_OSMWAY_630136428__V05_pitched_roof"
+      ],
+      "replace_targets": [
+        {
+          "name": "SEU_B_OSMWAY_630136421__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136421"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136422__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136422"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136423__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136423"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136424__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136424"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136425__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136425"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136426__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136426"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136427__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136427"
+        },
+        {
+          "name": "SEU_B_OSMWAY_630136428__V05_pitched_roof",
+          "source_sha256": "f2b27e2469d7ccb2cc9356c18cc2f761fd22f7994526742e3aea12b09d3bdeb9",
+          "stable_id": "SEU_B_OSMWAY_630136428"
+        }
+      ],
+      "append_names": [
+        "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136421__DORM_ENDHEAD_end_window_mullions",
+        "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136422__DORM_ENDHEAD_end_window_mullions",
+        "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136423__DORM_ENDHEAD_end_window_mullions",
+        "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136424__DORM_ENDHEAD_end_window_mullions",
+        "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136425__DORM_ENDHEAD_end_window_mullions",
+        "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136426__DORM_ENDHEAD_end_window_mullions",
+        "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136427__DORM_ENDHEAD_end_window_mullions",
+        "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_central_roof",
+        "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_hip_caps",
+        "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_head_walls",
+        "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_frames",
+        "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_glazing",
+        "SEU_B_OSMWAY_630136428__DORM_ENDHEAD_end_window_mullions",
+        "SEU_TAOYUAN_TRACK_DETAIL_FOOTBALL_MARKINGS",
+        "SEU_TAOYUAN_TRACK_DETAIL_GOAL_NORTH",
+        "SEU_TAOYUAN_TRACK_DETAIL_GOAL_SOUTH",
+        "SEU_TAOYUAN_TRACK_DETAIL_INFIELD_EDGE",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_00",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_01",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_02",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_03",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_04",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_05",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_06",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_07",
+        "SEU_TAOYUAN_TRACK_DETAIL_LANE_08",
+        "SEU_TAOYUAN_TRACK_DETAIL_NET_NORTH",
+        "SEU_TAOYUAN_TRACK_DETAIL_NET_SOUTH",
+        "SEU_TAOYUAN_TRACK_DETAIL_TURF"
+      ],
+      "append_node_count": 64,
+      "archive": {
+        "url": "./preview/assets/SEU_building_patch_v19_GLB.zip",
+        "bytes": 554542,
+        "sha256": "8b5ff29e431c0c5b6e4e7dee0dfbfa98b1048c83bc9b038dc10e1135cd880026"
+      },
+      "member": {
+        "name": "SEU_building_patch_v19.glb",
+        "bytes": 1466232,
+        "sha256": "7ee3b2736988301ec225e5cf7854c8c2fde78c37d1c96ad29394678fcf818584"
+      }
     }
   ],
   "schemaVersion": 2,
-  "finalVisibleAuthorNodes": 4204
+  "finalVisibleAuthorNodes": 4260
 }

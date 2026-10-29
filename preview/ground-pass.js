@@ -1,6 +1,6 @@
 /* MIT. Deterministic cartographic ground pass: no depth-buffer competition. */
 import {MeshBasicMaterial,DoubleSide} from './vendor/three.module.js';
-import {semantic,role} from './palette.js?v=0.18.0';
+import {semantic,role} from './palette.js?v=0.19.0';
 function setGround(node,order,preservePBR=false){
  node.layers.set(1);node.renderOrder=order;node.castShadow=false;node.receiveShadow=false;
  const flat=m=>{if(preservePBR){const clone=m.clone();clone.depthTest=false;clone.depthWrite=false;return clone;}return new MeshBasicMaterial({color:m.color.clone(),side:DoubleSide,depthTest:false,depthWrite:false,toneMapped:false});};
@@ -11,6 +11,7 @@ export function configureGroundPass(model,overlay,courtColors=null){
 
  const counts={hiddenLegacyBoundary:0,roads:0,outlines:0,overlay:0,buildings:0,sportsPaint:0,sportsLines:0,tennisOverride:0,infieldOverrides:0};
  model.traverse(n=>{if(!n.isMesh)return;const kind=role(n),data=semantic(n);
+ if(n.name.startsWith('SEU_TAOYUAN_TRACK_DETAIL_')&&data.role==='surface_paint'){if(![31,34,35,36].includes(data.render_order))throw Error('田径场地表顺序契约不匹配');setGround(n,data.render_order,true);counts.sportsPaint++;return;}
  if(data.layer==='bridge_approach_ground'){setGround(n,240,true);return;}
  if(data.layer==='sports_surface_paint'&&data.role==='surface_paint'){setGround(n,30,data.geometry_quality==='full_authored_source_no_LOD');counts.sportsPaint++;return;}
  if(data.layer==='sports_linework'&&data.role==='linework'){setGround(n,31,data.geometry_quality==='full_authored_source_no_LOD');counts.sportsLines++;return;}

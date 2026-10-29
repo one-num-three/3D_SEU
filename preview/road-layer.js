@@ -1,9 +1,9 @@
-import {applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.18.0';
-import {preflightLocalAsphalt,applyLocalAsphalt} from './road-local-style.js?v=0.18.0';
+import {applyRoadMaterialOverrides} from './landscape-adapter.js?v=0.19.0';
+import {preflightLocalAsphalt,applyLocalAsphalt} from './road-local-style.js?v=0.19.0';
 /* MIT. v16 display additions; immutable source geometry preserved. */
-import {verifiedFetch,disposeModel,abortCheck} from './runtime-loader.js?v=0.18.0';
-import {configureRoadStructuralPatch} from './road-structural.js?v=0.18.0';
-import {applyRoadMicroSurfaces} from './road-micro.js?v=0.18.0';
+import {verifiedFetch,disposeModel,abortCheck} from './runtime-loader.js?v=0.19.0';
+import {configureRoadStructuralPatch} from './road-structural.js?v=0.19.0';
+import {applyRoadMicroSurfaces} from './road-micro.js?v=0.19.0';
 export function preflightRoadMicro(model,mapping){
  if(mapping.rows?.length!==398||new Set(mapping.rows.map(r=>r.stable_id)).size!==398)throw Error('道路微表面映射数量或唯一性不符');
  const ids=new Set(mapping.rows.map(r=>r.stable_id)),found=new Map();model.traverse(n=>{if(!n.isMesh)return;for(let p=n;p;p=p.parent)if(!p.visible)return;let id;for(let p=n;p&&!id;p=p.parent){const s=p.userData?.stable_id||p.userData?.stableID||p.name;if(ids.has(s))id=s;}if(!id)return;if(Array.isArray(n.material))throw Error('道路材质结构不符');found.set(id,(found.get(id)||0)+1);});
