@@ -29,18 +29,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 35197,
-      "sha256": "fbc50744753e3db6c9c5746ac713060391f548d784951dc17cf60d2c8333978c"
+      "bytes": 37136,
+      "sha256": "efc3d5c454b4534557460047d23b273ffe400e4cf846a98de71ddcaa3a2f5ffc"
     },
     {
       "path": "docs/AI_HANDOFF.md",
-      "bytes": 5344,
-      "sha256": "2eccc1390a7db3f4e35343c8437c5b23fb2bfc7295fdae5d1e76c42b845180b5"
+      "bytes": 5852,
+      "sha256": "e1ede528989af1d6477bc43bab3469dcd9a6b5d7894216b0e20205635693f727"
     },
     {
       "path": "docs/CANDIDATE_SCAN.json",
       "bytes": 449,
-      "sha256": "b9257dcebb2bf8e9238e509709c73d5adebc408c0b4c7968f00363bf6ac1eb0a"
+      "sha256": "670fce516428a4f957a1a027b273c0a9a34376720a529975076c5d2f10784e9e"
     },
     {
       "path": "docs/RELEASE_READINESS.md",
@@ -60,7 +60,7 @@
     {
       "path": "examples/evidence.template.json",
       "bytes": 669,
-      "sha256": "cd35a9f4b5a73df2edbfd38bfed69a13f9cafc69ea4c2c2227c07104470acd92"
+      "sha256": "1f7389c00d380da024be3106020ac7836c1eacd77c1418e206b6b654a25ff341"
     },
     {
       "path": "modules.json",
@@ -70,7 +70,7 @@
     {
       "path": "project_contract.json",
       "bytes": 1620,
-      "sha256": "e7381a721b0637880e1ee7399882a4bb38ab89dd971a4ae5980aec2cc1803185"
+      "sha256": "67e61d942d0b5667791580c115b10d0bab2c4ee11a9d9d8fea7e1d738762f4d4"
     },
     {
       "path": "schemas/evidence.schema.json",
@@ -80,7 +80,7 @@
     {
       "path": "tasks.json",
       "bytes": 9112,
-      "sha256": "9b75f21a926a01009c7312e89b571fe6799f7143db0246c394d64a2d92d29154"
+      "sha256": "6599716f25faaa9b6b92fb277d7fefd4d2ebdbade710312fe306d65dc7a969f1"
     },
     {
       "path": "tools/coop.py",
@@ -99,8 +99,8 @@
     },
     {
       "path": "tools/validate_candidate.py",
-      "bytes": 5414,
-      "sha256": "035312ad44ba24b75487d28f3159255826a01df5e4fa18ec427a210cf04ffa40"
+      "bytes": 5454,
+      "sha256": "d1be50b5ca6da71f65c6112a24c7d34aecb0f4fcd7d6a4b20d6bbb608ac99b04"
     },
     {
       "path": "tools/validate_contract.py",
