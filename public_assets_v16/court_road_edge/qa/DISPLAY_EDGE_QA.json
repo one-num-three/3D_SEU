@@ -1,0 +1,37 @@
+{
+  "status": "CANDIDATE_DISPLAY_ONLY_REQUIRES_ROOT_REVIEW",
+  "source_road": "SEU_R_OSMWAY_851764290",
+  "original_area_m2": 1084.747035176235,
+  "corrected_area_m2": 545.9342595471753,
+  "removed_pitch_overlap_m2": 538.8127756290523,
+  "remaining_pitch_overlap_m2": 0.0,
+  "new_area_outside_original_m2": 0.0,
+  "polygon_components": 1,
+  "is_single_connected_display_band": true,
+  "has_inner_ring_hole": true,
+  "source_centerline_length_m": 542.8128228878792,
+  "source_centerline_sha256": "ecd6557c071d8010465af6f98be35833e899336c6f566d06362d7169ff347034",
+  "navigation_changed": false,
+  "max_sampled_centerline_distance_to_new_display_m": 5.656673908000872e-14,
+  "neighbor_contacts": [
+    {
+      "stable_id": "SEU_R_OSMWAY_630686640",
+      "before_overlap_m2": 3.561676553096597,
+      "after_overlap_m2": 2.0003515580759896,
+      "after_distance_m": 0.0
+    },
+    {
+      "stable_id": "SEU_R_OSMWAY_630686642",
+      "before_overlap_m2": 3.5621470080651094,
+      "after_overlap_m2": 2.0011832420635898,
+      "after_distance_m": 0.0
+    },
+    {
+      "stable_id": "SEU_R_OSMWAY_851764289",
+      "before_overlap_m2": 3.5626798614274944,
+      "after_overlap_m2": 2.001555052669291,
+      "after_distance_m": 0.0
+    }
+  ],
+  "geometry_correction_not_survey": true
+}

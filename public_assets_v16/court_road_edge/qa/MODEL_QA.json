@@ -1,0 +1,16 @@
+{
+  "mesh_count": 1,
+  "stable_id": "SEU_R_OSMWAY_851764290",
+  "vertices": 158,
+  "triangles": 316,
+  "nonmanifold_edges": 0,
+  "original_display_z_preserved": [
+    0.005,
+    0.035
+  ],
+  "holes_preserved": true,
+  "replace_object_names": [
+    "SEU_R_OSMWAY_851764290"
+  ],
+  "navigation_changed": false
+}

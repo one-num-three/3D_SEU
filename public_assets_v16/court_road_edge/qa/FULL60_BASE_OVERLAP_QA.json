@@ -1,0 +1,369 @@
+{
+  "foot_count": 60,
+  "before_overlapping": 12,
+  "after_overlapping": 0,
+  "max_after_overlap_m2": 0.0,
+  "basket_geometry_moved": false,
+  "rows": [
+    {
+      "object": "SEU_SPORT_FULL_V15_067_GEO_COURT_817128622_BACKSTOP",
+      "osm_id": "817128622",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_067_GEO_COURT_817128622_BACKSTOP",
+      "osm_id": "817128622",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_061_GEO_COURT_817128621_BACKSTOP",
+      "osm_id": "817128621",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_061_GEO_COURT_817128621_BACKSTOP",
+      "osm_id": "817128621",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_055_GEO_COURT_817128620_BACKSTOP",
+      "osm_id": "817128620",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_055_GEO_COURT_817128620_BACKSTOP",
+      "osm_id": "817128620",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_049_GEO_COURT_817128619_BACKSTOP",
+      "osm_id": "817128619",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_049_GEO_COURT_817128619_BACKSTOP",
+      "osm_id": "817128619",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_043_GEO_COURT_817128614_BACKSTOP",
+      "osm_id": "817128614",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_043_GEO_COURT_817128614_BACKSTOP",
+      "osm_id": "817128614",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_037_GEO_COURT_817128612_BACKSTOP",
+      "osm_id": "817128612",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_037_GEO_COURT_817128612_BACKSTOP",
+      "osm_id": "817128612",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_031_GEO_COURT_817128611_BACKSTOP",
+      "osm_id": "817128611",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_031_GEO_COURT_817128611_BACKSTOP",
+      "osm_id": "817128611",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_025_GEO_COURT_817128608_BACKSTOP",
+      "osm_id": "817128608",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_025_GEO_COURT_817128608_BACKSTOP",
+      "osm_id": "817128608",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_019_GEO_COURT_817128604_BACKSTOP",
+      "osm_id": "817128604",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_019_GEO_COURT_817128604_BACKSTOP",
+      "osm_id": "817128604",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_013_GEO_COURT_817128603_BACKSTOP",
+      "osm_id": "817128603",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_013_GEO_COURT_817128603_BACKSTOP",
+      "osm_id": "817128603",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_007_GEO_COURT_817128602_BACKSTOP",
+      "osm_id": "817128602",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_007_GEO_COURT_817128602_BACKSTOP",
+      "osm_id": "817128602",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_001_GEO_COURT_817128601_BACKSTOP",
+      "osm_id": "817128601",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "SEU_SPORT_FULL_V15_001_GEO_COURT_817128601_BACKSTOP",
+      "osm_id": "817128601",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128623_BACKSTOP",
+      "osm_id": "817128623",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128623_BACKSTOP",
+      "osm_id": "817128623",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128618_BACKSTOP",
+      "osm_id": "817128618",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128618_BACKSTOP",
+      "osm_id": "817128618",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128617_BACKSTOP",
+      "osm_id": "817128617",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128617_BACKSTOP",
+      "osm_id": "817128617",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128616_BACKSTOP",
+      "osm_id": "817128616",
+      "before_overlap_m2": 0.2115239763847273,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128616_BACKSTOP",
+      "osm_id": "817128616",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128615_BACKSTOP",
+      "osm_id": "817128615",
+      "before_overlap_m2": 0.2142209371582908,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128615_BACKSTOP",
+      "osm_id": "817128615",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128613_BACKSTOP",
+      "osm_id": "817128613",
+      "before_overlap_m2": 0.21425582531993487,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128613_BACKSTOP",
+      "osm_id": "817128613",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128610_BACKSTOP",
+      "osm_id": "817128610",
+      "before_overlap_m2": 0.21513119497402625,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128610_BACKSTOP",
+      "osm_id": "817128610",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128609_BACKSTOP",
+      "osm_id": "817128609",
+      "before_overlap_m2": 0.21514532634414935,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128609_BACKSTOP",
+      "osm_id": "817128609",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128607_BACKSTOP",
+      "osm_id": "817128607",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128607_BACKSTOP",
+      "osm_id": "817128607",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128606_BACKSTOP",
+      "osm_id": "817128606",
+      "before_overlap_m2": 0.21429612225693634,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128606_BACKSTOP",
+      "osm_id": "817128606",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128605_BACKSTOP",
+      "osm_id": "817128605",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128605_BACKSTOP",
+      "osm_id": "817128605",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128600_BACKSTOP",
+      "osm_id": "817128600",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128600_BACKSTOP",
+      "osm_id": "817128600",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128599_BACKSTOP",
+      "osm_id": "817128599",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128599_BACKSTOP",
+      "osm_id": "817128599",
+      "before_overlap_m2": 0.0347851298979063,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128598_BACKSTOP",
+      "osm_id": "817128598",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128598_BACKSTOP",
+      "osm_id": "817128598",
+      "before_overlap_m2": 0.03571467991379653,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128597_BACKSTOP",
+      "osm_id": "817128597",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128597_BACKSTOP",
+      "osm_id": "817128597",
+      "before_overlap_m2": 0.03389755041892641,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128596_BACKSTOP",
+      "osm_id": "817128596",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128596_BACKSTOP",
+      "osm_id": "817128596",
+      "before_overlap_m2": 0.03389062592308323,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128595_BACKSTOP",
+      "osm_id": "817128595",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128595_BACKSTOP",
+      "osm_id": "817128595",
+      "before_overlap_m2": 0.03392923063398448,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128594_BACKSTOP",
+      "osm_id": "817128594",
+      "before_overlap_m2": 0.0,
+      "after_overlap_m2": 0.0
+    },
+    {
+      "object": "TAOYUAN18_V16_817128594_BACKSTOP",
+      "osm_id": "817128594",
+      "before_overlap_m2": 0.03410415920534603,
+      "after_overlap_m2": 0.0
+    }
+  ]
+}
