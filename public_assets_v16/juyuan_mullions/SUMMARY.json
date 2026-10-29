@@ -1,0 +1,13 @@
+{
+  "scope": "Juyuan 9\u201314 six mullion meshes only; Meiyuan 9 four buildings negative regression",
+  "old_coplanar_pairs": 2280,
+  "new_coplanar_pairs": 0,
+  "window_count": 1140,
+  "min_front_plane_offset_m": 0.023522096796284586,
+  "min_cap_plane_offset_m": 0.05999946594238281,
+  "min_frame_backing_engagement_m": 0.010019861270450292,
+  "unchanged_other_meshes": 48,
+  "full_building_footprint_outside_m2": 0,
+  "glb_bytes": 130656,
+  "glb_sha256": "6c532852a553777b948be2291ebadc811cf9777673b24b5f2bbb85d1bf1922be"
+}

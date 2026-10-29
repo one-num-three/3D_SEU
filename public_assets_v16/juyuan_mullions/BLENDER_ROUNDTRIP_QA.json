@@ -1,0 +1,284 @@
+{
+  "actual_source_blend_untouched_objects": [
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_room_core",
+      "geometry_fingerprint": "fdd9b135109d498af1b6dea3580d2e79640c2674171e70a244614b0717ff8bd7",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_balcony_slabs",
+      "geometry_fingerprint": "69fea99b31fb95ae4cfbc7d2ef6c8f3d00fee067b39884f5c80cce59aea433de",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_facade_piers",
+      "geometry_fingerprint": "de133a1dfc3a050e5f787473c52b89a74b64b9b0bc87618cdf09727ecd6f1c17",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_window_frames",
+      "geometry_fingerprint": "d351646d084e31c39eef4e6248b3e4d18b9deae5df9cb4d4a0c145e26be8f9a3",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_window_glazing",
+      "geometry_fingerprint": "a3dccb2a0bf0e8435556c5ebfa74d346548f8ab5f3932adf12083349c3afaab3",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_balcony_rails",
+      "geometry_fingerprint": "13dfefd853cf3e2894c1e8654de940c5ea68b92fb7c70dba88f940c4b3b3ab8c",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_hip_roof",
+      "geometry_fingerprint": "9495abb5874137f192de02bdc9fdc5b97f1c04021cd2cc385a38776893735031",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_roof_panel_array",
+      "geometry_fingerprint": "4f13af29df0e133862954737c1b12b5c9a4d45ce50bf41d5126afc6c3cd0d39b",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_room_core",
+      "geometry_fingerprint": "0a0f0625773b431e375549f6d04b51b4aab6c9c0246ac6da38bd2da239b61c62",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_balcony_slabs",
+      "geometry_fingerprint": "8d7e9cb0026387602dc045ee746e99e3e1f280882276e933f3f51eaf5c37c86a",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_facade_piers",
+      "geometry_fingerprint": "98f308ab888e19879db1e92848a569b52d8a63f8d429163e75d357bfccfe8897",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_window_frames",
+      "geometry_fingerprint": "fef69f6b77106887015388e0fa753e02cf4d1178c507cbf417513c281ba5bf9f",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_window_glazing",
+      "geometry_fingerprint": "8794a2411ba76291a201e629f9b8ebfa9e6e5d11544396ea5e44f47da84c9e72",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_balcony_rails",
+      "geometry_fingerprint": "219947c0ac96248a8aa32609326d0e69b3874483f27f3edf9c73b35b7d508f12",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_hip_roof",
+      "geometry_fingerprint": "4d8b9d9d1aff663154e2d7781a39a0eb168759fc8bd37d5f2d181f385ad7bdc1",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_roof_panel_array",
+      "geometry_fingerprint": "55293f6d2138fc60c854bf83c5b95e966fe9a697b79f4e7bb9cfedfdf7c563da",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_room_core",
+      "geometry_fingerprint": "da6082469c78d6dc61301b0ca2acb41da8faf26f32fd925826c17a0f5d372552",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_balcony_slabs",
+      "geometry_fingerprint": "bd7b342b95127b5eb0d8684e3b93cf075a66e6fc74ea4ca7e280b39a180bfc14",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_facade_piers",
+      "geometry_fingerprint": "f9c98ff473b42e7c2ad691d3800c95b9684ea0993d06c4a7fc182f0a4b4f140d",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_window_frames",
+      "geometry_fingerprint": "055c1faa08f844a913eaa86f008a30508d352ac7b71ba1321d398757cf61ecf9",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_window_glazing",
+      "geometry_fingerprint": "8d2d71e1febde21ca18303f9fa23cfc69291fcdaa1bebf13f5d61e38dd271a30",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_balcony_rails",
+      "geometry_fingerprint": "9b80ad432d0bc94e050b21e3d28581615cc11d766459a9e1b483ba86ed059210",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_hip_roof",
+      "geometry_fingerprint": "29344ac4061353b20bc09bb8fa0ea8c97ca0898b7db241ffa950e721ce66d6f4",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_roof_panel_array",
+      "geometry_fingerprint": "ad984ce9a6c1739318b5841ea2f2c9de09c659dd5e59797ee8ca2afc0ed553a9",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_room_core",
+      "geometry_fingerprint": "d5621f652a0653bf8fce947db5d522c9f0a47f1bf94b20a5500ea8687284f061",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_balcony_slabs",
+      "geometry_fingerprint": "e9043846073751fec7d712894b24343f4933bf933ef5a8e7087780041cf51c73",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_facade_piers",
+      "geometry_fingerprint": "c0bb8c75278f6f151d29787763f81d061057c971d27df2226f3f73eece0b3445",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_window_frames",
+      "geometry_fingerprint": "9677cff1cd1cc6a22c2fbe7d5f27bab760834cb99ad3f2d18757e42b91740fbf",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_window_glazing",
+      "geometry_fingerprint": "f20b1ae7ad10f7a7f6590e7d4031533e56fd1920dcd7f98736de589b2b9aa00b",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_balcony_rails",
+      "geometry_fingerprint": "119997168637b516dd0eb2f5c7a2cfefe00bc4a1e5fc51ddab80caf97d1f844f",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_hip_roof",
+      "geometry_fingerprint": "e5f32eb058c192d86d3dd11dda9110321074dc10e69d33085fb0d3f805fbdcd5",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_roof_panel_array",
+      "geometry_fingerprint": "19a8e1327d63b9349dada34e2c772f7cfd23a9502bd7a296ea05ad1dcce34128",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_room_core",
+      "geometry_fingerprint": "73c240a8a8de93f85cd98c4960fcf5c49a483978e4d3adc3589917998b191d6e",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_balcony_slabs",
+      "geometry_fingerprint": "e28744a9af5cbe7b1157e03302588ea603ab5db13c4745493166cf994b40c041",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_facade_piers",
+      "geometry_fingerprint": "7c31add657e8aea764413ab772f4b10bb36696fe55204d57e2a2d0ef0a7ecf0d",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_window_frames",
+      "geometry_fingerprint": "0541dd5df5adffb5695c967314ec4564343abe1b623c6aac109d4f3cba01cdb1",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_window_glazing",
+      "geometry_fingerprint": "1bdb501e35948f63572ab55eec89c849d7f5d8677fe15b8091b408714fb05a47",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_balcony_rails",
+      "geometry_fingerprint": "5a3f1a97d1a70831651c2d2aca472746006f4221b25c486c1678875cebc8e424",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_hip_roof",
+      "geometry_fingerprint": "5a4d5202e6542952fb37f5c2bc070b260777180bbfa5a649836d63f5601795c7",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_roof_panel_array",
+      "geometry_fingerprint": "ece771cbd274b557a1db2d9d4393db4fe7864aa593608a564df7f0023585f9cc",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_room_core",
+      "geometry_fingerprint": "8cc2a6e0966a44010c396fa7d0a7fb0754ef6da98a4690bfe218b27f1877aa4a",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_balcony_slabs",
+      "geometry_fingerprint": "2c9a3812c9b24fa117d750be6bab4085a72f911e768f2ba9fea7bef7ad7b7248",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_facade_piers",
+      "geometry_fingerprint": "981467def70ba1ab82ceb8986d629ace437e60ae4fc38b86c8efece49d66dc47",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_window_frames",
+      "geometry_fingerprint": "75bc1375a983b5558ae0e69f8f9f70b62529b8df73f318d898bb92a8c2caa060",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_window_glazing",
+      "geometry_fingerprint": "4aae651ad4a2a4c1b094d7867fc51d597f51c7ca000aae27c0a2f1a87ae3d05e",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_balcony_rails",
+      "geometry_fingerprint": "e37547ec4ef8d2c1172747d390c95f6bc8da3dd9b12d226a0da6e3a9b4e8efcc",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_hip_roof",
+      "geometry_fingerprint": "3874ec14c9a2970df9fe5050fb7ce1bcacade3f4ddf4d3100db295becc83d680",
+      "unchanged": true
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_roof_panel_array",
+      "geometry_fingerprint": "ec489aef5f504503cd968c2384e1a44ab2303f493736d6cb20cd89f45505e20c",
+      "unchanged": true
+    }
+  ],
+  "glb_roundtrip": [
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_window_mullions",
+      "roundtrip_max_nearest_vertex_error_m": 0.0,
+      "imported_vertices": 1520,
+      "imported_triangles": 2280
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_window_mullions",
+      "roundtrip_max_nearest_vertex_error_m": 0.0,
+      "imported_vertices": 1520,
+      "imported_triangles": 2280
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_window_mullions",
+      "roundtrip_max_nearest_vertex_error_m": 0.0,
+      "imported_vertices": 1520,
+      "imported_triangles": 2280
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_window_mullions",
+      "roundtrip_max_nearest_vertex_error_m": 0.0,
+      "imported_vertices": 1520,
+      "imported_triangles": 2280
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_window_mullions",
+      "roundtrip_max_nearest_vertex_error_m": 0.0,
+      "imported_vertices": 1520,
+      "imported_triangles": 2280
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_window_mullions",
+      "roundtrip_max_nearest_vertex_error_m": 0.0,
+      "imported_vertices": 1520,
+      "imported_triangles": 2280
+    }
+  ],
+  "material_image_count": 0,
+  "result": "PASS"
+}

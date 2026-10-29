@@ -1,0 +1,21 @@
+{
+  "replace_object_names": [
+    "SEU_B_OSMWAY_1056927545__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927546__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927547__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927548__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927549__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927551__V05JY_window_mullions"
+  ],
+  "append_object_names": [
+    "SEU_B_OSMWAY_1056927545__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927546__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927547__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927548__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927549__V05JY_window_mullions",
+    "SEU_B_OSMWAY_1056927551__V05JY_window_mullions"
+  ],
+  "preserve_other_objects": true,
+  "source_sha256": "576ababa7dd4382ee85905292cea9ba10929f574f236e3c18903a18d7b0a3db7",
+  "scope": "six Juyuan mullion meshes only; separate from frozen Taoyuan eight fix"
+}

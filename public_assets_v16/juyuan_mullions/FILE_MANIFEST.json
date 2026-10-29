@@ -1,0 +1,69 @@
+{
+  "module": "juyuan_mullions",
+  "files": {
+    "AFTER_NORTH_CLOSEUP.png": {
+      "bytes": 854371,
+      "sha256": "8b64564834abe50598b3e6e11264528eca7886d3848e080bc3ac5cabf1aa8d2d"
+    },
+    "AFTER_SOUTH_CLOSEUP.png": {
+      "bytes": 880828,
+      "sha256": "456217bfed4eca25dd021b979c92b192df6b07e35109d4193a2cddcaf8358948"
+    },
+    "BEFORE_NORTH_CLOSEUP.png": {
+      "bytes": 853562,
+      "sha256": "98377f2c352e7de1fc7be36807200258f46cdd54b5d3783959407d0564dae31f"
+    },
+    "BEFORE_SOUTH_CLOSEUP.png": {
+      "bytes": 880294,
+      "sha256": "9eec603cc54689733d798710fdbf73b2a19309ae6a03d4ab6d6a7ccb1a6f8d56"
+    },
+    "BLENDER_ROUNDTRIP_QA.json": {
+      "bytes": 10709,
+      "sha256": "6114e13e071b97b316cb20d664c90ef17b368b16e871ed243e8bd4470904f776"
+    },
+    "INTEGRATION.json": {
+      "bytes": 919,
+      "sha256": "1686501670d19546ab36200859dc15d7d88d6be3f60ec8210f66a387047ae9d5"
+    },
+    "README.md": {
+      "bytes": 2952,
+      "sha256": "5e92bd8837c3275ef0e5b08b7b2f70d5a8f16d3ab97c5ae73e478b89e914336c"
+    },
+    "REGRESSION_QA.json": {
+      "bytes": 838542,
+      "sha256": "693bd57f852d213249679390e125e484771d7a9c5f2bd97fab5d117fb5b54bc3"
+    },
+    "SUMMARY.json": {
+      "bytes": 525,
+      "sha256": "5615ef9bd9b496044ae8c0259ae2884e1c74cf9e6cdbc7cff091cdd62240d071"
+    },
+    "UNTOUCHED_48.json": {
+      "bytes": 7838,
+      "sha256": "6f2aae7abb6cebf01d9cef250bd790f4b71a2d9385964598490184d103f003bf"
+    },
+    "VERTEX_DELTAS.json.gz": {
+      "bytes": 14889,
+      "sha256": "18d58e7a2214cc7cce47aac832ff9f05e2fa35db3054248f45df564b1cbe2221"
+    },
+    "geometry_database.json.gz": {
+      "bytes": 99789,
+      "sha256": "95d0348b3c4812141237a55e4ca7e4cdbdf38623e3f4d49edda2abb720303a77"
+    },
+    "objects_manifest.json": {
+      "bytes": 6205,
+      "sha256": "7398a561743f04438e76ca6c4f39fd431283d28dd045cde19a25ffe2b63bf22e"
+    },
+    "rebuild_clean.py": {
+      "bytes": 3099,
+      "sha256": "f0f4fea8af5cd50c472fa3ea90a9090ca800faff1fc3113bbb80e3d8b1aadcc1"
+    },
+    "seu_dorm_coplanar_regression_v16.blend": {
+      "bytes": 125106,
+      "sha256": "182e958d4a0a1387a73c419c8e54d3c27af47935d275997f74927087d550aaae"
+    },
+    "seu_dorm_coplanar_regression_v16.glb": {
+      "bytes": 130656,
+      "sha256": "6c532852a553777b948be2291ebadc811cf9777673b24b5f2bbb85d1bf1922be"
+    }
+  }
+}

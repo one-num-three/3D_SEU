@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "object_count": 6,
+  "source_outline_id_count": 6,
+  "units": "meters",
+  "blender_axes": "X east, Y north, Z up",
+  "gltf_axes": "standard glTF Y-up; exporter conversion retained",
+  "local_origin_utm_epsg32650": [
+    671709.6990725585,
+    3529586.400278158
+  ],
+  "elevation_datum": "unknown; heights estimated",
+  "objects": [
+    {
+      "name": "SEU_B_OSMWAY_1056927545__V05JY_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_1056927545",
+      "role": "window_mullions",
+      "assumption": "Group identity, six levels, recessed/piered facade and panelled shallow roof supported by official completed-project photograph, 2017. All detailed dimensions, panel/window counts, railing rhythm and metric heights estimated. Ground stilt zones not modeled because individual locations unconfirmed. v16: mullion ends extended 60 mm into existing frame bounds to remove glass cap coplanarity; joinery dimension is modeling estimate, not survey. Visible front face and width unchanged; rear embedded 30 mm toward backing frame for contact, not an air gap.",
+      "sourceclass": "official_photo_type_confirmed_individual_dimensions_estimated",
+      "geometry_fingerprint": "054d5de40b34f54f2716e38b51e395ddee013d1964098e55c04295e419817338",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927546__V05JY_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_1056927546",
+      "role": "window_mullions",
+      "assumption": "Group identity, six levels, recessed/piered facade and panelled shallow roof supported by official completed-project photograph, 2017. All detailed dimensions, panel/window counts, railing rhythm and metric heights estimated. Ground stilt zones not modeled because individual locations unconfirmed. v16: mullion ends extended 60 mm into existing frame bounds to remove glass cap coplanarity; joinery dimension is modeling estimate, not survey. Visible front face and width unchanged; rear embedded 30 mm toward backing frame for contact, not an air gap.",
+      "sourceclass": "official_photo_type_confirmed_individual_dimensions_estimated",
+      "geometry_fingerprint": "8dd70ebffff5c46f59e74d8fb166d0ae4426fa2391bdc1c70ced0c6949c0716a",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927547__V05JY_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_1056927547",
+      "role": "window_mullions",
+      "assumption": "Group identity, six levels, recessed/piered facade and panelled shallow roof supported by official completed-project photograph, 2017. All detailed dimensions, panel/window counts, railing rhythm and metric heights estimated. Ground stilt zones not modeled because individual locations unconfirmed. v16: mullion ends extended 60 mm into existing frame bounds to remove glass cap coplanarity; joinery dimension is modeling estimate, not survey. Visible front face and width unchanged; rear embedded 30 mm toward backing frame for contact, not an air gap.",
+      "sourceclass": "official_photo_type_confirmed_individual_dimensions_estimated",
+      "geometry_fingerprint": "a51457f29aeeebefa9e709a3488d77aeb41593777a77f36371cf33e3e9ebd212",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927548__V05JY_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_1056927548",
+      "role": "window_mullions",
+      "assumption": "Group identity, six levels, recessed/piered facade and panelled shallow roof supported by official completed-project photograph, 2017. All detailed dimensions, panel/window counts, railing rhythm and metric heights estimated. Ground stilt zones not modeled because individual locations unconfirmed. v16: mullion ends extended 60 mm into existing frame bounds to remove glass cap coplanarity; joinery dimension is modeling estimate, not survey. Visible front face and width unchanged; rear embedded 30 mm toward backing frame for contact, not an air gap.",
+      "sourceclass": "official_photo_type_confirmed_individual_dimensions_estimated",
+      "geometry_fingerprint": "1e1e95490192f7b968ea83f8191efd6874638a3a40e7c3541deabbacf0647647",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927549__V05JY_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_1056927549",
+      "role": "window_mullions",
+      "assumption": "Group identity, six levels, recessed/piered facade and panelled shallow roof supported by official completed-project photograph, 2017. All detailed dimensions, panel/window counts, railing rhythm and metric heights estimated. Ground stilt zones not modeled because individual locations unconfirmed. v16: mullion ends extended 60 mm into existing frame bounds to remove glass cap coplanarity; joinery dimension is modeling estimate, not survey. Visible front face and width unchanged; rear embedded 30 mm toward backing frame for contact, not an air gap.",
+      "sourceclass": "official_photo_type_confirmed_individual_dimensions_estimated",
+      "geometry_fingerprint": "ee7db3b44a93d99895371f4e8059f8058dba7396555efda7d55124bb3a3f313c",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    },
+    {
+      "name": "SEU_B_OSMWAY_1056927551__V05JY_window_mullions",
+      "stable_id": "SEU_B_OSMWAY_1056927551",
+      "role": "window_mullions",
+      "assumption": "Group identity, six levels, recessed/piered facade and panelled shallow roof supported by official completed-project photograph, 2017. All detailed dimensions, panel/window counts, railing rhythm and metric heights estimated. Ground stilt zones not modeled because individual locations unconfirmed. v16: mullion ends extended 60 mm into existing frame bounds to remove glass cap coplanarity; joinery dimension is modeling estimate, not survey. Visible front face and width unchanged; rear embedded 30 mm toward backing frame for contact, not an air gap.",
+      "sourceclass": "official_photo_type_confirmed_individual_dimensions_estimated",
+      "geometry_fingerprint": "3f4415f12362cf7278840e8e0dbad8586d7da018aad4f87ded4bdc6dcc68d003",
+      "vertex_count": 1520,
+      "polygon_count": 1140
+    }
+  ]
+}
